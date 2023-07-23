@@ -1,0 +1,73 @@
+内置模板的配置说明
+1.内置的资源id必须是负的，因为要不参与手动增加的id计算
+2.目录：如gothic、mars、orange放置的是预先生成好的模板文件和显示的缩图
+3.innerstyle.cfg文件说明：
+   1)."normal":指的是正常版本的内置模板、"mars"：指的是火星定制版，以此类推
+   2).
+      "style"://内置模板:配置预先生成好的模板文件和缩图的路径
+           [
+               {
+                  "imgPath": "aifilter/gothic/image.jpg",
+                  "stylePath": "aifilter/gothic/style",
+                  "id": -2,//将模板文件及缩图复制到这个目录下，值和id必须保持一致
+               },
+               {
+                  "imgPath": "aifilter/orange/image.jpg",
+                  "stylePath": "aifilter/orange/style",
+                  "id": -3,//将模板文件及缩图复制到这个目录下，值和id必须保持一致
+               }
+           ],
+      "config"://内置模板的配置文件版本及id：最终会以json形式写入到ai_filter_config.json中
+           [
+               {
+                  "id": -2,
+                  "componentVersion": 1,//该模板的版本号
+                  "name": "orange"//标题名、可空
+               },
+               {
+                  "id": "-3",
+                  "componentVersion": 1,
+                  "name": ""
+               }
+           ],
+    3).config的list要和style的list一一对应
+4.目前依赖id的逻辑有：长按管理的气泡显示位置、最多新增模板的限制、itemTitle的获取、删除模板后新增模板的title、删除模板时清空模板文件、缓存目录
+5.componentVersion 该模板的版本号，当新增内置模板时，，新增的内置模板版本号要新增,用以区分是新版本的内置模板还是旧版的内置模板，
+  在各自定制类中也要相应修改版本号
+    如：普通内置模板：将火星模板加入到普通内置模板中：
+    config":
+                   [
+                       {
+                          "id": -4,
+                          "componentVersion": 2,
+                          "name": "mars"
+                       },
+    AiFilterInnerStyle : IAiFilterInnerStyle {
+        companion object {
+            /**若有新增的内置模板，版本号要和内置模板的最新版本保持一致*/
+            private const val INNER_STYLE_NEW_VERSION = 2
+        }
+6.当有其它机型定制模板时，
+   1）扩展需要定制实现接口IAiFilterInnerStyle， 仿照AiFilterInnerStyle、MarsAiFilterInnerStyle来写，
+      以及在 AiFilterInnerStyleFactory 中增加定制类型type，创建该定制对象实例
+   2) 配置规则遵循步骤1、2、3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

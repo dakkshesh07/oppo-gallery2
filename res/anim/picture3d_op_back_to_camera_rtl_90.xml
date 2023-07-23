@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:shareInterpolator="false" android:zAdjustment="top"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <scale android:interpolator="@anim/picture3d_exit_to_camera_interpolator" android:duration="417" android:pivotX="91.5%" android:pivotY="13.999998%" android:fromXScale="100.0%" android:toXScale="12.199998%" android:fromYScale="100.0%" android:toYScale="12.199998%" />
+    <alpha android:interpolator="@anim/picture3d_exit_to_camera_interpolator" android:duration="300" android:startOffset="117" android:fromAlpha="1.0" android:toAlpha="0.0" />
+</set>

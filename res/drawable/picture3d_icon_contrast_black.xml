@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/picture3d_compare_button_icon_height" android:width="@dimen/picture3d_compare_button_icon_width" android:viewportWidth="18.0" android:viewportHeight="18.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/base_black" android:pathData="M9.75 15.75V2.25h-1.5v13.5h1.5zM4 3.75h2.75v1.5H4c-0.14 0-0.25 0.11-0.25 0.25v7c0 0.14 0.11 0.25 0.25 0.25h2.75v1.5H4c-0.97 0-1.75-0.78-1.75-1.75v-7c0-0.97 0.78-1.75 1.75-1.75zm10 9h-2.75v1.5H14c0.97 0 1.75-0.78 1.75-1.75v-7c0-0.97-0.78-1.75-1.75-1.75h-2.75v1.5H14c0.14 0 0.25 0.11 0.25 0.25v7c0 0.14-0.11 0.25-0.25 0.25z" android:fillType="evenOdd" />
+</vector>

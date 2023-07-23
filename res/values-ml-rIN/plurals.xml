@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d ഫോട്ടോകൾ ലോഡ് ചെയ്യുകയാണ്, ചേർക്കാനാകില്ല.</item>
+        <item quantity="one">%d ഫോട്ടോ ലോഡ് ചെയ്യുകയാണ്, ചേർക്കാനാകില്ല.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d ബാങ്ക് കാർഡുകൾ</item>
+        <item quantity="one">%1$d ബാങ്ക് കാർഡ്</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ID-കൾ</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">ശാശ്വതമായി %d ഇനങ്ങൾ ഇല്ലാതാക്കുക</item>
+        <item quantity="one">ശാശ്വതമായി %d ഇനം ഇല്ലാതാക്കുക</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d ഇനങ്ങൾ ഇല്ലാതാക്കുക</item>
+        <item quantity="one">%d ഇനം ഇല്ലാതാക്കുക</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d ‌ഫോട്ടോകൾ</item>
+        <item quantity="one">%1$d ഫോട്ടോ</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">ഫോട്ടോകൾ കണ്ടെത്തി: %s. സുഗമമായ ആക്‌സസിന് \"കാർഡ് കേസ്\" എന്നതിലേക്ക് നിങ്ങൾക്ക് അവ നീക്കാനാകും.</item>
+        <item quantity="one">ഫോട്ടോകൾ കണ്ടെത്തി: %s. സുഗമമായ ആക്‌സസിന് \"കാർഡ് കേസ്\" എന്നതിലേക്ക് നിങ്ങൾക്ക് അത് നീക്കാനാകും.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s-ന്റെ ഫോട്ടോകൾ \"കാർഡ് കേസ്\" എന്നതിലേക്ക് നീക്കി</item>
+        <item quantity="one">%1$s-ന്റെ ഫോട്ടോ \"കാർഡ് കേസ്\" എന്നതിലേക്ക് നീക്കി</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d ടിക്കറ്റുകൾ/രസീതുകൾ</item>
+        <item quantity="one">%1$d ടിക്കറ്റ്/രസീത്</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">തിരഞ്ഞെടുത്ത ഇനങ്ങൾ ആൽബത്തിൽ ഉള്ളതാണ്</item>
+        <item quantity="one">തിരഞ്ഞെടുത്ത ഇനം ആൽബത്തിൽ ഉള്ളതാണ്</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d ഇനങ്ങൾ</item>
+        <item quantity="one">%d ഇനം</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d ഫോട്ടോകൾ ലോഡ് ചെയ്യുന്നു, നീക്കാൻ കഴിയില്ല</item>
+        <item quantity="one">%d ഫോട്ടോ ലോഡ് ചെയ്യുന്നു, നീക്കാൻ കഴിയില്ല</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d ആളുകൾ</item>
+        <item quantity="one">%1$d ആളുകൾ</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">ഫോട്ടോകൾ നീക്കി. ഈ ആൽബത്തിലേക്ക് വീഡിയോകൾ നീക്കാൻ കഴിയില്ല.</item>
+        <item quantity="one">ഫോട്ടോ നീക്കി. ഈ ആൽബത്തിലേക്ക് വീഡിയോകൾ നീക്കാൻ കഴിയില്ല.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d ഇനങ്ങൾ റീസ്റ്റോർ ചെയ്യുക</item>
+        <item quantity="one">%d ഇനം റീസ്റ്റോർ ചെയ്യുക</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ഫോട്ടോകൾ</item>
+        <item quantity="one">%1$d ഫോട്ടോ</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d വീഡിയോകൾ</item>
+        <item quantity="one">%1$d വീഡിയോ</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d ആൽബം തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d ആൽബം തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d പേരെ തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d പേരെ തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d മെമ്മറികൾ തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d മെമ്മറി തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d ‌വീഡിയോ തിര.</item>
+        <item quantity="one">%1$d വീഡിയോ തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d വീഡിയോകൾ</item>
+        <item quantity="one">%1$d വീഡിയോ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്‌തില്ല. നിങ്ങളുടെ ഫോൺ ചാർജ് ചെയ്യുക.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം ഡൗൺലോഡ് ചെയ്‌തില്ല. നിങ്ങളുടെ ഫോൺ ചാർജ് ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്തില്ല. നിങ്ങളുടെ ഉപകരണം ചാർജ് ചെയ്യുക.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം ഡൗൺലോഡ് ചെയ്തില്ല. നിങ്ങളുടെ ഉപകരണം ചാർജ് ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്തില്ല.</item>
+        <item quantity="one">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനം ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്തില്ല.</item>
+        <item quantity="one">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനം ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്തില്ല. %2$s.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനം ഡൗൺലോഡ് ചെയ്‌തില്ല.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്‌തില്ല. %2$s അല്ലെങ്കിൽ %3$s.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഡൗൺലോഡ് ചെയ്‌തില്ല. %2$s അല്ലെങ്കിൽ %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ ഡൗൺ‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനം ഡൗൺ‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ ഡൗൺ‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനം ഡൗൺ‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">ക്ലൗഡ് സംഭരണം അപര്യാപ്‌തമാണ്. %1$d ഇനം ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">ക്ലൗഡ് സംഭരണം അപര്യാപ്‌തമാണ്. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">ഉപകരണ സ്റ്റോറേജ് അപര്യാപ്‌തമാണ്. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്‌തിട്ടില്ല.</item>
+        <item quantity="one">ഉപകരണ സ്റ്റോറേജ് അപര്യാപ്‌തമാണ്. %1$d ഇനം ഡൗൺലോഡ് ചെയ്‌തിട്ടില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനം ഡൗൺലോഡ് ചെയ്തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനങ്ങൾ ഡൗൺലോഡ് ചെയ്തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനം ഡൗൺലോഡ് ചെയ്തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">ക്ലൗഡ് സംഭരണം അപര്യാപ്‌തമാണ്. %1$d ഒറിജിനൽ ഫോട്ടോകൾ ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">ക്ലൗഡ് സംഭരണം അപര്യാപ്‌തമാണ്. %1$d ഒറിജിനൽ ഫോട്ടോ ഡൗൺലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d ഫോട്ടോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല. ക്ലൗഡ് സ്‌റ്റോറേജ് നിറഞ്ഞിരിക്കുന്നു.</item>
+        <item quantity="one">%1$d ഫോട്ടോ സമന്വയിപ്പിച്ചിട്ടില്ല. ക്ലൗഡ് സ്‌റ്റോറേജ് നിറഞ്ഞിരിക്കുന്നു.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d ഫോട്ടോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല. %2$s എന്നതിലും കുറവാണ് ബാറ്ററി എന്നതിനാൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+        <item quantity="one">%1$d ഫോട്ടോ സമന്വയിപ്പിച്ചിട്ടില്ല. %2$s എന്നതിലും കുറവാണ് ബാറ്ററി എന്നതിനാൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d ഫോട്ടോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല. പവർ ലാഭിക്കൽ മോഡിൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+        <item quantity="one">%1$d ഫോട്ടോ സമന്വയിപ്പിച്ചിട്ടില്ല. പവർ ലാഭിക്കൽ മോഡിൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">ക്ലൗഡ് സംഭരണം നിറഞ്ഞിരിക്കുന്നു. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്തില്ല.</item>
+        <item quantity="one">ക്ലൗഡ് സംഭരണം നിറഞ്ഞിരിക്കുന്നു. %1$d ഇനം അപ്‌ലോഡ് ചെയ്തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല. നിങ്ങളുടെ ഫോൺ ചാർജ് ചെയ്യുക.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല. നിങ്ങളുടെ ഫോൺ ചാർജ് ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്തില്ല. നിങ്ങളുടെ ഉപകരണം ചാർജ് ചെയ്യുക.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം അപ്‌ലോഡ് ചെയ്തില്ല. നിങ്ങളുടെ ഉപകരണം ചാർജ് ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">ബാറ്ററി %1$s എന്നതിലും കുറവാണ്. %2$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്തില്ല.</item>
+        <item quantity="one">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">പവർ സേവിംഗ് മോഡ് ഓണാണ്. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">ക്ലൗഡ് സംഭരണം നിറഞ്ഞിരിക്കുന്നു. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്തില്ല.</item>
+        <item quantity="one">ക്ലൗഡ് സംഭരണം നിറഞ്ഞിരിക്കുന്നു. %1$d ഇനം അപ്‌ലോഡ് ചെയ്തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d വീഡിയോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല. ക്ലൗഡ് സ്‌റ്റോറേജ് നിറഞ്ഞിരിക്കുന്നു.</item>
+        <item quantity="one">%1$d വീഡിയോ സമന്വയിപ്പിച്ചിട്ടില്ല. ക്ലൗഡ് സ്‌റ്റോറേജ് നിറഞ്ഞിരിക്കുന്നു.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d വീഡിയോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല. %2$s എന്നതിലും കുറവാണ് ബാറ്ററി എന്നതിനാൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+        <item quantity="one">%1$d വീഡിയോ സമന്വയിപ്പിച്ചിട്ടില്ല. %2$s എന്നതിലും കുറവാണ് ബാറ്ററി എന്നതിനാൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d വീഡിയോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല. പവർ ലാഭിക്കൽ മോഡിൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+        <item quantity="one">%1$d വീഡിയോ സമന്വയിപ്പിച്ചിട്ടില്ല. പവർ ലാഭിക്കൽ മോഡിൽ ക്ലൗഡ് സമന്വയം താൽക്കാലികമായി നിർത്തി.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d ഫോട്ടോ സമന്വയിപ്പിച്ചിട്ടില്ല.</item>
+        <item quantity="one">%1$d ഫോട്ടോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്തില്ല. %2$s.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്തില്ല. %2$s അല്ലെങ്കിൽ %3$s.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല. %2$s അല്ലെങ്കിൽ %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് കണക്ഷനില്ല. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d വീഡിയോകൾ സമന്വയിപ്പിച്ചിട്ടില്ല</item>
+        <item quantity="one">%1$d വീഡിയോ സമന്വയിപ്പിച്ചിട്ടില്ല</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">നെറ്റ്‌വർക്ക് പിശക്. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">സേവന പിശക്. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">സേവന പിശക്. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">സേവന പിശക്. %1$d ഇനങ്ങൾ അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+        <item quantity="one">സേവന പിശക്. %1$d ഇനം അപ്‌ലോഡ് ചെയ്‌തില്ല.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d ഇനങ്ങൾ ചേർക്കുന്നത് പരാജയപ്പെട്ടു</item>
+        <item quantity="one">%d ഇനം ചേർക്കുന്നത് പരാജയപ്പെട്ടു</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d ഫോട്ടോകൾ ലോഡ് ചെയ്യുകയാണ്, സ്വകാര്യമായി ക്രമീകരിക്കാനാകില്ല.</item>
+        <item quantity="one">%d ഫോട്ടോ ലോഡ് ചെയ്യുകയാണ്, സ്വകാര്യമായി ക്രമീകരിക്കാനാകില്ല.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d മണിക്കൂര്‍</item>
+        <item quantity="one">%d മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d ഇനങ്ങൾ</item>
+        <item quantity="one">%d ഇനം</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">%d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d സെക്കൻഡ്</item>
+        <item quantity="one">%d സെക്കൻഡ്</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d ദിവസം</item>
+        <item quantity="one">%1$d ദിവസം</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ഫോട്ടോകൾ</item>
+        <item quantity="one">%1$d ഫോട്ടോ</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d വീഡിയോകൾ</item>
+        <item quantity="one">%1$d വീഡിയോ</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d ഫോട്ടോകൾ ലോഡുചെയ്യുന്നു</item>
+        <item quantity="one">%d ഫോട്ടോ ലോഡുചെയ്യുന്നു</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d മില്ലീമീറ്ററിനേക്കാൾ വലുതായിരിക്കണം</item>
+        <item quantity="one">%1$d മില്ലീമീറ്ററിനേക്കാൾ വലുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d പിക്‌സലിനേക്കാൾ വലുതായിരിക്കണം</item>
+        <item quantity="one">%1$d പിക്‌സലിനേക്കാൾ വലുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d മില്ലീമീറ്ററിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+        <item quantity="one">%1$d മില്ലീമീറ്ററിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d പിക്‌സലിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+        <item quantity="one">%1$d പിക്‌സലിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB-യേക്കാൾ വലുതായിരിക്കണം</item>
+        <item quantity="one">%1$d KB-യേക്കാൾ വലുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB-യേക്കാൾ ചെറുതായിരിക്കണം</item>
+        <item quantity="one">%1$d KB-യേക്കാൾ ചെറുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d മില്ലീമീറ്ററിനേക്കാൾ വലുതായിരിക്കണം</item>
+        <item quantity="one">%1$d മില്ലീമീറ്ററിനേക്കാൾ വലുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d പിക്‌സലിനേക്കാൾ വലുതായിരിക്കണം</item>
+        <item quantity="one">%1$d പിക്‌സലിനേക്കാൾ വലുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d മില്ലീമീറ്ററിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+        <item quantity="one">%1$d മില്ലീമീറ്ററിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d പിക്‌സലിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+        <item quantity="one">%1$d പിക്‌സലിനേക്കാൾ ചെറുതായിരിക്കണം</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">തിരഞ്ഞെടുത്ത %d ഫോട്ടോ മാത്രം സൂക്ഷിക്കുക</item>
+        <item quantity="one">തിരഞ്ഞെടുത്ത %d ഫോട്ടോ മാത്രം സൂക്ഷിക്കുക</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d ഇനങ്ങൾ ഇല്ലാതാക്കുക</item>
+        <item quantity="one">%d ഇനം ഇല്ലാതാക്കുക</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d ആൽബം തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d ആൽബം തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d സ്റ്റിക്കർ തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d സ്റ്റിക്കർ തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d ‌വീഡിയോ തിര.</item>
+        <item quantity="one">%1$d വീഡിയോ തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d ഫോട്ടോകൾ ലോഡ് ചെയ്യുകയാണ്, ഇല്ലാതാക്കാനാകില്ല.</item>
+        <item quantity="one">%d ഫോട്ടോ ലോഡ് ചെയ്യുകയാണ്, ഇല്ലാതാക്കാനാകില്ല.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d ഇനങ്ങൾ ഇല്ലാതാക്കുന്നതിൽ പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിക്കുക</item>
+        <item quantity="one">%1$d ഇനം ഇല്ലാതാക്കുന്നതിൽ പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിക്കുക</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d പുതിയ അറിയിപ്പുകൾ</item>
+        <item quantity="one">%d പുതിയ അറിയിപ്പ്</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d ഫോട്ടോകൾ</item>
+        <item quantity="one">%1$d ഫോട്ടോ</item>
+    </plurals>
+</resources>

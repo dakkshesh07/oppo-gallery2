@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filter-conf>
+    <!--1、该名单只上OS8的APK，OS7的APK读取的还是旧的safa_default_list名单-->
+    <!--2、对于OS8APK，当需求变更修改名单顺序，需要通过RUS推送sys_resolver_apptop_list名单到Q或者R系统-->
+    <!--3、Q和R上面的名单内容可共用-->
+    <version>20200603</version>
+    <isOpen>1</isOpen>
+    <filter-name>sys_resolver_apptop_list</filter-name>
+    <!-- desktop,message,dialer,contacts,browser,camera,gallery,music,email,video,txt,pdf,doc,xls,ppt -->
+    <default type="desktop">
+    </default>
+    <default type="message">
+    </default>
+    <default type="dialer">
+    </default>
+    <default type="contacts">
+    </default>
+    <default type="browser">
+    </default>
+    <default type="camera">
+    </default>
+    <default type="gallery">
+        <choose>com.google.android.gms/.nearby.sharing.ShareSheetActivity</choose>
+        <choose>com.facebook/.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias</choose>
+        <choose>com.facebook/.composer.shareintent.ImplicitShareIntentHandlerAlphabeticalAlias</choose>
+        <choose>com.facebook.lite/.MainActivity</choose>
+        <choose>com.facebook.lite/.composer.activities.ShareIntentDefaultAlias</choose>
+        <choose>com.whatsapp/.ContactPicker</choose>
+        <choose>com.facebook.messenger/.intents.ShareIntentHandler</choose>
+        <choose>com.heytap.synergy/.ui.activity.SendFileActivity</choose>
+        <choose>com.oplus.synergy/.ui.activity.SendFileActivity</choose>
+        <choose>jp.naver.line.android/.activity.selectchat.SelectChatActivity</choose>
+        <choose>com.zing.zalo/.ui.TempShareViaActivity</choose>
+        <choose>com.bbm/.ui.activities.ShareActivity</choose>
+        <choose>com.bbm/.ui.share.SingleEntryShareActivity</choose>
+        <choose>com.viber.voip/.WelcomeShareActivity</choose>
+        <choose>com.bsb.hike/.ui.ComposeChatActivity</choose>
+        <choose>com.imo.android.imoim/.activities.SharingActivity</choose>
+        <choose>com.twitter.android/.composer.ComposerActivity</choose>
+        <choose>com.twitter.android/.composer.ComposerShareActivity</choose>
+        <choose>com.twitter/.composer.ComposerShareActivity</choose>
+        <choose>com.twitter/.app.dm.DMActivity</choose>
+        <choose>com.snapchat.android/.LandingPageActivity</choose>
+        <choose>com.path/.activities.EntryPointActivity</choose>
+        <choose>com.tencent.mm/.ui.tools.ShareImgUI</choose>
+        <choose>com.tencent.mm/.ui.tools.ShareToTimeLineUI</choose>
+        <choose>com.kingsoft.email/.activity.ComposeActivityEmail</choose>
+        <choose>com.google.android.gm/.ComposeActivityGmail</choose>
+        <choose>com.google.android.gm/.ComposeActivityGmailExternal</choose>
+        <choose>com.sina.weibo/.composerinde.ComposerDispatchActivity</choose>
+        <choose>com.tencent.mobileqq/.activity.JumpActivity</choose>
+        <choose>com.qzonex/.module.operation.ui.QZonePublishMoodActivity</choose>
+        <choose>com.android.mms/.ui.ComposeMessageActivity</choose>
+        <choose>com.oppo.im/.ui.activity.MsgTranspondActivty</choose>
+    </default>
+    <default type="music">
+    </default>
+    <default type="email">
+    </default>
+    <default type="video">
+    </default>
+    <default type="txt">
+    </default>
+    <default type="pdf">
+    </default>
+    <default type="doc">
+    </default>
+    <default type="xls">
+    </default>
+    <default type="ppt">
+    </default>
+
+</filter-conf>

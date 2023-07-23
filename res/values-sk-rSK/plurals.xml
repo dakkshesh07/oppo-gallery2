@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d fotog. sa nepodarilo pridať, pretože sa načítavajú.</item>
+        <item quantity="one">%d fotog. sa nepodarilo pridať, pretože sa načítava.</item>
+        <item quantity="few">Počet načítavaných fotografií, ktoré nemožno pridať: %d.</item>
+        <item quantity="many">Počet načítavaných fotografií, ktoré nemožno pridať: %d.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d platobných kariet</item>
+        <item quantity="one">%1$d platobná karta</item>
+        <item quantity="few">%1$d platobné karty</item>
+        <item quantity="many">%1$d platobných kariet</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d dokladov totožnosti</item>
+        <item quantity="one">%1$d doklad totožnosti</item>
+        <item quantity="few">%1$d doklady totožnosti</item>
+        <item quantity="many">%1$d dokladov totožnosti</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Natrvalo odstrániť %d polož.</item>
+        <item quantity="one">Natrvalo odstrániť %d polož.</item>
+        <item quantity="few">Natrvalo odstrániť %d položky</item>
+        <item quantity="many">Natrvalo odstrániť %d položiek</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Odstrániť %d polož.</item>
+        <item quantity="one">Odstrániť %d polož.</item>
+        <item quantity="few">Odstrániť %d polož.</item>
+        <item quantity="many">Odstrániť %d polož.</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d fotog.</item>
+        <item quantity="one">%1$d fotog.</item>
+        <item quantity="few">%1$d fotografie</item>
+        <item quantity="many">%1$d fotografií</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Nájdené fotografie: %s. Môžete ich presunúť do puzdra kariet pre jednoduchší prístup.</item>
+        <item quantity="one">Nájdené fotografie: %s. Môžete ju presunúť do puzdra kariet pre jednoduchší prístup.</item>
+        <item quantity="few">Nájdené fotografie: %s. Môžete ich presunúť do puzdra kariet pre jednoduchší prístup.</item>
+        <item quantity="many">Nájdené fotografie: %s. Môžete ich presunúť do puzdra kariet pre jednoduchší prístup.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Fotografie položiek (%1$s) boli presunuté do Puzdra kariet</item>
+        <item quantity="one">Fotografia položky (%1$s) bola presunuté do Puzdra kariet</item>
+        <item quantity="few">Fotografie položiek (%1$s) boli presunuté do Puzdra kariet</item>
+        <item quantity="many">Fotografie položiek (%1$s) boli presunuté do Puzdra kariet</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d lístkov/účteniek</item>
+        <item quantity="one">%1$d lístok/účtenka</item>
+        <item quantity="few">%1$d lístky/účtenky</item>
+        <item quantity="many">%1$d lístkov/účteniek</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Vybrané položky sú už v albume</item>
+        <item quantity="one">Vybraná položka je už v albume</item>
+        <item quantity="few">Vybrané položky sú už v albume</item>
+        <item quantity="many">Vybrané položky sú už v albume</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d polož.</item>
+        <item quantity="one">%d polož.</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d položiek</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">Počet načítavaných fotografií, ktoré nemožno presunúť: %d</item>
+        <item quantity="one">Počet načítavaných fotografií, ktoré nemožno presunúť: %d</item>
+        <item quantity="few">Počet načítavaných fotografií, ktoré nemožno presunúť: %d</item>
+        <item quantity="many">Počet načítavaných fotografií, ktoré nemožno presunúť: %d</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d ľudia/-í</item>
+        <item quantity="one">%1$d ľudia/-í</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Fotografie boli presunuté. Videá nemožno presunúť do tohto albumu.</item>
+        <item quantity="one">Fotografia bola presunutá. Videá nemožno presunúť do tohto albumu.</item>
+        <item quantity="few">Fotografie boli presunuté. Videá nemožno presunúť do tohto albumu.</item>
+        <item quantity="many">Fotografie boli presunuté. Videá nemožno presunúť do tohto albumu.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Obnoviť %d polož.</item>
+        <item quantity="one">Obnoviť %d polož.</item>
+        <item quantity="few">Obnoviť %d polož.</item>
+        <item quantity="many">Obnoviť %d polož.</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotog.</item>
+        <item quantity="one">%1$d fotog.</item>
+        <item quantity="few">%1$d fotografie</item>
+        <item quantity="many">%1$d fotografií</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videá/-í</item>
+        <item quantity="one">%1$d video</item>
+        <item quantity="few">%1$d videá</item>
+        <item quantity="many">%1$d videí</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">Vybraté položky: %1$d</item>
+        <item quantity="one">Vybraté položky: %1$d</item>
+        <item quantity="few">Vybraté položky: %1$d</item>
+        <item quantity="many">Vybraté položky: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d albumy/-ov vybr.</item>
+        <item quantity="one">%1$d album vybratý</item>
+        <item quantity="few">Vybraté albumy: %1$d</item>
+        <item quantity="many">Vybraté albumy: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d ľudia/-í vybr.</item>
+        <item quantity="one">%1$d ľudia/-í vybr.</item>
+        <item quantity="few">Vybratí ľudia: %1$d</item>
+        <item quantity="many">Vybratí ľudia: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d vybr.</item>
+        <item quantity="one">%1$d vybr.</item>
+        <item quantity="few">%1$d vybr.</item>
+        <item quantity="many">%1$d vybr.</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Vybrané spomienky: %1$d</item>
+        <item quantity="one">Vybrané spomienky: %1$d</item>
+        <item quantity="few">Vybraté spomienky: %1$d</item>
+        <item quantity="many">Vybraté spomienky: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d vybr., videá/-í</item>
+        <item quantity="one">%1$d vybr. video</item>
+        <item quantity="few">%1$d vybraté videá</item>
+        <item quantity="many">%1$d vybratých videí</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d videá/-í</item>
+        <item quantity="one">%1$d video</item>
+        <item quantity="few">%1$d videá</item>
+        <item quantity="many">%1$d videí</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite telefón.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite telefón.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite telefón.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite telefón.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite zariadenie.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite zariadenie.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite telefón.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d. Nabite telefón.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Nestiahnuté položky: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Režim úspory energie je zapnutý. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s alebo %3$s.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s alebo %3$s.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s alebo %3$s.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d. %2$s alebo %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Nedostatočný priestor cloudového úložiska. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Nedostatočný priestor cloudového úložiska. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Nedostatočný priestor cloudového úložiska. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Nedostatočný priestor cloudového úložiska. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Nedostatočný priestor úložiska v zariadení. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Nedostatočný priestor úložiska v zariadení. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Nedostatočný priestor úložiska v telefóne. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Nedostatočný priestor úložiska v telefóne. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Chyba siete. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Chyba siete. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Chyba siete. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Chyba siete. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Chyba siete. Nestiahnuté položky: %1$d.</item>
+        <item quantity="one">Chyba siete. Nestiahnuté položky: %1$d.</item>
+        <item quantity="few">Chyba siete. Nestiahnuté položky: %1$d.</item>
+        <item quantity="many">Chyba siete. Nestiahnuté položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Nedostatočný priestor cloudového úložiska. Nestiahnuté pôvodné fotografie: %1$d.</item>
+        <item quantity="one">Nedostatočný priestor cloudového úložiska. Nestiahnuté pôvodné fotografie: %1$d.</item>
+        <item quantity="few">Nedostatočný priestor cloudového úložiska. Nestiahnuté pôvodné fotografie: %1$d.</item>
+        <item quantity="many">Nedostatočný priestor cloudového úložiska. Nestiahnuté pôvodné fotografie: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">Nesynchronizované fotografie: %1$d. Cloudové úložisko je plné.</item>
+        <item quantity="one">Nesynchronizované fotografie: %1$d. Cloudové úložisko je plné.</item>
+        <item quantity="few">Nesynchronizované fotografie: %1$d. Cloudové úložisko je plné.</item>
+        <item quantity="many">Nesynchronizované fotografie: %1$d. Cloudové úložisko je plné.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">Nesynchronizované fotografie: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+        <item quantity="one">Nesynchronizované fotografie: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+        <item quantity="few">Nesynchronizované fotografie: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+        <item quantity="many">Nesynchronizované fotografie: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">Nesynchronizované fotografie: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+        <item quantity="one">Nesynchronizované fotografie: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+        <item quantity="few">Nesynchronizované fotografie: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+        <item quantity="many">Nesynchronizované fotografie: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite telefón.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite telefón.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite telefón.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite telefón.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite zariadenie.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite zariadenie.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite telefón.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d. Nabite telefón.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+        <item quantity="one">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+        <item quantity="few">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+        <item quantity="many">Úroveň batérie je nižšia ako %1$s. Neodoslané položky: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Režim úspory energie je zapnutý. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Cloudové úložisko je plné. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">Nesynchronizované videá: %1$d. Cloudové úložisko je plné.</item>
+        <item quantity="one">Nesynchronizované videá: %1$d. Cloudové úložisko je plné.</item>
+        <item quantity="few">Nesynchronizované videá: %1$d. Cloudové úložisko je plné.</item>
+        <item quantity="many">Nesynchronizované videá: %1$d. Cloudové úložisko je plné.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">Nesynchronizované videá: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+        <item quantity="one">Nesynchronizované videá: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+        <item quantity="few">Nesynchronizované videá: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+        <item quantity="many">Nesynchronizované videá: %1$d. Cloudová synchronizácia je pozastavená, ak je úroveň nabitia batérie nižšia ako %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">Nesynchronizované videá: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+        <item quantity="one">Nesynchronizované videá: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+        <item quantity="few">Nesynchronizované videá: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+        <item quantity="many">Nesynchronizované videá: %1$d. V režime šetrenia energie je cloudová synchronizácia pozastavená.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">Nesynchronizované fotografie: %1$d.</item>
+        <item quantity="one">Nesynchronizované fotografie: %1$d.</item>
+        <item quantity="few">Nesynchronizované fotografie: %1$d.</item>
+        <item quantity="many">Nesynchronizované fotografie: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Chýba pripojenie k sieti. Neodoslané položky: %1$d. %2$s.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Neodoslané položky: %1$d.%2$s.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Neodoslané položky: %1$d. %2$s.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Neodoslané položky: %1$d. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Chýba pripojenie k sieti. Neodoslané položky: %1$d. %2$s alebo %3$s.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Neodoslané položky: %1$d. %2$s alebo %3$s.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Neodoslané položky: %1$d. %2$s alebo %3$s.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Neodoslané položky: %1$d. %2$s alebo %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Chýba pripojenie k sieti. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">Nesynchronizované videá: %1$d</item>
+        <item quantity="one">Nesynchronizované videá: %1$d</item>
+        <item quantity="few">Nesynchronizované videá: %1$d.</item>
+        <item quantity="many">Nesynchronizované videá: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Chyba siete. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Chyba siete. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Chyba siete. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Chyba siete. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Chyba siete. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Chyba siete. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Chyba siete. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Chyba siete. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Chyba služby. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Chyba služby. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Chyba služby. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Chyba služby. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Chyba služby. Neodoslané položky: %1$d.</item>
+        <item quantity="one">Chyba služby. Neodoslané položky: %1$d.</item>
+        <item quantity="few">Chyba služby. Neodoslané položky: %1$d.</item>
+        <item quantity="many">Chyba služby. Neodoslané položky: %1$d.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Nepodarilo sa pridať %d polož.</item>
+        <item quantity="one">Nepodarilo sa pridať %d polož.</item>
+        <item quantity="few">Nepodarilo sa pridať %d položky</item>
+        <item quantity="many">Nepodarilo sa pridať %d položiek</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d fotog. sa nepodarilo nastaviť ako súkr., pretože sa načítavajú.</item>
+        <item quantity="one">%d fotog. sa nepodarilo nastaviť ako súkr., pretože sa načítava.</item>
+        <item quantity="few">Počet načítavaných fotografií, ktoré nemožno nastaviť ako súkromné: %d.</item>
+        <item quantity="many">Počet načítavaných fotografií, ktoré nemožno nastaviť ako súkromné: %d.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d polož.</item>
+        <item quantity="one">%d polož.</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d položiek</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d d</item>
+        <item quantity="one">%1$d d</item>
+        <item quantity="few">%1$d d</item>
+        <item quantity="many">%1$d d</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotog.</item>
+        <item quantity="one">%1$d fotog.</item>
+        <item quantity="few">%1$d fotografie</item>
+        <item quantity="many">%1$d fotografií</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videá/-í</item>
+        <item quantity="one">%1$d video</item>
+        <item quantity="few">%1$d videá</item>
+        <item quantity="many">%1$d videí</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">Načítava/-jú sa %d fotog.</item>
+        <item quantity="one">Načítava sa %d fotog.</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Musí byť väčšia ako %1$d mm</item>
+        <item quantity="one">Musí byť väčšia ako %1$d mm</item>
+        <item quantity="few">Musí byť väčšie ako %1$d mm</item>
+        <item quantity="many">Musí byť väčšie ako %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Musí byť väčšia ako %1$d px</item>
+        <item quantity="one">Musí byť väčšia ako %1$d px</item>
+        <item quantity="few">Musí byť väčšie ako %1$d px</item>
+        <item quantity="many">Musí byť väčšie ako %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Musí byť menšia ako %1$d mm</item>
+        <item quantity="one">Musí byť menšia ako %1$d mm</item>
+        <item quantity="few">Musí byť menšie ako %1$d mm</item>
+        <item quantity="many">Musí byť menšie ako %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Musí byť menšia ako %1$d px</item>
+        <item quantity="one">Musí byť menšia ako %1$d px</item>
+        <item quantity="few">Musí byť menšie ako %1$d px</item>
+        <item quantity="many">Musí byť menšie ako %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Musí byť väčšia ako %1$d KB</item>
+        <item quantity="one">Musí byť väčšia ako %1$d KB</item>
+        <item quantity="few">Musí byť väčšie ako %1$d KB</item>
+        <item quantity="many">Musí byť väčšie ako %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Musí byť menšia ako %1$d KB</item>
+        <item quantity="one">Musí byť menšia ako %1$d KB</item>
+        <item quantity="few">Musí byť menšie ako %1$d KB</item>
+        <item quantity="many">Musí byť menšie ako %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Musí byť väčšia ako %1$d mm</item>
+        <item quantity="one">Musí byť väčšia ako %1$d mm</item>
+        <item quantity="few">Musí byť väčšie ako %1$d mm</item>
+        <item quantity="many">Musí byť väčšie ako %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Musí byť väčšia ako %1$d px</item>
+        <item quantity="one">Musí byť väčšia ako %1$d px</item>
+        <item quantity="few">Musí byť väčšie ako %1$d px</item>
+        <item quantity="many">Musí byť väčšie ako %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Musí byť menšia ako %1$d mm</item>
+        <item quantity="one">Musí byť menšia ako %1$d mm</item>
+        <item quantity="few">Musí byť menšie ako %1$d mm</item>
+        <item quantity="many">Musí byť menšie ako %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Musí byť menšia ako %1$d px</item>
+        <item quantity="one">Musí byť menšia ako %1$d px</item>
+        <item quantity="few">Musí byť menšie ako %1$d px</item>
+        <item quantity="many">Musí byť menšie ako %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Ponechať len %d vybr. fotog.</item>
+        <item quantity="one">Ponechať len %d vybratú fotografiu</item>
+        <item quantity="few">Ponechať len %d vybraté fotografie</item>
+        <item quantity="many">Ponechať len %d vybratých fotografií</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Odstrániť %d položky/-iek</item>
+        <item quantity="one">Odstrániť %d položku</item>
+        <item quantity="few">Odstrániť %d položky</item>
+        <item quantity="many">Odstrániť %d položiek</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d vybr.</item>
+        <item quantity="one">%1$d polož. vybr.</item>
+        <item quantity="few">%1$d vybr.</item>
+        <item quantity="many">%1$d vybr.</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d albumy/-ov vybr.</item>
+        <item quantity="one">%1$d album vybratý</item>
+        <item quantity="few">Vybraté albumy: %1$d</item>
+        <item quantity="many">Vybraté albumy: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d vybr.</item>
+        <item quantity="one">%1$d vybr.</item>
+        <item quantity="few">%1$d vybr.</item>
+        <item quantity="many">%1$d vybr.</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d vybr. nálep.</item>
+        <item quantity="one">%1$d vybr. nálepka</item>
+        <item quantity="few">%1$d vybraté nálepky</item>
+        <item quantity="many">%1$d vybratých nálepiek</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d vybr., videá/-í</item>
+        <item quantity="one">%1$d vybr. video</item>
+        <item quantity="few">%1$d vybraté videá</item>
+        <item quantity="many">%1$d vybratých videí</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d fotog. sa nepodarilo odstrániť, pretože sa načítavajú.</item>
+        <item quantity="one">%d fotog. sa nepodarilo odstrániť, pretože sa načítava.</item>
+        <item quantity="few">Počet načítavaných fotografií, ktoré nemožno odstrániť: %d.</item>
+        <item quantity="many">Počet načítavaných fotografií, ktoré nemožno odstrániť: %d.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Nepodarilo sa odstrániť %1$d polož. Skúste to znova</item>
+        <item quantity="one">Nepodarilo sa odstrániť %1$d polož. Skúste to znova</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d nové oznámenia/-í</item>
+        <item quantity="one">%d nové oznámenie</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d fotog.</item>
+        <item quantity="one">%1$d fotog.</item>
+        <item quantity="few">%1$d fotografie</item>
+        <item quantity="many">%1$d fotografií</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:id="@id/video_capture_frame_window_layout" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.gallery.picture_lib.picture.ui.VideoCaptureFrameGuideWindow android:id="@id/video_capture_frame_thumbnail_window" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/thumbnail_picture" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+            <ImageView android:id="@id/captured_frame_thumbnail" android:background="@drawable/picture3d_cover_video_y" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+    </com.oplus.gallery.picture_lib.picture.ui.VideoCaptureFrameGuideWindow>
+</RelativeLayout>

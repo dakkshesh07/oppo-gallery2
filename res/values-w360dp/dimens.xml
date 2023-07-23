@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_album_list_max_item_width">119.0dip</dimen>
+    <dimen name="base_album_list_min_item_width">89.0dip</dimen>
+    <dimen name="base_album_set_list_min_item_width">97.0dip</dimen>
+</resources>

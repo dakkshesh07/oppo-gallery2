@@ -1,0 +1,183 @@
+kužek	-1	-1	-1	3,3	0	-1
+hišni pes	-1	-1	-1	3	0	-1
+mijav	-1	-1	-1	4	0	-1
+mucka	-1	-1	-1	4,4	0	-1
+hišna mačka	-1	-1	-1	4	0	-1
+Vegetacija	-1	-1	-1	5	0	-1
+zelenje	-1	-1	-1	5,10	0	-1
+dišava	-1	-1	-1	6	0	-1
+cvetlična greda	-1	-1	-1	6	0	-1
+sveže cvetje	-1	-1	-1	6	0	-1
+rože	-1	-1	-1	6,6	0	-1
+šopek	-1	-1	-1	6	0	-1
+Slama	-1	-1	-1	7	0	-1
+zelena trava	-1	-1	-1	7,7	0	-1
+trata	-1	-1	-1	7	0	-1
+zelen travnik	-1	-1	-1	7	0	-1
+bilka	-1	-1	-1	7	0	-1
+Les	-1	-1	-1	8	0	-1
+les	-1	-1	-1	8	0	-1
+velika drevesa	-1	-1	-1	8	0	-1
+gozd	-1	-1	-1	8	0	-1
+slikovito	-1	-1	-1	9	0	-1
+scena	-1	-1	-1	9,9	0	-1
+pogled	-1	-1	-1	9,9	0	-1
+znamenitosti	-1	-1	-1	9	0	-1
+Greben	-1	-1	-1	10	0	-1
+pogorje	-1	-1	-1	10	0	-1
+vrh	-1	-1	-1	10	0	-1
+greben	-1	-1	-1	10,10	0	-1
+gore	-1	-1	-1	10	0	-1
+oddaljena gora	-1	-1	-1	10	0	-1
+hrib	-1	-1	-1	10,10	0	-1
+visoka gora	-1	-1	-1	10,10,10	0	-1
+Alpe	-1	-1	-1	10	0	-1
+pečina	-1	-1	-1	10	0	-1
+krajina	-1	-1	-1	10	0	-1
+ocean	-1	-1	-1	11,11,11	0	-1
+globoko morje	-1	-1	-1	11	0	-1
+pomorsko ozemlje	-1	-1	-1	11	0	-1
+širni ocean	-1	-1	-1	11	0	-1
+morska voda	-1	-1	-1	11	0	-1
+čisto morje	-1	-1	-1	11	0	-1
+pogled na morje	-1	-1	-1	11	0	-1
+Stavbe	-1	-1	-1	12	0	-1
+gradbeni objekti	-1	-1	-1	12	0	-1
+Jedilnica	-1	-1	-1	13	0	-1
+kantina	-1	-1	-1	13	0	-1
+jedilnica	-1	-1	-1	13	0	-1
+okrepčevalnica	-1	-1	-1	13	0	-1
+Nočni klub	-1	-1	-1	14	0	-1
+pivnica	-1	-1	-1	14	0	-1
+klub	-1	-1	-1	14	0	-1
+Šport	-1	-1	-1	15,45	0	-1
+stadion	-1	-1	-1	15	0	-1
+fitnes center	-1	-1	-1	16	0	-1
+razstavna dvorana	-1	-1	-1	17	0	-1
+razstavni prostor	-1	-1	-1	17	0	-1
+razstava	-1	-1	-1	17	0	-1
+prodajalna	-1	-1	-1	18,18,18	0	-1
+podjetje	-1	-1	-1	18,18	0	-1
+trgovine	-1	-1	-1	18	0	-1
+prodajalne	-1	-1	-1	18	0	-1
+trg	-1	-1	-1	18	0	-1
+trgovina	-1	-1	-1	18	0	-1
+nakupovalni center	-1	-1	-1	18	0	-1
+nakupovanje	-1	-1	-1	18	0	-1
+terminal	-1	-1	-1	19	0	-1
+terminalna postaja	-1	-1	-1	19	0	-1
+letališko skladišče	-1	-1	-1	19	0	-1
+Obleka	-1	-1	-1	20	0	-1
+obleka	-1	-1	-1	20,20	0	-1
+oprava	-1	-1	-1	20	0	-1
+moda	-1	-1	-1	20	0	-1
+prtljaga	-1	-1	-1	20	0	-1
+kostimi	-1	-1	-1	20	0	-1
+Nakupovalna torba	-1	-1	-1	21	0	-1
+ročna torbica	-1	-1	-1	21,21	0	-1
+listnica	-1	-1	-1	21	0	-1
+izdelki za nego kože	-1	-1	-1	22	0	-1
+Dodatki	-1	-1	-1	24	0	-1
+okraski	-1	-1	-1	24	0	-1
+nakit iz zlata in srebra	-1	-1	-1	24	0	-1
+Transport	-1	-1	-1	25	0	-1
+promet	-1	-1	-1	25	0	-1
+prevoz	-1	-1	-1	25	0	-1
+dostava	-1	-1	-1	25	0	-1
+Vozilo	-1	-1	-1	26	0	-1
+Ladja	-1	-1	-1	27	0	-1
+čoln	-1	-1	-1	27	0	-1
+Špecerija	-1	-1	-1	28	0	-1
+živila	-1	-1	-1	28	0	-1
+gurmansko	-1	-1	-1	28	0	-1
+slastno	-1	-1	-1	28	0	-1
+okusno	-1	-1	-1	28	0	-1
+obrok	-1	-1	-1	28	0	-1
+specialiteta	-1	-1	-1	28,28	0	-1
+odlična hrana	-1	-1	-1	28	0	-1
+kuhinja	-1	-1	-1	28	0	-1
+večerja	-1	-1	-1	28	0	-1
+kuhanje	-1	-1	-1	28	0	-1
+Zahodnjaška kuhinja	-1	-1	-1	29	0	-1
+evropska kuhinja	-1	-1	-1	29	0	-1
+evropska hrana	-1	-1	-1	29	0	-1
+morski proizvod	-1	-1	-1	30	0	-1
+Sadež	-1	-1	-1	31	0	-1
+sveže sadje	-1	-1	-1	31	0	-1
+sadež	-1	-1	-1	31,31	0	-1
+Pivo	-1	-1	-1	32	0	-1
+vino	-1	-1	-1	32	0	-1
+dobro vino	-1	-1	-1	32,32	0	-1
+močen alkohol	-1	-1	-1	32	0	-1
+žganje	-1	-1	-1	32	0	-1
+odlično vino	-1	-1	-1	32,32	0	-1
+vrhunsko vino	-1	-1	-1	32	0	-1
+žlahtno vino	-1	-1	-1	32	0	-1
+Vino	-1	-1	-1	33	0	-1
+suho rdeče	-1	-1	-1	33	0	-1
+suho rdeče vino	-1	-1	-1	33	0	-1
+Elektronska naprava	-1	-1	-1	36	0	-1
+Elektronski izdelki	-1	-1	-1	37	0	-1
+digitalni	-1	-1	-1	37,37	0	-1
+Mobilni telefon	-1	-1	-1	38	0	-1
+mobilni telefon	-1	-1	-1	38	0	-1
+Beseda	-1	-1	-1	41	0	-1
+PPT	-1	-1	-1	42	0	-1
+diaprojekcija	-1	-1	-1	42	0	-1
+predstavitev	-1	-1	-1	42	0	-1
+Zajem zaslona	-1	-1	-1	43	0	-1
+​​posnetki zaslona	-1	-1	-1	43	0	-1
+​​zajem zaslona	-1	-1	-1	43	0	-1
+Zabava	-1	-1	-1	44	0	-1
+vadba	-1	-1	-1	45	0	-1
+tekmovanje	-1	-1	-1	45	0	-1
+turnir	-1	-1	-1	45	0	-1
+Obrok	-1	-1	-1	46	0	-1
+pojedina	-1	-1	-1	46	0	-1
+banket	-1	-1	-1	46,46	0	-1
+poslastica	-1	-1	-1	46	0	-1
+gost	-1	-1	-1	46	0	-1
+zabava	-1	-1	-1	46	0	-1
+Poročna zabava	-1	-1	-1	47	0	-1
+poročna večerja	-1	-1	-1	47	0	-1
+poročni banket	-1	-1	-1	47	0	-1
+Nastop	-1	-1	-1	48	0	-1
+odrske umetnosti	-1	-1	-1	48	0	-1
+Mala ptica	-1	-1	-1	49	0	-1
+perjad	-1	-1	-1	49	0	-1
+perutnina	-1	-1	-1	49	0	-1
+ptice	-1	-1	-1	49	0	-1
+Ribe	-1	-1	-1	50	0	-1
+Večer	-1	-1	-1	54	0	-1
+Veliki slapovi	-1	-1	-1	55	0	-1
+modro nebo	-1	-1	-1	56	0	-1
+nebesa	-1	-1	-1	56	0	-1
+jasno nebo	-1	-1	-1	56	0	-1
+Sneg	-1	-1	-1	57	0	-1
+sneg	-1	-1	-1	57	0	-1
+Katedrala	-1	-1	-1	59	0	-1
+svetišče	-1	-1	-1	60	0	-1
+samostan	-1	-1	-1	60	0	-1
+Stolp	-1	-1	-1	61	0	-1
+Pavilion	-1	-1	-1	62	0	-1
+vrtna uta	-1	-1	-1	62	0	-1
+Kraljevi dvor	-1	-1	-1	63	0	-1
+vrtovi	-1	-1	-1	63	0	-1
+Akvarij	-1	-1	-1	66	0	-1
+podvodni svet	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+Železnica	-1	-1	-1	71	0	-1
+Sladice	-1	-1	-1	73	0	-1
+Shabu-shabu	-1	-1	-1	75	0	-1
+Besedilni dokument	-1	-1	-1	77	0	-1
+Ilustracija	-1	-1	-1	79	0	-1
+Strip	-1	-1	-1	80	0	-1
+Rojstnodnevna zabava	-1	-1	-1	83	0	-1
+rojstnodnevno druženje	-1	-1	-1	83	0	-1
+Oseba	-1	-1	-1	85	0	-1
+karakter	-1	-1	-1	85	0	-1
+dojenčki	-1	-1	-1	86	0	-1
+malčki	-1	-1	-1	86	0	-1
+Čepica	-1	-1	-1	88	0	-1
+Kreditna kartica	-1	-1	-1	91	0	-1
+hranilna kartica	-1	-1	-1	91	0	-1

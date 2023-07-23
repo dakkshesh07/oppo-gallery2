@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/group_actionbar">
+        <item android:enabled="true" android:id="@id/dummy" android:visible="true" app:showAsAction="always" />
+        <item android:icon="@drawable/picture3d_ic_menu_cshot_selector" android:id="@id/action_cshot" android:visible="false" app:showAsAction="always" />
+        <item android:icon="@drawable/picture3d_ic_menu_hypertext_selector" android:id="@id/action_hypertext" android:visible="false" app:showAsAction="always" />
+        <item android:icon="@drawable/picture3d_ic_menu_aiidphoto_selector" android:id="@id/action_aiidphoto" android:visible="false" app:showAsAction="always" />
+        <item android:icon="@drawable/picture3d_ic_menu_screenshot_btn_selector" android:id="@id/action_getvideoframe" android:visible="false" app:showAsAction="always" />
+        <item android:icon="@drawable/picture3d_dlna_white_selector" android:id="@id/action_dlna" android:visible="false" app:showAsAction="always" />
+        <item android:icon="@drawable/picture3d_ic_menu_lens_selector" android:id="@id/action_lens" android:visible="false" app:showAsAction="always" />
+    </group>
+</menu>

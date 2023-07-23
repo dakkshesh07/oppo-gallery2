@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout android:id="@id/all_album_fragment" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/layout_search_guide" android:paddingLeft="@dimen/search_card_padding_left" android:paddingRight="@dimen/search_card_padding_left" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/search_no_result_card_margin_top" android:layout_alignParentTop="true">
+        <com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/search_no_result_guide_text_size" android:textColor="@color/search_no_result_guide_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/search_no_result_guide" style="@style/ItemTextMediumFontStyle" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/layout_guide_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/search_card_guide_padding_top" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/layout_search_results" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.oplus.gallery.searchpage.ui.ColorExpandableListView android:id="@id/list_view_search_results" android:paddingBottom="@dimen/search_result_recommend_padding_bottom" android:scrollbars="none" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="true" android:divider="@null" android:paddingHorizontal="@dimen/search_result_list_layout_padding_horizontal" />
+    </RelativeLayout>
+</com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout>

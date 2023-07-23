@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/collage_layout" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="@dimen/collage_gl_action_bar_menu_items_collage_toolbar_layout_height" android:layout_marginTop="@dimen/collage_gl_action_bar_menu_items_collage_toolbar_layout_margin_top" />
+    <FrameLayout android:id="@id/FragmentCanvas" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/collage_canvas_fragement_margin_bottom" android:layout_below="@id/toolbar" />
+    <FrameLayout android:id="@id/FragmentMenuPannel" android:layout_width="fill_parent" android:layout_height="@dimen/collage_fragment_menupannel_height" android:layout_alignParentBottom="true" />
+</RelativeLayout>

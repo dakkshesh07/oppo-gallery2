@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/resolver_gallery_item_img" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:forceDarkAllowed="false" />
+    <CheckBox android:layout_gravity="bottom|center|right" android:id="@id/resolver_gallery_item_check" android:background="@drawable/main_resolver_gallery_item_checkbox_selector" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/main_resolver_img_item_checkbox_margin" android:layout_marginBottom="@dimen/main_resolver_img_item_checkbox_margin" android:button="@null" android:forceDarkAllowed="false" />
+</FrameLayout>

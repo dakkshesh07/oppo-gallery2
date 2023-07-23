@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/error_rl" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/feedback_title" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ImageView android:id="@id/iv_no_network" android:layout_width="120.0dip" android:layout_height="130.0dip" android:src="@drawable/fb_light_no_network" android:scaleType="centerCrop" />
+        <TextView android:textSize="16.0dip" android:textColor="@color/feedback_light_hint_color" android:layout_gravity="center_horizontal" android:id="@id/tv_hint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="280.0dip" android:paddingStart="18.0dip" android:paddingEnd="18.0dip" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d ຮູບ​ຖ່າຍ​ຕ່າງໆກຳ​ລັງ​ຖືກ​ໂຫຼດ ແລະ ບໍ່​ສາ​ມາດ​ຖືກ​ເພີ່ມ​ໄດ້.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d ບັດທະນາຄານ</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">ພົບຮູບ: %s. ເປີດຄຸນສົມບັດນີ້ເພື່ອຈັດລະບຽບຮູບທີ່ກ່ຽວຂ້ອງ. ທ່ານສາມາດເປີດ ຫຼື ປິດມັນໄດ້ຕະຫຼອດເວລາໃນການຕັ້ງຄ່າ.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ບັດ​ປະ​ຈຳ​ຕົວ</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">​ລຶບ %d ​ລາຍ​ການ​ຢ່າງ​ຖາ​ວອນ</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">ລຶບ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d ຮູບຖ່າຍ</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">ພົບຮູບ: %s. ທ່ານສາມາດຍ້າຍໄປໃສ່ \"ກະ​ເປົ໋າໃສ່ບັດ\" ເພື່ອໃຫ້ເຂົ້າເຖິງໄດ້ງ່າຍຂຶ້ນ.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">ຮູບຂອງ %1$s ຖືກຍ້າຍໃສ່ \"ກັບໃສ່ບັດ\" ແລ້ວ</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d ປີ້/ໃບຮັບເງິນ</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">ລາຍການທີ່ເລືອກມີຢູ່ແລ້ວໃນອາລະບໍ້າ​</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d ຮູບກໍາລັງ​ຖືກໂຫຼດ ແລະ ບໍ່ສາມາດຍ້າຍໄດ້</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d ຄົນ</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">ຍ້າຍຮູບແລ້ວ. ບໍ່ສາມາດຍ້າຍວິດີໂອໄປໃສ່ອາລະບໍ້າ​ນີ້ໄດ້.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">ກູ້ຄືນ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ຮູບຖ່າຍ</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$dວິດີໂອ</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">ເລືອກ %1$d ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">ເລືອກ %1$d ອາລະບຳແລ້ວ</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d ຄົນທີ່ເລືອກ</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">ເລືອກ %1$d ແລ້ວ</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">​ເລືອກຄວາມ​ຊົງ​ຈຳ %1$d ລາຍ​ການ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d ວິດີໂອທີ່ເລືອກ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$dວິດີໂອ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">ແບັດເຕີຣີຕໍ່າກວ່າ %1$s. ມີ %2$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ແບັດເຕີຣີຕ່ຳກວ່າ %1$s. ບໍ່ໄດ້ດາວໂຫຼດ %2$d ລາຍການ. ກະລຸນາສາກໂທລະສັບຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ແບັດເຕີຣີຕໍ່າກວ່າ %1$s. ມີ %2$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ. ກະລຸນາສາກອຸປະກອນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">ແບັດເຕີຣີຕໍ່າກວ່າ %1$s. ມີ %2$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">ຮູບແບບປະຢັດພະລັງງານເປີດຢູ່. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">ຮູບແບບປະຢັດພະລັງງານເປີດຢູ່. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ. %2$s ຫຼື %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ບໍ່ໄດ້ດາວໂຫຼດ %1$d ລາຍການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ບໍ່ໄດ້ດາວໂຫຼດ %1$d ລາຍການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">ບ່ອນຈັດເກັບຂໍ້ມູນໃນຄລາວບໍ່ພຽງພໍ. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ດາວໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">ບ່ອນເກັບຂໍ້ມູນໃນອຸປະກອນບໍ່ພຽງພໍ. %1$d ລາຍການບໍ່ຖືກດາວໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">​ເຄືອ​ຂ່າຍຜິດ​ພາດ. ​ບໍ່​ໄດ້​ດາວ​ໂຫຼດ %1$d ລາຍ​ການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">​ເຄືອ​ຂ່າຍຜິດ​ພາດ. ​ບໍ່​ໄດ້​ດາວ​ໂຫຼດ %1$d ລາຍ​ການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">ບ່ອນຈັດເກັບຂໍ້ມູນໃນຄລາວບໍ່ພຽງພໍ. ມີ %1$d ຮູບຖ່າຍຕົ້ນສະບັບທີ່ບໍ່ໄດ້ດາວໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d ​ຮູບ​ຖ່າຍ​ບໍ່​ຖືກ​ຊິງ​ຄ໌. ບ່ອນ​ເກັບ​ຂໍ້​ມູນ​ຄ​ລາວ​ເຕັມ​ແລ້ວ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d ​ຮູບ​ຖ່າຍ​ບໍ່​ຖືກ​ຊິງ​ຄ໌. ການ​ຊິງ​ຄ໌​ຂໍ້​ມູນ​ຄ​ລາວ​​ຖືກ​ຢຸດຊົ່ວ​ຄາວ ເມື່ອ​ແບັດ​ເຕີ​ຣີ​ໜ້ອຍກວ່າ %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d ​ຮູບ​ຖ່າຍ​ບໍ່​ຖືກ​ຊິງ​ຄ໌. ຢຸດການຊິ້ງຂໍ້ມູນໃນຄລາວຊົ່ວຄາວໃນໂໝດປະຢັດພະລັງງານ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">ບ່ອນຈັດເກັບຂໍ້ມູນໃນຄລາວເຕັມ. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">ແບັດເຕີຣີຕໍ່າກວ່າ %1$s. ມີ %2$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ແບັດເຕີຣີຕ່ຳກວ່າ %1$s. ບໍ່ໄດ້ອັບໂຫຼດ %2$d ລາຍການ. ກະລຸນາສາກໂທລະສັບຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ແບັດເຕີຣີຕໍ່າກວ່າ %1$s. ມີ %2$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ. ກະລຸນາສາກອຸປະກອນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">ແບັດເຕີຣີຕໍ່າກວ່າ %1$s. ມີ %2$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">ຮູບແບບປະຢັດພະລັງງານເປີດຢູ່. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">ຮູບແບບປະຢັດພະລັງງານເປີດຢູ່. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">ບ່ອນຈັດເກັບຂໍ້ມູນໃນຄລາວເຕັມ. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d ​ວິ​ດີ​ໂອ​ບໍ່​ຖືກ​ຊິງ​ຄ໌. ບ່ອນ​ເກັບ​ຂໍ້​ມູນ​ຄ​ລາວ​ເຕັມ​ແລ້ວ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d ​ວິ​ດີ​ໂອ​ບໍ່​ຖືກ​ຊິງ​ຄ໌. ການ​ຊິງ​ຄ໌​ຂໍ້​ມູນ​ຄ​ລາວ​​ຖືກ​ຢຸດຊົ່ວ​ຄາວ ເມື່ອ​ແບັດ​ເຕີ​ຣີ​ໜ້ອຍກວ່າ %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d ​ວິ​ດີ​ໂອ​ບໍ່​ຖືກ​ຊິງ​ຄ໌. ຢຸດການຊິ້ງຂໍ້ມູນໃນຄລາວຊົ່ວຄາວໃນໂໝດປະຢັດພະລັງງານ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">ບໍ່ໄດ້ເຊື່ອມໂຍງ %1$d ຮູບຖ່າຍ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ມີ %1$d ລາຍການທີ່ບໍ່ໄດ້ອັບໂຫຼດ. %2$s ຫຼື %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ບໍ່ໄດ້ອັບໂຫຼດ %1$d ລາຍການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">ບໍ່ມີການເຊື່ອມຕໍ່ເຄືອຂ່າຍ. ບໍ່ໄດ້ອັບໂຫຼດ %1$d ລາຍການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d ​ວິ​ດີ​ໂອ​ບໍ່​ຖືກ​ຊິງ​ຄ໌</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">​ເຄືອ​ຂ່າຍຜິດ​ພາດ. ​ບໍ່​ໄດ້​ອັບ​ໂຫຼດ %1$d ລາຍ​ການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">​ເຄືອ​ຂ່າຍຜິດ​ພາດ. ​ບໍ່​ໄດ້​ອັບ​ໂຫຼດ %1$d ລາຍ​ການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">​ການ​ບໍ​ລິ​ການ​ຜິດ​ພາດ. ​ບໍ່​ໄດ້​ອັບ​ໂຫຼດ %1$d ລາຍ​ການ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">​ການ​ບໍ​ລິ​ການ​ຜິດ​ພາດ. ​ບໍ່​ໄດ້​ອັບ​ໂຫຼດ %1$d ລາຍ​ການ.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">ເພີ່ມ %d ລາຍການບໍ່ສຳເລັດ</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d ຮູບ​ຖ່າຍ​ຕ່າງໆ​ກຳ​ລັງ​ຖືກ​ໂຫຼດ ແລະ ບໍ່​ສາ​ມາດ​ຖືກ​ຕັ້ງ​ເປັນ​ແບບ​ສ່ວນ​ຕົວ​ໄດ້.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d ລາຍການ</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d ນາທີ</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d ວິນາທີ</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d ມື້</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ຮູບຖ່າຍ</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$dວິດີໂອ</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d ​ຮູບ​ຖ່າຍ​ກຳ​ລັງ​ຖືກ​ໂຫຼດ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">​ຕ້ອງ​ໃຫຍ່ກວ່າ %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">​ຕ້ອງ​ໃຫຍ່ກວ່າ %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">​ຕ້ອງ​ໜ້ອຍກວ່າ %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">​ຕ້ອງ​ໜ້ອຍກວ່າ %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">​ຕ້ອງ​ໃຫຍ່ກວ່າ %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">​ຕ້ອງ​ໜ້ອຍກວ່າ %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">​ຕ້ອງ​ໃຫຍ່ກວ່າ %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">​ຕ້ອງ​ໃຫຍ່ກວ່າ %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">​ຕ້ອງ​ໜ້ອຍກວ່າ %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">​ຕ້ອງ​ໜ້ອຍກວ່າ %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">ເກັບພຽງແຕ່ %d ຮູບທີ່ເລືອກໄວ້</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">ລຶບ %d ລາຍການ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">ເລືອກແລ້ວ %1$d ລາຍການ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">ເລືອກ %1$d ອາລະບຳແລ້ວ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">ເລືອກ %1$d ແລ້ວ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">ເລືອກ %1$d ສະຕິກເກີ້ແລ້ວ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d ວິດີໂອທີ່ເລືອກ</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d ຮູບ​ຖ່າຍ​ຕ່າງໆກຳ​ລັງ​ຖືກ​ໂຫຼດ ແລະ ບໍ່​ສາ​ມາດ​ຖືກ​​ລຶບ​ໄດ້.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">ລຶບ %1$d ລາຍການບໍ່ສຳເລັດ. ກະລຸນາລອງໃໝ່</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d ຮູບຖ່າຍ</item>
+    </plurals>
+</resources>

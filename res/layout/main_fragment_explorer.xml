@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:id="@id/explorer_scroll_view" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="always" android:importantForAccessibility="no" android:paddingStart="@dimen/main_explorer_fragment_scroll_view_padding_start" android:paddingEnd="@dimen/main_explorer_fragment_scroll_view_padding_end">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/main_explorer_fragment_text_size" android:textStyle="bold" android:textColor="@color/main_explorer_fragment_title_color" android:gravity="start|center" android:id="@id/person_location_text_view" android:layout_width="wrap_content" android:layout_height="@dimen/main_explorer_fragment_title_layout_height" android:layout_marginTop="@dimen/main_explorer_fragment_title_margin_top" android:text="@string/main_album_group_title_intelligent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+            <LinearLayout android:id="@id/explorer_person_location_container" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toBottomOf="@id/person_location_text_view">
+                <include android:id="@id/explorer_person_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_explorer_fragment_album_margin_top" android:layout_marginEnd="@dimen/main_explorer_fragment_album_margin_end" layout="@layout/main_explorer_item_layout" />
+                <include android:id="@id/explorer_location_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_explorer_fragment_album_margin_top" layout="@layout/main_explorer_item_layout" />
+            </LinearLayout>
+            <com.oplus.gallery.main_lib.tab.view.SingleRowAlbumSetView android:id="@id/explorer_label_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_explorer_fragment_label_album_container_margin_top" app:layout_constraintTop_toBottomOf="@id/explorer_person_location_container" />
+            <com.oplus.gallery.main_lib.tab.view.MemoriesSingleAlbumSetView android:id="@id/explorer_memories_container" android:paddingBottom="@dimen/main_explorer_fragment_memories_container_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_explorer_fragment_memories_container_margin_top" app:layout_constraintTop_toBottomOf="@id/explorer_label_container" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</LinearLayout>

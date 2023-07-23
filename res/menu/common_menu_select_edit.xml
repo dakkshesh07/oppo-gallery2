@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/common_menu_ic_cancel" android:id="@id/cancel" android:title="@string/common_cancel" app:showAsAction="ifRoom" />
+    <item android:id="@id/select_all" android:title="@string/common_select_all" app:actionViewClass="com.oplus.gallery.standard_lib.ui.toolbar.actionview.MenuCheckBox" app:showAsAction="always" />
+</menu>

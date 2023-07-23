@@ -1,0 +1,683 @@
+domestic animal	-1	-1	-1	2	0	-1
+family pet	-1	-1	-1	2	0	-1
+small pet	-1	-1	-1	2	0	-1
+large pet	-1	-1	-1	2	0	-1
+hound	-1	-1	-1	3	0	-1
+canine	-1	-1	-1	3	0	-1
+sniffer dog	-1	-1	-1	3	0	-1
+sheep dog	-1	-1	-1	3	0	-1
+police dog	-1	-1	-1	3	0	-1
+seeing eye dog	-1	-1	-1	3	0	-1
+Alsatian	-1	-1	-1	3	0	-1
+pooch	-1	-1	-1	3	0	-1
+guard dog	-1	-1	-1	3	0	-1
+moggy	-1	-1	-1	4	0	-1
+tabby	-1	-1	-1	4	0	-1
+puss	-1	-1	-1	4	0	-1
+kitty	-1	-1	-1	4	0	-1
+shrubbery	-1	-1	-1	5	0	-1
+pot plant	-1	-1	-1	5	0	-1
+hedge	-1	-1	-1	5	0	-1
+weeds	-1	-1	-1	5	0	-1
+seedling	-1	-1	-1	5	0	-1
+posie	-1	-1	-1	6	0	-1
+buttonhole	-1	-1	-1	6	0	-1
+garden	-1	-1	-1	6	0	-1
+corsage	-1	-1	-1	6	0	-1
+flower arrangement	-1	-1	-1	6	0	-1
+florist	-1	-1	-1	6	0	-1
+lawnmower	-1	-1	-1	7	0	-1
+turf	-1	-1	-1	7,15	0	-1
+lawn	-1	-1	-1	7	0	-1
+field	-1	-1	-1	7	0	-1
+paddock	-1	-1	-1	7	0	-1
+playing field	-1	-1	-1	7	0	-1
+cricket pitch	-1	-1	-1	7	0	-1
+back yard	-1	-1	-1	7	0	-1
+hayfever	-1	-1	-1	7	0	-1
+golf course	-1	-1	-1	7	0	-1
+shade	-1	-1	-1	8	0	-1
+leaves	-1	-1	-1	8	0	-1
+trunk	-1	-1	-1	8	0	-1
+native trees	-1	-1	-1	8	0	-1
+slacklining	-1	-1	-1	8	0	-1
+shelter belt	-1	-1	-1	8	0	-1
+arborist	-1	-1	-1	8	0	-1
+planks	-1	-1	-1	8	0	-1
+lookout	-1	-1	-1	9	0	-1
+view	-1	-1	-1	9	0	-1
+vista	-1	-1	-1	9	0	-1
+binoculars	-1	-1	-1	9	0	-1
+tourism	-1	-1	-1	9	0	-1
+tourists	-1	-1	-1	9	0	-1
+photos	-1	-1	-1	9	0	-1
+lookout point	-1	-1	-1	9	0	-1
+Alps	-1	-1	-1	10	0	-1
+moutaineering	-1	-1	-1	10	0	-1
+tramping	-1	-1	-1	10	0	-1
+bushwalk	-1	-1	-1	10	0	-1
+snow	-1	-1	-1	10	0	-1
+blue mountains	-1	-1	-1	10	0	-1
+volcano	-1	-1	-1	10	0	-1
+lava	-1	-1	-1	10	0	-1
+plateau	-1	-1	-1	10	0	-1
+moana	-1	-1	-1	11	0	-1
+waves	-1	-1	-1	11	0	-1
+salty	-1	-1	-1	11	0	-1
+marine	-1	-1	-1	11	0	-1
+seafood	-1	-1	-1	11	0	-1
+kina	-1	-1	-1	11,30,50	0	-1
+seabed	-1	-1	-1	11	0	-1
+foreshore	-1	-1	-1	11	0	-1
+seafood,seagull	-1	-1	-1	11	0	-1
+designs	-1	-1	-1	12	0	-1
+design	-1	-1	-1	12	0	-1
+architect	-1	-1	-1	12	0	-1
+engineer	-1	-1	-1	12	0	-1
+hopes	-1	-1	-1	12	0	-1
+builder	-1	-1	-1	12	0	-1
+plans	-1	-1	-1	12	0	-1
+draughtsman	-1	-1	-1	12	0	-1
+draughtswoman	-1	-1	-1	12	0	-1
+carpenter	-1	-1	-1	12	0	-1
+café	-1	-1	-1	13	0	-1
+bar	-1	-1	-1	13	0	-1
+dining out	-1	-1	-1	13	0	-1
+waiter	-1	-1	-1	13	0	-1
+menu	-1	-1	-1	13	0	-1
+wine	-1	-1	-1	13	0	-1
+cutlery	-1	-1	-1	13	0	-1
+service	-1	-1	-1	13	0	-1
+silver	-1	-1	-1	13	0	-1
+food	-1	-1	-1	13,46	0	-1
+pub	-1	-1	-1	14	0	-1
+public bar	-1	-1	-1	14	0	-1
+bottles	-1	-1	-1	14	0	-1
+cocktails	-1	-1	-1	14	0	-1
+meals	-1	-1	-1	14	0	-1
+snacks	-1	-1	-1	14	0	-1
+stools	-1	-1	-1	14	0	-1
+peanuts	-1	-1	-1	14	0	-1
+hotel	-1	-1	-1	14	0	-1
+bar tender	-1	-1	-1	14	0	-1
+athletics	-1	-1	-1	15	0	-1
+soccer	-1	-1	-1	15	0	-1
+hockey	-1	-1	-1	15	0	-1
+rugby	-1	-1	-1	15	0	-1
+match	-1	-1	-1	15	0	-1
+pitch	-1	-1	-1	15	0	-1
+groundsman	-1	-1	-1	15	0	-1
+goalposts	-1	-1	-1	15	0	-1
+grandstand	-1	-1	-1	15	0	-1
+personal trainer	-1	-1	-1	16	0	-1
+workout	-1	-1	-1	16	0	-1
+changing rooms	-1	-1	-1	16	0	-1
+toning	-1	-1	-1	16	0	-1
+exercise	-1	-1	-1	16,44	0	-1
+abs	-1	-1	-1	16	0	-1
+buff	-1	-1	-1	16	0	-1
+training	-1	-1	-1	16	0	-1
+weights	-1	-1	-1	16	0	-1
+fitness	-1	-1	-1	16	0	-1
+artefacts	-1	-1	-1	17	0	-1
+curator	-1	-1	-1	17	0	-1
+textiles	-1	-1	-1	17	0	-1
+pottery	-1	-1	-1	17	0	-1
+ceramics	-1	-1	-1	17	0	-1
+art	-1	-1	-1	17	0	-1
+displays	-1	-1	-1	17	0	-1
+interactive	-1	-1	-1	17	0	-1
+exhibits	-1	-1	-1	17	0	-1
+holiday	-1	-1	-1	17,76	0	-1
+Westfield	-1	-1	-1	18	0	-1
+shops	-1	-1	-1	18	0	-1
+escalators	-1	-1	-1	18	0	-1
+food court	-1	-1	-1	18	0	-1
+sale	-1	-1	-1	18	0	-1
+variety	-1	-1	-1	18	0	-1
+department stores	-1	-1	-1	18	0	-1
+chain stores	-1	-1	-1	18	0	-1
+outlet stores	-1	-1	-1	18	0	-1
+aeroplane	-1	-1	-1	19	0	-1
+departures	-1	-1	-1	19	0	-1
+domestic	-1	-1	-1	19	0	-1
+international	-1	-1	-1	19	0	-1
+farewells	-1	-1	-1	19	0	-1
+pilots	-1	-1	-1	19	0	-1
+flight attendants	-1	-1	-1	19	0	-1
+landing	-1	-1	-1	19	0	-1
+boarding call	-1	-1	-1	19	0	-1
+textile	-1	-1	-1	20	0	-1
+ensemble	-1	-1	-1	20	0	-1
+fabric	-1	-1	-1	20	0	-1
+dressmaking	-1	-1	-1	20	0	-1
+tailoring	-1	-1	-1	20	0	-1
+seamstress	-1	-1	-1	20	0	-1
+hems	-1	-1	-1	20	0	-1
+pockets	-1	-1	-1	20	0	-1
+style	-1	-1	-1	20,20	0	-1
+buttons	-1	-1	-1	20	0	-1
+notions	-1	-1	-1	20	0	-1
+frills	-1	-1	-1	20	0	-1
+couture	-1	-1	-1	20	0	-1
+wearable art	-1	-1	-1	20	0	-1
+models	-1	-1	-1	20	0	-1
+fashion house	-1	-1	-1	20	0	-1
+fashion label	-1	-1	-1	20	0	-1
+a la mode	-1	-1	-1	20	0	-1
+upcycling	-1	-1	-1	20	0	-1
+trade aid	-1	-1	-1	20	0	-1
+ethical apparel	-1	-1	-1	20	0	-1
+second hand	-1	-1	-1	20	0	-1
+designer	-1	-1	-1	20	0	-1
+rags	-1	-1	-1	20	0	-1
+covering	-1	-1	-1	20	0	-1
+modesty	-1	-1	-1	20	0	-1
+exposure	-1	-1	-1	20	0	-1
+protection	-1	-1	-1	20	0	-1
+warmth	-1	-1	-1	20	0	-1
+SPF50	-1	-1	-1	20	0	-1
+sports clothing	-1	-1	-1	20	0	-1
+uniform	-1	-1	-1	20	0	-1
+practical	-1	-1	-1	20	0	-1
+consumerism	-1	-1	-1	20	0	-1
+fast fashion	-1	-1	-1	20	0	-1
+business wear	-1	-1	-1	20	0	-1
+workwear	-1	-1	-1	20	0	-1
+out of date	-1	-1	-1	20	0	-1
+retro	-1	-1	-1	20	0	-1
+vintage	-1	-1	-1	20	0	-1
+antique	-1	-1	-1	20,24	0	-1
+hand-me-downs	-1	-1	-1	20	0	-1
+sari	-1	-1	-1	20	0	-1
+national costume	-1	-1	-1	20	0	-1
+single-use	-1	-1	-1	21	0	-1
+paper	-1	-1	-1	21	0	-1
+suitcase	-1	-1	-1	21	0	-1
+doggy bag	-1	-1	-1	21	0	-1
+handbag	-1	-1	-1	21	0	-1
+luggage	-1	-1	-1	21	0	-1
+baggage	-1	-1	-1	21	0	-1
+laundry	-1	-1	-1	21	0	-1
+shoulder bag	-1	-1	-1	21	0	-1
+makeup	-1	-1	-1	22	0	-1
+kohl	-1	-1	-1	22	0	-1
+eyeliner	-1	-1	-1	22	0	-1
+face paint	-1	-1	-1	22	0	-1
+powder	-1	-1	-1	22	0	-1
+beauty products	-1	-1	-1	22	0	-1
+skincare	-1	-1	-1	22	0	-1
+sunblock	-1	-1	-1	22	0	-1
+eyewear	-1	-1	-1	23	0	-1
+contacts	-1	-1	-1	23	0	-1
+frames	-1	-1	-1	23	0	-1
+optometrist	-1	-1	-1	23	0	-1
+specs	-1	-1	-1	23	0	-1
+four-eyes	-1	-1	-1	23	0	-1
+monocle	-1	-1	-1	23	0	-1
+pince-nez	-1	-1	-1	23	0	-1
+precious	-1	-1	-1	24	0	-1
+costume	-1	-1	-1	24	0	-1
+engagement ring	-1	-1	-1	24	0	-1
+wedding band	-1	-1	-1	24	0	-1
+earrings	-1	-1	-1	24	0	-1
+studs	-1	-1	-1	24	0	-1
+family heirloom	-1	-1	-1	24	0	-1
+vehicles	-1	-1	-1	25	0	-1
+circulation	-1	-1	-1	25	0	-1
+public transport	-1	-1	-1	25	0	-1
+commuting	-1	-1	-1	25	0	-1
+carriage	-1	-1	-1	25	0	-1
+train	-1	-1	-1	25,69	0	-1
+bus	-1	-1	-1	25	0	-1
+timetable	-1	-1	-1	25	0	-1
+motor car	-1	-1	-1	26,70	0	-1
+wagon	-1	-1	-1	26	0	-1
+sedan	-1	-1	-1	26	0	-1
+utility	-1	-1	-1	26	0	-1
+four-wheel drive	-1	-1	-1	26	0	-1
+ute	-1	-1	-1	26	0	-1
+SUV	-1	-1	-1	26,70	0	-1
+steamer	-1	-1	-1	27	0	-1
+punt	-1	-1	-1	27	0	-1
+boat	-1	-1	-1	27	0	-1
+chef	-1	-1	-1	28	0	-1
+kitchen	-1	-1	-1	28	0	-1
+pantry	-1	-1	-1	28	0	-1
+restaurant	-1	-1	-1	28	0	-1
+eatery	-1	-1	-1	28	0	-1
+diner	-1	-1	-1	28	0	-1
+party	-1	-1	-1	28,83	0	-1
+barbecue	-1	-1	-1	28	0	-1
+hospitality	-1	-1	-1	28,76	0	-1
+pot luck	-1	-1	-1	28	0	-1
+bring a plate	-1	-1	-1	28	0	-1
+Cordon Bleu	-1	-1	-1	29	0	-1
+bread	-1	-1	-1	29	0	-1
+sausage	-1	-1	-1	29	0	-1
+croissant	-1	-1	-1	29	0	-1
+a la carte	-1	-1	-1	29	0	-1
+sous chef	-1	-1	-1	29	0	-1
+take-aways	-1	-1	-1	29	0	-1
+deep fried	-1	-1	-1	29	0	-1
+fish and chips	-1	-1	-1	29	0	-1
+hamburgers	-1	-1	-1	29	0	-1
+kai moana	-1	-1	-1	30,50	0	-1
+shellfish	-1	-1	-1	30	0	-1
+oysters	-1	-1	-1	30	0	-1
+lobster	-1	-1	-1	30	0	-1
+scallops	-1	-1	-1	30	0	-1
+mussels	-1	-1	-1	30	0	-1
+muttonbird	-1	-1	-1	30	0	-1
+tea	-1	-1	-1	31,46	0	-1
+compote	-1	-1	-1	31	0	-1
+puree	-1	-1	-1	31	0	-1
+concentrate	-1	-1	-1	31	0	-1
+jam	-1	-1	-1	31	0	-1
+bottle	-1	-1	-1	31	0	-1
+fruit paste	-1	-1	-1	31	0	-1
+conserves	-1	-1	-1	31	0	-1
+preserves	-1	-1	-1	31	0	-1
+fruit leather	-1	-1	-1	31	0	-1
+drinks	-1	-1	-1	32	0	-1
+drinkies	-1	-1	-1	32	0	-1
+chasers	-1	-1	-1	32	0	-1
+tiddles	-1	-1	-1	32	0	-1
+hot toddy	-1	-1	-1	32	0	-1
+mulled wine	-1	-1	-1	32	0	-1
+nightcap	-1	-1	-1	32	0	-1
+spirits	-1	-1	-1	32	0	-1
+moonshine	-1	-1	-1	32	0	-1
+pinot	-1	-1	-1	33	0	-1
+full-bodied	-1	-1	-1	33	0	-1
+oak	-1	-1	-1	33	0	-1
+sherry	-1	-1	-1	33	0	-1
+port	-1	-1	-1	33	0	-1
+orchestra	-1	-1	-1	34	0	-1
+band	-1	-1	-1	34	0	-1
+quartet	-1	-1	-1	34	0	-1
+trio	-1	-1	-1	34	0	-1
+fiddle	-1	-1	-1	34	0	-1
+percussion	-1	-1	-1	34	0	-1
+wind	-1	-1	-1	34	0	-1
+brass	-1	-1	-1	34	0	-1
+strings	-1	-1	-1	34	0	-1
+reed	-1	-1	-1	34	0	-1
+keyboard	-1	-1	-1	35	0	-1
+organ	-1	-1	-1	35	0	-1
+harpsichord	-1	-1	-1	35	0	-1
+xylophone	-1	-1	-1	35	0	-1
+glockenspiel	-1	-1	-1	35	0	-1
+clavichord	-1	-1	-1	35	0	-1
+pianoforte	-1	-1	-1	35	0	-1
+grand piano	-1	-1	-1	35	0	-1
+virginal	-1	-1	-1	35	0	-1
+whiteware	-1	-1	-1	36	0	-1
+mod cons	-1	-1	-1	36	0	-1
+appliances	-1	-1	-1	36	0	-1
+gadgets	-1	-1	-1	36,37	0	-1
+wizardry	-1	-1	-1	37	0	-1
+tech	-1	-1	-1	37	0	-1
+hi-tech	-1	-1	-1	37	0	-1
+technology	-1	-1	-1	37	0	-1
+devices	-1	-1	-1	37	0	-1
+landline	-1	-1	-1	38	0	-1
+telecommunications	-1	-1	-1	38	0	-1
+cellphone	-1	-1	-1	38	0	-1
+desktop	-1	-1	-1	39	0	-1
+PC	-1	-1	-1	39	0	-1
+Mac	-1	-1	-1	39	0	-1
+iMac	-1	-1	-1	39	0	-1
+rorohiko	-1	-1	-1	39	0	-1
+tablet	-1	-1	-1	39	0	-1
+smartphone	-1	-1	-1	39	0	-1
+lens	-1	-1	-1	40	0	-1
+photography	-1	-1	-1	40	0	-1
+flash	-1	-1	-1	40	0	-1
+shutter	-1	-1	-1	40	0	-1
+phone	-1	-1	-1	40	0	-1
+lens cap	-1	-1	-1	40	0	-1
+photographic	-1	-1	-1	40	0	-1
+SLR	-1	-1	-1	40	0	-1
+film	-1	-1	-1	40	0	-1
+analogue	-1	-1	-1	40	0	-1
+letters	-1	-1	-1	41	0	-1
+alphabet	-1	-1	-1	41	0	-1
+language	-1	-1	-1	41	0	-1
+writing	-1	-1	-1	41	0	-1
+script	-1	-1	-1	41	0	-1
+caligraphy	-1	-1	-1	41	0	-1
+communication	-1	-1	-1	41	0	-1
+printed	-1	-1	-1	41	0	-1
+reading	-1	-1	-1	41	0	-1
+readable	-1	-1	-1	41	0	-1
+page	-1	-1	-1	42	0	-1
+spread	-1	-1	-1	42	0	-1
+unit	-1	-1	-1	42,71	0	-1
+photograph	-1	-1	-1	42	0	-1
+infographic	-1	-1	-1	42	0	-1
+layout	-1	-1	-1	42	0	-1
+screen grab	-1	-1	-1	43	0	-1
+snip,	-1	-1	-1	43	0	-1
+working	-1	-1	-1	44	0	-1
+thinking	-1	-1	-1	44	0	-1
+eating	-1	-1	-1	44	0	-1
+socialising	-1	-1	-1	44	0	-1
+travelling	-1	-1	-1	44	0	-1
+chilling out	-1	-1	-1	44	0	-1
+hanging out	-1	-1	-1	44	0	-1
+adventure sports	-1	-1	-1	44	0	-1
+dancing	-1	-1	-1	45	0	-1
+salsa	-1	-1	-1	45,81	0	-1
+yoga	-1	-1	-1	45	0	-1
+cardio	-1	-1	-1	45	0	-1
+flow	-1	-1	-1	45	0	-1
+walking	-1	-1	-1	45	0	-1
+racing	-1	-1	-1	45	0	-1
+competing	-1	-1	-1	45	0	-1
+upwards	-1	-1	-1	45	0	-1
+outwards	-1	-1	-1	45	0	-1
+supper	-1	-1	-1	46	0	-1
+main meal	-1	-1	-1	46	0	-1
+hot food	-1	-1	-1	46	0	-1
+evening meal	-1	-1	-1	46	0	-1
+Christmas dinner	-1	-1	-1	46	0	-1
+lunch	-1	-1	-1	46	0	-1
+wedding breakfast	-1	-1	-1	47	0	-1
+wedding reception	-1	-1	-1	47	0	-1
+catering	-1	-1	-1	47	0	-1
+guests	-1	-1	-1	47	0	-1
+invitation	-1	-1	-1	47	0	-1
+gift	-1	-1	-1	47	0	-1
+concert	-1	-1	-1	48	0	-1
+play	-1	-1	-1	48	0	-1
+exhibition	-1	-1	-1	48	0	-1
+production	-1	-1	-1	48	0	-1
+installation	-1	-1	-1	48	0	-1
+event	-1	-1	-1	48	0	-1
+competition	-1	-1	-1	48	0	-1
+wearable arts	-1	-1	-1	48	0	-1
+chicken	-1	-1	-1	49	0	-1
+chooks	-1	-1	-1	49	0	-1
+kiwi	-1	-1	-1	49	0	-1
+tui	-1	-1	-1	49	0	-1
+magpie	-1	-1	-1	49	0	-1
+crow	-1	-1	-1	49	0	-1
+feathered friend	-1	-1	-1	49	0	-1
+fantail	-1	-1	-1	49	0	-1
+waxeye	-1	-1	-1	49	0	-1
+pukeko	-1	-1	-1	49	0	-1
+goldfish	-1	-1	-1	50	0	-1
+trout	-1	-1	-1	50	0	-1
+kahawai	-1	-1	-1	50	0	-1
+petals	-1	-1	-1	51,52	0	-1
+rose petals	-1	-1	-1	51	0	-1
+thorns	-1	-1	-1	51	0	-1
+fragrance	-1	-1	-1	51	0	-1
+scent	-1	-1	-1	51	0	-1
+rosewater	-1	-1	-1	51	0	-1
+floral	-1	-1	-1	52	0	-1
+white	-1	-1	-1	52,69	0	-1
+pink	-1	-1	-1	52,58	0	-1
+prunus	-1	-1	-1	52	0	-1
+Japan	-1	-1	-1	52,60	0	-1
+festival	-1	-1	-1	52	0	-1
+Sakura	-1	-1	-1	52	0	-1
+tree	-1	-1	-1	52	0	-1
+bees	-1	-1	-1	52	0	-1
+Guy Fawkes	-1	-1	-1	53	0	-1
+New Year	-1	-1	-1	53	0	-1
+New Year's Eve	-1	-1	-1	53	0	-1
+sparklers	-1	-1	-1	53	0	-1
+4th of July	-1	-1	-1	53	0	-1
+celebration	-1	-1	-1	53	0	-1
+darkness	-1	-1	-1	54	0	-1
+dusk	-1	-1	-1	54,56	0	-1
+stars	-1	-1	-1	54	0	-1
+night sky	-1	-1	-1	54	0	-1
+sleep	-1	-1	-1	54	0	-1
+nocturnal	-1	-1	-1	54	0	-1
+owls	-1	-1	-1	54	0	-1
+night vision	-1	-1	-1	54	0	-1
+dream	-1	-1	-1	54	0	-1
+spotlighting	-1	-1	-1	54	0	-1
+negative ions	-1	-1	-1	55	0	-1
+water	-1	-1	-1	55	0	-1
+splashing	-1	-1	-1	55	0	-1
+cascade	-1	-1	-1	55	0	-1
+tumbling	-1	-1	-1	55	0	-1
+rocks	-1	-1	-1	55	0	-1
+Niagara	-1	-1	-1	55	0	-1
+blue sky	-1	-1	-1	56	0	-1
+skydiving	-1	-1	-1	56	0	-1
+parachuting	-1	-1	-1	56	0	-1
+dawn	-1	-1	-1	56	0	-1
+clouds	-1	-1	-1	56	0	-1
+cloudy	-1	-1	-1	56	0	-1
+grey	-1	-1	-1	56	0	-1
+star-studded	-1	-1	-1	56	0	-1
+chains	-1	-1	-1	57	0	-1
+Antarctic	-1	-1	-1	57,66	0	-1
+snowman	-1	-1	-1	57	0	-1
+snow suit	-1	-1	-1	57	0	-1
+skiing	-1	-1	-1	57	0	-1
+snowflakes	-1	-1	-1	57	0	-1
+snowboarding	-1	-1	-1	57	0	-1
+snow angels	-1	-1	-1	57	0	-1
+snow machine	-1	-1	-1	57	0	-1
+sky	-1	-1	-1	58	0	-1
+sunup	-1	-1	-1	58	0	-1
+bleary	-1	-1	-1	58	0	-1
+new day	-1	-1	-1	58	0	-1
+shepherd's warning	-1	-1	-1	58	0	-1
+sun	-1	-1	-1	58	0	-1
+spire	-1	-1	-1	59	0	-1
+cross	-1	-1	-1	59	0	-1
+pew	-1	-1	-1	59	0	-1
+chapel	-1	-1	-1	59	0	-1
+prayer	-1	-1	-1	59	0	-1
+fellowship	-1	-1	-1	59	0	-1
+wedding	-1	-1	-1	59	0	-1
+funeral	-1	-1	-1	59	0	-1
+hymn	-1	-1	-1	59	0	-1
+priest	-1	-1	-1	59	0	-1
+Jewish	-1	-1	-1	60	0	-1
+Jews	-1	-1	-1	60	0	-1
+reform	-1	-1	-1	60	0	-1
+orthodox	-1	-1	-1	60	0	-1
+tabernacle	-1	-1	-1	60	0	-1
+ancestors	-1	-1	-1	60	0	-1
+holy of holies	-1	-1	-1	60	0	-1
+Thailand	-1	-1	-1	60	0	-1
+Jerusalem	-1	-1	-1	60	0	-1
+Japanese garden	-1	-1	-1	61	0	-1
+sports	-1	-1	-1	62	0	-1
+cricket pavillion	-1	-1	-1	62	0	-1
+stadium	-1	-1	-1	62	0	-1
+ice cream	-1	-1	-1	62	0	-1
+Days Bay	-1	-1	-1	62	0	-1
+structure,	-1	-1	-1	62	0	-1
+royalty	-1	-1	-1	63	0	-1
+residence	-1	-1	-1	63	0	-1
+royal	-1	-1	-1	63	0	-1
+Buckingham	-1	-1	-1	63	0	-1
+servants	-1	-1	-1	63	0	-1
+mansion	-1	-1	-1	63	0	-1
+nobility	-1	-1	-1	63	0	-1
+Cinderella	-1	-1	-1	63	0	-1
+moat	-1	-1	-1	63	0	-1
+Versailles	-1	-1	-1	63	0	-1
+roller coasters	-1	-1	-1	65	0	-1
+clown	-1	-1	-1	65	0	-1
+sideshows	-1	-1	-1	65	0	-1
+candyfloss	-1	-1	-1	65	0	-1
+hot dogs	-1	-1	-1	65	0	-1
+haunted house	-1	-1	-1	65	0	-1
+shooting range	-1	-1	-1	65	0	-1
+stuffed toys	-1	-1	-1	65	0	-1
+prizes	-1	-1	-1	65	0	-1
+Kelly Tarlton's	-1	-1	-1	66	0	-1
+viewing tunnel	-1	-1	-1	66	0	-1
+stingray	-1	-1	-1	66	0	-1
+sharks	-1	-1	-1	66	0	-1
+penguins	-1	-1	-1	66	0	-1
+dolphins	-1	-1	-1	66	0	-1
+scuba trainers	-1	-1	-1	66	0	-1
+fish	-1	-1	-1	66	0	-1
+animals	-1	-1	-1	67	0	-1
+zoo keeper	-1	-1	-1	67	0	-1
+elephants	-1	-1	-1	67	0	-1
+family	-1	-1	-1	67	0	-1
+outing	-1	-1	-1	67	0	-1
+kiwi house	-1	-1	-1	67	0	-1
+nocturnal house	-1	-1	-1	67	0	-1
+meerkats	-1	-1	-1	67	0	-1
+enclosures	-1	-1	-1	67	0	-1
+wrap-around	-1	-1	-1	68	0	-1
+A-line	-1	-1	-1	68	0	-1
+pleated	-1	-1	-1	68	0	-1
+midi	-1	-1	-1	68	0	-1
+mini	-1	-1	-1	68	0	-1
+maxi	-1	-1	-1	68	0	-1
+flared	-1	-1	-1	68	0	-1
+pencil	-1	-1	-1	68	0	-1
+assymetrical	-1	-1	-1	68	0	-1
+high-waisted	-1	-1	-1	68	0	-1
+gown	-1	-1	-1	69	0	-1
+bride	-1	-1	-1	69	0	-1
+beading	-1	-1	-1	69	0	-1
+tulle	-1	-1	-1	69	0	-1
+bridesmaid	-1	-1	-1	69	0	-1
+veil	-1	-1	-1	69	0	-1
+garter	-1	-1	-1	69	0	-1
+reticule	-1	-1	-1	69	0	-1
+vehicle	-1	-1	-1	70	0	-1
+steam train	-1	-1	-1	71	0	-1
+electric train	-1	-1	-1	71	0	-1
+underground	-1	-1	-1	71	0	-1
+subway	-1	-1	-1	71	0	-1
+carriages	-1	-1	-1	71	0	-1
+metro	-1	-1	-1	71	0	-1
+toy train	-1	-1	-1	71	0	-1
+train set	-1	-1	-1	71	0	-1
+railcar	-1	-1	-1	71	0	-1
+afters	-1	-1	-1	73	0	-1
+pudding	-1	-1	-1	73	0	-1
+petits fours	-1	-1	-1	73	0	-1
+treats	-1	-1	-1	73	0	-1
+Japanese food	-1	-1	-1	74	0	-1
+California roll	-1	-1	-1	74	0	-1
+Korean	-1	-1	-1	75	0	-1
+Chinese	-1	-1	-1	75	0	-1
+barbie	-1	-1	-1	76	0	-1
+grill	-1	-1	-1	76	0	-1
+friends	-1	-1	-1	76	0	-1
+weekend	-1	-1	-1	76	0	-1
+cardboard	-1	-1	-1	77	0	-1
+storage	-1	-1	-1	77	0	-1
+hierarchical	-1	-1	-1	77	0	-1
+cabinet	-1	-1	-1	77	0	-1
+alphabetical order	-1	-1	-1	77	0	-1
+colour coded	-1	-1	-1	77	0	-1
+mail	-1	-1	-1	77	0	-1
+system	-1	-1	-1	77	0	-1
+tabs	-1	-1	-1	77	0	-1
+folders	-1	-1	-1	77	0	-1
+lever arch	-1	-1	-1	77	0	-1
+ring binder	-1	-1	-1	77	0	-1
+A4 or Letter	-1	-1	-1	77	0	-1
+box	-1	-1	-1	77	0	-1
+concertina	-1	-1	-1	77	0	-1
+briefcase	-1	-1	-1	77	0	-1
+folio	-1	-1	-1	77	0	-1
+cartography	-1	-1	-1	78	0	-1
+Google	-1	-1	-1	78	0	-1
+instructions	-1	-1	-1	78	0	-1
+directions	-1	-1	-1	78	0	-1
+sketch	-1	-1	-1	78,79,85	0	-1
+drawing	-1	-1	-1	78	0	-1
+chart	-1	-1	-1	78	0	-1
+topographic map	-1	-1	-1	78	0	-1
+artwork	-1	-1	-1	79	0	-1
+doodle	-1	-1	-1	79	0	-1
+cartoon	-1	-1	-1	79	0	-1
+charcoal	-1	-1	-1	79	0	-1
+coloured pencil	-1	-1	-1	79	0	-1
+animation	-1	-1	-1	79,80	0	-1
+anime	-1	-1	-1	79,80	0	-1
+manga	-1	-1	-1	80	0	-1
+Roadrunner	-1	-1	-1	80	0	-1
+'toon	-1	-1	-1	80	0	-1
+stop-motion	-1	-1	-1	80	0	-1
+Lego Bible,	-1	-1	-1	80	0	-1
+boogie	-1	-1	-1	81	0	-1
+disco	-1	-1	-1	81	0	-1
+dancing queen	-1	-1	-1	81	0	-1
+swing	-1	-1	-1	81	0	-1
+ballet	-1	-1	-1	81	0	-1
+ceroc	-1	-1	-1	81	0	-1
+bachata	-1	-1	-1	81	0	-1
+ballroom	-1	-1	-1	81	0	-1
+ball	-1	-1	-1	81	0	-1
+alto	-1	-1	-1	82	0	-1
+soprano	-1	-1	-1	82	0	-1
+waiata	-1	-1	-1	82	0	-1
+yodelling	-1	-1	-1	82	0	-1
+lullaby	-1	-1	-1	82	0	-1
+opera	-1	-1	-1	82	0	-1
+crooning	-1	-1	-1	82	0	-1
+pop	-1	-1	-1	82	0	-1
+rock	-1	-1	-1	82	0	-1
+singing with the whales	-1	-1	-1	82	0	-1
+cake	-1	-1	-1	83	0	-1
+candles	-1	-1	-1	83	0	-1
+birthday girl	-1	-1	-1	83	0	-1
+birthday boy	-1	-1	-1	83	0	-1
+big birthday	-1	-1	-1	83	0	-1
+presents	-1	-1	-1	83	0	-1
+gifts	-1	-1	-1	83	0	-1
+description	-1	-1	-1	85	0	-1
+identikit	-1	-1	-1	85	0	-1
+painting	-1	-1	-1	85	0	-1
+individual	-1	-1	-1	85	0	-1
+composite	-1	-1	-1	85	0	-1
+photo	-1	-1	-1	85	0	-1
+sprogs	-1	-1	-1	86	0	-1
+sprog	-1	-1	-1	86	0	-1
+infants	-1	-1	-1	86	0	-1
+spawn	-1	-1	-1	86	0	-1
+bubba	-1	-1	-1	86	0	-1
+footwear	-1	-1	-1	87	0	-1
+clogs	-1	-1	-1	87	0	-1
+jandal	-1	-1	-1	87	0	-1
+sunhat	-1	-1	-1	88	0	-1
+beanie	-1	-1	-1	88	0	-1
+helmet	-1	-1	-1	88	0	-1
+tam-o-shanter	-1	-1	-1	88	0	-1
+newsboy cap	-1	-1	-1	88	0	-1
+visor	-1	-1	-1	88	0	-1
+pilot's hat	-1	-1	-1	88	0	-1
+authorisation	-1	-1	-1	89	0	-1
+qualification	-1	-1	-1	89	0	-1
+achievment	-1	-1	-1	89	0	-1
+authenticity	-1	-1	-1	89	0	-1
+participation	-1	-1	-1	89	0	-1
+ticket	-1	-1	-1	89	0	-1
+placing	-1	-1	-1	89	0	-1
+award	-1	-1	-1	89	0	-1
+framed	-1	-1	-1	89	0	-1
+licence	-1	-1	-1	90	0	-1
+ID	-1	-1	-1	90	0	-1
+identification	-1	-1	-1	90	0	-1
+swipe card	-1	-1	-1	90	0	-1
+pass	-1	-1	-1	90	0	-1
+eftpos card	-1	-1	-1	91	0	-1
+Visa	-1	-1	-1	91	0	-1
+debit card	-1	-1	-1	91	0	-1
+Visa debit	-1	-1	-1	91	0	-1
+cash card	-1	-1	-1	91	0	-1
+ATM card	-1	-1	-1	91	0	-1
+invoice	-1	-1	-1	92	0	-1
+account	-1	-1	-1	92	0	-1
+check	-1	-1	-1	92	0	-1
+tab	-1	-1	-1	92	0	-1

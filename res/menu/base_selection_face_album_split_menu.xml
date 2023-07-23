@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/base_ic_send_selector" android:enabled="false" android:id="@id/action_share" android:title="@string/base_send_to" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/base_ic_idea_selector" android:enabled="false" android:id="@id/action_photo_creation" android:title="@string/base_creation" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/base_free_from_group_selector" android:enabled="false" android:id="@id/action_free_face_from_group" android:visible="true" android:title="@string/base_free_from_group" app:showAsAction="ifRoom" />
+    <item android:icon="@drawable/base_ic_delete_selector" android:enabled="false" android:id="@id/action_recycle" android:title="@string/base_delete" app:showAsAction="ifRoom" />
+</menu>

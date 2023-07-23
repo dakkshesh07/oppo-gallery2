@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout android:background="@color/main_white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.gallery.standard_lib.ui.scroller.RecyclerViewFastScroller android:id="@id/fastScroller" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.oplus.gallery.business_lib.ui.view.AlbumRecycleView android:id="@id/normal_album_recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/album_top_translucent_view" android:background="@drawable/base_album_top_mask_repeat" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </com.oplus.gallery.standard_lib.ui.scroller.RecyclerViewFastScroller>
+    <include layout="@layout/base_appbar_no_divider_layout" />
+</com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout>

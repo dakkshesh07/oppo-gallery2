@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/picture3d_actionbar_popup_more_window_select_color" />
+    <corners android:topLeftRadius="@dimen/picture3d_more_actionbar_popup_btn_corner" android:topRightRadius="@dimen/picture3d_more_actionbar_popup_btn_corner" android:bottomLeftRadius="@dimen/picture3d_more_actionbar_popup_btn_corner" android:bottomRightRadius="@dimen/picture3d_more_actionbar_popup_btn_corner" />
+</shape>

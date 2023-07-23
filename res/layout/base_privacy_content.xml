@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.gallery.business_lib.widget.PrivacyPolicyContentScrollView android:scrollbars="vertical" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0" app:base_max_height="@dimen/base_privacy_policy_text_max_height">
+        <TextView android:textSize="@dimen/TD07" android:textColor="@android:color/black" android:id="@id/privacy_policy_text_and_link" android:paddingLeft="@dimen/base_privacy_policy_horizontal_space" android:paddingRight="@dimen/base_privacy_policy_horizontal_space" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="@dimen/base_privacy_policy_text_line_space" />
+    </com.oplus.gallery.business_lib.widget.PrivacyPolicyContentScrollView>
+    <TextView android:textSize="@dimen/TD05" android:textColor="@color/base_black_50_percent" android:id="@id/privacy_tip" android:paddingLeft="@dimen/base_privacy_policy_horizontal_space" android:paddingRight="@dimen/base_privacy_policy_horizontal_space" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_privacy_policy_tip_vertical_space" android:layout_marginBottom="@dimen/base_privacy_policy_tip_vertical_space" android:lineSpacingExtra="@dimen/base_privacy_policy_text_line_space" />
+</LinearLayout>

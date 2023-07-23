@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/picture3d_compare_layout_height" />
+    <size android:height="@dimen/picture3d_compare_layout_height" />
+    <solid android:color="@color/picture3d_editor_text_compare_bg_selector" />
+</shape>

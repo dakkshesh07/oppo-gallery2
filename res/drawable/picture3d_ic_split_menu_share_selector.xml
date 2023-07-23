@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <bitmap android:src="@drawable/picture3d_ocr_navigation_share" android:tint="@color/picture3d_ocr_result_menu_pressed_color" />
+    </item>
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/picture3d_ocr_navigation_share" android:tint="@color/picture3d_ocr_result_menu_disable_color" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/picture3d_ocr_navigation_share" android:tint="@color/picture3d_ocr_result_menu_tint_color" />
+    </item>
+</selector>

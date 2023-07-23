@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/picture3d_filter_menu_item_radius" />
+    <size android:height="@dimen/picture3d_filter_image_item_width" android:width="@dimen/picture3d_filter_image_item_width" />
+    <stroke android:width="2.0dip" android:color="@color/picture3d_filter_menu_item_selected_filter_color" />
+</shape>

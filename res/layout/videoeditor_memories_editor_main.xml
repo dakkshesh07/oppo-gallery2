@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.videoeditor_lib.memories.ui.MemoriesView android:orientation="vertical" android:id="@id/main_view" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" android:forceDarkAllowed="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.gallery.videoeditor_lib.engine.GalleryEditorVideoView android:id="@id/engine_view" android:visibility="invisible" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <include android:id="@id/action_bar" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="@dimen/memories_editor_action_bar_with_status_bar_height" android:layout_alignParentTop="true" layout="@layout/videoeditor_memories_editor_action_bar" />
+    <include android:id="@id/control_bar" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/videoeditor_memories_editor_control_bar" />
+</com.oplus.gallery.videoeditor_lib.memories.ui.MemoriesView>

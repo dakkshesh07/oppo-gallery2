@@ -1,0 +1,58 @@
+{
+  "type": "constraint",
+  "layout_width": "match_parent",
+  "layout_height": "match_parent",
+  "id": "mainLayout",
+  "package": "com.coloros.gallery3d",
+  "child": [
+    {
+      "type": "image",
+      "id": "image",
+      "layout_width": "match_parent",
+      "layout_height": "match_parent",
+      "adjustViewBounds": true,
+      "scaleType": "centerCrop"
+    },
+    {
+      "type": "constraint",
+      "id": "innerLayout",
+      "layout_width": "match_parent",
+      "layout_height": "match_parent",
+      "padding": "12dp",
+      "child": [
+        {
+          "type": "text",
+          "id": "title",
+          "layout_width": "0dp",
+          "layout_height": "wrap_content",
+          "layout_constraintTop_toTopOf": "innerLayout",
+          "layout_constraintStart_toStartOf": "innerLayout",
+          "layout_constraintEnd_toEndOf": "innerLayout",
+          "text": "@string/widget_no_recommended_image",
+          "textColor": "@color/widget_title_text_color",
+          "textSize": "10dp",
+          "maxLines": "1",
+          "ellipsize": "end"
+        },
+        {
+          "type": "text",
+          "id": "mode",
+          "layout_width": "wrap_content",
+          "layout_height": "wrap_content",
+          "layout_constraintBottom_toBottomOf": "innerLayout",
+          "layout_constraintEnd_toEndOf": "innerLayout",
+          "paddingTop": "4dp",
+          "paddingBottom": "4dp",
+          "paddingStart": "12dp",
+          "paddingEnd": "12dp",
+          "background": "@drawable/widget_mode_bg",
+          "text": "@string/widget_change_mode",
+          "textColor": "@color/widget_mode_text_color",
+          "textSize": "14dp",
+          "maxLines": "1",
+          "ellipsize": "end"
+        }
+      ]
+    }
+  ]
+}

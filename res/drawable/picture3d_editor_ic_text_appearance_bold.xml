@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/picture3d_editor_ic_text_appearance_bold_normal" android:tint="@color/common_C12" android:alpha="0.3" />
+    </item>
+    <item android:state_pressed="true">
+        <bitmap android:src="@drawable/picture3d_editor_ic_text_appearance_bold_normal" android:tint="@color/common_C12" android:alpha="0.3" />
+    </item>
+    <item android:state_selected="true">
+        <bitmap android:src="@drawable/picture3d_editor_ic_text_appearance_bold_normal" android:tint="@color/common_C05" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/picture3d_editor_ic_text_appearance_bold_normal" android:alpha="0.7" />
+    </item>
+</selector>

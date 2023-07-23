@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout android:id="@id/appbar_layout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip" app:layout_behavior="@string/common_hideable_divider_toolbar_behavior"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/toolbar" android:paddingTop="@dimen/common_toolbar_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/toolbar_min_height" app:supportTitleTextAppearance="@style/textAppearanceSecondTitle" />
+    <ViewStub android:id="@id/old_hidden_collection_hint_layout" android:layout="@layout/base_old_hidden_collection_hint_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</com.google.android.material.appbar.AppBarLayout>

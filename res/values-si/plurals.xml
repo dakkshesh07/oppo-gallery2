@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d ඡායාරූප පැටවෙමින් ඇති අතර එක් කළ නොහැක.</item>
+        <item quantity="one">%d ඡායාරූපයක් පැටවෙමින් ඇති අතර එක් කළ නොහැක.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">බැංකු කාඩ්පත් %1$d ක්</item>
+        <item quantity="one">%1$d බැංකු කාඩ්පතක්</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">හැඳුනුම් %1$d ක්</item>
+        <item quantity="one">%1$d හැඳුනුමක්</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">අයිතම %d ක් ස්ථිරව මකන්න</item>
+        <item quantity="one">%d අයිතමයක් ස්ථිරව මකන්න</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">අයිතම %d ක් මකන්න</item>
+        <item quantity="one">%d අයිතමයක් මකන්න</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d ඡායාරූපය</item>
+        <item quantity="one">%1$d ඡායාරූප</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">හමුවූ ඡායාරූප: %s. වඩා පහසුවෙන් පිවිසීම සඳහා ඔබට ඒවා \"කාඩ්පත් ඇසුරුම\" වෙත ගෙන යාමට හැකිය.</item>
+        <item quantity="one">හමුවූ ඡායාරූප: %s. වඩා පහසුවෙන් පිවිසීම සඳහා ඔබට එය \"කාඩ්පත් ඇසුරුම\" වෙත ගෙන යාමට හැකිය.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">\"කාඩ්පත් ඇසුරුම\" වෙත %1$s හි ඡායාරූප ගෙන යන ලදී</item>
+        <item quantity="one">\"කාඩ්පත් ඇසුරුම\" වෙත %1$s හි ඡායාරූපයක් ගෙන යන ලදී</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">ප්‍රවේශ පත්‍ර/ලදුපත් %1$d ක්</item>
+        <item quantity="one">%1$d ප්‍රවේශ පත්‍රයක්/ලදුපතක්</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">තෝරාගත් අයිතම දැනටමත් ඇල්බමයේ පවතී</item>
+        <item quantity="one">තෝරාගත් අයිතමය දැනටමත් ඇල්බමයේ පවතී</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">අයිතම %d ක්</item>
+        <item quantity="one">%d අයිතමයක්</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">ඡායාරූප %d ක් පැටවෙන අතර ගෙන යා නොහැකිවනු ඇත</item>
+        <item quantity="one">%d ඡායාරූපයක් පැටවෙන අතර ගෙන යා නොහැකිවනු ඇත</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">පුද්ගලයන් %1$d</item>
+        <item quantity="one">පුද්ගලයන් %1$d</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">ඡායාරූප ගෙන යන ලදී. මෙම ඇල්බමයට වීඩියෝ ගෙන යාමට නොහැකිවනු ඇත.</item>
+        <item quantity="one">ඡායාරූපය ගෙන යන ලදී. මෙම ඇල්බමයට වීඩියෝ ගෙන යාමට නොහැකිවනු ඇත.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">අයිතම %d ක් ප්‍රතිස්ථාපිත කරන්න</item>
+        <item quantity="one">%d අයිතමයක් ප්‍රතිස්ථාපිත කරන්න</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ඡායාරූප</item>
+        <item quantity="one">%1$d ඡායාරූප</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d වීඩියෝ</item>
+        <item quantity="one">%1$d වීඩියෝ</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d ක් තේරිණි</item>
+        <item quantity="one">%1$d තෝරන ලදී</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d ඇල්බම තේරිණි</item>
+        <item quantity="one">%1$d ඇල්බම තේරිණි</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">පුද්ගලයන් %1$d දෙනෙක් තෝරා ගැණිනි</item>
+        <item quantity="one">පුද්ගලයන් %1$d දෙනෙක් තෝරා ගැණිනි</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d තේරිණි</item>
+        <item quantity="one">%1$d තේරිණි</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">මතකයන් %1$d ක් තෝරා ගන්නා ලදී</item>
+        <item quantity="one">%1$d මතකයක් තෝරා ගන්නා ලදී</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">වීඩියෝ %1$d තේරිණි</item>
+        <item quantity="one">වීඩියෝ %1$d තේරිණි</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d වීඩියෝ</item>
+        <item quantity="one">%1$d වීඩියෝ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් බානොගන්නා ලදී.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් බානොගන්නා ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් බානොගන්නා ලදී. කරුණාකර ඔබගේ දුරකථනය ආරෝපණය කරන්න.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් බානොගන්නා ලදී. කරුණාකර ඔබගේ දුරකථනය ආරෝපණය කරන්න.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් බාගෙන නැත. කරුණාකර ඔබගේ උපාංගය ආරෝපණය කරන්න.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් බාගෙන නැත. කරුණාකර ඔබගේ උපාංගය ආරෝපණය කරන්න.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් බානොගන්නා ලදී.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් බානොගන්නා ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. අයිතම %1$d ක් බාගැනීම නොකරන ලදී.</item>
+        <item quantity="one">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. %1$d අයිතමයක් බාගැනීම නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. අයිතම %1$d ක් බාගැනීම නොකරන ලදී.</item>
+        <item quantity="one">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. %1$d අයිතමයක් බාගැනීම නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් බාගැනීම නොකරන ලදී. %2$s</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් බාගැනීම නොකරන ලදී.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් බාගැනීම නොකරන ලදී. %2$s හෝ %3$s.</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් බාගැනීම නොකරන ලදී. %2$s හෝ %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් බා නොගන්නා ලදී.</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් බා නොගන්නා ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් බා නොගන්නා ලදී.</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් බා නොගන්නා ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">වලාකුළු ගබඩාව ප්‍රමාණවත් නොවේ. %1$d අයිතමයක් බාගෙන නැත.</item>
+        <item quantity="one">වලාකුළු ගබඩාව ප්‍රමාණවත් නොවේ. අයිතම %1$d ක් බාගෙන නැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">උපාංගයේ ගබඩාව ප්‍රමාණවත් නැත. අයිතම %1$d ක් බාගැනීම නොකෙරිණි.</item>
+        <item quantity="one">උපාංගයේ ගබඩාව ප්‍රමාණවත් නැත. %1$d අයිතමයක් බාගැනීම නොකෙරිණි.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">ජාල දෝෂයකි. අයිතම %1$d ක් බාගැනුනේ නැත.</item>
+        <item quantity="one">ජාල දෝෂයකි. %1$d අයිතමයක් බාගැනුනේ නැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">ජාල දෝෂයකි. අයිතම %1$d ක් බාගැනුනේ නැත.</item>
+        <item quantity="one">ජාල දෝෂයකි. %1$d අයිතමයක් බාගැනුනේ නැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">වලාකුළු ගබඩාව ප්‍රමාණවත් නොවේ. මුල් ඡායාරූප %1$d ක් බාගෙන නැත.</item>
+        <item quantity="one">වලාකුළු ගබඩාව ප්‍රමාණවත් නොවේ. %1$d මුල් ඡායාරූපයක් බාගෙන නැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d ඡායාරූප සමමුහුර්ත කර නොමැත. වලාකුළු ගබඩාව පිරී ඇත.</item>
+        <item quantity="one">%1$d ඡායාරූපයක් සමමුහුර්ත කර නොමැත. වලාකුළු ගබඩාව පිරී ඇත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">ඡායාරූප %1$d ක් සමමුහුර්ත නොකරන ලදී. බැටරිය %2$s%1$ ට වඩා අඩු වූ විට වලාකුළු සමමුහුර්ත කිරීම විරාම වේ.</item>
+        <item quantity="one">%1$d ඡායාරූපයක් සමමුහුර්ත නොකරන ලදී. බැටරිය %2$s%1$ ට වඩා අඩු වූ විට වලාකුළු සමමුහුර්ත කිරීම විරාම වේ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">ඡායාරූප %1$d ක් සමමුහුර්ත නොකරන ලදී. බල සුරැකුම් ප්‍රකාරය තුළ වලාකුළු සමමුහුර්තය විරාම කරන ලදී.</item>
+        <item quantity="one">%1$d ඡායාරූපයක් සමමුහුර්ත නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">වලාකුළු ගබඩාව පිරී ඇත. අයිතම %1$d ක් පටවා නොමැත.</item>
+        <item quantity="one">වලාකුළු ගබඩාව පිරී ඇත. %1$d අයිතමයක් පටවා නොමැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් පැටවීම නොකරන ලදී.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් පැටවීම නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් පැටවීම නොකරන ලදී. කරුණාකර ඔබගේ දුරකථනය ආරෝපණය කරන්න.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් පැටවීම නොකරන ලදී. කරුණාකර ඔබගේ දුරකථනය ආරෝපණය කරන්න.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් පටවා නැත. කරුණාකර ඔබගේ උපාංගය ආරෝපණය කරන්න.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් පටවා නැත. කරුණාකර ඔබගේ උපාංගය ආරෝපණය කරන්න.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">බැටරිය %1$s ට වඩා අඩුය. අයිතම %2$d ක් පැටවීම නොකරන ලදී.</item>
+        <item quantity="one">බැටරිය %1$s ට වඩා අඩුය. %2$d අයිතමයක් පැටවීම නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. අයිතම %1$d ක් පැටවීම නොකරන ලදී.</item>
+        <item quantity="one">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. %1$d අයිතමයක් පැටවීම නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. %1$d අයිතමයක් පැටවීම නොකරන ලදී.</item>
+        <item quantity="one">බලය සුරැකුම් ප්‍රකාරය සක්‍රීයයි. %1$d අයිතමයක් පැටවීම නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">වලාකුළු ගබඩාව පිරී ඇත. අයිතම %1$d ක් පටවා නොමැත.</item>
+        <item quantity="one">වලාකුළු ගබඩාව පිරී ඇත. %1$d අයිතමයක් පටවා නොමැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">වීඩියෝ %1$d ක් සමමුහුර්ත කර නොමැත. වලාකුළු ගබඩාව පිරී ඇත.වලාකුළු ගබඩා සැලැස්ම උසස් කරන්න.</item>
+        <item quantity="one">%1$d වීඩියෝවක් සමමුහුර්ත කර නොමැත. වලාකුළු ගබඩාව පිරී ඇත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">වීඩියෝ %1$d ක් සමමුහුර්ත නොකරන ලදී. බැටරිය %2$s%1$ ට වඩා අඩු වූ විට වලාකුළු සමමුහුර්ත කිරීම විරාම වේ.</item>
+        <item quantity="one">%1$d වීඩියෝවක් සමමුහුර්ත නොකරන ලදී. බැටරිය %2$s%1$ ට වඩා අඩු වූ විට වලාකුළු සමමුහුර්ත කිරීම විරාම වේ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">වීඩියෝ %1$d ක් සමමුහුර්ත නොකරන ලදී. බල සුරැකුම් ප්‍රකාරය තුළ වලාකුළු සමමුහුර්තය විරාම කරන ලදී.</item>
+        <item quantity="one">%1$d වීඩියෝවක් සමමුහුර්ත නොකරන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d ඡායාරූපයක් සමමුහුර්ත කර නොමැත.</item>
+        <item quantity="one">ඡායාරූප %1$d ක් සමමුහුර්ත කර නොමැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් පැටවීම නොකරන ලදී. %2$s</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් පැටවීම නොකරන ලදී.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් පැටවීම නොකරන ලදී. %2$s හෝ %3$s.</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් පැටවීම නොකරන ලදී. %2$s හෝ %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් නොපටවන ලදී.</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් නොපටවන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">ජාල සම්බන්ධතාවයක් නොමැත. අයිතම %1$d ක් නොපටවන ලදී.</item>
+        <item quantity="one">ජාල සම්බන්ධතාවයක් නොමැත. %1$d අයිතමයක් නොපටවන ලදී.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">වීඩියෝ %1$d ක් සමමුහුර්ත කර නැත</item>
+        <item quantity="one">%1$d වීඩියෝවක් සමමුහුර්ත කර නැත</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">ජාල දෝෂයකි. අයිතම %1$d ක් පැටවූයේ නැත.</item>
+        <item quantity="one">ජාල දෝෂයකි. %1$d අයිතමයක් පැටවූයේ නැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">ජාල දෝෂයකි. අයිතම %1$d ක් පැටවූයේ නැත.</item>
+        <item quantity="one">ජාල දෝෂයකි. %1$d අයිතමයක් පැටවූයේ නැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">සේවා දෝෂයකි. අයිතම %1$d ක් පැටවූයේ නැත.</item>
+        <item quantity="one">සේවා දෝෂයකි. %1$d අයිතමයක් පැටවූයේ නැත.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">සේවා දෝෂයකි. අයිතම %1$d ක් පැටවූයේ නැත.</item>
+        <item quantity="one">සේවා දෝෂයකි. %1$d අයිතමයක් පැටවූයේ නැත.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">අයිතම %d ක් එක් කිරීමට අසමත් විය</item>
+        <item quantity="one">%d අයිතමයක් එක් කිරීමට අසමත් විය</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d ඡායාරූප පැටවෙමින් ඇති අතර පුද්ගලික ලෙස සකස් කළ නොහැක.</item>
+        <item quantity="one">%d ඡායාරූපයක් පැටවෙමින් ඇති අතර පුද්ගලික ලෙස සකස් කළ නොහැක.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">පැය %d යි</item>
+        <item quantity="one">%d පැයක්</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">අයිතම %d ක්</item>
+        <item quantity="one">%d අයිතමයක්</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">මිනිත්තු %d ක්</item>
+        <item quantity="one">%d මිනිත්තුවක්</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">තත්පර %d ක්</item>
+        <item quantity="one">%d තත්පරයක්</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">දින %1$dයි</item>
+        <item quantity="one">%1$d දිනක්</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ඡායාරූප</item>
+        <item quantity="one">%1$d ඡායාරූප</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d වීඩියෝ</item>
+        <item quantity="one">%1$d වීඩියෝ</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">ඡායාරූප %d ක් පැටවෙමින් ඇත</item>
+        <item quantity="one">%d ඡායාරූපයක් පැටවෙමින් ඇත</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">නව දැනුම්දීම් %dක්</item>
+        <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">මි.මී. %1$d ට වඩා විශාල විය යුතුය</item>
+        <item quantity="one">මි.මී. %1$d ට වඩා විශාල විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d px ට වඩා විශාල විය යුතුය</item>
+        <item quantity="one">%1$d px ට වඩා විශාල විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">මි.මී. %1$d ට වඩා කුඩා විය යුතුය</item>
+        <item quantity="one">මි.මී. %1$d ට වඩා කුඩා විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d px ට වඩා කුඩා විය යුතුය</item>
+        <item quantity="one">%1$d px ට වඩා කුඩා විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB ට වඩා විශාල විය යුතුය</item>
+        <item quantity="one">%1$d KB ට වඩා විශාල විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB ට වඩා කුඩා විය යුතුය</item>
+        <item quantity="one">%1$d KB ට වඩා කුඩා විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">මි.මී. %1$d ට වඩා විශාල විය යුතුය</item>
+        <item quantity="one">මි.මී. %1$d ට වඩා විශාල විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d px ට වඩා විශාල විය යුතුය</item>
+        <item quantity="one">%1$d px ට වඩා විශාල විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">මි.මී. %1$d ට වඩා කුඩා විය යුතුය</item>
+        <item quantity="one">මි.මී. %1$d ට වඩා කුඩා විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d px ට වඩා කුඩා විය යුතුය</item>
+        <item quantity="one">%1$d px ට වඩා කුඩා විය යුතුය</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">තේරූ ඡායාරූප %d පමණක් තබා ගන්න</item>
+        <item quantity="one">තේරූ ඡායාරූප %d පමණක් තබා ගන්න</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">අයිතම %d ක් මකන්න</item>
+        <item quantity="one">%d අයිතමයක් මකන්න</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d තෝරන ලදී</item>
+        <item quantity="one">%1$d ක් තේරිණි</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d ඇල්බම තේරිණි</item>
+        <item quantity="one">%1$d ඇල්බම තේරිණි</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d තේරිණි</item>
+        <item quantity="one">%1$d තෝරන ලදී</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d ස්ටිකර තෝරා ගැනුණි</item>
+        <item quantity="one">%1$d ස්ටිකරය තෝරා ගැනුණි</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">වීඩියෝ %1$d තේරිණි</item>
+        <item quantity="one">වීඩියෝ %1$d තේරිණි</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d ඡායාරූප පැටවෙමින් ඇති අතර මැකීමට නොහැක.</item>
+        <item quantity="one">%d ඡායාරූපයක් පැටවෙමින් ඇති අතර මැකීමට නොහැක.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">අයිතම %1$d මැකීමට අසමත් විය. කරුණාකර යළි උත්සාහ කරන්න</item>
+        <item quantity="one">අයිතම %1$d මැකීමට අසමත් විය. කරුණාකර යළි උත්සාහ කරන්න</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">නව දැනුම්දීම් %d ක්</item>
+        <item quantity="one">%d නව දැනුම්දීමක්</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d ඡායාරූප</item>
+        <item quantity="one">%1$d ඡායාරූප</item>
+    </plurals>
+</resources>

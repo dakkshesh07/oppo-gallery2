@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d foto sedang dimuatkan dan tidak boleh ditambahkan.</item>
+        <item quantity="one">%d foto sedang dimuatkan dan tidak boleh ditambahkan.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d kad bank</item>
+        <item quantity="one">%1$d kad bank</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">Foto ditemukan: %s. Hidupkan ciri ini untuk menyusun foto yang berkaitan. Anda boleh menghidupkan atau mematikannya dalam Tetapan.</item>
+        <item quantity="one">Foto ditemukan: %s. Hidupkan ciri ini untuk menyusun foto yang berkaitan. Anda boleh menghidupkan atau mematikannya dalam Tetapan.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ID</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Padamkan %d item secara kekal</item>
+        <item quantity="one">Padamkan %d item secara kekal</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Padamkan %d item</item>
+        <item quantity="one">Padamkan %d item</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d foto</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Foto ditemukan: %s. Anda boleh mengalihkannya ke \"Bekas kad\" untuk akses yang lebih mudah.</item>
+        <item quantity="one">Foto ditemukan: %s. Anda boleh mengalihkannya ke \"Bekas kad\" untuk akses yang lebih mudah.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Foto %1$s dialihkan ke \"Bekas kad\"</item>
+        <item quantity="one">Foto %1$s dialihkan ke \"Bekas kad\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d tiket/resit</item>
+        <item quantity="one">%1$d tiket/resit</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Item yang dipilih sudah ada dalam album</item>
+        <item quantity="one">Item yang dipilih sudah ada dalam album</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d foto sedang dimuatkan dan tidak dapat dialih</item>
+        <item quantity="one">%d foto sedang dimuatkan dan tidak dapat dialih</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d orang</item>
+        <item quantity="one">%1$d orang</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Foto dialihkan. Video tidak dapat dialihkan ke album ini.</item>
+        <item quantity="one">Foto dialihkan. Video tidak dapat dialihkan ke album ini.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Pulihkan %d item</item>
+        <item quantity="one">Pulihkan %d item</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d Foto</item>
+        <item quantity="one">%1$d Foto</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d Video</item>
+        <item quantity="one">%1$d Video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d item dipilih</item>
+        <item quantity="one">%1$d item dipilih</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d Album Dipilih</item>
+        <item quantity="one">%1$d Album Dipilih</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d Orang Dipilih</item>
+        <item quantity="one">%1$d Orang Dipilih</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d dipilih</item>
+        <item quantity="one">%1$d dipilih</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d memori dipilih</item>
+        <item quantity="one">%1$d memori dipilih</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d Video Dipilih</item>
+        <item quantity="one">%1$d Video Dipilih</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d Video</item>
+        <item quantity="one">%1$d Video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun. Sila caskan telefon anda.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun. Sila caskan telefon anda.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun. Sila caskan peranti anda.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun. Sila caskan peranti anda.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat turun. %2$s.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat turun. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat turun. %2$s atau %3$s.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat turun. %2$s atau %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Storan awan tidak mencukupi. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Storan awan tidak mencukupi. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Storan peranti tidak mencukupi. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Storan peranti tidak mencukupi. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Ralat rangkaian. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Ralat rangkaian. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Ralat rangkaian. %1$d item tidak dimuat turun.</item>
+        <item quantity="one">Ralat rangkaian. %1$d item tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Storan awan tidak mencukupi. %1$d foto asal tidak dimuat turun.</item>
+        <item quantity="one">Storan awan tidak mencukupi. %1$d foto asal tidak dimuat turun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d foto tidak disegerakkan. Storan awan penuh.</item>
+        <item quantity="one">%1$d foto tidak disegerakkan. Storan awan penuh.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d foto tidak disegerakkan. Penyegerakan awan dijedakan apabila bateri kurang daripada %2$s.</item>
+        <item quantity="one">%1$d foto tidak disegerakkan. Penyegerakan awan dijedakan apabila bateri kurang daripada %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d foto tidak disegerakkan. Penyegerakan awan dijeda dalam mod penjimatan kuasa.</item>
+        <item quantity="one">%1$d foto tidak disegerakkan. Penyegerakan awan dijeda dalam mod penjimatan kuasa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Storan awan penuh. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Storan awan penuh. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik. Sila caskan telefon anda.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik. Sila caskan telefon anda.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik. Sila caskan peranti anda.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik. Sila caskan peranti anda.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik.</item>
+        <item quantity="one">Bateri lebih rendah daripada %1$s. %2$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Mod penjimatan kuasa dihidupkan. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Storan awan penuh. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Storan awan penuh. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d video tidak disegerakkan. Storan awan penuh.</item>
+        <item quantity="one">%1$d video tidak disegerakkan. Storan awan penuh.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d video tidak disegerakkan. Penyegerakan awan dijedakan apabila bateri kurang daripada %2$s.</item>
+        <item quantity="one">%1$d video tidak disegerakkan. Penyegerakan awan dijedakan apabila bateri kurang daripada %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d video tidak disegerakkan. Penyegerakan awan dijeda dalam mod penjimatan kuasa.</item>
+        <item quantity="one">%1$d video tidak disegerakkan. Penyegerakan awan dijeda dalam mod penjimatan kuasa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d foto tidak disegerakkan.</item>
+        <item quantity="one">%1$d foto tidak disegerakkan.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat naik. %2$s.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat naik.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat naik. %2$s atau %3$s.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat naik. %2$s atau %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Tiada sambungan rangkaian. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Tiada sambungan rangkaian. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d video tidak disegerakkan</item>
+        <item quantity="one">%1$d video tidak disegerakkan</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Ralat rangkaian. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Ralat rangkaian. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Ralat rangkaian. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Ralat rangkaian. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Ralat perkhidmatan. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Ralat perkhidmatan. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Ralat perkhidmatan. %1$d item tidak dimuat naik.</item>
+        <item quantity="one">Ralat perkhidmatan. %1$d item tidak dimuat naik.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Gagal menambah %d item</item>
+        <item quantity="one">Gagal menambah %d item</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d foto sedang dimuatkan dan tidak boleh ditetapkan sebagai peribadi.</item>
+        <item quantity="one">%d foto sedang dimuatkan dan tidak boleh ditetapkan sebagai peribadi.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d minit</item>
+        <item quantity="one">%d minit</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d hari</item>
+        <item quantity="one">%1$d hari</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d Foto</item>
+        <item quantity="one">%1$d Foto</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d Video</item>
+        <item quantity="one">%1$d Video</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d foto dimuatkan</item>
+        <item quantity="one">%d foto dimuatkan</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Mesti lebih besar daripada %1$d mm</item>
+        <item quantity="one">Mesti lebih besar daripada %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Mesti lebih besar daripada %1$d px</item>
+        <item quantity="one">Mesti lebih besar daripada %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Mesti lebih kecil daripada %1$d mm</item>
+        <item quantity="one">Mesti lebih kecil daripada %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Mesti lebih kecil daripada %1$d px</item>
+        <item quantity="one">Mesti lebih kecil daripada %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Mesti lebih besar daripada %1$d KB</item>
+        <item quantity="one">Mesti lebih besar daripada %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Mesti lebih kecil daripada %1$d KB</item>
+        <item quantity="one">Mesti lebih kecil daripada %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Mesti lebih besar daripada %1$d mm</item>
+        <item quantity="one">Mesti lebih besar daripada %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Mesti lebih besar daripada %1$d px</item>
+        <item quantity="one">Mesti lebih besar daripada %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Mesti lebih kecil daripada %1$d mm</item>
+        <item quantity="one">Mesti lebih kecil daripada %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Mesti lebih kecil daripada %1$d px</item>
+        <item quantity="one">Mesti lebih kecil daripada %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Kekalkan %d foto yang dipilih sahaja</item>
+        <item quantity="one">Kekalkan %d foto yang dipilih sahaja</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Padam %d Item</item>
+        <item quantity="one">Padam %d Item</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d dipilih</item>
+        <item quantity="one">%1$d Item Dipilih</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d Album Dipilih</item>
+        <item quantity="one">%1$d Album Dipilih</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d dipilih</item>
+        <item quantity="one">%1$d dipilih</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d pelekat dipilih</item>
+        <item quantity="one">%1$d pelekat dipilih</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d Video Dipilih</item>
+        <item quantity="one">%1$d Video Dipilih</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d foto sedang dimuatkan dan tidak boleh dipadamkan.</item>
+        <item quantity="one">%d foto sedang dimuatkan dan tidak boleh dipadamkan.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Gagal memadamkan %1$d item. Sila cuba lagi.</item>
+        <item quantity="one">Gagal memadamkan %1$d item. Sila cuba lagi</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d pemberitahuan baharu</item>
+        <item quantity="one">%d pemberitahuan baharu</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d Foto</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

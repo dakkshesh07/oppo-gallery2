@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.coui.appcompat.widget.COUIChip android:textColor="@color/search_recommend_location_text_normal_color" android:id="@id/button_recommend_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/search_recommend_text_margin_bottom" android:layout_marginEnd="@dimen/search_recommend_text_margin_end" app:chipMinHeight="@dimen/search_recommend_label_layout_height" app:textEndPadding="@dimen/search_recommend_label_item_padding_end" app:textStartPadding="@dimen/search_recommend_label_item_padding_start" style="@style/Widget.COUI.Chip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

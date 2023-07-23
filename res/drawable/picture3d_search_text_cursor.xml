@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:width="@dimen/picture3d_search_view_edit_text_cursor_width" />
+    <padding android:top="@dimen/picture3d_search_view_edit_text_cursor_top_padding" android:bottom="@dimen/picture3d_search_view_edit_text_cursor_bottom_padding" />
+    <solid android:color="?couiTintControlNormal" />
+</shape>

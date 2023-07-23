@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="videoeditor_video_editor_menu_item_text_min_lines">1</integer>
+</resources>

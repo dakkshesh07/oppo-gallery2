@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">រូបថត %d កំពុង​ត្រូវ​បាន​ផ្ទុក និង​មិនអាច​បន្ថែម​បាន​ទេ។</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">កាតធនាគារ %1$d</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">រូបថតដែលបានរកឃើញ៖ %s។ បើកមុខងារនេះ ដើម្បីរៀបចំរូបថតដែលពាក់ព័ន្ធ។ អ្នកអាចបើក ឬបិទវាបានគ្រប់ពេលនៅក្នុងការកំណត់។</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">លេខសម្គាល់ %1$d</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">លុបធាតុ %d ជាអចិន្ត្រៃយ៍</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">លុបធាតុ %d</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">រូបថត %1$d</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">រូបថតដែលបានរកឃើញ៖ %s។ អ្នកអាចផ្លាស់ទីវាទៅ \"ប្រអប់កាត\" ដើម្បីអាចចូលប្រើបានកាន់តែងាយស្រួល។</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">បានផ្លាស់ទីរូបថត %1$s សន្លឹកទៅ \"ប្រអប់កាត\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">បង្កាន់ដៃ/សំបុត្រ %1$d</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">ធាតុដែលបានជ្រើសរើសមាននៅក្នុងអាល់ប៊ុមរួចហើយ</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">ធាតុ %d</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">រូបថត %d កំពុងផ្ទុក និងមិនអាចផ្លាស់ទីបានទេ</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d មនុស្ស</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">បានផ្លាស់ទីរូបថត។ មិនអាចផ្លាស់ទីវីដេអូទៅអាល់ប៊ុមនេះបានទេ។</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">ស្ដារធាតុ %d</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d រូបថត</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d វីដេអូ</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d ធាតុត្រូវបានជ្រើស</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">បានជ្រើសអាល់ប៊ុម%1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">បានជ្រើសមនុស្ស %1$d នាក់</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">បានជ្រើស%1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">បានជ្រើសរើសកម្រងអនុស្សាវរីយ៍ %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d វីដេអូត្រូវបានជ្រើស</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d វីដេអូ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ %2$d ធាតុមិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ ធាតុ %2$d មិនបានទាញយកទេ។ សូមសាកថ្មទូរសព្ទរបស់អ្នក។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ ធាតុ %2$d មិនត្រូវបានទាញយកទេ។ សូមសាកថ្មឧបករណ៍របស់អ្នក។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ %2$d ធាតុមិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">ម៉ូដសន្សំសំចៃថាមពលបានបើក។ %1$d ធាតុមិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">ម៉ូដសន្សំសំចៃថាមពលបានបើក។ %1$d ធាតុមិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ ធាតុ %1$d មិនត្រូវបានទាញយកទេ។ %2$s។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ %1$d ធាតុមិនត្រូវបានទាញយកទេ។ %2$s ឬ %3$s។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ ធាតុ %1$d មិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ ធាតុ %1$d មិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">ទំហំផ្ទុកក្លោដមិនគ្រប់គ្រាន់ទេ។ %1$d ធាតុមិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">ទំហំផ្ទុកឧបករណ៍មិនគ្រប់គ្រាន់។ ធាតុ %1$d មិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">បណ្ដាញមានបញ្ហា។ ធាតុ %1$d មិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">បណ្ដាញមានបញ្ហា។ ធាតុ %1$d មិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">ទំហំផ្ទុកក្លោដមិនគ្រប់គ្រាន់ទេ។ រូបថតដើម %1$d សន្លឹកមិនត្រូវបានទាញយកទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">រូបថត %1$d សន្លឹកមិនត្រូវបានធ្វើសមកាលកម្ម។ កន្លែងផ្ទុកក្នុងក្លោដពេញហើយ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">រូបថត %1$d សន្លឹកមិនត្រូវបានធ្វើសមកាលកម្ម។ សមកាលកម្មក្លោដត្រូវបានផ្អាក នៅពេល​ថ្មនៅសល់តិចជាង %2$s។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">រូបថត %1$d សន្លឹកមិនត្រូវបានធ្វើសមកាលកម្ម។ សមកាលកម្មក្លោដត្រូវបានផ្អាកនៅក្នុងម៉ូដសន្សំសំចៃថាមពល។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">ទំហំផ្ទុកក្លោដពេញហើយ។ %1$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ %2$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ ធាតុ %2$d មិនបានអាប់ឡូតទេ។ សូមសាកថ្មទូរសព្ទរបស់អ្នក។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ ធាតុ %2$d មិនត្រូវបានអាប់ឡូតទេ។ សូមសាកថ្មឧបករណ៍របស់អ្នក។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">ថ្មនៅសល់តិចជាង %1$s។ %2$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">ម៉ូដសន្សំសំចៃថាមពលបានបើក។ %1$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">ម៉ូដសន្សំសំចៃថាមពលបានបើក។ %1$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">ទំហំផ្ទុកក្លោដពេញហើយ។ %1$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">វីដេអូ %1$d មិនត្រូវបានធ្វើសមកាលកម្ម។ កន្លែងផ្ទុកក្នុងក្លោដពេញហើយ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">វីដេអូ %1$d មិនត្រូវបានធ្វើសមកាលកម្ម។ សមកាលកម្មក្លោដត្រូវបានផ្អាក នៅពេល​ថ្មនៅសល់តិចជាង %2$s។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">វីដេអូ %1$d មិនត្រូវបានធ្វើសមកាលកម្ម។ សមកាលកម្មក្លោដត្រូវបានផ្អាកនៅក្នុងម៉ូដសន្សំសំចៃថាមពល។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">រូបថត %1$d សន្លឹកមិនត្រូវបានធ្វើសមកាលកម្ម។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ %1$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។ %2$s។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ %1$d ធាតុមិនត្រូវបានអាប់ឡូតទេ។ %2$s ឬ %3$s។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ ធាតុ %1$d មិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">គ្មានការតភ្ជាប់បណ្ដាញទេ។ ធាតុ %1$d មិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">វីដេអូ %1$d មិនត្រូវបានធ្វើសមកាលកម្ម</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">បណ្ដាញមានបញ្ហា។ ធាតុ %1$d មិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">បណ្ដាញមានបញ្ហា។ ធាតុ %1$d មិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">សេវាកម្មមានបញ្ហា។ ធាតុ %1$d មិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">សេវាកម្មមានបញ្ហា។ ធាតុ %1$d មិនត្រូវបានអាប់ឡូតទេ។</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">បានបរាជ័យក្នុងការបន្ថែមធាតុ %d</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">រូបថត %d កំពុងត្រូវបានផ្ទុក ហើយមិនអាចកំណត់ជាឯកជនបានទេ។</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">ធាតុ %d</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d នាទី</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d វិនាទី</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d រូបថត</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d វីដេអូ</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">កំពុងផ្ទុករូបថត %d សន្លឹក</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">ត្រូវតែមានទំហំធំជាង %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">ត្រូវតែមានទំហំធំជាង %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">ត្រូវតែមានទំហំតូចជាង %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">ត្រូវតែមានទំហំតូចជាង %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">ត្រូវតែមានទំហំធំជាង %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">ត្រូវតែមានទំហំតូចជាង %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">ត្រូវតែមានទំហំធំជាង %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">ត្រូវតែមានទំហំធំជាង %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">ត្រូវតែមានទំហំតូចជាង %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">ត្រូវតែមានទំហំតូចជាង %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">រក្សា %d រូបថតដែលបានជ្រើសប៉ុណ្ណោះ</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">លុបធាតុចំនួន %d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">បានជ្រើសរើស %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">បានជ្រើសអាល់ប៊ុម%1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">បានជ្រើស %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">បានជ្រើសស្ទីកគើរ %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d វីដេអូត្រូវបានជ្រើស</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">រូបថត %d កំពុងត្រូវបានផ្ទុក ហើយមិនអាចលុបបានទេ។</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">បានបរាជ័យក្ុងការលុប %1$d ធាតុ។ សូមព្យាយាមម្តងទៀត</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">ការជូនដំណឹងថ្មីៗ %d</item>
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d រូបថត</item>
+    </plurals>
+</resources>

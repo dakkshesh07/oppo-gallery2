@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/picture3d_editor_menu_item_icon_height" android:width="@dimen/picture3d_editor_menu_item_icon_width" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M5 3.25C4.03 3.25 3.25 4.03 3.25 5v15v0.75H4h15c0.97 0 1.75-0.78 1.75-1.75V5c0-0.97-0.78-1.75-1.75-1.75H5zM4.75 5c0-0.14 0.11-0.25 0.25-0.25h6.19l-6.44 6.44V5zm0 8.31v4.88L18.19 4.75H13.3l-8.56 8.56zm14.5-7.5L5.81 19.25h4.88l8.56-8.56V5.8zm0 7l-6.44 6.44H19c0.14 0 0.25-0.11 0.25-0.25v-6.19z" android:fillType="evenOdd" />
+</vector>

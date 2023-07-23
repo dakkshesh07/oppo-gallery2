@@ -1,0 +1,188 @@
+kutsikas	-1	-1	-1	3,3	0	-1
+lemmikloom koer	-1	-1	-1	3	0	-1
+näugumine	-1	-1	-1	4	0	-1
+kassipoeg	-1	-1	-1	4,4	0	-1
+lemmikloom kass	-1	-1	-1	4	0	-1
+Taimestik	-1	-1	-1	5	0	-1
+rohelus	-1	-1	-1	5,10	0	-1
+lõhnaaine	-1	-1	-1	6	0	-1
+lillepeenar	-1	-1	-1	6	0	-1
+värsked lilled	-1	-1	-1	6	0	-1
+lilled	-1	-1	-1	6,6	0	-1
+kimp	-1	-1	-1	6	0	-1
+Õlekõrs	-1	-1	-1	7	0	-1
+muru	-1	-1	-1	7,7,7	0	-1
+roheline rohumaa	-1	-1	-1	7,7	0	-1
+roheline heinamaa	-1	-1	-1	7	0	-1
+leht	-1	-1	-1	7	0	-1
+Puit	-1	-1	-1	8	0	-1
+suured puud	-1	-1	-1	8	0	-1
+mets	-1	-1	-1	8	0	-1
+maaliline	-1	-1	-1	9	0	-1
+stseen	-1	-1	-1	9,9	0	-1
+vaade	-1	-1	-1	9,9	0	-1
+vaatamisväärsused	-1	-1	-1	9	0	-1
+Mäeahelik	-1	-1	-1	10	0	-1
+mäestik	-1	-1	-1	10,10	0	-1
+tipp	-1	-1	-1	10	0	-1
+mäehari	-1	-1	-1	10	0	-1
+mäed	-1	-1	-1	10	0	-1
+kauged mäed	-1	-1	-1	10	0	-1
+küngas	-1	-1	-1	10,10	0	-1
+kõrge mägi	-1	-1	-1	10,10,10	0	-1
+kõrgmägi	-1	-1	-1	10	0	-1
+kalju	-1	-1	-1	10	0	-1
+maastik	-1	-1	-1	10	0	-1
+ookean	-1	-1	-1	11,11,11	0	-1
+sügav meri	-1	-1	-1	11	0	-1
+merepiirkond	-1	-1	-1	11	0	-1
+suur ookean	-1	-1	-1	11	0	-1
+merevesi	-1	-1	-1	11	0	-1
+selge meri	-1	-1	-1	11	0	-1
+merevaade	-1	-1	-1	11	0	-1
+Hooned	-1	-1	-1	12	0	-1
+ehitised	-1	-1	-1	12	0	-1
+Söögituba	-1	-1	-1	13	0	-1
+söökla	-1	-1	-1	13	0	-1
+söögituba	-1	-1	-1	13	0	-1
+söögikoht	-1	-1	-1	13	0	-1
+Ööklubi	-1	-1	-1	14	0	-1
+pubi	-1	-1	-1	14	0	-1
+klubi	-1	-1	-1	14	0	-1
+Sport	-1	-1	-1	15,45	0	-1
+staadion	-1	-1	-1	15	0	-1
+Spordisaal	-1	-1	-1	16	0	-1
+spordikeskus	-1	-1	-1	16	0	-1
+võimla	-1	-1	-1	16	0	-1
+näituste saal	-1	-1	-1	17	0	-1
+väljapanekusaal	-1	-1	-1	17	0	-1
+näitus	-1	-1	-1	17	0	-1
+odavmüük	-1	-1	-1	18	0	-1
+väljamüük	-1	-1	-1	18	0	-1
+äri	-1	-1	-1	18	0	-1
+firma	-1	-1	-1	18	0	-1
+poed	-1	-1	-1	18,18	0	-1
+kauplus	-1	-1	-1	18	0	-1
+turg	-1	-1	-1	18	0	-1
+pood	-1	-1	-1	18	0	-1
+poodlemine	-1	-1	-1	18	0	-1
+terminal	-1	-1	-1	19	0	-1
+terminalijaam	-1	-1	-1	19	0	-1
+lennuväli	-1	-1	-1	19	0	-1
+lennupark	-1	-1	-1	19	0	-1
+Riietus	-1	-1	-1	20	0	-1
+peened riided	-1	-1	-1	20,20	0	-1
+rõivad	-1	-1	-1	20	0	-1
+rõivastus	-1	-1	-1	20	0	-1
+mood	-1	-1	-1	20	0	-1
+pagas	-1	-1	-1	20	0	-1
+kostüümid	-1	-1	-1	20	0	-1
+Ostukott	-1	-1	-1	21	0	-1
+käekott	-1	-1	-1	21,21	0	-1
+rahakott	-1	-1	-1	21	0	-1
+nahahooldustooted	-1	-1	-1	22	0	-1
+Aksessuaarid	-1	-1	-1	24	0	-1
+kaunistused	-1	-1	-1	24	0	-1
+kuld- ja hõbeehted	-1	-1	-1	24	0	-1
+Transport	-1	-1	-1	25	0	-1
+liiklus	-1	-1	-1	25	0	-1
+transport	-1	-1	-1	25	0	-1
+tarne	-1	-1	-1	25	0	-1
+Sõiduk	-1	-1	-1	26	0	-1
+Laev	-1	-1	-1	27	0	-1
+paat	-1	-1	-1	27	0	-1
+Toidukaup	-1	-1	-1	28	0	-1
+toiduaine	-1	-1	-1	28	0	-1
+gurmee	-1	-1	-1	28	0	-1
+hõrk	-1	-1	-1	28	0	-1
+maitsev	-1	-1	-1	28	0	-1
+eine	-1	-1	-1	28	0	-1
+delikatess	-1	-1	-1	28,28	0	-1
+hea toit	-1	-1	-1	28	0	-1
+köök	-1	-1	-1	28	0	-1
+söömine	-1	-1	-1	28	0	-1
+toiduvalmistamine	-1	-1	-1	28	0	-1
+Lääne köök	-1	-1	-1	29	0	-1
+läänelik toit	-1	-1	-1	29	0	-1
+Euroopa köök	-1	-1	-1	29	0	-1
+Euroopa toit	-1	-1	-1	29	0	-1
+meretoidud	-1	-1	-1	30	0	-1
+merelist päritolu tooted	-1	-1	-1	30	0	-1
+Puuviljad	-1	-1	-1	31	0	-1
+värsked puuviljad	-1	-1	-1	31	0	-1
+puuviljad	-1	-1	-1	31,31	0	-1
+Pruul	-1	-1	-1	32	0	-1
+kvaliteetvein	-1	-1	-1	32	0	-1
+hea vein	-1	-1	-1	32,32	0	-1
+kange alkohoolne jook	-1	-1	-1	32	0	-1
+piiritus	-1	-1	-1	32	0	-1
+suurepärane vein	-1	-1	-1	32,32	0	-1
+peen vein	-1	-1	-1	32	0	-1
+vanema aastakäigu vein	-1	-1	-1	32	0	-1
+Vein	-1	-1	-1	33	0	-1
+kuiv punane	-1	-1	-1	33	0	-1
+kuiv punane vein	-1	-1	-1	33	0	-1
+Elektroonikaseade	-1	-1	-1	36	0	-1
+Elektroonikatooted	-1	-1	-1	37	0	-1
+digitaalne	-1	-1	-1	37,37	0	-1
+Mobiiltelefon	-1	-1	-1	38	0	-1
+Sõna	-1	-1	-1	41	0	-1
+PowerPoint	-1	-1	-1	42	0	-1
+slaidiesitlus	-1	-1	-1	42	0	-1
+esitlus	-1	-1	-1	42	0	-1
+Ekraani jäädvustamine	-1	-1	-1	43	0	-1
+kuvatõmmised	-1	-1	-1	43	0	-1
+ekraani jäädvustamine	-1	-1	-1	43	0	-1
+Pidu	-1	-1	-1	44	0	-1
+harjutus	-1	-1	-1	45	0	-1
+võistlus	-1	-1	-1	45	0	-1
+turniir	-1	-1	-1	45	0	-1
+Eine	-1	-1	-1	46	0	-1
+pidusööming	-1	-1	-1	46	0	-1
+bankett	-1	-1	-1	46	0	-1
+kostitus	-1	-1	-1	46	0	-1
+külaline	-1	-1	-1	46	0	-1
+pidu	-1	-1	-1	46	0	-1
+pidusöök	-1	-1	-1	46	0	-1
+Pulmapidu	-1	-1	-1	47	0	-1
+pulma õhtusöök	-1	-1	-1	47	0	-1
+pulmabankett	-1	-1	-1	47	0	-1
+Esinemine	-1	-1	-1	48	0	-1
+etenduskunstid	-1	-1	-1	48	0	-1
+Väike lind	-1	-1	-1	49	0	-1
+kodulind	-1	-1	-1	49	0	-1
+kodulinnud	-1	-1	-1	49	0	-1
+linnud	-1	-1	-1	49	0	-1
+Kalad	-1	-1	-1	50	0	-1
+Öö saabumine	-1	-1	-1	54	0	-1
+Uhked kosed	-1	-1	-1	55	0	-1
+sinine taevas	-1	-1	-1	56	0	-1
+selge taevas	-1	-1	-1	56	0	-1
+Lumi	-1	-1	-1	57	0	-1
+lumi	-1	-1	-1	57	0	-1
+Katedraal	-1	-1	-1	59	0	-1
+pühamu	-1	-1	-1	60	0	-1
+klooster	-1	-1	-1	60	0	-1
+Torn	-1	-1	-1	61	0	-1
+lehtla	-1	-1	-1	62	0	-1
+Kuninglik õukond	-1	-1	-1	63	0	-1
+aiad	-1	-1	-1	63	0	-1
+Akvaarium	-1	-1	-1	66	0	-1
+veealune maailm	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+Raudtee	-1	-1	-1	71	0	-1
+Magustoidud	-1	-1	-1	73	0	-1
+Shabu-shabu	-1	-1	-1	75	0	-1
+Tekstidokument	-1	-1	-1	77	0	-1
+Illustratsioon	-1	-1	-1	79	0	-1
+joonistus	-1	-1	-1	79	0	-1
+Koomiks	-1	-1	-1	80	0	-1
+Sünnipäevapidu	-1	-1	-1	83	0	-1
+sünnipäevaks kogunemine	-1	-1	-1	83	0	-1
+Inimene	-1	-1	-1	85	0	-1
+karakter	-1	-1	-1	85	0	-1
+beebid	-1	-1	-1	86	0	-1
+väikelapsed	-1	-1	-1	86	0	-1
+Krediitkaart	-1	-1	-1	91	0	-1
+säästukaart	-1	-1	-1	91	0	-1
+Kviitung	-1	-1	-1	92	0	-1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="picture3d_video_player_btn_margin_screen">199.0dip</dimen>
+    <dimen name="picture3d_video_player_btn_margin_screen_horizontal">199.0dip</dimen>
+    <dimen name="search_result_list_layout_padding_horizontal">207.0dip</dimen>
+</resources>

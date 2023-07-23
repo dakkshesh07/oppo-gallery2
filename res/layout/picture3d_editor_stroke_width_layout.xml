@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/picture3d_edit_brush_stroke_width_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.widget.seekbar.COUISeekBar android:id="@id/doodle_stroke_seek_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxHeight="@dimen/picture3d_seek_bar_progress_drawable_default_max_height" android:layout_centerInParent="true" android:mirrorForRtl="true" android:paddingHorizontal="@dimen/picture3d_editor_doodle_seekbar_padding_start_end" app:couiSeekBarBackgroundColor="@color/picture3d_seek_bar_progress_drawable_no_progress_color" app:couiSeekBarProgressColor="@color/picture3d_seek_bar_progress_drawable_progress_color" app:couiSeekBarThumbColor="@color/picture3d_seek_bar_thumb_inner_circle_color" app:couiSeekBarThumbShadowColor="@color/picture3d_seek_bar_progress_drawable_no_progress_color" />
+</RelativeLayout>

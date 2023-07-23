@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/picture3d_ic_split_menu_share_selector" android:id="@id/navigation_share" android:title="@string/base_send_to" />
+    <item android:icon="@drawable/picture3d_ic_split_menu_copy_selector" android:id="@id/navigation_copy" android:title="@string/common_copy_to" />
+    <item android:icon="@drawable/picture3d_ic_split_menu_save_note_selector" android:id="@id/navigation_save_note" android:title="@string/picture3d_ocr_save_to_note" />
+</menu>

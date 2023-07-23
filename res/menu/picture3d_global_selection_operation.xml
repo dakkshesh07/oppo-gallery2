@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/picture3d_ic_action_cancel_selector" android:id="@id/action_global_cancel" android:visible="true" android:showAsAction="always" />
+    <item android:icon="@drawable/picture3d_ic_action_finish_selector" android:id="@id/action_global_apply" android:visible="true" android:showAsAction="always|withText" />
+</menu>

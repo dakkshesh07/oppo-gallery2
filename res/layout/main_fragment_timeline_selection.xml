@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout android:background="@color/common_white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/timeline_frame_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false">
+        <com.oplus.gallery.business_lib.timeline.view.TimelineView android:id="@id/timeline_view" android:paddingBottom="@dimen/main_timeline_view_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:forceDarkAllowed="false" />
+        <ImageView android:id="@id/timeline_top_translucent_view" android:background="@drawable/base_album_top_mask_repeat" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <com.oplus.gallery.standard_lib.ui.scroller.FullScreenFastScroller android:layout_gravity="end" android:id="@id/timeline_fast_scroller" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_tab_layout_height" android:forceDarkAllowed="false" />
+        <com.oplus.gallery.business_lib.timeline.view.TimelineFooterView android:layout_gravity="bottom" android:id="@id/timeline_footer" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <include layout="@layout/base_appbar_no_divider_layout" />
+</com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.template.editor.widget.HorizontalLinearListView android:id="@id/adjust_horizontal_list" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/picture3d_editor_main_menu_margin_top" app:base_itemSpacing="@dimen/picture3d_adjust_menu_item_spacing"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

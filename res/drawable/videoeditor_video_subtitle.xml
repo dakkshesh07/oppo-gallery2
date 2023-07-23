@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="text___" android:height="@dimen/video_editor_menu_icon_size" android:width="@dimen/video_editor_menu_icon_size" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="path_width" android:pathData="M19 7V5H12M12 5H5V7M12 5V19H10H14" android:strokeColor="#ffffffff" android:strokeWidth="1.57" />
+</vector>

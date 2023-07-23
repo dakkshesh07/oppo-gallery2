@@ -1,0 +1,66 @@
+{
+  "type": "constraint",
+  "layout_width": "match_parent",
+  "layout_height": "match_parent",
+  "id": "mainLayout",
+  "package": "com.coloros.gallery3d",
+  "paddingStart": "10dp",
+  "paddingEnd": "10dp",
+  "background": "@color/widget_bg_color",
+  "child": [
+    {
+      "type": "constraint",
+      "layout_width": "match_parent",
+      "layout_height": "wrap_content",
+      "id": "innerLayout",
+      "layout_constraintTop_toTopOf": "mainLayout",
+      "layout_constraintBottom_toBottomOf": "mainLayout",
+      "layout_constraintStart_toStartOf": "mainLayout",
+      "layout_constraintEnd_toEndOf": "mainLayout",
+      "child": [
+        {
+          "type": "image",
+          "id": "image",
+          "layout_width": "60dp",
+          "layout_height": "60dp",
+          "layout_constraintStart_toStartOf": "innerLayout",
+          "layout_constraintEnd_toEndOf": "innerLayout",
+          "adjustViewBounds": true,
+          "src": "@drawable/widget_no_permission"
+        },
+        {
+          "type": "text",
+          "id": "text1",
+          "layout_width": "match_parent",
+          "layout_height": "wrap_content",
+          "layout_constraintTop_toBottomOf": "image",
+          "gravity": "center_horizontal",
+          "padding": "2dp",
+          "text": "@string/widget_no_permission_desc",
+          "textColor": "@color/widget_no_permission_desc_text_color",
+          "textSize": "12dp",
+          "maxLines": "2",
+          "ellipsize": "end"
+        },
+        {
+          "type": "text",
+          "id": "text2",
+          "layout_width": "match_parent",
+          "layout_height": "wrap_content",
+          "layout_constraintTop_toBottomOf": "text1",
+          "layout_marginTop": "4dp",
+          "gravity": "center_horizontal",
+          "paddingTop": "4dp",
+          "paddingBottom": "4dp",
+          "paddingStart": "12dp",
+          "paddingEnd": "12dp",
+          "text": "@string/common_settings",
+          "textColor": "@color/widget_no_permission_button_text_color",
+          "textSize": "12dp",
+          "maxLines": "2",
+          "ellipsize": "end"
+        }
+      ]
+    }
+  ]
+}

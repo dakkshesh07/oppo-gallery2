@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="base_empty_image_view_alpha">0.5</item>
+    <item type="dimen" name="coui_lock_pattern_outer_circle_max_alpha">0.2</item>
+    <item type="dimen" name="coui_numeric_keyboard_dark_circle_max_alpha">0.12</item>
+    <item type="dimen" name="main_intelligence_label_pic_people_location_alpha">0.5</item>
+    <item type="dimen" name="widget_icon_alpha">0.5</item>
+</resources>

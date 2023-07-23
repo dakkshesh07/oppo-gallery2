@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/crop_layout" android:background="@color/picture3d_crop_image_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/appbar_layout" android:forceDarkAllowed="false">
+        <include layout="@layout/picture3d_gl_layout" />
+    </LinearLayout>
+    <com.google.android.material.appbar.AppBarLayout android:id="@id/appbar_layout" android:background="@color/picture3d_crop_image_background_color" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no" app:elevation="0.0dip">
+        <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/toolbar" android:background="@android:color/transparent" android:paddingTop="@dimen/common_toolbar_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/toolbar_min_height" />
+    </com.google.android.material.appbar.AppBarLayout>
+</RelativeLayout>

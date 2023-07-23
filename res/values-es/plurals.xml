@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">Se están cargando %d fotos y no se puede añadir.</item>
+        <item quantity="one">Se está cargando %d foto y no se puede añadir.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d tarjetas bancarias</item>
+        <item quantity="one">%1$d tarjeta bancaria</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ID</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Eliminar permanentemente %d elementos</item>
+        <item quantity="one">Eliminar permanentemente %d elemento</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Eliminar %d elementos</item>
+        <item quantity="one">Eliminar %d elemento</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Fotos encontradas: %s. Puedes moverlas a \"Tarjetero\" para facilitar el acceso.</item>
+        <item quantity="one">Fotos encontradas: %s. Puedes moverla a \"Tarjetero\" para facilitar el acceso.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Fotos de %1$s movidas a \"Tarjetero\"</item>
+        <item quantity="one">Foto de %1$s movida a \"Tarjetero\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d tickets/recibos</item>
+        <item quantity="one">%1$d ticket/recibo</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Los elementos seleccionados ya existen en el álbum</item>
+        <item quantity="one">El elemento seleccionado ya existe en el álbum</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d elementos</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d fotos se están cargando y no se pueden mover</item>
+        <item quantity="one">%d foto se está cargando y no se puede mover</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d personas</item>
+        <item quantity="one">%1$d personas</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Fotos movidas. No se pueden mover vídeos a este álbum.</item>
+        <item quantity="one">Foto movida. No se pueden mover vídeos a este álbum.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Restaurar %d elementos</item>
+        <item quantity="one">Restaurar %d elemento</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d elementos seleccionados</item>
+        <item quantity="one">%1$d elemento seleccionado</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d álbumes selec.</item>
+        <item quantity="one">%1$d álbum selec.</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d personas selecc.</item>
+        <item quantity="one">%1$d personas selecc.</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d recuerdos seleccionados</item>
+        <item quantity="one">%1$d recuerdo seleccionado</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d vídeos seleccionados</item>
+        <item quantity="one">%1$d vídeo seleccionado</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han descargado.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han descargado. Carga el teléfono.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha descargado. Carga el teléfono.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han descargado. Carga el dispositivo.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha descargado. Carga el dispositivo.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han descargado.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Modo ahorro de batería activado. %1$d elementos no se han descargado.</item>
+        <item quantity="one">Modo ahorro de batería activado. %1$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Modo ahorro de batería activado. %1$d elementos no se han descargado.</item>
+        <item quantity="one">Modo ahorro de batería activado. %1$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han descargado. %2$s.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha descargado. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han descargado. %2$s o %3$s.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha descargado. %2$s o %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han descargado.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han descargado.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">El almacenamiento en la nube es insuficiente. %1$d elemento no se ha descargado.</item>
+        <item quantity="one">El almacenamiento en la nube es insuficiente. %1$d elementos no se han descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Almacenamiento del dispositivo insuficiente. %1$d elementos no se han descargado.</item>
+        <item quantity="one">Almacenamiento del dispositivo insuficiente. %1$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Error de red. %1$d elementos no se han descargado.</item>
+        <item quantity="one">Error de red. %1$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Error de red. %1$d elementos no se han descargado.</item>
+        <item quantity="one">Error de red. %1$d elemento no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">El almacenamiento en la nube es insuficiente. %1$d fotos originales no se han descargado.</item>
+        <item quantity="one">El almacenamiento en la nube es insuficiente. %1$d foto original no se ha descargado.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d fotos no sincronizadas. El almacenamiento en la nube está lleno.</item>
+        <item quantity="one">%1$d foto no sincronizada. El almacenamiento en la nube está lleno.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d fotos no sincronizadas. La sincronización en la nube se pone en pausa si la batería tiene menos del %2$s de carga.</item>
+        <item quantity="one">%1$d foto no sincronizada. La sincronización en la nube se pone en pausa si la batería tiene menos del %2$s de carga.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d fotos no sincronizadas. La sincronización en la nube se pone en pausa durante el modo de ahorro de batería.</item>
+        <item quantity="one">%1$d foto no sincronizada. La sincronización en la nube se pone en pausa durante el modo de ahorro de batería.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">El almacenamiento en la nube está lleno. %1$d elementos no se han subido.</item>
+        <item quantity="one">El almacenamiento en la nube está lleno. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han subido.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han subido. Carga el teléfono.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha subido. Carga el teléfono.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han subido. Carga el dispositivo.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha subido. Carga el dispositivo.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Batería por debajo del %1$s. %2$d elementos no se han subido.</item>
+        <item quantity="one">Batería por debajo del %1$s. %2$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Modo ahorro de batería activado. %1$d elementos no se han subido.</item>
+        <item quantity="one">Modo ahorro de batería activado. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Modo ahorro de batería activado. %1$d elemento no se ha subido.</item>
+        <item quantity="one">Modo ahorro de batería activado. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">El almacenamiento en la nube está lleno. %1$d elementos no se han subido.</item>
+        <item quantity="one">El almacenamiento en la nube está lleno. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d vídeos no sincronizados. El almacenamiento en la nube está lleno.</item>
+        <item quantity="one">%1$d vídeo no sincronizado. El almacenamiento en la nube está lleno.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d vídeos no sincronizados. La sincronización en la nube se pone en pausa si la batería tiene menos del %2$s de carga.</item>
+        <item quantity="one">%1$d vídeo no sincronizado. La sincronización en la nube se pone en pausa si la batería tiene menos del %2$s de carga.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d vídeos no sincronizados. La sincronización en la nube se pone en pausa durante el modo de ahorro de batería.</item>
+        <item quantity="one">%1$d vídeo no sincronizado. La sincronización en la nube se pone en pausa durante el modo de ahorro de batería.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d foto no sincronizada.</item>
+        <item quantity="one">%1$d fotos no sincronizadas.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han subido. %2$s.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha subido.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han subido. %2$s o %3$s.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha subido. %2$s o %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han subido.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Sin conexión de red. %1$d elementos no se han subido.</item>
+        <item quantity="one">Sin conexión de red. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d vídeos no sincronizados,</item>
+        <item quantity="one">%1$d vídeo no sincronizado,</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Error de red. %1$d elementos no se han subido.</item>
+        <item quantity="one">Error de red. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Error de red. %1$d elementos no se han subido.</item>
+        <item quantity="one">Error de red. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Error de servicio. %1$d elementos no se han subido.</item>
+        <item quantity="one">Error de servicio. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Error de servicio. %1$d elementos no se han subido.</item>
+        <item quantity="one">Error de servicio. %1$d elemento no se ha subido.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Error al añadir %d elementos.</item>
+        <item quantity="one">Error al añadir %d elemento.</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">Se están cargando %d fotos y no se pueden establecer como privadas.</item>
+        <item quantity="one">Se está cargando %d foto y no se puede establecer como privada.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d elementos</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d fotos se están subiendo</item>
+        <item quantity="one">%d foto se está subiendo</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Debe ser superior a %1$d mm</item>
+        <item quantity="one">Debe ser superior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Debe ser superior a %1$d píxeles</item>
+        <item quantity="one">Debe ser superior a %1$d píxeles</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Debe ser inferior a %1$d mm</item>
+        <item quantity="one">Debe ser inferior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Debe ser inferior a %1$d píxeles</item>
+        <item quantity="one">Debe ser inferior a %1$d píxeles</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Debe ser superior a %1$d KB</item>
+        <item quantity="one">Debe ser superior a %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Debe ser inferior a %1$d KB</item>
+        <item quantity="one">Debe ser inferior a %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Debe ser superior a %1$d mm</item>
+        <item quantity="one">Debe ser superior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Debe ser superior a %1$d píxeles</item>
+        <item quantity="one">Debe ser superior a %1$d píxeles</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Debe ser inferior a %1$d mm</item>
+        <item quantity="one">Debe ser inferior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Debe ser inferior a %1$d píxeles</item>
+        <item quantity="one">Debe ser inferior a %1$d píxeles</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Mantener solo las %d fotos seleccionadas</item>
+        <item quantity="one">Mantener solo %d foto seleccionada</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Eliminar %d ítems</item>
+        <item quantity="one">Eliminar %d ítem</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">Seleccionado: %1$d</item>
+        <item quantity="one">%1$d seleccionado(s)</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d álbumes selec.</item>
+        <item quantity="one">%1$d álbum selec.</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d seleccionado</item>
+        <item quantity="one">Seleccionado: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d pegatinas seleccionadas</item>
+        <item quantity="one">%1$d pegatina seleccionada</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d vídeos seleccionados</item>
+        <item quantity="one">%1$d vídeo seleccionado</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">Se están cargando %d fotos y no se puede eliminar.</item>
+        <item quantity="one">Se está cargando %d foto y no se puede eliminar.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Error al eliminar %1$d elementos. Inténtelo de nuevo</item>
+        <item quantity="one">Error al eliminar %1$d elemento. Inténtelo de nuevo</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d notificaciones nuevas</item>
+        <item quantity="one">%d notificación nueva</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

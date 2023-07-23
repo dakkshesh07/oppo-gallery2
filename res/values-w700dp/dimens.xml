@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_result_grid_title_margin_end">0.0dip</dimen>
+    <dimen name="search_result_grid_title_margin_start">0.0dip</dimen>
+    <dimen name="search_result_guide_layout_padding_end">0.0dip</dimen>
+    <dimen name="search_result_guide_layout_padding_start">0.0dip</dimen>
+    <dimen name="search_result_item_arrow_margin_right">0.0dip</dimen>
+    <dimen name="search_result_list_layout_padding_horizontal">108.0dip</dimen>
+    <dimen name="search_result_recommend_divider_margin_end">0.0dip</dimen>
+    <dimen name="search_result_recommend_divider_margin_start">0.0dip</dimen>
+    <dimen name="search_result_recommend_item_pic_margin_start">0.0dip</dimen>
+</resources>

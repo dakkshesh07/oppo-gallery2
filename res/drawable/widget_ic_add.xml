@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dip" android:width="36.0dip" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/widget_custom_icon_bg_color" android:pathData="M18 0a18 18 0 1 0 0 36a18 18 0 1 0 0-36z" />
+    <path android:fillColor="#ffffffff" android:pathData="M18 27c4.97 0 9-4.03 9-9s-4.03-9-9-9s-9 4.03-9 9s4.03 9 9 9zm-0.8-4.63V18.8h-3.58v-1.6h3.58v-3.57h1.6v3.57h3.57v1.6H18.8v3.57h-1.6z" android:fillType="evenOdd" />
+</vector>

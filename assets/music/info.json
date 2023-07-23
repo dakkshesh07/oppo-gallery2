@@ -1,0 +1,19 @@
+{
+    "musicfiles": [
+        {
+            "name": "morning-sunrise",
+            "id": "morning-sunrise",
+            "music suffix": ".m4a"
+        },
+        {
+            "name": "best-foot-forward",
+            "id": "best-foot-forward",
+            "music suffix": ".m4a"
+        },
+        {
+            "name": "happy-home",
+            "id": "happy-home",
+            "music suffix": ".m4a"
+        }
+    ]
+}

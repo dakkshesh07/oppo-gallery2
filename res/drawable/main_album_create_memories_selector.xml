@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <bitmap android:src="@drawable/main_ic_album_create_memories" android:tint="@color/base_memories_create_memories_movie_icon_pressed_tint" />
+    </item>
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/main_ic_album_create_memories" android:tint="@color/base_memories_create_memories_movie_icon_disable_tint" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/main_ic_album_create_memories" android:tint="@color/base_memories_create_memories_movie_icon_tint" />
+    </item>
+</selector>

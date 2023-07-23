@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:topLeftRadius="@dimen/common_all_album_fragment_cover_image_corner_radius" android:topRightRadius="@dimen/common_all_album_fragment_cover_image_corner_radius" />
+            <solid android:color="@color/main_timeline_empty_view_background_press" />
+        </shape>
+    </item>
+    <item>
+        <color android:color="@android:color/transparent" />
+    </item>
+</selector>

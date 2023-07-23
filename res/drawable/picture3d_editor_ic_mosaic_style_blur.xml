@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="false">
+        <bitmap android:src="@drawable/picture3d_icon_mosaic_3" android:alpha="@dimen/common_state_unselected_alpha" />
+    </item>
+    <item android:drawable="@drawable/picture3d_icon_mosaic_3" />
+</selector>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="tab_photo_active" android:tint="@color/main_tab_selected_icon_black" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M4 5.66669C4 5.1144 4.44772 4.66669 5 4.66669H19C19.5523 4.66669 20 5.1144 20 5.66669V15.7807L15.7494 12.3854L15.257 11.992L14.8366 12.4616L8.68568 19.3334H5C4.44772 19.3334 4 18.8856 4 18.3334V5.66669ZM15.4097 13.8205L20 17.4872V18.3334C20 18.8856 19.5523 19.3334 19 19.3334H10.4751L15.4097 13.8205ZM8.66667 10.0007C9.40305 10.0007 10 9.40372 10 8.66734C10 7.93096 9.40305 7.334 8.66667 7.334C7.93029 7.334 7.33333 7.93096 7.33333 8.66734C7.33333 9.40372 7.93029 10.0007 8.66667 10.0007Z" android:fillType="evenOdd" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_top_tip_icon" android:layout_width="@dimen/common_top_tip_icon_size" android:layout_height="@dimen/common_top_tip_icon_size" android:layout_marginTop="@dimen/common_top_tip_icon_margin_vertical" android:layout_marginBottom="@dimen/common_top_tip_icon_margin_vertical" android:layout_marginStart="@dimen/common_top_tip_icon_margin_start" />
+    <TextView android:id="@id/tv_top_tip_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_top_tip_content_margin_vertical" android:layout_marginBottom="@dimen/common_top_tip_content_margin_vertical" android:translationY="-0.33000004dip" android:layout_marginStart="@dimen/common_top_tip_content_margin_start" android:layout_marginEnd="@dimen/common_top_tip_content_margin_end" style="@style/CommonTopTipText" />
+</LinearLayout>

@@ -1,0 +1,2067 @@
+[
+  {
+    "pack_name": {
+      "en": "Johnny_Filters",
+      "zh": "Johnny_Filters"
+    },
+    "pack_id": "Johnny_Filters",
+    "filters": [
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Paris 10",
+        "description": "",
+        "id": "B1aMqioxf",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.10210526,
+          "luminance_red": 0.19736843,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": -0.09842105,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": -0.7763158,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              245.82
+            ]
+          ],
+          "hue_orange": -0.013157895,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.09842105,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": -0.10526316,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              11.934
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": 0.075789474,
+          "saturation_aqua": 0.09842105,
+          "luminance_blue": -0.32894737,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.10473684,
+          "hue_blue": -0.10263158,
+          "contrast": 0.25368422,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.09842105,
+          "saturation_orange": -0.28315789,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": -0.03631579,
+          "luminance_aqua": -0.55263156,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              243.984
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": -0.13157895,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              247.656
+            ]
+          ],
+          "saturation_yellow": -0.19736843,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.2236842,
+          "highlights": 0.38157895,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Nature",
+        "description": "",
+        "id": "Syt2KeZZf",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.0,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": -0.13473684,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": -0.34210527,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": 0.049473684,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              2.754,
+              0.0
+            ],
+            [
+              243.984,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.14473684,
+          "saturation_aqua": 0.0,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.10473684,
+          "hue_blue": 0.0,
+          "contrast": 0.10157895,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.15105264,
+          "saturation_orange": -0.069473684,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.0,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              3.672
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_yellow": 0.0,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.09894737
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Clear",
+        "description": "",
+        "id": "r1JaFSZZG",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": -0.28947368,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.27631578,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": -0.15473685,
+          "saturation_magenta": 0.92105263,
+          "saturation": 0.0,
+          "whites": 0.0,
+          "hue_magenta": 0.47368422,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              253.164
+            ]
+          ],
+          "hue_orange": -0.065789476,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.09210526,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.27631578,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              12.852,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.053157896,
+          "saturation_aqua": 0.7005263,
+          "luminance_blue": -0.43421054,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.09210526,
+          "hue_blue": -0.10526316,
+          "contrast": 0.35526314,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 1.0,
+          "saturation_orange": -0.35526314,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.67105263,
+          "tint": -0.06894737,
+          "luminance_aqua": -0.25315788,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              235.722
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": -0.16736843,
+          "shadows_hue": 0.0,
+          "temperature": -0.09578948,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              230.214
+            ]
+          ],
+          "saturation_yellow": -0.35526314,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.23684211,
+          "highlights": 0.25,
+          "clarity": -0.5,
+          "hue_green": 0.7105263,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Muse",
+        "description": "",
+        "id": "r1PrfoolG",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.06847316,
+          "luminance_red": -0.2195706,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.0,
+          "diffuse": 0.131012,
+          "blacks": -0.22504847,
+          "saturation_magenta": 0.7988536,
+          "saturation": 0.0,
+          "whites": 0.0,
+          "hue_magenta": 0.19400729,
+          "curves_blue": [
+            [
+              9.18,
+              1.2179406
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": -0.1342074,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": -0.12553413,
+          "saturation_purple": 0.23965608,
+          "highlights_hue": 0.42225116,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              19.90515
+            ],
+            [
+              255.0,
+              243.85312
+            ]
+          ],
+          "saturation_red": 0.20052631,
+          "saturation_aqua": 0.5175982,
+          "luminance_blue": -0.5336342,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.12827305,
+          "hue_blue": 0.0,
+          "contrast": 0.0858197,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.2963158,
+          "saturation_orange": 0.08262429,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.5820219,
+          "tint": 0.048387703,
+          "luminance_aqua": -0.52496094,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.11479324,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": -0.11157895,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              6.3696475
+            ],
+            [
+              254.082,
+              252.4896
+            ]
+          ],
+          "saturation_yellow": -0.09129755,
+          "saturation_green": 0.23965608,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.17711724
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Blue lake",
+        "description": "",
+        "id": "rkMhq4ZWf",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": -0.15105264,
+          "luminance_red": -0.65789473,
+          "hue_yellow": 0.2236842,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": -0.69736844,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": -0.34842107,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              57.834
+            ],
+            [
+              255.0,
+              240.312
+            ]
+          ],
+          "hue_orange": 0.078947365,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.2236842,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.35210526,
+          "saturation_aqua": -0.2468421,
+          "luminance_blue": -0.59210527,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.15105264,
+          "hue_blue": -0.17105263,
+          "contrast": 0.5,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.3026316,
+          "saturation_orange": 0.078947365,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": -0.049473684,
+          "luminance_aqua": 0.23684211,
+          "curves_green": [
+            [
+              0.0,
+              50.49
+            ],
+            [
+              255.0,
+              237.558
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              30.294
+            ],
+            [
+              255.0,
+              236.64
+            ]
+          ],
+          "saturation_yellow": -0.43421054,
+          "saturation_green": -0.23684211,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": -0.4536842,
+          "highlights": -0.15473685,
+          "clarity": 0.0,
+          "hue_green": 0.5263158,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Smoothie",
+        "description": "",
+        "id": "BJJAwoigM",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": -0.28947368,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.4473684,
+          "diffuse": 0.0,
+          "blacks": -0.34210527,
+          "saturation_magenta": -0.09578948,
+          "saturation": 0.0,
+          "whites": -0.5,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              15.606
+            ],
+            [
+              255.0,
+              249.492
+            ]
+          ],
+          "hue_orange": -0.078947365,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": -0.10473684,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              4.59,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.3031579,
+          "saturation_aqua": -0.05263158,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.20421052,
+          "hue_blue": 0.1968421,
+          "contrast": 0.0,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.29947367,
+          "saturation_orange": -0.2468421,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.052105263,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              22.032
+            ],
+            [
+              255.0,
+              245.82
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": -0.19736843,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              32.13
+            ],
+            [
+              255.0,
+              250.41
+            ]
+          ],
+          "saturation_yellow": -0.5263158,
+          "saturation_green": -0.35526314,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.23684211,
+          "local_adjustments": [],
+          "vibrance": -0.10210526,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "T2",
+        "description": "",
+        "id": "BJyKIwqxz",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": -0.35526314,
+          "luminance_red": 0.34210527,
+          "hue_yellow": 0.28947368,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": -0.39789474,
+          "saturation_magenta": -0.36842105,
+          "saturation": 0.0,
+          "whites": 0.0,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              23.868
+            ],
+            [
+              255.0,
+              214.608
+            ]
+          ],
+          "hue_orange": 0.0,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": -0.39473686,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": -0.13157895,
+          "saturation_purple": -0.31578946,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.31368423,
+          "saturation_aqua": -0.35526314,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.15105264,
+          "hue_blue": 0.21052632,
+          "contrast": 0.15157895,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.21052632,
+          "saturation_orange": -0.5957895,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.09842105,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              17.442
+            ],
+            [
+              255.0,
+              207.264
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": -0.15789473,
+          "shadows_hue": 0.0,
+          "temperature": -0.09578948,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              17.442
+            ],
+            [
+              255.0,
+              207.264
+            ]
+          ],
+          "saturation_yellow": -0.5263158,
+          "saturation_green": -0.36842105,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": -0.6052632,
+          "clarity": 0.0,
+          "hue_green": 0.90789473,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "M1 final",
+        "description": "",
+        "id": "rJ5g5vPWG",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": -0.7763158,
+          "luminance_red": -0.8684211,
+          "hue_yellow": 0.25,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": -0.4536842,
+          "saturation_magenta": -0.5,
+          "saturation": 0.0,
+          "whites": -0.5,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": 0.0,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.19736843,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.14789474,
+          "saturation_purple": -0.6315789,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              26.622
+            ],
+            [
+              255.0,
+              216.444
+            ]
+          ],
+          "saturation_red": -0.10473684,
+          "saturation_aqua": -0.7368421,
+          "luminance_blue": -1.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.10210526,
+          "hue_blue": 0.0,
+          "contrast": 0.27631578,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.0,
+          "saturation_orange": -0.45052633,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.0,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_yellow": -0.55263156,
+          "saturation_green": -0.39473686,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": -0.5952632,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.09210526,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Black white",
+        "description": "",
+        "id": "ByYo3If",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.0,
+          "luminance_red": -0.7105263,
+          "hue_yellow": 0.0,
+          "luminance_green": -0.64789474,
+          "diffuse": 0.0,
+          "blacks": 0.0,
+          "saturation_magenta": 0.0,
+          "saturation": -1.0,
+          "whites": -0.10210526,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": 0.0,
+          "balance": 0.0,
+          "luminance_magenta": 1.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": -1.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              7.344
+            ],
+            [
+              255.0,
+              250.41
+            ]
+          ],
+          "saturation_red": 0.0,
+          "saturation_aqua": 0.0,
+          "luminance_blue": 0.94736844,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.048947368,
+          "hue_blue": 0.0,
+          "contrast": 0.49684212,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.0,
+          "saturation_orange": 0.0,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.0,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_yellow": 0.0,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 1.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": -0.6447368,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Japanese style",
+        "description": "",
+        "id": "SkpZ8ebbz",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.43421054,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.15210526,
+          "luminance_green": 1.0,
+          "diffuse": 0.0,
+          "blacks": 0.20052631,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": 0.0,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": -0.065789476,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.27578947,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              3.672,
+              0.918
+            ],
+            [
+              255.0,
+              249.492
+            ]
+          ],
+          "saturation_red": -0.13157895,
+          "saturation_aqua": 0.0,
+          "luminance_blue": -0.39842105,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.0,
+          "hue_blue": -0.32894737,
+          "contrast": 0.10263158,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.0,
+          "saturation_orange": -0.21052632,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.09894737,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              16.524
+            ],
+            [
+              255.0,
+              246.738
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.26052633,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              6.426
+            ],
+            [
+              255.0,
+              240.312
+            ]
+          ],
+          "saturation_yellow": -0.29578948,
+          "saturation_green": 0.20368421,
+          "sharpen": 0.25315788,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.15473685
+        }
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Sea bubble",
+        "description": "",
+        "id": "BycYf7WWz",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": -0.38157895,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": -0.15263158,
+          "saturation_magenta": -0.32894737,
+          "saturation": 0.0,
+          "whites": -1.0,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              12.852,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": -0.13157895,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": -0.35526314,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.5031579,
+          "saturation_aqua": -0.35157895,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.0,
+          "hue_blue": 0.0,
+          "contrast": 0.59210527,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.0,
+          "saturation_orange": -0.42105263,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": -0.14789474,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.18421052,
+          "shadows_hue": 0.0,
+          "temperature": -0.09894737,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              15.606
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_yellow": -0.55315787,
+          "saturation_green": -0.56578946,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.27631578
+        },
+        "sync_id": 1622179
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "VSCO T1",
+        "description": "",
+        "id": "B1nmcmWbG",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.0,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": 0.0,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": 0.0,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": 0.0,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              35.802
+            ],
+            [
+              255.0,
+              240.312
+            ]
+          ],
+          "saturation_red": 0.0,
+          "saturation_aqua": 0.0,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "grain_highlights": 0.25,
+          "exposure": -0.15157895,
+          "hue_blue": 0.0,
+          "contrast": 0.3994737,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.0,
+          "saturation_orange": 0.0,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": -0.10473684,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": -0.2505263,
+          "grain_roughness": 0.5,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": -0.2236842,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_yellow": -0.10473684,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 1.0,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": -0.10157895,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        },
+        "sync_id": 1610698
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "created": "2017-12-03T08:36:27.000Z",
+        "name": "MIX S109",
+        "description": "",
+        "id": "rkx5u4Zbf",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.0,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.7236842,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": 0.0,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": 0.25,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              56.814,
+              56.814
+            ],
+            [
+              111.894,
+              111.894
+            ],
+            [
+              194.514,
+              185.334
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": 0.0,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": 0.0,
+          "saturation_aqua": 0.0,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "grain_highlights": 0.25,
+          "exposure": 0.15157895,
+          "hue_blue": 0.0,
+          "contrast": 0.30105263,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.0,
+          "saturation_orange": -0.25,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.0,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              238.476
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "grain_roughness": 0.5,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": -0.14736842,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              226.542
+            ]
+          ],
+          "saturation_yellow": -0.68421054,
+          "saturation_green": 0.27631578,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        },
+        "sync_id": 1610729
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "VSCO C1",
+        "description": "",
+        "id": "ByW7g4bbf",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.69736844,
+          "luminance_red": 0.0,
+          "hue_yellow": -0.13157895,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": 0.38157895,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": -0.43421054,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              16.524,
+              16.524
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": -0.13157895,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.23684211,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": -0.048947368,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              4.59,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.118421055,
+          "saturation_aqua": 0.0,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "grain_highlights": 0.25,
+          "exposure": 0.0,
+          "hue_blue": 0.0,
+          "contrast": 0.39473686,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.22058824,
+          "shadows": 0.0,
+          "saturation_orange": -0.19736843,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.13157895,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              249.492
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "grain_roughness": 0.5,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.36842105,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              251.328
+            ]
+          ],
+          "saturation_yellow": 0.039473683,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        },
+        "sync_id": 1615036
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "M3",
+        "description": "",
+        "id": "B1si_XbZz",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": -0.10526316,
+          "luminance_red": 0.09526316,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": 0.0,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": -0.40105262,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              10.098
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": 0.0,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": -0.118421055,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": -0.10263158,
+          "saturation_aqua": -0.10526316,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.0,
+          "hue_blue": 0.0,
+          "contrast": 0.39789474,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.05882353,
+          "shadows": 0.0,
+          "saturation_orange": -0.04631579,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": -0.049473684,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              14.688
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": 0.0,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              15.606
+            ],
+            [
+              255.0,
+              246.738
+            ]
+          ],
+          "saturation_yellow": -0.118421055,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": -0.20052631,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": -0.15473685,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        },
+        "sync_id": 1618201
+      },
+      {
+        "comments": {
+          "local_adjustments": []
+        },
+        "name": "Polarr electric",
+        "description": "",
+        "id": "EyxRbD2UCe",
+        "state": {
+          "mosaic_size": 0.0,
+          "dehaze": 0.0,
+          "saturation_blue": 0.0,
+          "luminance_red": 0.0,
+          "hue_yellow": 0.0,
+          "luminance_green": 0.0,
+          "diffuse": 0.0,
+          "blacks": 0.0,
+          "saturation_magenta": 0.0,
+          "saturation": 0.0,
+          "whites": 0.0,
+          "hue_magenta": 0.0,
+          "curves_blue": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "hue_orange": 0.0,
+          "balance": 0.0,
+          "luminance_magenta": 0.0,
+          "textInvertedColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "luminance_yellow": 0.0,
+          "text": [],
+          "fill_color": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "distortion_vertical": 0.0,
+          "vignette_size": 1.0,
+          "hue_red": 0.0,
+          "saturation_purple": 0.0,
+          "highlights_hue": 0.0,
+          "fringing": 0.0,
+          "rotate90": 0.0,
+          "curves_all": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_red": 0.0,
+          "saturation_aqua": 0.0,
+          "luminance_blue": 0.0,
+          "grain_size": 0.25,
+          "textInverted": false,
+          "exposure": 0.0,
+          "hue_blue": 0.0,
+          "contrast": 0.0,
+          "distortion_amount": 0.0,
+          "shadows_saturation": 0.0,
+          "shadows": 0.0,
+          "saturation_orange": 0.0,
+          "fill_blend": 0.0,
+          "blur_opacity": 1.0,
+          "grain_amount": 0.0,
+          "color_denoise": 0.0,
+          "blur": 0.0,
+          "hue_purple": 0.0,
+          "tint": 0.0,
+          "luminance_aqua": 0.0,
+          "curves_green": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "highlights_saturation": 0.0,
+          "vignette_amount": 0.0,
+          "hue_aqua": 0.0,
+          "shadows_hue": 0.0,
+          "temperature": -0.47,
+          "vignette_roundness": 0.0,
+          "curves_red": [
+            [
+              0.0,
+              0.0
+            ],
+            [
+              255.0,
+              255.0
+            ]
+          ],
+          "saturation_yellow": 0.0,
+          "saturation_green": 0.0,
+          "sharpen": 0.0,
+          "luminance_denoise": 0.0,
+          "luminance_purple": 0.0,
+          "vignette_feather": 0.5,
+          "vignette_highlights": 0.5,
+          "luminance_orange": 0.0,
+          "highlights": 0.0,
+          "clarity": 0.0,
+          "hue_green": 0.0,
+          "local_adjustments": [],
+          "vibrance": 0.0,
+          "distortion_horizontal": 0.0,
+          "gamma": 0.0
+        }
+      }
+    ]
+  }
+]

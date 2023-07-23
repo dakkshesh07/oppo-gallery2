@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.coui.appcompat.widget.COUIChip android:ellipsize="end" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_fast_track_view_margin_top" android:layout_marginBottom="@dimen/main_fast_track_view_margin_bottom" android:layout_marginStart="@dimen/main_fast_track_view_margin_start" android:layout_marginEnd="@dimen/main_fast_track_view_margin_end" app:chipAnimationEnable="true" app:chipBackgroundColor="@color/main_search_view_hint_background_color" style="@style/main_chip_with_icon_style"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

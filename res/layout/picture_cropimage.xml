@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/cropimage_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.oplus.gallery.picture_lib.picture.ui.ScalableView android:id="@id/preview_scalable_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:forceDarkAllowed="false" />
+        <View android:id="@id/top_overlay" android:background="@drawable/picture_photo_page_action_bar_bg" android:layout_width="fill_parent" android:layout_height="@dimen/picture_wallpaper_crop_image_top_gradient_height" />
+        <View android:id="@id/bottom_overlay" android:background="@drawable/picture_photo_page_split_menu_bg" android:layout_width="fill_parent" android:layout_height="@dimen/picture_wallpaper_crop_image_bottom_gradient_height" android:layout_alignParentBottom="true" />
+        <include android:gravity="center|top" android:layout_gravity="center_horizontal" android:id="@id/layout_lock_pre" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/picture_oplus_clock_view_margin_top" layout="@layout/picture_horizontal_single_clock" />
+        <include android:id="@id/set_wallpaper_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/picture_set_wallpaper_btns_layout" />
+    </RelativeLayout>
+    <ImageView android:id="@id/back_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/picture_back_icon_margin_top" android:src="@drawable/common_photo_back_icon_selector" android:contentDescription="@string/abc_action_bar_up_description" android:layout_marginStart="@dimen/picture_back_icon_margin_start" />
+</RelativeLayout>

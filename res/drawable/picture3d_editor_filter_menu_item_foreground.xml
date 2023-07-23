@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/picture3d_filter_menu_item_radius" />
+            <solid android:color="@color/picture3d_filter_menu_item_selected_filter_background_color" />
+            <size android:height="@dimen/picture3d_filter_image_item_width" android:width="@dimen/picture3d_filter_image_item_width" />
+            <stroke android:width="@dimen/picture3d_filter_image_item_filter_border_width" android:color="@color/picture3d_filter_menu_item_selected_filter_color" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:height="24.0dip" android:width="24.0dip">
+        <bitmap android:src="@drawable/picture3d_editor_ic_filter_menu_item_foreground" />
+    </item>
+</layer-list>

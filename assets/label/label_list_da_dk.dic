@@ -1,0 +1,347 @@
+Husdyr	-1	-1	-1	1,2	0	-1
+Hundehvalp	-1	-1	-1	3	0	-1
+Hvalp	-1	-1	-1	3	0	-1
+Vagthund	-1	-1	-1	3	0	-1
+Jagthund	-1	-1	-1	3	0	-1
+Førerhund	-1	-1	-1	3	0	-1
+Kattekilling	-1	-1	-1	4	0	-1
+Killing	-1	-1	-1	4	0	-1
+Huskat	-1	-1	-1	4	0	-1
+Vildkat	-1	-1	-1	4	0	-1
+Vegetation	-1	-1	-1	5,10	0	-1
+Grønne planter	-1	-1	-1	5	0	-1
+Pyntegrønt	-1	-1	-1	5	0	-1
+Blomstre	-1	-1	-1	6	0	-1
+Stå i fuldt flor	-1	-1	-1	6	0	-1
+Blomstring	-1	-1	-1	6	0	-1
+Blomsterbed	-1	-1	-1	6	0	-1
+Friske blomster	-1	-1	-1	6	0	-1
+Buket	-1	-1	-1	6	0	-1
+Strå	-1	-1	-1	7	0	-1
+Græsse	-1	-1	-1	7	0	-1
+Grønt græs	-1	-1	-1	7	0	-1
+Nyt græs	-1	-1	-1	7	0	-1
+Græsplæne	-1	-1	-1	7	0	-1
+Grøn eng	-1	-1	-1	7	0	-1
+Græsmark	-1	-1	-1	7	0	-1
+Blade	-1	-1	-1	7	0	-1
+Tømmer	-1	-1	-1	8	0	-1
+Store træer	-1	-1	-1	8	0	-1
+Skov	-1	-1	-1	8	0	-1
+Plantage	-1	-1	-1	8	0	-1
+Sceneri	-1	-1	-1	9	0	-1
+Scenisk	-1	-1	-1	9	0	-1
+Malerisk	-1	-1	-1	9	0	-1
+Kulisse	-1	-1	-1	9	0	-1
+Udsigt	-1	-1	-1	9	0	-1
+Scene	-1	-1	-1	9	0	-1
+Seværdighed	-1	-1	-1	9	0	-1
+Anlæg	-1	-1	-1	9,63	0	-1
+Højderyg	-1	-1	-1	10	0	-1
+Bjergkæde	-1	-1	-1	10	0	-1
+Bjergtop	-1	-1	-1	10	0	-1
+Bakkekam	-1	-1	-1	10	0	-1
+Bjerge	-1	-1	-1	10	0	-1
+Fjerntliggende bjerg	-1	-1	-1	10	0	-1
+Fjeld	-1	-1	-1	10	0	-1
+Bakke	-1	-1	-1	10,10	0	-1
+Høj	-1	-1	-1	10	0	-1
+Højt bjerg	-1	-1	-1	10	0	-1
+Enormt bjerg	-1	-1	-1	10	0	-1
+Alpe	-1	-1	-1	10	0	-1
+Alper	-1	-1	-1	10	0	-1
+Klippe	-1	-1	-1	10	0	-1
+Klippebjerg	-1	-1	-1	10	0	-1
+Bjergkam	-1	-1	-1	10	0	-1
+Sø	-1	-1	-1	11	0	-1
+Ocean	-1	-1	-1	11	0	-1
+Dyb sø	-1	-1	-1	11	0	-1
+Søterritorium	-1	-1	-1	11	0	-1
+Farvand	-1	-1	-1	11	0	-1
+Stort hav	-1	-1	-1	11	0	-1
+Verdenshav	-1	-1	-1	11	0	-1
+Havvand	-1	-1	-1	11	0	-1
+Stille vand	-1	-1	-1	11	0	-1
+Havudsigt	-1	-1	-1	11	0	-1
+Bygninger	-1	-1	-1	12	0	-1
+Huse	-1	-1	-1	12	0	-1
+Lejlighedskomplekser	-1	-1	-1	12	0	-1
+Karréer	-1	-1	-1	12	0	-1
+Blokke	-1	-1	-1	12	0	-1
+Spisestue	-1	-1	-1	13	0	-1
+Kantine	-1	-1	-1	13	0	-1
+Spisesal	-1	-1	-1	13	0	-1
+Traktørsted	-1	-1	-1	13	0	-1
+Kro	-1	-1	-1	13	0	-1
+Bistro	-1	-1	-1	13	0	-1
+Cafeteria	-1	-1	-1	13	0	-1
+Spisekrog	-1	-1	-1	13	0	-1
+Café	-1	-1	-1	13	0	-1
+Natklub	-1	-1	-1	14	0	-1
+Pub	-1	-1	-1	14	0	-1
+Beværtning	-1	-1	-1	14	0	-1
+Klub	-1	-1	-1	14	0	-1
+Idræt	-1	-1	-1	15	0	-1
+Idrætsbaner	-1	-1	-1	15	0	-1
+Stadium	-1	-1	-1	15	0	-1
+Sportspladser	-1	-1	-1	15	0	-1
+Træningscenter	-1	-1	-1	16	0	-1
+Fitnesscenter	-1	-1	-1	16	0	-1
+Gymnastiksal	-1	-1	-1	16	0	-1
+Motionsrum	-1	-1	-1	16	0	-1
+Udstillingshal	-1	-1	-1	17	0	-1
+Messehal	-1	-1	-1	17	0	-1
+Showroom	-1	-1	-1	17	0	-1
+Udstillingslokale	-1	-1	-1	17	0	-1
+Demonstrationslokale	-1	-1	-1	17	0	-1
+Udstilling	-1	-1	-1	17	0	-1
+Indkøbscenter	-1	-1	-1	18	0	-1
+Forretningscenter	-1	-1	-1	18	0	-1
+Butik	-1	-1	-1	18,18	0	-1
+Udsalgssted	-1	-1	-1	18	0	-1
+Forretning	-1	-1	-1	18	0	-1
+Virksomhed	-1	-1	-1	18	0	-1
+Forretninger	-1	-1	-1	18	0	-1
+Butikker	-1	-1	-1	18	0	-1
+Lager	-1	-1	-1	18	0	-1
+Marked	-1	-1	-1	18	0	-1
+Shopping	-1	-1	-1	18	0	-1
+Indkøb	-1	-1	-1	18	0	-1
+Terminal	-1	-1	-1	19	0	-1
+Terminalstation	-1	-1	-1	19	0	-1
+Flyveplads	-1	-1	-1	19	0	-1
+Hangar	-1	-1	-1	19	0	-1
+Beklædning	-1	-1	-1	20	0	-1
+Tøj	-1	-1	-1	20	0	-1
+Påklædning	-1	-1	-1	20	0	-1
+Dragt	-1	-1	-1	20	0	-1
+Habit	-1	-1	-1	20	0	-1
+Jakkesæt	-1	-1	-1	20	0	-1
+Spadseredragt	-1	-1	-1	20	0	-1
+Modetøj	-1	-1	-1	20	0	-1
+Kostymer	-1	-1	-1	20	0	-1
+Sportstøj	-1	-1	-1	20	0	-1
+Indkøbstaske	-1	-1	-1	21	0	-1
+Indkøbspose	-1	-1	-1	21	0	-1
+Håndtaske	-1	-1	-1	21	0	-1
+Pengepung	-1	-1	-1	21	0	-1
+Tegnebog	-1	-1	-1	21	0	-1
+Pung	-1	-1	-1	21	0	-1
+Hudplejeprodukter	-1	-1	-1	22	0	-1
+Monokel	-1	-1	-1	23	0	-1
+Vedhæng	-1	-1	-1	24	0	-1
+Smykker	-1	-1	-1	24	0	-1
+Guld- og sølvsmykker	-1	-1	-1	24	0	-1
+Diamanter	-1	-1	-1	24	0	-1
+Transport	-1	-1	-1	25	0	-1
+Trafik	-1	-1	-1	25	0	-1
+Befordring	-1	-1	-1	25	0	-1
+Leverance	-1	-1	-1	25	0	-1
+Køretøj	-1	-1	-1	26,70	0	-1
+Skib	-1	-1	-1	27	0	-1
+Båd	-1	-1	-1	27	0	-1
+Robåd	-1	-1	-1	27	0	-1
+Sejlbåd	-1	-1	-1	27	0	-1
+Købmand	-1	-1	-1	28	0	-1
+Købmandsbutik	-1	-1	-1	28	0	-1
+Købmandsforretning	-1	-1	-1	28	0	-1
+Købmandshandel	-1	-1	-1	28	0	-1
+Fødevare	-1	-1	-1	28	0	-1
+Madvare	-1	-1	-1	28	0	-1
+Lækkerier	-1	-1	-1	28	0	-1
+Delikatesser	-1	-1	-1	28	0	-1
+Smagfuld	-1	-1	-1	28	0	-1
+Velsmagende	-1	-1	-1	28	0	-1
+Måltid	-1	-1	-1	28,46	0	-1
+Gourmetmad	-1	-1	-1	28	0	-1
+Gourmetmiddag	-1	-1	-1	28	0	-1
+Cuisine	-1	-1	-1	28	0	-1
+Køkken	-1	-1	-1	28	0	-1
+Kogekunst	-1	-1	-1	28	0	-1
+Spise	-1	-1	-1	28	0	-1
+Spise morgenmad	-1	-1	-1	28	0	-1
+Spise frokost	-1	-1	-1	28	0	-1
+Spise middag	-1	-1	-1	28	0	-1
+Vestligt køkken	-1	-1	-1	29	0	-1
+Vestligt mad	-1	-1	-1	29	0	-1
+Europæisk køkken	-1	-1	-1	29	0	-1
+Europæisk mad	-1	-1	-1	29	0	-1
+Skaldyr	-1	-1	-1	30	0	-1
+Fiskeriprodukter	-1	-1	-1	30	0	-1
+Alt godt fra havet	-1	-1	-1	30	0	-1
+Frugter	-1	-1	-1	31	0	-1
+Friske frugter	-1	-1	-1	31	0	-1
+Tørrede frugter	-1	-1	-1	31	0	-1
+Livsfrugt	-1	-1	-1	31	0	-1
+Citrusfrugter	-1	-1	-1	31	0	-1
+Bryg	-1	-1	-1	32	0	-1
+Fin vin	-1	-1	-1	32	0	-1
+God vin	-1	-1	-1	32	0	-1
+Fremragende vin	-1	-1	-1	32	0	-1
+Årgangsvin	-1	-1	-1	32	0	-1
+Hvidvin	-1	-1	-1	32	0	-1
+Hedvin	-1	-1	-1	32	0	-1
+Hård alkohol	-1	-1	-1	32	0	-1
+Sprit	-1	-1	-1	32	0	-1
+Vin	-1	-1	-1	33	0	-1
+Tør vin	-1	-1	-1	33	0	-1
+Tør rødvin	-1	-1	-1	33	0	-1
+Instrumenter	-1	-1	-1	34	0	-1
+Klaver	-1	-1	-1	35	0	-1
+Elektronisk enhed	-1	-1	-1	36	0	-1
+Elektronikenhed	-1	-1	-1	36	0	-1
+El-enhed	-1	-1	-1	36	0	-1
+Elektroniske produkter	-1	-1	-1	37	0	-1
+Elektronikprodukter	-1	-1	-1	37	0	-1
+El-produkter	-1	-1	-1	37	0	-1
+Digital	-1	-1	-1	37	0	-1
+Digitalenheder	-1	-1	-1	37	0	-1
+Mobiltelefon	-1	-1	-1	38	0	-1
+Mobil	-1	-1	-1	38	0	-1
+Smartphone	-1	-1	-1	38	0	-1
+Bærbar telefon	-1	-1	-1	38	0	-1
+Trådløs telefon	-1	-1	-1	38	0	-1
+PC	-1	-1	-1	39	0	-1
+Bærbar	-1	-1	-1	39	0	-1
+Stationær PC	-1	-1	-1	39	0	-1
+Datamaskine	-1	-1	-1	39	0	-1
+Fotografiapparat	-1	-1	-1	40	0	-1
+Ord	-1	-1	-1	41	0	-1
+glose	-1	-1	-1	41	0	-1
+PPT	-1	-1	-1	42	0	-1
+Præsentationsfil	-1	-1	-1	42	0	-1
+Diasshow	-1	-1	-1	42	0	-1
+Slideshow	-1	-1	-1	42	0	-1
+Præsentation	-1	-1	-1	42	0	-1
+Fremstilling	-1	-1	-1	42	0	-1
+Forlæggelse	-1	-1	-1	42	0	-1
+Fremførelse	-1	-1	-1	42	0	-1
+Indlæg	-1	-1	-1	42	0	-1
+Skærmoptagelser	-1	-1	-1	43	0	-1
+Skærmafbildning	-1	-1	-1	43	0	-1
+Party	-1	-1	-1	44,46	0	-1
+Fest	-1	-1	-1	44,46	0	-1
+Parti	-1	-1	-1	44	0	-1
+Gruppe	-1	-1	-1	44	0	-1
+Hold	-1	-1	-1	44	0	-1
+Selskab	-1	-1	-1	44	0	-1
+Sport	-1	-1	-1	45	0	-1
+Sportsgrene	-1	-1	-1	45	0	-1
+Træning	-1	-1	-1	45	0	-1
+Konkurrence	-1	-1	-1	45	0	-1
+Turnering	-1	-1	-1	45	0	-1
+Festmåltid	-1	-1	-1	46	0	-1
+Banket	-1	-1	-1	46	0	-1
+Festmiddag	-1	-1	-1	46	0	-1
+Beværte	-1	-1	-1	46	0	-1
+Lækkerbisken	-1	-1	-1	46	0	-1
+Gæst	-1	-1	-1	46	0	-1
+Festlighed	-1	-1	-1	46	0	-1
+Bryllupsfest	-1	-1	-1	47	0	-1
+Bryllupsmiddag	-1	-1	-1	47	0	-1
+Bryllupsbanket	-1	-1	-1	47	0	-1
+Ydelse	-1	-1	-1	48	0	-1
+Ydeevne	-1	-1	-1	48	0	-1
+Performance	-1	-1	-1	48	0	-1
+Optræden	-1	-1	-1	48	0	-1
+Scenekunst	-1	-1	-1	48	0	-1
+Sceneoptræden	-1	-1	-1	48	0	-1
+Lille fugl	-1	-1	-1	49	0	-1
+Småfugle	-1	-1	-1	49	0	-1
+Sangfugle	-1	-1	-1	49	0	-1
+Høne	-1	-1	-1	49	0	-1
+Fjerkræ	-1	-1	-1	49	0	-1
+Høns	-1	-1	-1	49	0	-1
+Fiskeart	-1	-1	-1	50	0	-1
+Fiskeriprodukt	-1	-1	-1	50	0	-1
+Raketter	-1	-1	-1	53	0	-1
+Kanonslag	-1	-1	-1	53	0	-1
+Lynkinesere	-1	-1	-1	53	0	-1
+Mørkets frembrud	-1	-1	-1	54	0	-1
+Skumring	-1	-1	-1	54	0	-1
+Blå time	-1	-1	-1	54	0	-1
+Flot vandfald	-1	-1	-1	55	0	-1
+Spektakulært vandfald	-1	-1	-1	55	0	-1
+Klar himmel	-1	-1	-1	56	0	-1
+Himmerige	-1	-1	-1	56	0	-1
+Himmelstrøg	-1	-1	-1	56	0	-1
+Skyfrit	-1	-1	-1	56	0	-1
+Sne	-1	-1	-1	57	0	-1
+Slud	-1	-1	-1	57	0	-1
+Daggry	-1	-1	-1	58	0	-1
+Katedral	-1	-1	-1	59	0	-1
+Domkirke	-1	-1	-1	59	0	-1
+Helligdom	-1	-1	-1	60	0	-1
+Valfartssted	-1	-1	-1	60	0	-1
+Kloster	-1	-1	-1	60	0	-1
+Tårn	-1	-1	-1	61	0	-1
+Mast	-1	-1	-1	61	0	-1
+Lysthus	-1	-1	-1	62	0	-1
+Ret	-1	-1	-1	63	0	-1
+Retsbygning	-1	-1	-1	63	0	-1
+Domstol	-1	-1	-1	63	0	-1
+Retsinstans	-1	-1	-1	63	0	-1
+Gårdsplads	-1	-1	-1	63	0	-1
+Haver	-1	-1	-1	63	0	-1
+Tivoli	-1	-1	-1	65	0	-1
+Undervandsverden	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+Kort kjole	-1	-1	-1	68	0	-1
+Transportmiddel	-1	-1	-1	70	0	-1
+Skinne	-1	-1	-1	71	0	-1
+Ræling	-1	-1	-1	71	0	-1
+Gelænder	-1	-1	-1	71	0	-1
+Rækværk	-1	-1	-1	71	0	-1
+Desserter	-1	-1	-1	73	0	-1
+Efterretter	-1	-1	-1	73	0	-1
+Shabu-shabu	-1	-1	-1	75	0	-1
+Grillmad	-1	-1	-1	76	0	-1
+Tekstdokument	-1	-1	-1	77	0	-1
+Landkort	-1	-1	-1	78	0	-1
+Kortlægge	-1	-1	-1	78	0	-1
+Verdenskort	-1	-1	-1	78	0	-1
+Bane	-1	-1	-1	78	0	-1
+Illustration	-1	-1	-1	79	0	-1
+Eksempel	-1	-1	-1	79	0	-1
+Anskueliggørelse	-1	-1	-1	79	0	-1
+Billede	-1	-1	-1	79	0	-1
+Afbildning	-1	-1	-1	79	0	-1
+Billedmateriale	-1	-1	-1	79	0	-1
+Skitse	-1	-1	-1	79	0	-1
+Komisk	-1	-1	-1	80	0	-1
+Humoristisk	-1	-1	-1	80	0	-1
+Sjov	-1	-1	-1	80	0	-1
+Komiker	-1	-1	-1	80	0	-1
+Danse	-1	-1	-1	81	0	-1
+Dansen	-1	-1	-1	81	0	-1
+Valse	-1	-1	-1	81	0	-1
+Valsen	-1	-1	-1	81	0	-1
+Hiphoppe	-1	-1	-1	81	0	-1
+Synger	-1	-1	-1	82	0	-1
+Skriger	-1	-1	-1	82	0	-1
+Fødselsdagsfest	-1	-1	-1	83	0	-1
+Fødselsdagskomsammen	-1	-1	-1	83	0	-1
+Fødselsdagsparty	-1	-1	-1	83	0	-1
+Person	-1	-1	-1	85	0	-1
+Individ	-1	-1	-1	85	0	-1
+Karakter	-1	-1	-1	85	0	-1
+Egenskab	-1	-1	-1	85	0	-1
+Småbørn	-1	-1	-1	86	0	-1
+Unger	-1	-1	-1	86	0	-1
+Babyer	-1	-1	-1	86	0	-1
+Pattebørn	-1	-1	-1	86	0	-1
+Tumling	-1	-1	-1	86	0	-1
+Rolling	-1	-1	-1	86	0	-1
+Kasket	-1	-1	-1	88	0	-1
+Hætte	-1	-1	-1	88	0	-1
+Hue	-1	-1	-1	88	0	-1
+Bevis	-1	-1	-1	89	0	-1
+Dokumentation	-1	-1	-1	89	0	-1
+Identitetskort	-1	-1	-1	90	0	-1
+Kreditkort	-1	-1	-1	91	0	-1
+Dankort	-1	-1	-1	91	0	-1
+Kontokort	-1	-1	-1	91	0	-1
+Købekort	-1	-1	-1	91	0	-1
+Kvittering	-1	-1	-1	92	0	-1
+Bon	-1	-1	-1	92	0	-1
+Salgsnota	-1	-1	-1	92	0	-1

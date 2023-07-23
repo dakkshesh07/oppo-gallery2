@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <version>2021040508</version>
+    <string-array name="hdr_support_app_list">
+        <!--20031-->
+        <item pkg="com.kuaishou.nebula" />
+        <item pkg="cn.soulapp.android" />
+        <item pkg="com.lemon.lv" />
+        <item pkg="com.lofter.android" />
+        <item pkg="com.tencent.qqsports" />
+        <item pkg="com.p1.mobile.putong" />
+        <item pkg="com.kugou.fanxing" />
+        <item pkg="com.ms.ailiao" />
+        <item pkg="com.hengye.share" />
+        <item pkg="com.quyue.android" />
+        <item pkg="com.zhenai.android" />
+        <item pkg="com.dongqiudi.news" />
+        <item pkg="cn.zepeto.main" />
+        <item pkg="com.leba.strlive" />
+        <item pkg="com.legendsoft.sevesixcm" />
+        <item pkg="com.huiian.timing" />
+        <item pkg="com.wepie.wespy" />
+        <item pkg="com.qinhe.ispeak" />
+        <item pkg="com.benfu.yiqi" />
+        <item pkg="cn.neoclub.uki" />
+        <item pkg="com.sina.weibolite" />
+        <item pkg="com.midao.lbvideochat" />
+        <!--20311-->
+        <item pkg="com.lemon.lvoverseas" />
+        <item pkg="com.playit.videoplayer" />
+        <item pkg="org.videolan.vlc" />
+        <item pkg="com.adobe.lrmobile" />
+        <item pkg="video.player.videoplayer" />
+        <item pkg="com.thingsilikeapp" />
+        <item pkg="com.blued.international" />
+        <item pkg="io.faceapp" />
+        <item pkg="com.skype.raider" />
+        <item pkg="com.dywx.larkplayer" />
+        <item pkg="in.mohalla.sharechat" />
+        <item pkg="net.sourceforge.opencamera" />
+    </string-array>
+    <cache_max_total_size>200</cache_max_total_size><!-- MB -->
+    <cache_max_count>10</cache_max_count>
+    <cache_max_time>1440</cache_max_time><!-- minute -->
+    <cache_min_time>5</cache_min_time><!-- minute -->
+</filter-conf>

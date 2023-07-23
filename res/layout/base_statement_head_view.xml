@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="@dimen/base_statement_head_view_app_icon_height" android:layout_height="@dimen/base_statement_head_view_app_icon_height" android:layout_marginTop="@dimen/base_statement_head_view_app_icon_margin_top" android:src="@drawable/base_ic_launcher" />
+    <TextView android:textSize="@dimen/base_statement_head_view_app_name_font_size" android:textColor="@color/base_black" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_statement_head_view_app_name_margin_top" android:text="@string/base_app_name" android:lineSpacingMultiplier="1.1" android:fontFamily="sans-serif-medium" />
+    <TextView android:textSize="@dimen/base_statement_head_view_summary_font_size" android:textColor="@color/base_statement_head_view_summary_font_color" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_statement_head_view_summary_margin_top" android:layout_marginBottom="@dimen/base_statement_head_view_summary_margin_bottom" android:text="@string/base_permission_statement_summary" android:lineSpacingMultiplier="1.2" android:fontFamily="sans-serif-regular" />
+</LinearLayout>

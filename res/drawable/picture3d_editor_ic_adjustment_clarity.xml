@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="clarity____" android:height="@dimen/picture3d_editor_menu_item_icon_height" android:width="@dimen/picture3d_editor_menu_item_icon_width" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="path_width" android:pathData="M4.62495 18.5939L11.0862 4.05608C11.4381 3.26426 12.5619 3.26426 12.9138 4.05608L19.375 18.5939C19.669 19.2551 19.1849 20 18.4612 20H5.53876C4.8151 20 4.33105 19.2551 4.62495 18.5939Z" android:strokeColor="#ffffffff" android:strokeWidth="1.5" />
+    <path android:fillColor="#ffffffff" android:pathData="M12 18V7L16.5 18H12Z" />
+</vector>

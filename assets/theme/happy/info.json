@@ -1,0 +1,10 @@
+{
+    "theme": "0C86D79D-EB63-404D-AD8F-7353295B8654.2.theme",
+	"musicrhythm":"0C86D79D-EB63-404D-AD8F-7353295B8654.json",
+    "captionstyle1": "78D711A2-EE41-4A13-AE08-5B514A426824.4.captionstyle",
+	"captionstyle2": "A87D5FB8-A7DE-43EC-9F64-C4223CA89CD7.6.captionstyle",    
+	"endingVideoFX": "885A6C3F-A54B-4AFD-A421-5E9F532C34D3.1.videofx",
+	"transition":["7F983A09-A1B4-4018-BAA3-E85E45EC14FA.1.videotransition",
+				  "C014E9FB-0C0C-4AD9-946C-4AB0179348E7.2.videotransition",
+				  "F5A6BCC4-37B4-4E02-AC8C-2746E159D667.1.videotransition"]
+}

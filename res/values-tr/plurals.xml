@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d fotoğraf yükleniyor; bu nedenle eklenemez.</item>
+        <item quantity="one">%d fotoğraf yükleniyor, bu nedenle eklenemez.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d banka kartı</item>
+        <item quantity="one">%1$d banka kartı</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d kimlik</item>
+        <item quantity="one">%1$d kimlik</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d öğeyi kalıcı olarak sil</item>
+        <item quantity="one">%d öğeyi kalıcı olarak sil</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d öğeyi sil</item>
+        <item quantity="one">%d öğeyi sil</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Bulunan fotoğraf sayısı: %s. Daha kolay erişim için bunları \"Kartlık\" albümüne taşıyabilirsiniz.</item>
+        <item quantity="one">Bulunan fotoğraf sayısı: %s. Daha kolay erişim için bunu \"Kartlık\" albümüne taşıyabilirsiniz.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s fotoğrafları \"Kartlık\" albümüne taşındı</item>
+        <item quantity="one">%1$s fotoğrafı \"Kartlık\" albümüne taşındı</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d bilet/makbuz</item>
+        <item quantity="one">%1$d bilet/makbuz</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Seçilen öğeler albümde zaten mevcut</item>
+        <item quantity="one">Seçilen öğe albümde zaten mevcut</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d fotoğraf yükleniyor ve taşınamaz</item>
+        <item quantity="one">%d fotoğraf yükleniyor ve taşınamaz</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d kişi</item>
+        <item quantity="one">%1$d kişi</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Fotoğraflar taşındı. Videolar bu albüme taşınamaz.</item>
+        <item quantity="one">Fotoğraf taşındı. Videolar bu albüme taşınamaz.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d öğeyi geri yükle</item>
+        <item quantity="one">%d öğeyi geri yükle</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d Video</item>
+        <item quantity="one">%1$d Video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d Albüm Seçili</item>
+        <item quantity="one">%1$d Albüm Seçili</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d Kişi Seçildi</item>
+        <item quantity="one">%1$d Kişi Seçildi</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d anı seçildi</item>
+        <item quantity="one">%1$d anı seçildi</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d Video Seçildi</item>
+        <item quantity="one">%1$d Video Seçildi</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d Video</item>
+        <item quantity="one">%1$d Video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Pil gücü %1$s seviyesinin altında. %2$d öğe indirilmedi.</item>
+        <item quantity="one">Pil gücü %1$s seviyesinin altında. %2$d öğe indirilmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Pil %1$s seviyesinin altında. %2$d öğe indirilmedi. Lütfen telefonunuzu şarj edin.</item>
+        <item quantity="one">Pil %1$s seviyesinin altında. %2$d öğe indirilmedi. Lütfen telefonunuzu şarj edin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Pil %1$s seviyesinin altında. %2$d öğe indirilmedi. Lütfen cihazınızı şarj edin.</item>
+        <item quantity="one">Pil %1$s seviyesinin altında. %2$d öğe indirilmedi. Lütfen cihazınızı şarj edin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Pil gücü %1$s seviyesinin altında. %2$d öğe indirilmedi.</item>
+        <item quantity="one">Pil gücü %1$s seviyesinin altında. %2$d öğe indirilmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Güç tasarrufu modu açık. %1$d öğe indirilmedi.</item>
+        <item quantity="one">Güç tasarrufu modu açık. %1$d öğe indirilmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Güç tasarrufu modu açık. %1$d öğe indirilmedi.</item>
+        <item quantity="one">Güç tasarrufu modu açık. %1$d öğe indirilmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe indirilemedi. %2$s.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe indirilemedi. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe indirilmedi. %2$s veya %3$s.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe indirilmedi.%2$s veya %3$s</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe indirilemedi.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe indirilemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe indirilemedi.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe indirilemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Yetersiz bulut saklama alanı. %1$d öğe indirilmedi.</item>
+        <item quantity="one">Yetersiz bulut saklama alanı. %1$d öğe indirilmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Yetersiz cihaz saklama alanı. %1$d öğe indirilemedi.</item>
+        <item quantity="one">Yetersiz cihaz saklama alanı. %1$d öğe indirilemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Ağ hatası. %1$d öğe indirilemedi.</item>
+        <item quantity="one">Ağ hatası. %1$d öğe indirilemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Ağ hatası. %1$d öğe indirilemedi.</item>
+        <item quantity="one">Ağ hatası. %1$d öğe indirilemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Yetersiz bulut saklama alanı. %1$d orijinal fotoğraf indirilmedi.</item>
+        <item quantity="one">Yetersiz bulut alanı. %1$d orijinal fotoğraf indirilmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d fotoğraf eşzamanlanmadı. Bulut saklama alanı dolu.</item>
+        <item quantity="one">%1$d fotoğraf eşzamanlanmadı. Bulut saklama alanı dolu.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d fotoğraf eşzamanlanmadı. Bulut eşzamanlama, pil seviyesi %2$s oranından düşük olduğunda duraklatılır.</item>
+        <item quantity="one">%1$d fotoğraf eşzamanlanmadı. Bulut eşzamanlama, pil seviyesi %2$s oranından düşük olduğunda duraklatılır.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d fotoğraf eşzamanlanmadı. Güç tasarrufu modunda bulut eş zamanlaması duraklatıldı.</item>
+        <item quantity="one">%1$d fotoğraf eşzamanlanmadı. Güç tasarrufu modunda bulut eşzamanlaması duraklatıldı.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Bulut saklama alanı dolu. %1$d öğe karşıya yüklenmedi.</item>
+        <item quantity="one">Bulut saklama alanı dolu. %1$d öğe karşıya yüklenmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Pil gücü %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi.</item>
+        <item quantity="one">Pil gücü %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Pil %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi. Lütfen telefonunuzu şarj edin.</item>
+        <item quantity="one">Pil %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi. Lütfen telefonunuzu şarj edin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Pil %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi. Lütfen cihazınızı şarj edin.</item>
+        <item quantity="one">Pil %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi. Lütfen cihazınızı şarj edin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Pil gücü %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi.</item>
+        <item quantity="one">Pil gücü %1$s seviyesinin altında. %2$d öğe karşıya yüklenmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Güç tasarrufu modu açık. %1$d öğe karşıya yüklenmedi.</item>
+        <item quantity="one">Güç tasarrufu modu açık. %1$d öğe karşıya yüklenmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Güç tasarrufu modu açık. %1$d öğe karşıya yüklenmedi.</item>
+        <item quantity="one">Güç tasarrufu modu açık. %1$d öğe karşıya yüklenmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Bulut saklama alanı dolu. %1$d öğe karşıya yüklenmedi.</item>
+        <item quantity="one">Bulut saklama alanı dolu. %1$d öğe karşıya yüklenmedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d video eşzamanlanmadı. Bulut saklama alanı dolu.</item>
+        <item quantity="one">%1$d video eşzamanlanmadı. Bulut saklama alanı dolu.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d video eşzamanlanmadı. Bulut eşzamanlama, pil seviyesi %2$s oranından düşük olduğunda duraklatılır.</item>
+        <item quantity="one">%1$d video eşzamanlanmadı. Bulut eşzamanlama, pil seviyesi %2$s oranından düşük olduğunda duraklatılır.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d video eşzamanlanmadı. Güç tasarrufu modunda bulut eş zamanlaması duraklatıldı.</item>
+        <item quantity="one">%1$d video eşzamanlanmadı. Güç tasarrufu modunda bulut eşzamanlaması duraklatıldı.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d fotoğraf eşzamanlanmadı.</item>
+        <item quantity="one">%1$d fotoğraf eşzamanlanmadı.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe karşıya yüklenmedi. %2$s.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe karşıya yüklenmedi.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe karşıya yüklenmedi. %2$s veya %3$s.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe karşıya yüklenmedi.%2$s veya %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe karşıya yüklenemedi.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe karşıya yüklenemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Ağ bağlantısı yok. %1$d öğe karşıya yüklenemedi.</item>
+        <item quantity="one">Ağ bağlantısı yok. %1$d öğe karşıya yüklenemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d video eşzamanlanmadı</item>
+        <item quantity="one">%1$d video eşzamanlanmadı</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Ağ hatası. %1$d öğe karşıya yüklenemedi.</item>
+        <item quantity="one">Ağ hatası. %1$d öğe karşıya yüklenemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Ağ hatası. %1$d öğe karşıya yüklenemedi.</item>
+        <item quantity="one">Ağ hatası. %1$d öğe karşıya yüklenemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Hizmet hatası. %1$d öğe karşıya yüklenemedi.</item>
+        <item quantity="one">Hizmet hatası. %1$d öğe karşıya yüklenemedi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Hizmet hatası. %1$d öğe karşıya yüklenemedi.</item>
+        <item quantity="one">Hizmet hatası. %1$d öğe karşıya yüklenemedi.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d öğe eklenemedi</item>
+        <item quantity="one">%d öğe eklenemedi</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d fotoğraf yükleniyor; özel olarak ayarlanamaz.</item>
+        <item quantity="one">%d fotoğraf yükleniyor; bu neden özel olarak ayarlanamaz.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d Video</item>
+        <item quantity="one">%1$d Video</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d fotoğraf yükleniyor</item>
+        <item quantity="one">%d fotoğraf yükleniyor</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d mm boyutundan daha büyük olmalı</item>
+        <item quantity="one">%1$d mm boyutundan daha büyük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d px boyutundan daha büyük olmalı</item>
+        <item quantity="one">%1$d px boyutundan daha büyük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d mm boyutundan daha küçük olmalı</item>
+        <item quantity="one">%1$d mm boyutundan daha küçük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d px boyutundan daha küçük olmalı</item>
+        <item quantity="one">%1$d px boyutundan daha küçük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB boyutundan daha büyük olmalı</item>
+        <item quantity="one">%1$d KB boyutundan daha büyük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB boyutundan daha küçük olmalı</item>
+        <item quantity="one">%1$d KB boyutundan daha küçük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d mm boyutundan daha büyük olmalı</item>
+        <item quantity="one">%1$d mm boyutundan daha büyük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d px boyutundan daha büyük olmalı</item>
+        <item quantity="one">%1$d px boyutundan daha büyük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d mm boyutundan daha küçük olmalı</item>
+        <item quantity="one">%1$d mm boyutundan daha küçük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d px boyutundan daha küçük olmalı</item>
+        <item quantity="one">%1$d px boyutundan daha küçük olmalı</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Sadece seçilen %d fotoğrafı tut</item>
+        <item quantity="one">Sadece seçilen %d fotoğrafı tut</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d Öğeyi Sil</item>
+        <item quantity="one">%d Öğeyi Sil</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d Öğe Seçildi</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d Albüm Seçili</item>
+        <item quantity="one">%1$d Albüm Seçili</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d etiket seçildi</item>
+        <item quantity="one">%1$d etiket seçildi</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d Video Seçildi</item>
+        <item quantity="one">%1$d Video Seçildi</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d fotoğraf yükleniyor; bu nedenle silinemez.</item>
+        <item quantity="one">%d fotoğraf yükleniyor, bu nedenle silinemez.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d öğeyi silme başarısız oldu. Lütfen yeniden deneyin</item>
+        <item quantity="one">%1$d öğeyi silme başarısız oldu. Lütfe yeniden deneyin</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+</resources>

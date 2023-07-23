@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/base_details_tab_item_padding_top" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/base_details_table_text_left_size" android:textColor="@color/base_details_details_dialog_tab_row_left_text_color" android:gravity="start" android:id="@id/details_tablerow_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" />
+            <TextView android:textSize="@dimen/base_details_table_text_size" android:textColor="@color/base_details_details_dialog_tab_row_left_text_color" android:gravity="start" android:id="@id/details_tablerow_separator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/base_details_table_text_size" android:textColor="@android:color/black" android:id="@id/rename_dialog_edit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="false" android:textAlignment="viewStart" />
+    </LinearLayout>
+</TableRow>

@@ -1,0 +1,180 @@
+Puppy	-1	-1	-1	3,3	0	-1
+Pet Dog	-1	-1	-1	3	0	-1
+Meow	-1	-1	-1	4	0	-1
+Kitten	-1	-1	-1	4,4	0	-1
+Pet Cat	-1	-1	-1	4	0	-1
+Vegetation	-1	-1	-1	5	0	-1
+Greenery	-1	-1	-1	5,10	0	-1
+Fragrance	-1	-1	-1	6	0	-1
+Flowerbed	-1	-1	-1	6	0	-1
+Fresh Flowers	-1	-1	-1	6	0	-1
+Bouquet	-1	-1	-1	6	0	-1
+Flowers	-1	-1	-1	6	0	-1
+Straw	-1	-1	-1	7	0	-1
+Green Grass	-1	-1	-1	7	0	-1
+Lawn	-1	-1	-1	7	0	-1
+Green Meadow	-1	-1	-1	7	0	-1
+Blade	-1	-1	-1	7	0	-1
+Timber	-1	-1	-1	8	0	-1
+Wood	-1	-1	-1	8	0	-1
+Big Trees	-1	-1	-1	8	0	-1
+Forest	-1	-1	-1	8	0	-1
+Scenic	-1	-1	-1	9	0	-1
+Scene	-1	-1	-1	9	0	-1
+View	-1	-1	-1	9	0	-1
+Sights	-1	-1	-1	9	0	-1
+Landscape	-1	-1	-1	9	0	-1
+Mountain Range	-1	-1	-1	10	0	-1
+Peak	-1	-1	-1	10	0	-1
+Ridge	-1	-1	-1	10	0	-1
+Mountains	-1	-1	-1	10	0	-1
+Remote Mountain	-1	-1	-1	10	0	-1
+Hill	-1	-1	-1	10	0	-1
+High Mountain	-1	-1	-1	10	0	-1
+Alp	-1	-1	-1	10	0	-1
+Cliff	-1	-1	-1	10	0	-1
+Deep Sea	-1	-1	-1	11	0	-1
+Sea Territory	-1	-1	-1	11	0	-1
+Vast Ocean	-1	-1	-1	11	0	-1
+Seawater	-1	-1	-1	11	0	-1
+Clear Sea	-1	-1	-1	11	0	-1
+Sea View	-1	-1	-1	11	0	-1
+Buildings	-1	-1	-1	12	0	-1
+Structures	-1	-1	-1	12	0	-1
+Dining Room	-1	-1	-1	13	0	-1
+Canteen	-1	-1	-1	13	0	-1
+Dining Hall	-1	-1	-1	13	0	-1
+Eatery	-1	-1	-1	13	0	-1
+Nightclub	-1	-1	-1	14	0	-1
+Pub	-1	-1	-1	14	0	-1
+Club	-1	-1	-1	14	0	-1
+Sports	-1	-1	-1	15,45	0	-1
+Stadium	-1	-1	-1	15	0	-1
+Fitness Center	-1	-1	-1	16	0	-1
+Gymnasium	-1	-1	-1	16	0	-1
+Exhibition Hall	-1	-1	-1	17	0	-1
+Showroom	-1	-1	-1	17	0	-1
+Exhibition	-1	-1	-1	17	0	-1
+Outlet	-1	-1	-1	18	0	-1
+Business	-1	-1	-1	18	0	-1
+Firm	-1	-1	-1	18	0	-1
+Shops	-1	-1	-1	18	0	-1
+Store	-1	-1	-1	18	0	-1
+Market	-1	-1	-1	18	0	-1
+Shopping Mall	-1	-1	-1	18	0	-1
+Shop	-1	-1	-1	18	0	-1
+Shopping Center	-1	-1	-1	18	0	-1
+Shopping	-1	-1	-1	18	0	-1
+Terminal	-1	-1	-1	19	0	-1
+Terminal Station	-1	-1	-1	19	0	-1
+Air Depot	-1	-1	-1	19	0	-1
+Clothing	-1	-1	-1	20	0	-1
+Clothes,	-1	-1	-1	20	0	-1
+Attire	-1	-1	-1	20	0	-1
+Outfit	-1	-1	-1	20	0	-1
+Fashion	-1	-1	-1	20	0	-1
+Luggage	-1	-1	-1	20	0	-1
+Costumes	-1	-1	-1	20	0	-1
+Shopping Bag	-1	-1	-1	21	0	-1
+Handbag	-1	-1	-1	21,21	0	-1
+Wallet	-1	-1	-1	21	0	-1
+Skincare Products	-1	-1	-1	22	0	-1
+Glasses	-1	-1	-1	23	0	-1
+Accessory	-1	-1	-1	24	0	-1
+Ornaments	-1	-1	-1	24	0	-1
+Gold and Silver Jewelry	-1	-1	-1	24	0	-1
+Transportation	-1	-1	-1	25	0	-1
+Traffic	-1	-1	-1	25	0	-1
+Transport	-1	-1	-1	25	0	-1
+Delivery	-1	-1	-1	25	0	-1
+Ship	-1	-1	-1	27	0	-1
+Boat	-1	-1	-1	27	0	-1
+Grocery	-1	-1	-1	28	0	-1
+Foodstuff	-1	-1	-1	28	0	-1
+Gourmet	-1	-1	-1	28	0	-1
+Delicious	-1	-1	-1	28	0	-1
+Tasty	-1	-1	-1	28	0	-1
+Meal	-1	-1	-1	28,46	0	-1
+Delicacy	-1	-1	-1	28	0	-1
+Great Food	-1	-1	-1	28	0	-1
+Cuisine	-1	-1	-1	28	0	-1
+Dining	-1	-1	-1	28	0	-1
+Western Cuisine	-1	-1	-1	29	0	-1
+European Cuisine	-1	-1	-1	29	0	-1
+European Food	-1	-1	-1	29	0	-1
+Marine Products	-1	-1	-1	30	0	-1
+Fruits	-1	-1	-1	31	0	-1
+Fresh Fruits	-1	-1	-1	31	0	-1
+Brew	-1	-1	-1	32	0	-1
+Fine Wine	-1	-1	-1	32	0	-1
+Good Wine	-1	-1	-1	32	0	-1
+Hard Liquor	-1	-1	-1	32	0	-1
+Spirit	-1	-1	-1	32	0	-1
+Excellent Wine	-1	-1	-1	32	0	-1
+Vintage	-1	-1	-1	32	0	-1
+Dry Red	-1	-1	-1	33	0	-1
+Dry Red Wine	-1	-1	-1	33	0	-1
+Electronic Device	-1	-1	-1	36	0	-1
+Electronic Products	-1	-1	-1	37	0	-1
+Digital	-1	-1	-1	37	0	-1
+Mobile Phone	-1	-1	-1	38	0	-1
+Handphone	-1	-1	-1	38	0	-1
+Word	-1	-1	-1	41	0	-1
+PPT	-1	-1	-1	42	0	-1
+Slideshow	-1	-1	-1	42	0	-1
+Presentation	-1	-1	-1	42	0	-1
+Screen capture	-1	-1	-1	43,43	0	-1
+Screen shots	-1	-1	-1	43	0	-1
+Party	-1	-1	-1	44,46	0	-1
+Exercise	-1	-1	-1	45	0	-1
+Competition	-1	-1	-1	45	0	-1
+Tournament	-1	-1	-1	45	0	-1
+Feast	-1	-1	-1	46	0	-1
+Banquet	-1	-1	-1	46	0	-1
+Treat	-1	-1	-1	46	0	-1
+Guest	-1	-1	-1	46	0	-1
+Wedding Party	-1	-1	-1	47	0	-1
+Wedding Dinner	-1	-1	-1	47	0	-1
+Wedding Banquet	-1	-1	-1	47	0	-1
+Performance	-1	-1	-1	48	0	-1
+Performing Arts	-1	-1	-1	48	0	-1
+Little Bird	-1	-1	-1	49	0	-1
+Fowl	-1	-1	-1	49	0	-1
+Poultry	-1	-1	-1	49	0	-1
+Birds	-1	-1	-1	49	0	-1
+Fishes	-1	-1	-1	50	0	-1
+Nightfall	-1	-1	-1	54	0	-1
+Great Waterfalls	-1	-1	-1	55	0	-1
+Blue Sky	-1	-1	-1	56	0	-1
+Heaven	-1	-1	-1	56	0	-1
+Clear Sky	-1	-1	-1	56	0	-1
+Snow	-1	-1	-1	57	0	-1
+Sunset	-1	-1	-1	58	0	-1
+Cathedral	-1	-1	-1	59	0	-1
+Shrine	-1	-1	-1	60	0	-1
+Monastery	-1	-1	-1	60	0	-1
+Tower	-1	-1	-1	61	0	-1
+Gazebo	-1	-1	-1	62	0	-1
+Royal Court	-1	-1	-1	63	0	-1
+Gardens	-1	-1	-1	63	0	-1
+Aquarium	-1	-1	-1	66	0	-1
+Underwater World	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+Desserts	-1	-1	-1	73	0	-1
+Shabu-shabu	-1	-1	-1	75	0	-1
+Text Document	-1	-1	-1	77	0	-1
+Illustration	-1	-1	-1	79	0	-1
+Draw	-1	-1	-1	79	0	-1
+Comic	-1	-1	-1	80	0	-1
+Dancing	-1	-1	-1	81	0	-1
+Singing	-1	-1	-1	82	0	-1
+Birthday Party	-1	-1	-1	83	0	-1
+Birthday Gathering	-1	-1	-1	83	0	-1
+Person	-1	-1	-1	85	0	-1
+Character	-1	-1	-1	85	0	-1
+Babies	-1	-1	-1	86	0	-1
+Toddlers	-1	-1	-1	86	0	-1
+Cap	-1	-1	-1	88	0	-1
+Credit Card	-1	-1	-1	91	0	-1
+Savings Card	-1	-1	-1	91	0	-1
+Receipt	-1	-1	-1	92	0	-1

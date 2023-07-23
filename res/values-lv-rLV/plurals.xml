@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">Neizdevās pievienot %d fotoattēlus, jo tie tiek ielādēti.</item>
+        <item quantity="zero">Tiek ielādēti %d fotoattēli, un tos nevar pievienot.</item>
+        <item quantity="one">Neizdevās pievienot %d fotoattēlu, jo tas tiek ielādēts.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d bankas karte(-es)</item>
+        <item quantity="zero">%1$d bankas karte(-es)</item>
+        <item quantity="one">%1$d bankas karte</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">Atrastie fotoattēli: %s. Ieslēdziet šo funkciju, lai sakārtotu attiecīgos fotoattēlus. To vienmēr var ieslēgt vai izslēgt sadaļā “Iestatījumi”.</item>
+        <item quantity="zero">Atrastie fotoattēli: %s. Ieslēdziet šo funkciju, lai sakārtotu attiecīgos fotoattēlus. To vienmēr var ieslēgt vai izslēgt sadaļā “Iestatījumi”.</item>
+        <item quantity="one">Atrastie fotoattēli: %s. Ieslēdziet šo funkciju, lai sakārtotu attiecīgos fotoattēlus. To vienmēr var ieslēgt vai izslēgt sadaļā “Iestatījumi”.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ID</item>
+        <item quantity="zero">%1$d ID</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Neatgriezeniski dzēst %d vienumu(-us)</item>
+        <item quantity="zero">Neatgriezeniski dzēst %d vienumus</item>
+        <item quantity="one">Neatgriezeniski dzēst %d vienumu</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Dzēst %d vienumu(-us)</item>
+        <item quantity="zero">Dzēst %d vienumu</item>
+        <item quantity="one">Dzēst %d vienumu</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d foto</item>
+        <item quantity="zero">%1$d fotoattēli</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Atrastie fotoattēli: %s. Varat tos pārvietot uz “Karšu ietvars”, lai atvieglotu piekļuvi.</item>
+        <item quantity="zero">Atrastie fotoattēli: %s. Varat tos pārvietot uz “Karšu ietvars”, lai atvieglotu piekļuvi.</item>
+        <item quantity="one">Atrastie fotoattēli: %s. Varat to pārvietot uz “Karšu ietvars”, lai atvieglotu piekļuvi.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s fotoattēls(-i) pārvietots(-i) uz “Karšu ietvars”</item>
+        <item quantity="zero">%1$s fotoattēlu pārvietoti uz “Karšu ietvars”</item>
+        <item quantity="one">%1$s fotoattēls pārvietots uz “Karšu ietvars”</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d biļete(-es)/kvīts(-is)</item>
+        <item quantity="zero">%1$d biļešu/kvīšu</item>
+        <item quantity="one">%1$d biļete/kvīts</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Atlasītais(-ie) vienums(-i) albumā jau pastāv</item>
+        <item quantity="zero">Atlasītais(-ie) vienums(-i) albumā jau pastāv</item>
+        <item quantity="one">Atlasītais vienums albumā jau pastāv</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d vienumi</item>
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d fotoattēls(-i) tiek ielādēts(-i) un to/tos nevar pārvietot</item>
+        <item quantity="zero">%d fotoattēlu tiek ielādēti un tos nevar pārvietot</item>
+        <item quantity="one">%d fotoattēls tiek ielādēts un to nevar pārvietot</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Fotoattēli pārvietoti. Videoklipus nevar pārvietot uz šo albumu.</item>
+        <item quantity="zero">Fotoattēli pārvietoti. Videoklipus nevar pārvietot uz šo albumu.</item>
+        <item quantity="one">Fotoattēls pārvietots. Videoklipus nevar pārvietot uz šo albumu.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Atjaunot %d vienumu(-us)</item>
+        <item quantity="zero">Atjaunot %d vienumu</item>
+        <item quantity="one">Atjaunot %d vienumu</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d foto</item>
+        <item quantity="zero">%1$d fotoattēli</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d video</item>
+        <item quantity="zero">%1$d videoklipi</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">Atlasīti %1$d vienumi</item>
+        <item quantity="zero">Atlasīti %1$d vienumi</item>
+        <item quantity="one">%1$d vienums atlasīts</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">Ir atlasīti %1$d albumi</item>
+        <item quantity="zero">Atlasīti %1$d albumi</item>
+        <item quantity="one">Ir atlasīts %1$d albums</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">Ir atlasītas %1$d personas</item>
+        <item quantity="zero">Atlasīti %1$d cilvēki</item>
+        <item quantity="one">Ir atlasītas %1$d personas</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d atlasīti</item>
+        <item quantity="zero">%1$d atlasīti</item>
+        <item quantity="one">%1$d atlasīts</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Ir atlasītas %1$d atmiņas</item>
+        <item quantity="zero">Atlasītas %1$d atmiņas</item>
+        <item quantity="one">Ir atlasīta %1$d atmiņa</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">Ir atlasīti %1$d videoklipi</item>
+        <item quantity="zero">Atlasīti %1$d videoklipi</item>
+        <item quantity="one">Ir atlasīts %1$d videoklips</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Akumulatora uzlādes līmenis ir zemāks par %1$s. %2$d vienumi netika lejupielādēti.</item>
+        <item quantity="zero">Akumulatora uzlādes līmenis ir zemāks par %1$s. %2$d vienumi netika lejupielādēti.</item>
+        <item quantity="one">Akumulatora uzlādes līmenis ir zemāks par %1$s. %2$d vienums netika lejupielādēts.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Nepietiek vietas ierīces krātuvē. %1$d vienums(-i) netika lejupielādēti.</item>
+        <item quantity="zero"></item>
+        <item quantity="one">Nepietiek vietas ierīces krātuvē. %1$d vienums netika lejupielādēts.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Mākoņkrātuve ir pilna. %1$d vienumi netika augšupielādēti.</item>
+        <item quantity="zero">Mākoņkrātuve ir pilna. %1$d vienums(-i) netika augšupielādēts(-i).</item>
+        <item quantity="one">Mākoņkrātuve ir pilna. %1$d vienums netika augšupielādēts.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Neizdevās pievienot %d vienumus</item>
+        <item quantity="zero">Neizdevās pievienot %d vienumus</item>
+        <item quantity="one">Neizdevās pievienot %d vienumu</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">Neizdevās iestatīt %d fotoattēlus kā privātus, jo tie tiek ielādēti.</item>
+        <item quantity="zero">%d tiek ielādēti fotoattēli, un tos nevar iestatīt kā privātus.</item>
+        <item quantity="one">Neizdevās iestatīt %d fotoattēlu kā privātu, jo tas tiek ielādēts.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d vienums</item>
+        <item quantity="zero">%d vienumi</item>
+        <item quantity="one">%d vienums</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d sekundes</item>
+        <item quantity="zero">%d sekundes</item>
+        <item quantity="one">%d sekunde</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d diena(-as)</item>
+        <item quantity="zero">%1$d dienu</item>
+        <item quantity="one">%1$d diena</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Jābūt lielākam par %1$d mm</item>
+        <item quantity="zero">Jābūt vairāk par %1$d mm</item>
+        <item quantity="one">Jābūt lielākam par %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Jābūt lielākam par %1$d px</item>
+        <item quantity="zero">Jābūt vairāk par %1$d px</item>
+        <item quantity="one">Jābūt lielākam par %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Jābūt mazākam par %1$d mm</item>
+        <item quantity="zero">Jābūt mazāk par %1$d mm</item>
+        <item quantity="one">Jābūt mazākam par %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Jābūt mazākam par %1$d px</item>
+        <item quantity="zero">Jābūt mazāk par %1$d px</item>
+        <item quantity="one">Jābūt mazākam par %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Jābūt lielākam par %1$d KB</item>
+        <item quantity="zero">Jābūt vairāk par %1$d KB</item>
+        <item quantity="one">Jābūt lielākam par %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Jābūt mazākam par %1$d KB</item>
+        <item quantity="zero">Jābūt mazāk par %1$d KB</item>
+        <item quantity="one">Jābūt mazākam par %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Jābūt lielākam par %1$d mm</item>
+        <item quantity="zero">Jābūt vairāk par %1$d mm</item>
+        <item quantity="one">Jābūt lielākam par %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Jābūt lielākam par %1$d px</item>
+        <item quantity="zero">Jābūt vairāk par %1$d px</item>
+        <item quantity="one">Jābūt lielākam par %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Jābūt mazākam par %1$d mm</item>
+        <item quantity="zero">Jābūt mazāk par %1$d mm</item>
+        <item quantity="one">Jābūt mazākam par %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Jābūt mazākam par %1$d px</item>
+        <item quantity="zero">Jābūt mazāk par %1$d px</item>
+        <item quantity="one">Jābūt mazākam par %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Paturēt tikai %d atlasītos fotoattēlus</item>
+        <item quantity="zero">Paturēt tikai %d atlasītos fotoattēlus</item>
+        <item quantity="one">Paturēt tikai %d atlasīto fotoattēlu</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Dzēst %d vienumus</item>
+        <item quantity="zero">Dzēst %d vienumus</item>
+        <item quantity="one">Dzēst %d vienumu</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d atlasīts</item>
+        <item quantity="zero">%1$d atlasīti</item>
+        <item quantity="one">Ir atlasīti %1$d vienumi</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">Ir atlasīti %1$d albumi</item>
+        <item quantity="zero">Atlasīti %1$d albumi</item>
+        <item quantity="one">Ir atlasīts %1$d albums</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d atlasīts</item>
+        <item quantity="zero">%1$d atlasīti</item>
+        <item quantity="one">%1$d atlasīts</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">Atlasītas %1$d uzlīmes</item>
+        <item quantity="zero">Atlasītas %1$d uzlīmes</item>
+        <item quantity="one">Atlasīta %1$d uzlīme</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">Ir atlasīti %1$d videoklipi</item>
+        <item quantity="zero">Atlasīti %1$d videoklipi</item>
+        <item quantity="one">Ir atlasīts %1$d videoklips</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">Jauni %d paziņojumi</item>
+        <item quantity="one">Jauns %d paziņojums</item>
+    </plurals>
+</resources>

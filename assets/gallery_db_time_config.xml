@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<time_config>
+    <version>2020081510</version>
+    <isOpen>1</isOpen>
+    <filter-name>gallery_db_time_config</filter-name>
+
+    <!-- limit time to statistic, ms -->
+    <one_operation_time_min>500</one_operation_time_min>
+    <multi_operation_time_min>2000</multi_operation_time_min>
+
+    <!-- avg time * ratio = current limit time -->
+    <one_operation_time_ratio>50</one_operation_time_ratio>
+    <multi_operation_time_ratio>20</multi_operation_time_ratio>
+
+    <!-- operation times to record -->
+    <operation_times_record>1000</operation_times_record>
+</time_config>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="tab_album_active" android:tint="@color/main_tab_selected_icon_black" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="path_width" android:fillColor="#ffffffff" android:pathData="M3.66663 8.00132C3.66663 7.63313 3.9651 7.33466 4.33329 7.33466H19.6666C20.0348 7.33466 20.3333 7.63313 20.3333 8.00132V18.668C20.3333 19.0362 20.0348 19.3347 19.6666 19.3347H4.33329C3.9651 19.3347 3.66663 19.0362 3.66663 18.668V8.00132Z" android:strokeColor="#ffffffff" android:strokeWidth="1.33333" />
+    <path android:name="path_width" android:pathData="M4.33337 4.66669H19.6667" android:strokeColor="#ffffffff" android:strokeWidth="1.33333" />
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/result_item" android:layout_width="fill_parent" android:layout_height="@dimen/search_result_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/result_content" android:layout_width="fill_parent" android:layout_height="@dimen/search_result_item_height" android:layout_centerVertical="true">
+        <ImageView android:id="@id/image_avatar" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerCrop" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/search_result_guide_item_margin_end" android:layout_alignParentStart="true" app:tint="@color/search_result_item_icon_color" />
+        <com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/search_result_item_text_sub_size" android:textColor="@color/search_result_item_text_count_color" android:id="@id/result_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="100" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/search_result_item_number_margin_end" android:layout_alignParentEnd="true" style="@style/ItemTextNormalFontStyle" />
+        <com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/search_result_item_text_size" android:textColor="@color/search_result_item_text_color" android:id="@id/result_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Name" android:layout_centerVertical="true" android:textDirection="locale" android:textAlignment="viewStart" android:layout_toStartOf="@id/result_count" android:layout_toEndOf="@id/image_avatar" style="@style/ItemTextNormalFontStyle" />
+    </RelativeLayout>
+</RelativeLayout>

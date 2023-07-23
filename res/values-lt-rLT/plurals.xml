@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d nuotraukų nepavyko pridėti, nes jos įkeliamos.</item>
+        <item quantity="one">%d nuotraukos nepavyko pridėti, nes ji įkeliama.</item>
+        <item quantity="few">%d nuotraukos yra įkeliamos ir jų negalima pridėti.</item>
+        <item quantity="many">%d nuotraukų yra įkeliama ir jų negalima pridėti.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d banko kortelių</item>
+        <item quantity="one">%1$d banko kortelė</item>
+        <item quantity="few">%1$d banko kortelės</item>
+        <item quantity="many">%1$d banko kortelių</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ID</item>
+        <item quantity="one">%1$d ID</item>
+        <item quantity="few">%1$d ID</item>
+        <item quantity="many">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Visam laikui ištrinti elementų: %d</item>
+        <item quantity="one">Visam laikui ištrinti %d elementą</item>
+        <item quantity="few">Visam laikui trinti %d elementus</item>
+        <item quantity="many">Visam laikui trinti %d elemento</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Trinti %d elementų</item>
+        <item quantity="one">Trinti %d elementą</item>
+        <item quantity="few">Trinti %d elementus</item>
+        <item quantity="many">Trinti %d elementų</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">Nuotraukų: %1$d</item>
+        <item quantity="one">%1$d nuotrauka</item>
+        <item quantity="few">%1$d nuotraukos</item>
+        <item quantity="many">%1$d nuotraukos</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Rasta nuotraukų: %s. Jas galite perkelti į kortelių dėklą, kad jas būtų lengviau pasiekti.</item>
+        <item quantity="one">Rasta nuotraukų: %s. Ją galite perkelti į kortelių dėklą, kad ją būtų lengviau pasiekti.</item>
+        <item quantity="few">Rasta nuotraukų: %s. Jas galite perkelti į kortelių dėklą, kad jas būtų lengviau pasiekti.</item>
+        <item quantity="many">Rasta nuotraukų: %s. Jas galite perkelti į kortelių dėklą, kad jas būtų lengviau pasiekti.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s nuotraukos perkeltos į kortelių dėklą</item>
+        <item quantity="one">%1$s nuotrauka perkelta į kortelių dėklą</item>
+        <item quantity="few">%1$s nuotraukos perkeltos į kortelių dėklą</item>
+        <item quantity="many">%1$s nuotraukos perkeltos į kortelių dėklą</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d bilietų / kvitų</item>
+        <item quantity="one">%1$d bilietas / kvitas</item>
+        <item quantity="few">%1$d bilietai / kvitai</item>
+        <item quantity="many">%1$d bilietų / kvitų</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Pasirinkti elementai jau yra albume</item>
+        <item quantity="one">Pasirinktas elementas jau yra albume</item>
+        <item quantity="few">Pasirinkti elementai jau yra albume</item>
+        <item quantity="many">Pasirinkti elementai jau yra albume</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d elementai (-ų)</item>
+        <item quantity="one">%d elementas</item>
+        <item quantity="few">%d elementai</item>
+        <item quantity="many">%d elemento</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d nuotraukų yra įkeliama, todėl jų negalima perkelti</item>
+        <item quantity="one">%d nuotrauka yra įkeliama, todėl jos negalima perkelti</item>
+        <item quantity="few">%d nuotraukos yra įkeliamos, todėl jų negalima perkelti</item>
+        <item quantity="many">%d nuotraukų yra įkeliama, todėl jų negalima perkelti</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Nuotraukos perkeltos. Vaizdo įrašų negalima perkelti į šį albumą.</item>
+        <item quantity="one">Nuotrauka perkelta. Vaizdo įrašų negalima perkelti į šį albumą.</item>
+        <item quantity="few">Nuotraukos perkeltos. Vaizdo įrašų negalima perkelti į šį albumą.</item>
+        <item quantity="many">Nuotraukos perkeltos. Vaizdo įrašų negalima perkelti į šį albumą.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Atkurti %d elementų</item>
+        <item quantity="one">Atkurti %d elementą</item>
+        <item quantity="few">Atkurti %d elementus</item>
+        <item quantity="many">Atkurti %d elementų</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">Nuotraukų: %1$d</item>
+        <item quantity="one">Nuotraukų: %1$d</item>
+        <item quantity="few">%1$d nuotraukos</item>
+        <item quantity="many">%1$d nuotraukos</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">Vaizdo įrašų: %1$d</item>
+        <item quantity="one">Vaizdo įrašų: %1$d</item>
+        <item quantity="few">%1$d vaizdo įrašai</item>
+        <item quantity="many">%1$d vaizdo įrašo</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">Pasirinkta elementų: %1$d</item>
+        <item quantity="one">Pasirinktas %1$d elementas</item>
+        <item quantity="few">Pasirinkta elementų: %1$d</item>
+        <item quantity="many">Pasirinkta elementų: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">Pasirinkta albumų: %1$d</item>
+        <item quantity="one">Pasirinkta albumų: %1$d</item>
+        <item quantity="few">Pasirinkti %1$d albumai</item>
+        <item quantity="many">Pasirinkta %1$d albumų</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">Pasirinkta žmonių: %1$d</item>
+        <item quantity="one">Pasirinkta žmonių: %1$d</item>
+        <item quantity="few">Pasirinkti %1$d žmonės</item>
+        <item quantity="many">Pasirinkta %1$d žmonių</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">Pasirinkta %1$d</item>
+        <item quantity="one">Pasirinktas %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Pasir.prisimin: %1$d</item>
+        <item quantity="one">Pasir.prisimin: %1$d</item>
+        <item quantity="few">Pasirinkta prisiminimų: %1$d</item>
+        <item quantity="many">Pasirinkta prisiminimų: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">Pasirinkta vaizdo įrašų: %1$d</item>
+        <item quantity="one">Pasirinkta vaizdo įrašų: %1$d</item>
+        <item quantity="few">Pasirinkti %1$d vaizdo įrašai</item>
+        <item quantity="many">Pasirinkta %1$d vaizdo įrašų</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Akumuliatoriuje liko mažiau nei %1$s. Neatsisiųsta elementų: %2$d.</item>
+        <item quantity="one">Akumuliatoriuje liko mažiau nei %1$s. %2$d elementas neatsisiųstas.</item>
+        <item quantity="few">Akumuliatoriuje liko mažiau nei %1$s. %2$d elementai nebuvo atsisiųsti.</item>
+        <item quantity="many">Akumuliatoriuje liko mažiau nei %1$s. %2$d elementų nebuvo atsisiųsta.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Energijos taupymo režimas įjungtas. Neatsisiųsta elementų: %1$d.</item>
+        <item quantity="one">Energijos taupymo režimas įjungtas. %1$d elementas neatsisiųstas.</item>
+        <item quantity="few">Energijos taupymo režimas įjungtas. %1$d elementai nebuvo atsisiųsti.</item>
+        <item quantity="many">Energijos taupymo režimas įjungtas. %1$d elementų nebuvo atsisiųsta.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Nepakanka vietos įrenginio saugykloje. %1$d elementų nebuvo atsisiųsta.</item>
+        <item quantity="one">Nepakanka vietos įrenginio saugykloje. %1$d elementas nebuvo atsisiųstas.</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Debesies saugykla pilna. Neįkelta elementų: %1$d.</item>
+        <item quantity="one">Debesies saugykla pilna. %1$d elementas neįkeltas.</item>
+        <item quantity="few">Debesies saugykla pilna. %1$d elementai nebuvo įkelti.</item>
+        <item quantity="many">Debesies saugykla pilna. %1$d elementų nebuvo įkelta.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Tinklo klaida. Neįkelta elementų: %1$d.</item>
+        <item quantity="one">Tinklo klaida. %1$d elementas neįkeltas.</item>
+        <item quantity="few">Tinklo klaida. %1$d elementai nebuvo įkelti.</item>
+        <item quantity="many">Tinklo klaida. %1$d elementų nebuvo įkelta.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Nepavyko pridėti %d elementų</item>
+        <item quantity="one">Nepavyko pridėti %d elemento</item>
+        <item quantity="few">Nepavyko pridėti %d elementų</item>
+        <item quantity="many">Nepavyko pridėti %d elementų</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d nuotraukų nepavyko nustatyti kaip privačių, nes jos įkeliamos.</item>
+        <item quantity="one">%d nuotraukos nepavyko nustatyti kaip privačios, nes ji įkeliama.</item>
+        <item quantity="few">%d nuotraukos yra įkeliamos ir jų negalima nustatyti kaip privačių.</item>
+        <item quantity="many">%d nuotraukų yra įkeliama ir jų negalima nustatyti kaip privačių.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d val.</item>
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d elementas</item>
+        <item quantity="one">%d elementas</item>
+        <item quantity="few">%d elementai</item>
+        <item quantity="many">%d elemento</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d d.</item>
+        <item quantity="one">%1$d d.</item>
+        <item quantity="few">%1$d d.</item>
+        <item quantity="many">%1$d d.</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Turi būti daugiau nei %1$d mm</item>
+        <item quantity="one">Turi būti daugiau nei %1$d mm</item>
+        <item quantity="few">Turi būti daugiau nei %1$d mm</item>
+        <item quantity="many">Turi būti daugiau nei %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Turi būti daugiau nei %1$d piks.</item>
+        <item quantity="one">Turi būti daugiau nei %1$d piks.</item>
+        <item quantity="few">Turi būti daugiau nei %1$d piks.</item>
+        <item quantity="many">Turi būti daugiau nei %1$d piks.</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Turi būti mažiau nei %1$d mm</item>
+        <item quantity="one">Turi būti mažiau nei %1$d mm</item>
+        <item quantity="few">Turi būti mažiau nei %1$d mm</item>
+        <item quantity="many">Turi būti mažiau nei %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Turi būti mažiau nei %1$d piks.</item>
+        <item quantity="one">Turi būti mažiau nei %1$d piks.</item>
+        <item quantity="few">Turi būti mažiau nei %1$d piks.</item>
+        <item quantity="many">Turi būti mažiau nei %1$d piks.</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Turi būti daugiau nei %1$d KB</item>
+        <item quantity="one">Turi būti daugiau nei %1$d KB</item>
+        <item quantity="few">Turi būti daugiau nei %1$d KB</item>
+        <item quantity="many">Turi būti daugiau nei %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Turi būti mažiau nei %1$d KB</item>
+        <item quantity="one">Turi būti mažiau nei %1$d KB</item>
+        <item quantity="few">Turi būti mažiau nei %1$d KB</item>
+        <item quantity="many">Turi būti mažiau nei %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Turi būti daugiau nei %1$d mm</item>
+        <item quantity="one">Turi būti daugiau nei %1$d mm</item>
+        <item quantity="few">Turi būti daugiau nei %1$d mm</item>
+        <item quantity="many">Turi būti daugiau nei %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Turi būti daugiau nei %1$d piks.</item>
+        <item quantity="one">Turi būti daugiau nei %1$d piks.</item>
+        <item quantity="few">Turi būti daugiau nei %1$d piks.</item>
+        <item quantity="many">Turi būti daugiau nei %1$d piks.</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Turi būti mažiau nei %1$d mm</item>
+        <item quantity="one">Turi būti mažiau nei %1$d mm</item>
+        <item quantity="few">Turi būti mažiau nei %1$d mm</item>
+        <item quantity="many">Turi būti mažiau nei %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Turi būti mažiau nei %1$d piks.</item>
+        <item quantity="one">Turi būti mažiau nei %1$d piks.</item>
+        <item quantity="few">Turi būti mažiau nei %1$d piks.</item>
+        <item quantity="many">Turi būti mažiau nei %1$d piks.</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Išsaugoti pasirinktas nuotraukas: tik %d</item>
+        <item quantity="one">Išsaugoti tik %d pasirinktą nuotrauką</item>
+        <item quantity="few">Išsaugoti tik %d pasirinktas nuotraukas</item>
+        <item quantity="many">Išsaugoti tik %d pasirinktos nuotraukos</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Naikinti %d elem.</item>
+        <item quantity="one">Naikinti %d elementą</item>
+        <item quantity="few">Trinti %d elementus</item>
+        <item quantity="many">Trinti %d elemento</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">Pasirinkta: %1$d</item>
+        <item quantity="one">Pasir. elementų: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">Pasirinkta albumų: %1$d</item>
+        <item quantity="one">Pasirinkta albumų: %1$d</item>
+        <item quantity="few">Pasirinkti %1$d albumai</item>
+        <item quantity="many">Pasirinkta %1$d albumo</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">Pasirinktas %1$d</item>
+        <item quantity="one">Pasirinkta: %1$d</item>
+        <item quantity="few">Pasirinkta: %1$d</item>
+        <item quantity="many">Pasirinkta: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">Pasirinkta lipdukų: %1$d</item>
+        <item quantity="one">Pasirinktas %1$d lipdukas</item>
+        <item quantity="few">Pasirinkti %1$d lipdukai</item>
+        <item quantity="many">Pasirinkta %1$d lipduko</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">Pasirinkta vaizdo įrašų: %1$d</item>
+        <item quantity="one">Pasirinkta vaizdo įrašų: %1$d</item>
+        <item quantity="few">Pasirinkti %1$d vaizdo įrašai</item>
+        <item quantity="many">Pasirinkta %1$d vaizdo įrašo</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">Naujų pranešimų: %d</item>
+        <item quantity="one">%d naujas pranešimas</item>
+    </plurals>
+</resources>

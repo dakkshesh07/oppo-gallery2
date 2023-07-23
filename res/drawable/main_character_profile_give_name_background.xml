@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/main_character_profile_give_name_text_radius" />
+    <stroke android:width="@dimen/main_character_profile_give_name_text_frame_stroke_width" android:color="@color/main_character_profile_give_name_text_frame_stroke_color" />
+</shape>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/main_character_profile_cover_height" android:width="@dimen/main_character_profile_cover_width" />
+    <solid android:color="@color/base_placeholder_color" />
+</shape>

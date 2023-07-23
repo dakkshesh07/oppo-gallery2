@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/common_all_album_fragment_cover_image_corner_radius" />
+            <solid android:color="@color/main_character_profile_picture_background_press_color" />
+            <stroke android:width="@dimen/common_round_drawable_frame_stroke_width" android:color="@color/common_album_frame_color" />
+        </shape>
+    </item>
+</selector>

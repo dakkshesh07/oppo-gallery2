@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="undo___" android:height="@dimen/picture3d_editor_menu_item_icon_height" android:width="@dimen/picture3d_editor_menu_item_icon_width" android:alpha="@dimen/picture3d_state_disable_alpha" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M2.44946 7.14355V13.2686C2.44946 13.7104 2.80764 14.0686 3.24946 14.0686H9.37446V12.4686H5.18484C5.93996 11.3082 6.98676 10.356 8.23008 9.71364C9.87022 8.86623 11.7522 8.60966 13.5593 8.98712C15.3664 9.36457 16.9884 10.353 18.1522 11.7861C19.316 13.2191 19.9506 15.0094 19.9493 16.8555L21.5493 16.8566C21.5509 14.6428 20.7899 12.496 19.3942 10.7774C17.9986 9.05888 16.0535 7.87355 13.8865 7.42091C11.7194 6.96827 9.46249 7.27595 7.49564 8.29216C6.11444 9.00579 4.93547 10.0382 4.04946 11.2926V7.14355H2.44946Z" android:fillType="evenOdd" />
+</vector>

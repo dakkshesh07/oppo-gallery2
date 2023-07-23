@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/search_auto_recommend_text_size" android:textColor="@drawable/search_auto_recommend_text_selector" android:gravity="center" android:id="@id/button_recommend_item" android:background="@drawable/search_auto_recommend_text_bg" android:layout_width="wrap_content" android:layout_height="@dimen/search_auto_recommend_item_height" android:paddingStart="@dimen/search_auto_recommend_text_padding_start" android:paddingEnd="@dimen/search_auto_recommend_text_padding_end" android:forceDarkAllowed="false" style="@style/ItemTextNormalFontStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

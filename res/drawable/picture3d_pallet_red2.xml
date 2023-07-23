@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/picture3d_editor_color_icon_size" android:width="@dimen/picture3d_editor_color_icon_size" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff80000d" android:pathData="M16 4a12 12 0 1 0 0 24a12 12 0 1 0 0-24z" />
+</vector>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/group_tab">
+        <item android:icon="@drawable/picture3d_menu_ic_send_white_selector" android:id="@id/action_share" android:title="@string/picture3d_share" app:showAsAction="always" />
+        <item android:icon="@drawable/picture3d_menu_ic_save_white_selector" android:id="@id/action_save" android:title="@string/common_save" app:showAsAction="always" />
+    </group>
+</menu>

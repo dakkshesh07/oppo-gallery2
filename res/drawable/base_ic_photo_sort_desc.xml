@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="215.0dip" android:width="102.0dip" android:autoMirrored="true" android:viewportWidth="102.0" android:viewportHeight="215.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffe4e7eb" android:pathData="M16,0L86,0A16,16 0,0 1,102 16L102,199A16,16 0,0 1,86 215L16,215A16,16 0,0 1,0 199L0,16A16,16 0,0 1,16 0z" />
+    <path android:fillColor="#ffffffff" android:pathData="M16,3L86,3A13,13 0,0 1,99 16L99,199A13,13 0,0 1,86 212L16,212A13,13 0,0 1,3 199L3,16A13,13 0,0 1,16 3z" />
+    <group>
+        <clip-path android:pathData="M4,44H98V191.8C98,198.521 98,201.881 96.692,204.448C95.542,206.706 93.706,208.542 91.448,209.692C88.881,211 85.521,211 78.8,211H23.2C16.479,211 13.119,211 10.552,209.692C8.294,208.542 6.458,206.706 5.308,204.448C4,201.881 4,198.521 4,191.8V44Z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M10,44h71v5h-71z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M87,44h5v5h-5z" />
+        <path android:fillColor="#ffbadafb" android:pathData="M4,54.67h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M27.667,54.67h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M51.333,54.67h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M75,54.67h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M4,78.34h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M27.667,78.34h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M51.333,78.34h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M75,78.34h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M4,102.01h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M27.667,102.01h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M51.333,102.01h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M75,102.01h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M4,125.68h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M27.667,125.68h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M51.333,125.68h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M75,125.68h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M4,149.35h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M27.667,149.35h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M51.333,149.35h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M75,149.35h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M4,173.02h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M27.667,173.02h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M51.333,173.02h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M75,173.02h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M4,196.69h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M27.667,196.69h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M51.333,196.69h23v23h-23z" />
+        <path android:fillColor="#ffebedf0" android:pathData="M75,196.69h23v23h-23z" />
+    </group>
+    <path android:fillColor="#ffebedf0" android:pathData="M16,20L70,20A6,6 0,0 1,76 26L76,26A6,6 0,0 1,70 32L16,32A6,6 0,0 1,10 26L10,26A6,6 0,0 1,16 20z" />
+    <path android:fillColor="#ffebedf0" android:pathData="M86,20L86,20A6,6 0,0 1,92 26L92,26A6,6 0,0 1,86 32L86,32A6,6 0,0 1,80 26L80,26A6,6 0,0 1,86 20z" />
+    <path android:fillColor="#ffdfe2e5" android:pathData="M28,205L74,205A1,1 0,0 1,75 206L75,206A1,1 0,0 1,74 207L28,207A1,1 0,0 1,27 206L27,206A1,1 0,0 1,28 205z" />
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="@dimen/picture3d_editor_menu_list_item_small_height" android:layout_marginTop="@dimen/picture3d_doodle_sub_menu_layout_margin_top"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.gallery.business_lib.template.editor.widget.HorizontalLinearListView android:id="@id/doodle_brush_stroke_width_horizontal_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/picture3d_doodle_stroke_select_item_margin_start" android:layout_marginEnd="@dimen/picture3d_doodle_stroke_select_item_margin_end" app:base_itemSpacing="@dimen/picture3d_doodle_brush_style_item_spacing" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <com.oplus.gallery.business_lib.template.editor.widget.HorizontalLinearListView android:layout_gravity="center" android:id="@id/doodle_brush_color_horizontal_list" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="@dimen/picture3d_editor_color_list_margin_top" android:paddingStart="@dimen/picture3d_doodle_text_color_menu_padding_start" android:paddingEnd="@dimen/picture3d_doodle_text_color_menu_padding_start" app:base_itemSpacing="@dimen/picture3d_doodle_brush_color_item_spacing" />
+        <View android:background="@color/picture3d_white_30_percent" android:layout_width="@dimen/picture3d_editor_divider_line_width" android:layout_height="@dimen/picture3d_doodle_sub_menu_line_height" android:layout_marginTop="@dimen/picture3d_editor_color_cross_line_margin_top" android:layout_alignParentStart="true" />
+    </RelativeLayout>
+</LinearLayout>

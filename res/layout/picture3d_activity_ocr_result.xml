@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/toolbar" android:background="@color/base_gallery_background_color" android:paddingTop="@dimen/toolbar_top_padding" android:layout_width="fill_parent" android:layout_height="@dimen/picture3d_gl_action_bar_map_album_toolbar_height" />
+    <EditText android:textSize="@dimen/picture3d_ocr_result_text_size" android:ellipsize="start" android:gravity="top" android:id="@id/text_content" android:background="@null" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/picture3d_ocr_text_margin_top" android:layout_marginBottom="@dimen/picture3d_ocr_text_margin_bottom" android:layout_below="@id/toolbar" android:lineSpacingMultiplier="1.4" android:textAlignment="viewStart" android:paddingHorizontal="@dimen/picture3d_ocr_text_padding_left_right" />
+    <com.coui.appcompat.widget.navigation.COUINavigationView android:id="@id/navigation_tool" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" app:couiNaviMenu="@menu/picture3d_ocr_navigation_tool" app:navigationType="tool" />
+</RelativeLayout>

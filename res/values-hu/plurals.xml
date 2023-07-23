@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d fotó betöltése folyamatban van, és nem adhatók hozzá.</item>
+        <item quantity="one">%d fotó betöltése folyamatban van, és nem adható hozzá.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d bankkártya</item>
+        <item quantity="one">%1$d bankkártya</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d azonosító</item>
+        <item quantity="one">%1$d azonosító</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d tétel maradandó törlése</item>
+        <item quantity="one">%d tétel végleges törlése</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d elem törlése</item>
+        <item quantity="one">%d elem törlése</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d fotó</item>
+        <item quantity="one">%1$d fotó</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Talált fotók: %s. Áthelyezheti ezeket a „Kártyatartó” albumba az egyszerűbb elérés érdekében.</item>
+        <item quantity="one">Talált fotók: %s. Áthelyezheti a „Kártyatartó” albumba az egyszerűbb elérés érdekében.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">A(z) %1$s fotói áthelyezve a „Kártyatartó” albumba</item>
+        <item quantity="one">A(z) %1$s fotója áthelyezve a „Kártyatartó” albumba</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d jegy/nyugta</item>
+        <item quantity="one">%1$d jegy/nyugta</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">A kiválasztott elemek már léteznek az albumban</item>
+        <item quantity="one">A kiválasztott elem már létezik az albumban</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d elem</item>
+        <item quantity="one">%d tétel</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d fotó betöltésre kerül, és nem helyezhető át</item>
+        <item quantity="one">%d fotó betöltésre kerül, és nem helyezhető át</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d személy</item>
+        <item quantity="one">%1$d személy</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Fotó áthelyezve. Videó nem helyezhető át ebbe az albumba.</item>
+        <item quantity="one">Fotó áthelyezve. Videó nem helyezhető át ebbe az albumba.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d elem visszaállítása</item>
+        <item quantity="one">%d elem visszaállítása</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotó</item>
+        <item quantity="one">%1$d fotó</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videó</item>
+        <item quantity="one">%1$d videó</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d elem kijelölve</item>
+        <item quantity="one">%1$d elem kijelölve</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d album kiválasztva</item>
+        <item quantity="one">%1$d album kiválasztva</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d ember kiválasztva</item>
+        <item quantity="one">%1$d ember kiválasztva</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d emlék kijelölve</item>
+        <item quantity="one">%1$d emlék kijelölve</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d videó kiválasztva</item>
+        <item quantity="one">%1$d videó kiválasztva</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d videó</item>
+        <item quantity="one">%1$d videó</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs letöltve.</item>
+        <item quantity="one">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Az akkumulátor töltöttsége alacsonyabb mint %1$s. %2$d elem nem lett letöltve. Töltse fel a telefont.</item>
+        <item quantity="one">Az akkumulátor töltöttsége alacsonyabb mint %1$s. %2$d elem nem lett letöltve. Töltse fel a telefont.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Az akkumulátor töltöttségi szintje kevesebb mint %1$s. %2$d tétel nincs letöltve. Töltse fel az eszközt.</item>
+        <item quantity="one">Az akkumulátor töltöttségi szintje kevesebb mint %1$s. %2$d tétel nincs letöltve. Töltse fel az eszközt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs letöltve.</item>
+        <item quantity="one">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Energiatakarékos mód bekapcsolva. %1$d tétel nincs letöltve.</item>
+        <item quantity="one">Energiatakarékos mód bekapcsolva. %1$d tétel nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Energiatakarékos mód bekapcsolva. %1$d tétel nincs letöltve.</item>
+        <item quantity="one">Energiatakarékos mód bekapcsolva. %1$d tétel nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d elem nem lett letöltve. %2$s.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d elem nem lett letöltve. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d tétel nincs letöltve. %2$s vagy %3$s.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d tétel nincs letöltve. %2$s vagy %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d elem nem lett letöltve.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d elem nem lett letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d elem nem lett letöltve.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d elem nem lett letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Nincs elegendő felhőtárhely. %1$d tétel nincs letöltve.</item>
+        <item quantity="one">Nincs elegendő felhőtárhely. %1$d tétel nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Nincs elegendő eszköztárhely. %1$d elem nincs letöltve.</item>
+        <item quantity="one">Nincs elegendő eszköztárhely. %1$d elem nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Hálózati hiba. %1$d tétel nincs letöltve.</item>
+        <item quantity="one">Hálózati hiba. %1$d tétel nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Hálózati hiba. %1$d tétel nincs letöltve.</item>
+        <item quantity="one">Hálózati hiba. %1$d tétel nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Nincs elegendő felhőtárhely. %1$d eredeti fénykép nincs letöltve.</item>
+        <item quantity="one">Nincs elegendő felhőtárhely. %1$d eredeti fénykép nincs letöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d fotó nincs szinkronizálva. A felhőtárhely megtelt.</item>
+        <item quantity="one">%1$d fotó nincs szinkronizálva. A felhőtárhely megtelt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d fotó nincs szinkronizálva. A felhővel történő szinkronizálás szünetel, ha az akkumulátor töltése kevesebb mint %2$s.</item>
+        <item quantity="one">%1$d fotó nincs szinkronizálva. A felhővel történő szinkronizálás szünetel, ha az akkumulátor töltése kevesebb mint %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d fotó nincs szinkronizálva. A felhőbe történő szinkronizálás energiatakarékos üzemmódban szünetel.</item>
+        <item quantity="one">%1$d fotó nincs szinkronizálva. A felhőbe történő szinkronizálás energiatakarékos üzemmódban szünetel.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">A felhőtárhely megtelt. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">A felhőtárhely megtelt. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs feltöltve.</item>
+        <item quantity="one">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Az akkumulátor töltöttsége alacsonyabb mint %1$s. %2$d elem nem lett feltöltve. Töltse fel a telefont.</item>
+        <item quantity="one">Az akkumulátor töltöttsége alacsonyabb mint %1$s. %2$d elem nem lett feltöltve. Töltse fel a telefont.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Az akkumulátor töltöttségi szintje kevesebb mint %1$s. %2$d tétel nincs feltöltve. Töltse fel az eszközt.</item>
+        <item quantity="one">Az akkumulátor töltöttségi szintje kevesebb mint %1$s. %2$d tétel nincs feltöltve. Töltse fel az eszközt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs feltöltve.</item>
+        <item quantity="one">Az akkumulátor töltése kevesebb mint %1$s. %2$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Energiatakarékos mód bekapcsolva. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">Energiatakarékos mód bekapcsolva. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Energiatakarékos mód bekapcsolva. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">Energiatakarékos mód bekapcsolva. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">A felhőtárhely megtelt. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">A felhőtárhely megtelt. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d videó nincs szinkronizálva. A felhőtárhely megtelt.</item>
+        <item quantity="one">%1$d videó nincs szinkronizálva. A felhőtárhely megtelt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d videó nincs szinkronizálva. A felhővel történő szinkronizálás szünetel, ha az akkumulátor töltése kevesebb mint %2$s.</item>
+        <item quantity="one">%1$d videó nincs szinkronizálva. A felhővel történő szinkronizálás szünetel, ha az akkumulátor töltése kevesebb mint %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d videó nincs szinkronizálva. A felhőbe történő szinkronizálás energiatakarékos üzemmódban szünetel.</item>
+        <item quantity="one">%1$d videó nincs szinkronizálva. A felhőbe történő szinkronizálás energiatakarékos üzemmódban szünetel.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d fotó nincs szinkronizálva.</item>
+        <item quantity="one">%1$d fotó nincs szinkronizálva.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d tétel nincs feltöltve. %2$s.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d tétel nincs feltöltve. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d tétel nincs feltöltve. %2$s vagy %3$s.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d tétel nincs feltöltve. %2$s vagy %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d elem nem lett feltöltve.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d elem nem lett feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Nincs hálózati kapcsolat. %1$d elem nem lett feltöltve.</item>
+        <item quantity="one">Nincs hálózati kapcsolat. %1$d elem nem lett feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d videó nincs szinkronizálva</item>
+        <item quantity="one">%1$d videó nincs szinkronizálva</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Hálózati hiba. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">Hálózati hiba. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Hálózati hiba. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">Hálózati hiba. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Szolgáltatási hiba. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">Szolgáltatási hiba. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Szolgáltatási hiba. %1$d tétel nincs feltöltve.</item>
+        <item quantity="one">Szolgáltatási hiba. %1$d tétel nincs feltöltve.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d elem hozzáadása nem sikerült</item>
+        <item quantity="one">%d elem hozzáadása nem sikerült.</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d fotó betöltése folyamatban van, és nem állíthatók be privátként.</item>
+        <item quantity="one">%d fotó betöltése folyamatban van, és nem állítható be privátként.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d elem</item>
+        <item quantity="one">%d tétel</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">%d másodperc</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d nap</item>
+        <item quantity="one">%1$d nap</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotó</item>
+        <item quantity="one">%1$d fotó</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videó</item>
+        <item quantity="one">%1$d videó</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d fotó betöltése…</item>
+        <item quantity="one">%d fotó betöltése…</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Nagyobb kell, hogy legyen, mint %1$d mm</item>
+        <item quantity="one">Nagyobb kell, hogy legyen, mint %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Nagyobb kell, hogy legyen, mint %1$d px</item>
+        <item quantity="one">Nagyobb kell, hogy legyen, mint %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Kisebb kell, hogy legyen, mint %1$d mm</item>
+        <item quantity="one">Kisebb kell, hogy legyen, mint %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Kisebb kell, hogy legyen, mint %1$d px</item>
+        <item quantity="one">Kisebb kell, hogy legyen, mint %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Nagyobb kell, hogy legyen, mint %1$d KB</item>
+        <item quantity="one">Nagyobb kell, hogy legyen, mint %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Kisebb kell, hogy legyen, mint %1$d KB</item>
+        <item quantity="one">Kisebb kell, hogy legyen, mint %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Nagyobb kell, hogy legyen, mint %1$d mm</item>
+        <item quantity="one">Nagyobb kell, hogy legyen, mint %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Nagyobb kell, hogy legyen, mint %1$d px</item>
+        <item quantity="one">Nagyobb kell, hogy legyen, mint %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Kisebb kell, hogy legyen, mint %1$d mm</item>
+        <item quantity="one">Kisebb kell, hogy legyen, mint %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Kisebb kell, hogy legyen, mint %1$d px</item>
+        <item quantity="one">Kisebb kell, hogy legyen, mint %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Csak a(z) %d kiválasztott fotó megtartása</item>
+        <item quantity="one">Csak a(z) %d kiválasztott fotó megtartása</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d elem törlése</item>
+        <item quantity="one">%d elem törlése</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="one">%1$d elem kiválasztva</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d album kiválasztva</item>
+        <item quantity="one">%1$d album kiválasztva</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d matrica kijelölve</item>
+        <item quantity="one">%1$d matrica kijelölve</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d videó kiválasztva</item>
+        <item quantity="one">%1$d videó kiválasztva</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d fotó betöltése folyamatban van, és nem törölhetők.</item>
+        <item quantity="one">%d fotó betöltése folyamatban van, és nem törölhető.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d elem törlése nem sikerült. Próbálja meg újra</item>
+        <item quantity="one">%1$d elem törlése nem sikerült. Próbálja meg újra</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d új értesítés</item>
+        <item quantity="one">%d új értesítés</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d fotó</item>
+        <item quantity="one">%1$d fotó</item>
+    </plurals>
+</resources>

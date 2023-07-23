@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout android:background="@color/base_gallery_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.oplus.gallery.standard_lib.ui.scroller.RecyclerViewFastScroller android:id="@id/fastScroller" android:layout_width="fill_parent" android:layout_height="fill_parent" app:common_track_marginBottom="@dimen/common_bottom_navigation_menu_height" app:common_track_marginEnd="@dimen/base_album_fastscroller_margin_end" app:common_track_marginTop="@dimen/base_album_recyclerview_padding_top">
+        <com.oplus.gallery.business_lib.ui.view.AlbumRecycleView android:id="@id/recycler_view" android:paddingTop="@dimen/base_album_recyclerview_padding_top" android:paddingBottom="@dimen/base_album_recyclerview_padding_bottom" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" />
+        <ImageView android:id="@id/album_top_translucent_view" android:background="@drawable/base_album_top_mask_repeat" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </com.oplus.gallery.standard_lib.ui.scroller.RecyclerViewFastScroller>
+    <include layout="@layout/base_appbar_no_divider_layout" />
+</com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout>

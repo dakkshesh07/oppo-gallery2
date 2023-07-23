@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">839175_%d photos are being loaded and cannot be added.</item>
+        <item quantity="zero">875768_%d photos are being loaded and cannot be added.</item>
+        <item quantity="one">839178_%d photo is being loaded and cannot be added.</item>
+        <item quantity="two">875771_%d photos are being loaded and cannot be added.</item>
+        <item quantity="few">875769_%d photos are being loaded and cannot be added.</item>
+        <item quantity="many">875770_%d photos are being loaded and cannot be added.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">892011_%1$d bank cards</item>
+        <item quantity="zero">892012_%1$d bank cards</item>
+        <item quantity="one">892010_%1$d bank card</item>
+        <item quantity="two">892014_%1$d bank cards</item>
+        <item quantity="few">892013_%1$d bank cards</item>
+        <item quantity="many">892015_%1$d bank cards</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">896850_Photos found: %s. Turn on this feature to organize relevant photos. You can turn it on or off anytime in Settings.</item>
+        <item quantity="zero">896852_Photos found: %s. Turn on this feature to organize relevant photos. You can turn it on or off anytime in Settings.</item>
+        <item quantity="one">896851_Photos found: %s. Turn on this feature to organize relevant photos. You can turn it on or off anytime in Settings.</item>
+        <item quantity="two">896854_Photos found: %s. Turn on this feature to organize relevant photos. You can turn it on or off anytime in Settings.</item>
+        <item quantity="few">896853_Photos found: %s. Turn on this feature to organize relevant photos. You can turn it on or off anytime in Settings.</item>
+        <item quantity="many">896855_Photos found: %s. Turn on this feature to organize relevant photos. You can turn it on or off anytime in Settings.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">892016_%1$d IDs</item>
+        <item quantity="zero">892018_%1$d IDs</item>
+        <item quantity="one">892017_%1$d ID</item>
+        <item quantity="two">892020_%1$d IDs</item>
+        <item quantity="few">892019_%1$d IDs</item>
+        <item quantity="many">892021_%1$d IDs</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">839177_Permanently delete %d items</item>
+        <item quantity="zero">875772_Permanently delete %d items</item>
+        <item quantity="one">839176_Permanently delete %d item</item>
+        <item quantity="two">875775_Permanently delete %d items</item>
+        <item quantity="few">875773_Permanently delete %d items</item>
+        <item quantity="many">875774_Permanently delete %d items</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">895439_Delete %d items</item>
+        <item quantity="zero">895441_Delete %d items</item>
+        <item quantity="one">895440_Delete %d item</item>
+        <item quantity="two">895443_Delete %d items</item>
+        <item quantity="few">895442_Delete %d items</item>
+        <item quantity="many">895444_Delete %d items</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">839186_%1$d photos</item>
+        <item quantity="zero">875792_%1$d photos</item>
+        <item quantity="one">839192_%1$d photo</item>
+        <item quantity="two">875795_%1$d photos</item>
+        <item quantity="few">875793_%1$d photos</item>
+        <item quantity="many">875794_%1$d photos</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">892431_Photos found: %s. You can move them to \"Card case\" for easier access.</item>
+        <item quantity="zero">892433_Photos found: %s. You can move them to \"Card case\" for easier access.</item>
+        <item quantity="one">892432_Photos found: %s. You can move it to \"Card case\" for easier access.</item>
+        <item quantity="two">892435_Photos found: %s. You can move them to \"Card case\" for easier access.</item>
+        <item quantity="few">892434_Photos found: %s. You can move them to \"Card case\" for easier access.</item>
+        <item quantity="many">892436_Photos found: %s. You can move them to \"Card case\" for easier access.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">892437_Photos of %1$s moved to \"Card case\"</item>
+        <item quantity="zero">892439_Photos of %1$s moved to \"Card case\"</item>
+        <item quantity="one">892438_Photo of %1$s moved to \"Card case\"</item>
+        <item quantity="two">892441_Photos of %1$s moved to \"Card case\"</item>
+        <item quantity="few">892440_Photos of %1$s moved to \"Card case\"</item>
+        <item quantity="many">892442_Photos of %1$s moved to \"Card case\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">892004_%1$d tickets/receipts</item>
+        <item quantity="zero">892006_%1$d tickets/receipts</item>
+        <item quantity="one">892005_%1$d ticket/receipt</item>
+        <item quantity="two">892008_%1$d tickets/receipts</item>
+        <item quantity="few">892007_%1$d tickets/receipts</item>
+        <item quantity="many">892009_%1$d tickets/receipts</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">892426_The selected items already exist in the album</item>
+        <item quantity="zero">892427_The selected items already exist in the album</item>
+        <item quantity="one">892425_The selected item already exist in the album</item>
+        <item quantity="two">892429_The selected items already exist in the album</item>
+        <item quantity="few">892428_The selected items already exist in the album</item>
+        <item quantity="many">892430_The selected items already exist in the album</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">865187_%d items</item>
+        <item quantity="zero">877173_%d items</item>
+        <item quantity="one">865376_%d item</item>
+        <item quantity="two">877176_%d items</item>
+        <item quantity="few">877174_%d items</item>
+        <item quantity="many">877175_%d items</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">"892053_%d photos are loading and can't be moved"</item>
+        <item quantity="zero">"892055_%d photos are loading and can't be moved"</item>
+        <item quantity="one">"892054_%d photo is loading and can't be moved"</item>
+        <item quantity="two">"892057_%d photos are loading and can't be moved"</item>
+        <item quantity="few">"892056_%d photos are loading and can't be moved"</item>
+        <item quantity="many">"892058_%d photos are loading and can't be moved"</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">839191_%1$d people</item>
+        <item quantity="zero"></item>
+        <item quantity="one">839190_%1$d people</item>
+        <item quantity="two"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">"893516_Photos moved. Videos can't be moved to this album."</item>
+        <item quantity="zero">"893518_Photos moved. Videos can't be moved to this album."</item>
+        <item quantity="one">"893517_Photo moved. Videos can't be moved to this album."</item>
+        <item quantity="two">"893520_Photos moved. Videos can't be moved to this album."</item>
+        <item quantity="few">"893519_Photos moved. Videos can't be moved to this album."</item>
+        <item quantity="many">"893521_Photos moved. Videos can't be moved to this album."</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">895445_Restore %d items</item>
+        <item quantity="zero">895447_Restore %d items</item>
+        <item quantity="one">895446_Restore %d item</item>
+        <item quantity="two">895449_Restore %d items</item>
+        <item quantity="few">895448_Restore %d items</item>
+        <item quantity="many">895450_Restore %d items</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">843914_%1$d photos</item>
+        <item quantity="zero">875957_%1$d photos</item>
+        <item quantity="one">843920_%1$d photo</item>
+        <item quantity="two">875960_%1$d photos</item>
+        <item quantity="few">875958_%1$d photos</item>
+        <item quantity="many">875959_%1$d photos</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">843916_%1$d videos</item>
+        <item quantity="zero">875961_%1$d videos</item>
+        <item quantity="one">843915_%1$d video</item>
+        <item quantity="two">875964_%1$d videos</item>
+        <item quantity="few">875962_%1$d videos</item>
+        <item quantity="many">875963_%1$d videos</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">839180_%1$d items selected</item>
+        <item quantity="zero">875776_%1$d items selected</item>
+        <item quantity="one">839179_%1$d item selected</item>
+        <item quantity="two">875779_%1$d items selected</item>
+        <item quantity="few">875777_%1$d items selected</item>
+        <item quantity="many">875778_%1$d items selected</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">839182_%1$d Albums Selected</item>
+        <item quantity="zero">875780_%1$d Albums Selected</item>
+        <item quantity="one">839181_%1$d Album Selected</item>
+        <item quantity="two">875783_%1$d Albums Selected</item>
+        <item quantity="few">875781_%1$d Albums Selected</item>
+        <item quantity="many">875782_%1$d Albums Selected</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">839196_%1$d People Selected</item>
+        <item quantity="zero">875804_%1$d People Selected</item>
+        <item quantity="one">839195_%1$d People Selected</item>
+        <item quantity="two">875807_%1$d People Selected</item>
+        <item quantity="few">875805_%1$d People Selected</item>
+        <item quantity="many">875806_%1$d People Selected</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">839183_%1$d selected</item>
+        <item quantity="zero">875784_%1$d selected</item>
+        <item quantity="one">839189_%1$d selected</item>
+        <item quantity="two">875787_%1$d selected</item>
+        <item quantity="few">875785_%1$d selected</item>
+        <item quantity="many">875786_%1$d selected</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">839188_%1$d memories selected</item>
+        <item quantity="zero">875796_%1$d memories selected</item>
+        <item quantity="one">839187_%1$d memory selected</item>
+        <item quantity="two">875799_%1$d memories selected</item>
+        <item quantity="few">875797_%1$d memories selected</item>
+        <item quantity="many">875798_%1$d memories selected</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">839185_%1$d Videos Selected</item>
+        <item quantity="zero">875788_%1$d Videos Selected</item>
+        <item quantity="one">839184_%1$d Video Selected</item>
+        <item quantity="two">875791_%1$d Videos Selected</item>
+        <item quantity="few">875789_%1$d Videos Selected</item>
+        <item quantity="many">875790_%1$d Videos Selected</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_picture_state">
+        <item quantity="other">839042_%1$d photos</item>
+        <item quantity="zero">875728_%1$d photos</item>
+        <item quantity="one">839047_%1$d photo</item>
+        <item quantity="two">875731_%1$d photos</item>
+        <item quantity="few">875729_%1$d photos</item>
+        <item quantity="many">875730_%1$d photos</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">839044_%1$d videos</item>
+        <item quantity="zero">875732_%1$d videos</item>
+        <item quantity="one">839043_%1$d video</item>
+        <item quantity="two">875735_%1$d videos</item>
+        <item quantity="few">875733_%1$d videos</item>
+        <item quantity="many">875734_%1$d videos</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">845858_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="zero">876061_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="one">845857_Battery lower than %1$s. %2$d item not downloaded.</item>
+        <item quantity="two">876064_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="few">876062_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="many">876063_Battery lower than %1$s. %2$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">845852_Battery lower than %1$s. %2$d items not downloaded. Please charge your phone.</item>
+        <item quantity="zero">876049_Battery lower than %1$s. %2$d items not downloaded. Please charge your phone.</item>
+        <item quantity="one">845851_Battery lower than %1$s. %2$d item not downloaded. Please charge your phone.</item>
+        <item quantity="two">876052_Battery lower than %1$s. %2$d items not downloaded. Please charge your phone.</item>
+        <item quantity="few">876050_Battery lower than %1$s. %2$d items not downloaded. Please charge your phone.</item>
+        <item quantity="many">876051_Battery lower than %1$s. %2$d items not downloaded. Please charge your phone.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">889680_Battery lower than %1$s. %2$d items not downloaded. Please charge your device.</item>
+        <item quantity="zero">889681_Battery lower than %1$s. %2$d items not downloaded. Please charge your device.</item>
+        <item quantity="one">889679_Battery lower than %1$s. %2$d item not downloaded. Please charge your device.</item>
+        <item quantity="two">889683_Battery lower than %1$s. %2$d items not downloaded. Please charge your device.</item>
+        <item quantity="few">889682_Battery lower than %1$s. %2$d items not downloaded. Please charge your device.</item>
+        <item quantity="many">889684_Battery lower than %1$s. %2$d items not downloaded. Please charge your device.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">889539_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="zero">889541_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="one">889540_Battery lower than %1$s. %2$d item not downloaded.</item>
+        <item quantity="two">889543_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="few">889542_Battery lower than %1$s. %2$d items not downloaded.</item>
+        <item quantity="many">889544_Battery lower than %1$s. %2$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">845856_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="zero">876057_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="one">845855_Power saving mode on. %1$d item not downloaded.</item>
+        <item quantity="two">876060_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="few">876058_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="many">876059_Power saving mode on. %1$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">889533_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="zero">889535_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="one">889534_Power saving mode on. %1$d item not downloaded.</item>
+        <item quantity="two">889537_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="few">889536_Power saving mode on. %1$d items not downloaded.</item>
+        <item quantity="many">889538_Power saving mode on. %1$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">845862_No network connection. %1$d items not downloaded. %2$s.</item>
+        <item quantity="zero">876073_No network connection. %1$d items not downloaded. %2$s.</item>
+        <item quantity="one">845868_No network connection. %1$d item not downloaded. %2$s.</item>
+        <item quantity="two">876076_No network connection. %1$d items not downloaded. %2$s.</item>
+        <item quantity="few">876074_No network connection. %1$d items not downloaded. %2$s.</item>
+        <item quantity="many">876075_No network connection. %1$d items not downloaded. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">845864_No network connection. %1$d items not downloaded. %2$s or %3$s.</item>
+        <item quantity="zero">876077_No network connection. %1$d items not downloaded. %2$s or %3$s.</item>
+        <item quantity="one">845863_No network connection. %1$d item not downloaded. %2$s or %3$s.</item>
+        <item quantity="two">876080_No network connection. %1$d items not downloaded. %2$s or %3$s.</item>
+        <item quantity="few">876078_No network connection. %1$d items not downloaded. %2$s or %3$s.</item>
+        <item quantity="many">876079_No network connection. %1$d items not downloaded. %2$s or %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">859997_No network connection. %1$d items not downloaded.</item>
+        <item quantity="zero">876809_No network connection. %1$d items not downloaded.</item>
+        <item quantity="one">859996_No network connection. %1$d item not downloaded.</item>
+        <item quantity="two">876812_No network connection. %1$d items not downloaded.</item>
+        <item quantity="few">876810_No network connection. %1$d items not downloaded.</item>
+        <item quantity="many">876811_No network connection. %1$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">889564_No network connection. %1$d items not downloaded.</item>
+        <item quantity="zero">889566_No network connection. %1$d items not downloaded.</item>
+        <item quantity="one">889565_No network connection. %1$d item not downloaded.</item>
+        <item quantity="two">889568_No network connection. %1$d items not downloaded.</item>
+        <item quantity="few">889567_No network connection. %1$d items not downloaded.</item>
+        <item quantity="many">889569_No network connection. %1$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">845859_Insufficient cloud storage. %1$d item not downloaded.</item>
+        <item quantity="zero">876065_Insufficient cloud storage. %1$d item not downloaded.</item>
+        <item quantity="one">845865_Insufficient cloud storage. %1$d items not downloaded.</item>
+        <item quantity="two">876068_Insufficient cloud storage. %1$d item not downloaded.</item>
+        <item quantity="few">876066_Insufficient cloud storage. %1$d item not downloaded.</item>
+        <item quantity="many">876067_Insufficient cloud storage. %1$d item not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">900663_Insufficient device storage. %1$d items not downloaded.</item>
+        <item quantity="zero">889529_Insufficient phone storage. %1$d item not downloaded.</item>
+        <item quantity="one">900662_Insufficient device storage. %1$d item not downloaded.</item>
+        <item quantity="two">889531_Insufficient phone storage. %1$d item not downloaded.</item>
+        <item quantity="few">889530_Insufficient phone storage. %1$d item not downloaded.</item>
+        <item quantity="many">889532_Insufficient phone storage. %1$d item not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">845870_Network error. %1$d items not downloaded.</item>
+        <item quantity="zero">876085_Network error. %1$d items not downloaded.</item>
+        <item quantity="one">845869_Network error. %1$d item not downloaded.</item>
+        <item quantity="two">876088_Network error. %1$d items not downloaded.</item>
+        <item quantity="few">876086_Network error. %1$d items not downloaded.</item>
+        <item quantity="many">876087_Network error. %1$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">889551_Network error. %1$d items not downloaded.</item>
+        <item quantity="zero">889553_Network error. %1$d items not downloaded.</item>
+        <item quantity="one">889552_Network error. %1$d item not downloaded.</item>
+        <item quantity="two">889555_Network error. %1$d items not downloaded.</item>
+        <item quantity="few">889554_Network error. %1$d items not downloaded.</item>
+        <item quantity="many">889556_Network error. %1$d items not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">845861_Insufficient cloud storage. %1$d original photos not downloaded.</item>
+        <item quantity="zero">876069_Insufficient cloud storage. %1$d original photos not downloaded.</item>
+        <item quantity="one">845860_Insufficient cloud storage. %1$d original photo not downloaded.</item>
+        <item quantity="two">876072_Insufficient cloud storage. %1$d original photos not downloaded.</item>
+        <item quantity="few">876070_Insufficient cloud storage. %1$d original photos not downloaded.</item>
+        <item quantity="many">876071_Insufficient cloud storage. %1$d original photos not downloaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">839070_%1$d photos not synced. Cloud storage is full.</item>
+        <item quantity="zero">875764_%1$d photos not synced. Cloud storage is full.</item>
+        <item quantity="one">839069_%1$d photo not synced. Cloud storage is full.</item>
+        <item quantity="two">875767_%1$d photos not synced. Cloud storage is full.</item>
+        <item quantity="few">875765_%1$d photos not synced. Cloud storage is full.</item>
+        <item quantity="many">875766_%1$d photos not synced. Cloud storage is full.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">839062_%1$d photos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="zero">875756_%1$d photos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="one">839061_%1$d photo not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="two">875759_%1$d photos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="few">875757_%1$d photos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="many">875758_%1$d photos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">839056_%1$d photos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="zero">875748_%1$d photos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="one">839055_%1$d photo not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="two">875751_%1$d photos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="few">875749_%1$d photos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="many">875750_%1$d photos not synced. Cloud sync is paused in power saving mode.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">845900_Cloud storage full. %1$d items not uploaded.</item>
+        <item quantity="zero">876101_云空间已满，%1$d项未上传</item>
+        <item quantity="one">845901_Cloud storage full. %1$d item not uploaded.</item>
+        <item quantity="two">876104_云空间已满，%1$d项未上传</item>
+        <item quantity="few">876102_云空间已满，%1$d项未上传</item>
+        <item quantity="many">876103_云空间已满，%1$d项未上传</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">845897_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="zero">876093_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="one">845896_Battery lower than %1$s. %2$d item not uploaded.</item>
+        <item quantity="two">876096_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="few">876094_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="many">876095_Battery lower than %1$s. %2$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">845867_Battery lower than %1$s. %2$d items not uploaded. Please charge your phone.</item>
+        <item quantity="zero">876081_Battery lower than %1$s. %2$d items not uploaded. Please charge your phone.</item>
+        <item quantity="one">845866_Battery lower than %1$s. %2$d item not uploaded. Please charge your phone.</item>
+        <item quantity="two">876084_Battery lower than %1$s. %2$d items not uploaded. Please charge your phone.</item>
+        <item quantity="few">876082_Battery lower than %1$s. %2$d items not uploaded. Please charge your phone.</item>
+        <item quantity="many">876083_Battery lower than %1$s. %2$d items not uploaded. Please charge your phone.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">889688_Battery lower than %1$s. %2$d items not uploaded. Please charge your device.</item>
+        <item quantity="zero">889689_Battery lower than %1$s. %2$d items not uploaded. Please charge your device.</item>
+        <item quantity="one">889687_Battery lower than %1$s. %2$d item not uploaded. Please charge your device.</item>
+        <item quantity="two">889691_Battery lower than %1$s. %2$d items not uploaded. Please charge your device.</item>
+        <item quantity="few">889690_Battery lower than %1$s. %2$d items not uploaded. Please charge your device.</item>
+        <item quantity="many">889692_Battery lower than %1$s. %2$d items not uploaded. Please charge your device.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">889558_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="zero">889560_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="one">889559_Battery lower than %1$s. %2$d item not uploaded.</item>
+        <item quantity="two">889562_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="few">889561_Battery lower than %1$s. %2$d items not uploaded.</item>
+        <item quantity="many">889563_Battery lower than %1$s. %2$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">845920_Power saving mode on. %1$d items not uploaded.</item>
+        <item quantity="zero">876105_Power saving mode on. %1$d items not uploaded.</item>
+        <item quantity="one">845919_Power saving mode on. %1$d item not uploaded.</item>
+        <item quantity="two">876108_Power saving mode on. %1$d items not uploaded.</item>
+        <item quantity="few">876106_Power saving mode on. %1$d items not uploaded.</item>
+        <item quantity="many">876107_Power saving mode on. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">889594_Power saving mode on. %1$d item not uploaded.</item>
+        <item quantity="zero">889596_Power saving mode on. %1$d items not uploaded.</item>
+        <item quantity="one">889595_Power saving mode on. %1$d item not uploaded.</item>
+        <item quantity="two">889598_Power saving mode on. %1$d items not uploaded.</item>
+        <item quantity="few">889597_Power saving mode on. %1$d items not uploaded.</item>
+        <item quantity="many">889599_Power saving mode on. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">889588_Cloud storage full. %1$d items not uploaded.</item>
+        <item quantity="zero">889590_Cloud storage full. %1$d items not uploaded.</item>
+        <item quantity="one">889589_Cloud storage full. %1$d item not uploaded.</item>
+        <item quantity="two">889592_Cloud storage full. %1$d items not uploaded.</item>
+        <item quantity="few">889591_Cloud storage full. %1$d items not uploaded.</item>
+        <item quantity="many">889593_Cloud storage full. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">839065_%1$d videos not synced. Cloud storage is full.</item>
+        <item quantity="zero">875760_%1$d videos not synced. Cloud storage is full.</item>
+        <item quantity="one">839064_%1$d video not synced. Cloud storage is full.</item>
+        <item quantity="two">875763_%1$d videos not synced. Cloud storage is full.</item>
+        <item quantity="few">875761_%1$d videos not synced. Cloud storage is full.</item>
+        <item quantity="many">875762_%1$d videos not synced. Cloud storage is full.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">839058_%1$d videos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="zero">875752_%1$d videos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="one">839063_%1$d video not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="two">875755_%1$d videos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="few">875753_%1$d videos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+        <item quantity="many">875754_%1$d videos not synced. Cloud sync is paused when battery is less than %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">839051_%1$d videos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="zero">875744_%1$d videos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="one">839057_%1$d video not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="two">875747_%1$d videos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="few">875745_%1$d videos not synced. Cloud sync is paused in power saving mode.</item>
+        <item quantity="many">875746_%1$d videos not synced. Cloud sync is paused in power saving mode.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">839048_%1$d photo not synced.</item>
+        <item quantity="zero">875736_%1$d photo not synced.</item>
+        <item quantity="one">839054_%1$d photos not synced.</item>
+        <item quantity="two">875739_%1$d photo not synced.</item>
+        <item quantity="few">875737_%1$d photo not synced.</item>
+        <item quantity="many">875738_%1$d photo not synced.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">845899_No network connection. %1$d items not uploaded. %2$s.</item>
+        <item quantity="zero">876097_No network connection. %1$d items not uploaded. %2$s.</item>
+        <item quantity="one">845898_No network connection. %1$d item not uploaded.%2$s.</item>
+        <item quantity="two">876100_No network connection. %1$d items not uploaded. %2$s.</item>
+        <item quantity="few">876098_No network connection. %1$d items not uploaded. %2$s.</item>
+        <item quantity="many">876099_No network connection. %1$d items not uploaded. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">845850_No network connection. %1$d items not uploaded. %2$s or %3$s.</item>
+        <item quantity="zero">876045_No network connection. %1$d items not uploaded. %2$s or %3$s.</item>
+        <item quantity="one">845849_No network connection. %1$d item not uploaded. %2$s or %3$s.</item>
+        <item quantity="two">876048_No network connection. %1$d items not uploaded. %2$s or %3$s.</item>
+        <item quantity="few">876046_No network connection. %1$d items not uploaded. %2$s or %3$s.</item>
+        <item quantity="many">876047_No network connection. %1$d items not uploaded. %2$s or %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">859995_No network connection. %1$d items not uploaded.</item>
+        <item quantity="zero">876805_No network connection. %1$d items not uploaded.</item>
+        <item quantity="one">859994_No network connection. %1$d item not uploaded.</item>
+        <item quantity="two">876808_No network connection. %1$d items not uploaded.</item>
+        <item quantity="few">876806_No network connection. %1$d items not uploaded.</item>
+        <item quantity="many">876807_No network connection. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">889570_No network connection. %1$d items not uploaded.</item>
+        <item quantity="zero">889572_No network connection. %1$d items not uploaded.</item>
+        <item quantity="one">889571_No network connection. %1$d item not uploaded.</item>
+        <item quantity="two">889574_No network connection. %1$d items not uploaded.</item>
+        <item quantity="few">889573_No network connection. %1$d items not uploaded.</item>
+        <item quantity="many">889575_No network connection. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">839050_%1$d videos not synced.</item>
+        <item quantity="zero">875740_%1$d videos not synced.</item>
+        <item quantity="one">839049_%1$d video not synced.</item>
+        <item quantity="two">875743_%1$d videos not synced.</item>
+        <item quantity="few">875741_%1$d videos not synced.</item>
+        <item quantity="many">875742_%1$d videos not synced.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">845872_Network error. %1$d items not uploaded.</item>
+        <item quantity="zero">876089_Network error. %1$d items not uploaded.</item>
+        <item quantity="one">845871_Network error. %1$d item not uploaded.</item>
+        <item quantity="two">876092_Network error. %1$d items not uploaded.</item>
+        <item quantity="few">876090_Network error. %1$d items not uploaded.</item>
+        <item quantity="many">876091_Network error. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">889577_Network error. %1$d items not uploaded.</item>
+        <item quantity="zero">889578_Service error. %1$d items not uploaded.</item>
+        <item quantity="one">889576_Network error. %1$d item not uploaded.</item>
+        <item quantity="two">889580_Network error. %1$d items not uploaded.</item>
+        <item quantity="few">889579_Network error. %1$d items not uploaded.</item>
+        <item quantity="many">889581_Network error. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">845854_Service error. %1$d items not uploaded.</item>
+        <item quantity="zero">876053_Service error. %1$d items not uploaded.</item>
+        <item quantity="one">845853_Service error. %1$d item not uploaded.</item>
+        <item quantity="two">876056_Service error. %1$d items not uploaded.</item>
+        <item quantity="few">876054_Service error. %1$d items not uploaded.</item>
+        <item quantity="many">876055_Service error. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">889519_Service error. %1$d items not uploaded.</item>
+        <item quantity="zero">889521_Service error. %1$d items not uploaded.</item>
+        <item quantity="one">889520_Service error. %1$d item not uploaded.</item>
+        <item quantity="two">889523_Service error. %1$d items not uploaded.</item>
+        <item quantity="few">889522_Service error. %1$d items not uploaded.</item>
+        <item quantity="many">889524_Service error. %1$d items not uploaded.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">839384_Failed to add %d items</item>
+        <item quantity="zero">875812_Failed to add %d items</item>
+        <item quantity="one">839383_Failed to add %d item</item>
+        <item quantity="two">875815_Failed to add %d items</item>
+        <item quantity="few">875813_Failed to add %d items</item>
+        <item quantity="many">875814_Failed to add %d items</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">839382_%d photos are being loaded and cannot be set as private.</item>
+        <item quantity="zero">875808_%d photos are being loaded and cannot be set as private.</item>
+        <item quantity="one">839381_%d photo is being loaded and cannot be set as private.</item>
+        <item quantity="two">875811_%d photos are being loaded and cannot be set as private.</item>
+        <item quantity="few">875809_%d photos are being loaded and cannot be set as private.</item>
+        <item quantity="many">875810_%d photos are being loaded and cannot be set as private.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">865196_%d hours</item>
+        <item quantity="zero">877185_%d hours</item>
+        <item quantity="one">865197_%d hour</item>
+        <item quantity="two">877188_%d hours</item>
+        <item quantity="few">877186_%d hours</item>
+        <item quantity="many">877187_%d hours</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">865385_%d items</item>
+        <item quantity="zero">877201_%d items</item>
+        <item quantity="one">865190_%d item</item>
+        <item quantity="two">877204_%d items</item>
+        <item quantity="few">877202_%d items</item>
+        <item quantity="many">877203_%d items</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">865194_%d minutes</item>
+        <item quantity="zero">877181_%d minutes</item>
+        <item quantity="one">865195_%d minute</item>
+        <item quantity="two">877184_%d minutes</item>
+        <item quantity="few">877182_%d minutes</item>
+        <item quantity="many">877183_%d minutes</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">865192_%d seconds</item>
+        <item quantity="zero">877177_%d seconds</item>
+        <item quantity="one">865193_%d second</item>
+        <item quantity="two">877180_%d seconds</item>
+        <item quantity="few">877178_%d seconds</item>
+        <item quantity="many">877179_%d seconds</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">895434_%1$d days</item>
+        <item quantity="zero">895435_%1$d days</item>
+        <item quantity="one">895433_%1$d day</item>
+        <item quantity="two">895437_%1$d days</item>
+        <item quantity="few">895436_%1$d days</item>
+        <item quantity="many">895438_%1$d days</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">838977_%1$d photos</item>
+        <item quantity="zero">875724_%1$d photos</item>
+        <item quantity="one">838976_%1$d photo</item>
+        <item quantity="two">875727_%1$d photos</item>
+        <item quantity="few">875725_%1$d photos</item>
+        <item quantity="many">875726_%1$d photos</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">838974_%1$d videos</item>
+        <item quantity="zero">875720_%1$d videos</item>
+        <item quantity="one">838973_%1$d video</item>
+        <item quantity="two">875723_%1$d videos</item>
+        <item quantity="few">875721_%1$d videos</item>
+        <item quantity="many">875722_%1$d videos</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">836327_%d photos are being loaded</item>
+        <item quantity="one">107659_%d photo is being loaded</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">838607_Must be larger than %1$d mm</item>
+        <item quantity="zero">875684_Must be larger than %1$d mm</item>
+        <item quantity="one">838614_Must be larger than %1$d mm</item>
+        <item quantity="two">875687_Must be larger than %1$d mm</item>
+        <item quantity="few">875685_Must be larger than %1$d mm</item>
+        <item quantity="many">875686_Must be larger than %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">838621_Must be larger than %1$d px</item>
+        <item quantity="zero">875708_Must be larger than %1$d px</item>
+        <item quantity="one">838620_Must be larger than %1$d px</item>
+        <item quantity="two">875711_Must be larger than %1$d px</item>
+        <item quantity="few">875709_Must be larger than %1$d px</item>
+        <item quantity="many">875710_Must be larger than %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">838611_Must be smaller than %1$d mm</item>
+        <item quantity="zero">875692_Must be smaller than %1$d mm</item>
+        <item quantity="one">838617_Must be smaller than %1$d mm</item>
+        <item quantity="two">875695_Must be smaller than %1$d mm</item>
+        <item quantity="few">875693_Must be smaller than %1$d mm</item>
+        <item quantity="many">875694_Must be smaller than %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">838624_Must be smaller than %1$d px</item>
+        <item quantity="zero">875716_Must be smaller than %1$d px</item>
+        <item quantity="one">838623_Must be smaller than %1$d px</item>
+        <item quantity="two">875719_Must be smaller than %1$d px</item>
+        <item quantity="few">875717_Must be smaller than %1$d px</item>
+        <item quantity="many">875718_Must be smaller than %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">838604_Must be larger than %1$d KB</item>
+        <item quantity="zero">875676_Must be larger than %1$d KB</item>
+        <item quantity="one">838610_Must be larger than %1$d KB</item>
+        <item quantity="two">875679_Must be larger than %1$d KB</item>
+        <item quantity="few">875677_Must be larger than %1$d KB</item>
+        <item quantity="many">875678_Must be larger than %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">838609_Must be smaller than %1$d KB</item>
+        <item quantity="zero">875688_Must be smaller than %1$d KB</item>
+        <item quantity="one">838608_Must be smaller than %1$d KB</item>
+        <item quantity="two">875691_Must be smaller than %1$d KB</item>
+        <item quantity="few">875689_Must be smaller than %1$d KB</item>
+        <item quantity="many">875690_Must be smaller than %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">838613_Must be larger than %1$d mm</item>
+        <item quantity="zero">875696_Must be larger than %1$d mm</item>
+        <item quantity="one">838612_Must be larger than %1$d mm</item>
+        <item quantity="two">875699_Must be larger than %1$d mm</item>
+        <item quantity="few">875697_Must be larger than %1$d mm</item>
+        <item quantity="many">875698_Must be larger than %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">838619_Must be larger than %1$d px</item>
+        <item quantity="zero">875704_Must be larger than %1$d px</item>
+        <item quantity="one">838618_Must be larger than %1$d px</item>
+        <item quantity="two">875707_Must be larger than %1$d px</item>
+        <item quantity="few">875705_Must be larger than %1$d px</item>
+        <item quantity="many">875706_Must be larger than %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">838616_Must be smaller than %1$d mm</item>
+        <item quantity="zero">875700_Must be smaller than %1$d mm</item>
+        <item quantity="one">838615_Must be smaller than %1$d mm</item>
+        <item quantity="two">875703_Must be smaller than %1$d mm</item>
+        <item quantity="few">875701_Must be smaller than %1$d mm</item>
+        <item quantity="many">875702_Must be smaller than %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">838622_Must be smaller than %1$d px</item>
+        <item quantity="zero">875712_Must be smaller than %1$d px</item>
+        <item quantity="one">838628_Must be smaller than %1$d px</item>
+        <item quantity="two">875715_Must be smaller than %1$d px</item>
+        <item quantity="few">875713_Must be smaller than %1$d px</item>
+        <item quantity="many">875714_Must be smaller than %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">843958_Keep the %d selected photos only</item>
+        <item quantity="zero">875973_Keep the %d selected photos only</item>
+        <item quantity="one">843957_Keep the %d selected photo only</item>
+        <item quantity="two">875976_Keep the %d selected photos only</item>
+        <item quantity="few">875974_Keep the %d selected photos only</item>
+        <item quantity="many">875975_Keep the %d selected photos only</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">843955_Delete %d Items</item>
+        <item quantity="zero">875965_Delete %d Items</item>
+        <item quantity="one">843954_Delete %d Item</item>
+        <item quantity="two">875968_Delete %d Items</item>
+        <item quantity="few">875966_Delete %d Items</item>
+        <item quantity="many">875967_Delete %d Items</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">843959_%1$d selected</item>
+        <item quantity="zero">875977_%1$d selected</item>
+        <item quantity="one">843965_%1$d Items Selected</item>
+        <item quantity="two">875980_%1$d selected</item>
+        <item quantity="few">875978_%1$d selected</item>
+        <item quantity="many">875979_%1$d selected</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">843961_%1$d Albums Selected</item>
+        <item quantity="zero">875981_%1$d Albums Selected</item>
+        <item quantity="one">843960_%1$d Album Selected</item>
+        <item quantity="two">875984_%1$d Albums Selected</item>
+        <item quantity="few">875982_%1$d Albums Selected</item>
+        <item quantity="many">875983_%1$d Albums Selected</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">843956_%1$d selected</item>
+        <item quantity="zero">875969_%1$d selected</item>
+        <item quantity="one">843962_%1$d selected</item>
+        <item quantity="two">875972_%1$d selected</item>
+        <item quantity="few">875970_%1$d selected</item>
+        <item quantity="many">875971_%1$d selected</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">838606_%1$d stickers selected</item>
+        <item quantity="zero">875680_%1$d stickers selected</item>
+        <item quantity="one">838605_%1$d sticker selected</item>
+        <item quantity="two">875683_%1$d stickers selected</item>
+        <item quantity="few">875681_%1$d stickers selected</item>
+        <item quantity="many">875682_%1$d stickers selected</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">843964_%1$d Videos Selected</item>
+        <item quantity="zero">875985_%1$d Videos Selected</item>
+        <item quantity="one">843963_%1$d Video Selected</item>
+        <item quantity="two">875988_%1$d Videos Selected</item>
+        <item quantity="few">875986_%1$d Videos Selected</item>
+        <item quantity="many">875987_%1$d Videos Selected</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">838600_%d photos are being loaded and cannot be deleted.</item>
+        <item quantity="zero">875668_%d photos are being loaded and cannot be deleted.</item>
+        <item quantity="one">838603_%d photo is being loaded and cannot be deleted.</item>
+        <item quantity="two">875671_%d photos are being loaded and cannot be deleted.</item>
+        <item quantity="few">875669_%d photos are being loaded and cannot be deleted.</item>
+        <item quantity="many">875670_%d photos are being loaded and cannot be deleted.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">838602_Failed to delete %1$d items. Please retry</item>
+        <item quantity="zero"></item>
+        <item quantity="one">838601_Failed to delete %1$d item. Please retry</item>
+        <item quantity="two"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">840948_%d new notifications</item>
+        <item quantity="one">840949_%d new notification</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">861022_%1$d photos</item>
+        <item quantity="zero">876877_%1$d photos</item>
+        <item quantity="one">861021_%1$d photo</item>
+        <item quantity="two">876880_%1$d photos</item>
+        <item quantity="few">876878_%1$d photos</item>
+        <item quantity="many">876879_%1$d photos</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:id="@id/view_loading_anim_alpha_bg" android:background="@color/picture3d_editor_background_editable" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View android:id="@id/view_bottom_anim_alpha_bg" android:background="@color/picture3d_editor_background_editable" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/aiidphoto_loading_parent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/loading_gif" android:layout_width="@dimen/picture3d_ai_repair_loading_size" android:layout_height="@dimen/picture3d_ai_repair_loading_size" android:src="@drawable/picture3d_ai_repair_loading_anim" android:scaleType="centerCrop" />
+        <com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/TF07" android:textColor="@color/picture3d_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/picture3d_ai_repair_loading_text_margin_top" android:text="@string/picture3d_aiidphoto_loading" android:fontFamily="sans-serif-regular" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="end" android:id="@id/iv_aiidphoto_tips" android:background="@drawable/picture3d_aiidphoto_edit_tips_selector" android:layout_width="@dimen/pciture3d_editor_menu_popu_tips_size" android:layout_height="@dimen/pciture3d_editor_menu_popu_tips_size" android:layout_marginTop="@dimen/picture3d_editor_aiidphoto_tips_floatwindow_margintop" android:scaleType="centerCrop" android:layout_marginEnd="@dimen/picture3d_editor_aiidphoto_tips_margin_end" />
+</FrameLayout>

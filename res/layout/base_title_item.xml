@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/base_all_album_item_title_text_size" android:textStyle="bold" android:textColor="@color/common_media_type_title_text_color" android:ellipsize="end" android:id="@id/album_set_title" android:paddingTop="@dimen/base_all_album_item_title_padding_top" android:paddingBottom="@dimen/base_all_album_item_title_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</RelativeLayout>

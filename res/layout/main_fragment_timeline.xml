@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:background="@color/base_gallery_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/timeline_frame_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false">
+        <com.oplus.gallery.business_lib.timeline.view.TimelineView android:id="@id/timeline_view" android:paddingBottom="@dimen/main_timeline_view_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:forceDarkAllowed="false" />
+        <ImageView android:id="@id/timeline_top_translucent_view" android:background="@drawable/base_album_top_mask_repeat" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <com.oplus.gallery.standard_lib.ui.scroller.FullScreenFastScroller android:layout_gravity="end" android:id="@id/timeline_fast_scroller" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_timeline_fast_scroller_margin_top" android:forceDarkAllowed="false" />
+    </FrameLayout>
+    <include layout="@layout/base_appbar_no_divider_layout" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

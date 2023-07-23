@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<platform_config>
+    <version>2018081611</version>
+    <isOpen>1</isOpen>
+    <filter-name>apps_video_platform_gop_config</filter-name>
+
+    <gop_gap height="720" width="1280">
+        <max_gop pal="sdm660">250</max_gop>
+        <max_gop pal="sdm845">300</max_gop>
+    </gop_gap>
+
+    <gop_gap height="540" width="960">
+        <max_gop pal="sdm660">300</max_gop>
+        <max_gop pal="sdm845">350</max_gop>
+    </gop_gap>
+</platform_config>

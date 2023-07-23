@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d poze se încarcă și nu se pot adăuga.</item>
+        <item quantity="one">%d poză se încarcă și se poate adăuga.</item>
+        <item quantity="few">%d poze se încarcă și nu se pot adăuga.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d de carduri bancare</item>
+        <item quantity="one">%1$d card bancar</item>
+        <item quantity="few">%1$d carduri bancare</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d de ID-uri</item>
+        <item quantity="one">%1$d ID</item>
+        <item quantity="few">%1$d ID-uri</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Ștergeți definitiv %d elemente</item>
+        <item quantity="one">Ștergeți definitiv %d element</item>
+        <item quantity="few">Ștergeți definitiv %d elemente</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Ștergeți %d de elemente</item>
+        <item quantity="one">Ștergeți %d element</item>
+        <item quantity="few">Ștergeți %d elemente</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d poze</item>
+        <item quantity="one">%1$d poză</item>
+        <item quantity="few">%1$d poze</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">S-au găsit poze: %s. Le puteți muta în „Portofel de carduri” pentru acces mai ușor.</item>
+        <item quantity="one">A fost găsită o poză: %s. O puteți muta în „Portofel de carduri” pentru acces mai ușor.</item>
+        <item quantity="few">S-au găsit poze: %s. Le puteți muta în „Portofel de carduri” pentru acces mai ușor.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Pozele din %1$s au fost mutate în „Portofel de carduri”</item>
+        <item quantity="one">Poza din %1$s a fost mutată în „Portofel de carduri”</item>
+        <item quantity="few">Pozele din %1$s au fost mutate în „Portofel de carduri”</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d de tichete/chitanțe</item>
+        <item quantity="one">%1$d tichet/chitanță</item>
+        <item quantity="few">%1$d tichete/chitanțe</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Articolele selectate există deja în album.</item>
+        <item quantity="one">Articolul selectat există deja în album.</item>
+        <item quantity="few">Articolele selectate există deja în album.</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d de poze se încarcă și nu pot fi mutate</item>
+        <item quantity="one">%d poză se încarcă și nu poate fi mutată</item>
+        <item quantity="few">%d poze se încarcă și nu pot fi mutate</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d persoane</item>
+        <item quantity="one">%1$d persoane</item>
+        <item quantity="few"></item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Poze mutate. Videoclipurile nu pot fi mutate în acest album.</item>
+        <item quantity="one">Poză mutată. Videoclipurile nu pot fi mutate în acest album.</item>
+        <item quantity="few">Poze mutate. Videoclipurile nu pot fi mutate în acest album.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Restabiliți %d de elemente</item>
+        <item quantity="one">Restabiliți %d element</item>
+        <item quantity="few">Restabiliți %d elemente</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d poze</item>
+        <item quantity="one">%1$d poză</item>
+        <item quantity="few">%1$d poze</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videoclipuri</item>
+        <item quantity="one">%1$d videoclip</item>
+        <item quantity="few">%1$d videoclipuri</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d elemente selectate</item>
+        <item quantity="one">%1$d element selectat</item>
+        <item quantity="few">%1$d elemente selectate</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d albume selectate</item>
+        <item quantity="one">%1$d album selectat</item>
+        <item quantity="few">%1$d albume selectate</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d persoane selectate</item>
+        <item quantity="one">%1$d persoană selectată</item>
+        <item quantity="few">%1$d persoane selectate</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Au fost selectate %1$d amintiri</item>
+        <item quantity="one">A fost selectată %1$d amintire</item>
+        <item quantity="few">%1$d amintiri selectate</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d clipuri selectate</item>
+        <item quantity="one">%1$d clip selectat</item>
+        <item quantity="few">%1$d videoclipuri selectate</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d videoclipuri</item>
+        <item quantity="one">%1$d videoclip</item>
+        <item quantity="few">%1$d videoclipuri</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Nivelul bateriei este sub %1$s. %2$d elemente nu au fost descărcate.</item>
+        <item quantity="one">Nivelul bateriei este sub %1$s. %2$d element nu a fost descărcat.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost descărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Nivelul de energie din baterie este sub %1$s. %2$d elemente nu s-au descărcat. Încărcați telefonul.</item>
+        <item quantity="one">Nivelul de energie din baterie este sub %1$s. %2$d element nu s-a descărcat. Încărcați telefonul.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost descărcate. Încărcați telefonul.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Nivelul bateriei este sub %1$s. %2$d elemente nu au fost descărcate. Încărcați dispozitivul.</item>
+        <item quantity="one">Nivelul bateriei este sub %1$s. %2$d element nu a fost descărcat. Încărcați dispozitivul.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost descărcate. Încărcați telefonul.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Nivelul bateriei este sub %1$s. %2$d elemente nu au fost descărcate.</item>
+        <item quantity="one">Nivelul bateriei este sub %1$s. %2$d element nu a fost descărcat.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost descărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Modul Economisire energie activat. %1$d elemente nu au fost descărcate.</item>
+        <item quantity="one">Modul Economisire energie activat. %1$d element nu a fost descărcat.</item>
+        <item quantity="few">Modul Economisire energie este activat. %1$d elemente nedescărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Modul Economisire energie activat. %1$d elemente nu au fost descărcate.</item>
+        <item quantity="one">Modul Economisire energie activat. %1$d element nu a fost descărcat.</item>
+        <item quantity="few">Modul Economisire energie este activat. %1$d elemente nedescărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu au fost descărcate. %2$s.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost descărcat. %2$s.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nedescărcate. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu au fost descărcate. %2$s sau %3$s.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost descărcat. %2$s sau %3$s.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nedescărcate. %2$s sau %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu au fost descărcate.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost descărcat.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nedescărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu au fost descărcate.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost descărcat.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nedescărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Spațiul de stocare în cloud este insuficient. %1$d element nu a fost descărcat.</item>
+        <item quantity="one">Spațiul de stocare în cloud este insuficient. %1$d elemente nu au fost descărcate.</item>
+        <item quantity="few">Spațiul de stocare în cloud este insuficient. %1$d elemente nu a fost descărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Spațiul de stocare pe dispozitiv este insuficient. %1$d elemente nu au fost descărcate.</item>
+        <item quantity="one">Spațiul de stocare pe dispozitiv este insuficient. Nu s-au descărcat %1$d de elemente.</item>
+        <item quantity="few">Spațiul de stocare insuficient pe telefon. Nu s-a descărcat %1$d element.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Eroare de rețea. %1$d elemente nu s-au descărcat.</item>
+        <item quantity="one">Eroare de rețea. %1$d element nu s-a descărcat.</item>
+        <item quantity="few">Eroare de rețea. %1$d elemente nu au fost descărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Eroare de rețea. %1$d elemente nu s-au descărcat.</item>
+        <item quantity="one">Eroare de rețea. %1$d element nu s-a descărcat.</item>
+        <item quantity="few">Eroare de rețea. %1$d elemente nu au fost descărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Spațiul de stocare în cloud este insuficient. %1$d poze originale nu au fost descărcată.</item>
+        <item quantity="one">Spațiul de stocare în cloud este insuficient. %1$d poză originală nu a fost descărcată.</item>
+        <item quantity="few">Spațiul de stocare în cloud este insuficient. %1$d poze originale nu au fost descărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d poze nesincronizate. Stocare în cloud plină.</item>
+        <item quantity="one">%1$d poză nesincronizată. Stocare în cloud plină.</item>
+        <item quantity="few">%1$d poze nesincronizate. Spațiul de stocare în cloud este plin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d pozele nu au fost sincronizate. Sincronizarea în cloud este suspendată când bateria este încărcată mai puțin de %2$s.</item>
+        <item quantity="one">%1$d poza nu a fost sincronizată. Sincronizarea în cloud este suspendată când bateria este încărcată mai puțin de %2$s.</item>
+        <item quantity="few">%1$d poze nesincronizate. Sincronizarea în cloud este suspendată atunci când bateria este încărcată mai puțin de %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d pozele nu au fost sincronizate. Sincronizarea în cloud este întreruptă atunci când dispozitivul se află în modul de economisire a energiei.</item>
+        <item quantity="one">%1$d poza nu a fost sincronizată. Sincronizarea în cloud este întreruptă atunci când dispozitivul se află în modul de economisire a energiei.</item>
+        <item quantity="few">%1$d poze nesincronizate. Sincronizarea în cloud este suspendată atunci când dispozitivul se află în modul de economisire a energiei.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Spațiul de stocare în cloud este plin. %1$d elemente nu au fost încărcate.</item>
+        <item quantity="one">Spațiul de stocare în cloud este plin. %1$d element nu a fost încărcat.</item>
+        <item quantity="few">Spațiul de stocare în cloud este plin. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Nivelul bateriei este sub %1$s. %2$d elemente nu au fost încărcate.</item>
+        <item quantity="one">Nivelul bateriei este sub %1$s. %2$d element nu a fost încărcat.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Nivelul de energie din baterie este sub %1$s. %2$d elemente nu s-au încărcat. Încărcați telefonul.</item>
+        <item quantity="one">Nivelul de energie din baterie este sub %1$s. %2$d element nu s-a încărcat. Încărcați telefonul.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost încărcate. Încărcați telefonul.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Nivelul bateriei este sub %1$s. %2$d elemente nu au fost încărcate. Încărcați dispozitivul.</item>
+        <item quantity="one">Nivelul bateriei este sub %1$s. %2$d element nu a fost încărcat. Încărcați dispozitivul.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost încărcate. Încărcați telefonul.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Nivelul bateriei este sub %1$s. %2$d elemente nu au fost încărcate.</item>
+        <item quantity="one">Nivelul bateriei este sub %1$s. %2$d element nu a fost încărcat.</item>
+        <item quantity="few">Nivelul de energie al bateriei este sub %1$s. %2$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Modul Economisire energie activat. %1$d elemente nu au fost încărcate.</item>
+        <item quantity="one">Modul Economisire energie activat. %1$d element nu a fost încărcat.</item>
+        <item quantity="few">Modul Economisire energie este activat. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Modul Economisire energie activat. %1$d element nu a fost încărcat.</item>
+        <item quantity="one">Modul Economisire energie activat. %1$d element nu a fost încărcat.</item>
+        <item quantity="few">Modul Economisire energie este activat. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Spațiul de stocare în cloud este plin. %1$d elemente nu au fost încărcate.</item>
+        <item quantity="one">Spațiul de stocare în cloud este plin. %1$d element nu a fost încărcat.</item>
+        <item quantity="few">Spațiul de stocare în cloud este plin. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d videoclipurile nu au fost sincronizate. Spațiul de stocare în cloud este plin.</item>
+        <item quantity="one">%1$d videoclipul nu a fost sincronizat. Spațiul de stocare în cloud este plin.</item>
+        <item quantity="few">%1$d videoclipuri nesincronizate. Spațiul de stocare în cloud este plin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d videoclipuri nu au fost sincronizate. Sincronizarea în cloud este suspendată când bateria este încărcată mai puțin de %2$s.</item>
+        <item quantity="one">%1$d videoclip nu a fost sincronizat. Sincronizarea în cloud este suspendată când bateria este încărcată mai puțin de %2$s.</item>
+        <item quantity="few">%1$d videoclipuri nesincronizate. Sincronizarea în cloud este suspendată atunci când bateria este încărcată mai puțin de %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d videoclipurile nu au fost sincronizate. Sincronizarea în cloud este întreruptă atunci când dispozitivul se află în modul de economisire a energiei.</item>
+        <item quantity="one">%1$d videoclipul nu a fost sincronizat. Sincronizarea în cloud este întreruptă atunci când dispozitivul se află în modul de economisire a energiei.</item>
+        <item quantity="few">%1$d videoclipuri nesincronizate. Sincronizarea în cloud este suspendată atunci când dispozitivul se află în modul de economisire a energiei.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d poza nu a fost sincronizată.</item>
+        <item quantity="one">%1$d pozele nu au fost sincronizate.</item>
+        <item quantity="few">%1$d poze nesincronizate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu au fost încărcate.%2$s.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost încărcat.%2$s.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nu au fost încărcate. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu au fost încărcate. %2$s sau %3$s.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost încărcat. %2$s sau %3$s.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nu au fost încărcate. %2$s sau %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu a fost încărcate.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost încărcat.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Lipsă conexiune la rețea. %1$d elemente nu a fost încărcate.</item>
+        <item quantity="one">Lipsă conexiune la rețea. %1$d element nu a fost încărcat.</item>
+        <item quantity="few">Lipsă conexiune la rețea. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d videoclipuri nesincronizate</item>
+        <item quantity="one">%1$d videoclip nesincronizat</item>
+        <item quantity="few">%1$d videoclipuri nesincronizate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Eroare de rețea. %1$d elemente nu s-au încărcat.</item>
+        <item quantity="one">Eroare de rețea. %1$d element nu s-a încărcat.</item>
+        <item quantity="few">Eroare de rețea. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Eroare de rețea. %1$d elemente nu s-au încărcat.</item>
+        <item quantity="one">Eroare de rețea. %1$d element nu s-a încărcat.</item>
+        <item quantity="few">Eroare de rețea. %1$d elemente nu au fost încărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Eroare de serviciu. %1$d elemente nu s-au încărcat.</item>
+        <item quantity="one">Eroare de serviciu. %1$d element nu s-a încărcat.</item>
+        <item quantity="few">Eroare de serviciu. %1$d elemente neîncărcate.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Eroare de serviciu. %1$d elemente nu s-au încărcat.</item>
+        <item quantity="one">Eroare de serviciu. %1$d element nu s-a încărcat.</item>
+        <item quantity="few">Eroare de serviciu. %1$d elemente neîncărcate.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Nu s-a reușit adăugarea a %d articole</item>
+        <item quantity="one">Nu s-a reușit adăugarea %d articol</item>
+        <item quantity="few">Adăugarea a %d elemente a eșuat</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d poze se încarcă și nu pot fi configurate ca private.</item>
+        <item quantity="one">%d poză se încarcă și nu poate fi configurată ca privată.</item>
+        <item quantity="few">%d poze se încarcă și nu pot fi setate ca private.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d ore</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elemente</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d minute</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d secunde</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d de zile</item>
+        <item quantity="one">%1$d zi</item>
+        <item quantity="few">%1$d zile</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d poze</item>
+        <item quantity="one">%1$d poză</item>
+        <item quantity="few">%1$d poze</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videoclipuri</item>
+        <item quantity="one">%1$d videoclip</item>
+        <item quantity="few">%1$d videoclipuri</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">Se încarcă %d poze</item>
+        <item quantity="one">Se încarcă %d poză</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d de notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Trebuie să fie mai mare de %1$d mm</item>
+        <item quantity="one">Trebuie să fie mai mare de %1$d mm</item>
+        <item quantity="few">Trebuie să fie mai mare de %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Trebuie să depășească %1$d px</item>
+        <item quantity="one">Trebuie să depășească %1$d px</item>
+        <item quantity="few">Trebuie să fie mai mare de %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Nu trebuie să depășească %1$d mm</item>
+        <item quantity="one">Nu trebuie să depășească %1$d mm</item>
+        <item quantity="few">Trebuie să fie mai mic de %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Nu trebuie să depășească %1$d px</item>
+        <item quantity="one">Nu trebuie să depășească %1$d px</item>
+        <item quantity="few">Trebuie să fie mai mic de %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Trebuie să depășească %1$d KB</item>
+        <item quantity="one">Trebuie să depășească %1$d KB</item>
+        <item quantity="few">Trebuie să fie mai mare de %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Nu trebuie să depășească %1$d KB</item>
+        <item quantity="one">Nu trebuie să depășească %1$d KB</item>
+        <item quantity="few">Trebuie să fie mai mic de %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Trebuie să fie mai mare de %1$d mm</item>
+        <item quantity="one">Trebuie să fie mai mare de %1$d mm</item>
+        <item quantity="few">Trebuie să fie mai mare de %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Trebuie să depășească %1$d px</item>
+        <item quantity="one">Trebuie să depășească %1$d px</item>
+        <item quantity="few">Trebuie să fie mai mare de %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Nu trebuie să depășească %1$d mm</item>
+        <item quantity="one">Nu trebuie să depășească %1$d mm</item>
+        <item quantity="few">Trebuie să fie mai mic de %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Nu trebuie să depășească %1$d px</item>
+        <item quantity="one">Nu trebuie să depășească %1$d px</item>
+        <item quantity="few">Trebuie să fie mai mic de %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Păstrați doar celelalte %d fotografii selectate</item>
+        <item quantity="one">Păstrați doar %d fotografie selectată</item>
+        <item quantity="few">Păstrați numai cele %d poze selectate</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Ștergeți %d elemente</item>
+        <item quantity="one">Ștergeți %d articol</item>
+        <item quantity="few">Ștergeți %d elemente</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d selectat</item>
+        <item quantity="one">%1$d selectate</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d albume selectate</item>
+        <item quantity="one">%1$d album selectat</item>
+        <item quantity="few">%1$d albume selectate</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d selectat</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="few">%1$d selectate</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d stickere selectate</item>
+        <item quantity="one">%1$d sticker selectat</item>
+        <item quantity="few">%1$d autocolante selectate</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d clipuri selectate</item>
+        <item quantity="one">%1$d clip selectat</item>
+        <item quantity="few">%1$d videoclipuri selectate</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d poze se încarcă și nu se pot șterge.</item>
+        <item quantity="one">%d poză se încarcă și se poate șterge.</item>
+        <item quantity="few">%d poze se încarcă și nu pot fi șterse.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Nu s-a reușit ștergerea %1$d elemente. Reîncercați</item>
+        <item quantity="one">Nu s-a reușit ștergerea %1$d element. Reîncercați</item>
+        <item quantity="few"></item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d poze</item>
+        <item quantity="one">%1$d poză</item>
+        <item quantity="few">%1$d poze</item>
+    </plurals>
+</resources>

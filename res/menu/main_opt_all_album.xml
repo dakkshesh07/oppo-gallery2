@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/allalbum_edit_album" android:title="@string/main_edit_album" app:showAsAction="never" />
+    <item android:id="@id/allalbum_add_item" android:title="@string/main_add_album_item_local" app:showAsAction="never" />
+    <item android:id="@id/allalbum_add_item_shared" android:title="@string/base_add_album_item_shared" app:showAsAction="never" />
+    <item android:id="@id/main_tab_settings" android:title="@string/main_settings" app:showAsAction="never" />
+</menu>

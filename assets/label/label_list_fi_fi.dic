@@ -1,0 +1,176 @@
+koiranpentu	-1	-1	-1	3,3	0	-1
+lemmikkikoira	-1	-1	-1	3	0	-1
+naukuminen	-1	-1	-1	4	0	-1
+kissanpentu	-1	-1	-1	4,4	0	-1
+lemmikkikissa	-1	-1	-1	4	0	-1
+Kasvillisuus	-1	-1	-1	5	0	-1
+viherkasvit	-1	-1	-1	5,10	0	-1
+tuoksu	-1	-1	-1	6	0	-1
+kukkapenkki	-1	-1	-1	6	0	-1
+tuoreet kukat	-1	-1	-1	6	0	-1
+kukat	-1	-1	-1	6,6	0	-1
+kukkakimppu	-1	-1	-1	6	0	-1
+Olki	-1	-1	-1	7	0	-1
+vihreä ruoho	-1	-1	-1	7,7	0	-1
+nurmikko	-1	-1	-1	7	0	-1
+vihreä niitty	-1	-1	-1	7	0	-1
+korsi	-1	-1	-1	7	0	-1
+Puutavara	-1	-1	-1	8	0	-1
+suuret puut	-1	-1	-1	8	0	-1
+metsä	-1	-1	-1	8	0	-1
+Maisema	-1	-1	-1	9	0	-1
+näköala	-1	-1	-1	9	0	-1
+maisema	-1	-1	-1	9,9,9,9,10	0	-1
+näkymät	-1	-1	-1	9	0	-1
+Vuorijono	-1	-1	-1	10	0	-1
+vuoristo	-1	-1	-1	10	0	-1
+huippu	-1	-1	-1	10	0	-1
+vuorijono	-1	-1	-1	10,10	0	-1
+vuoret	-1	-1	-1	10	0	-1
+etäinen vuori	-1	-1	-1	10	0	-1
+mäki	-1	-1	-1	10,10	0	-1
+korkea vuori	-1	-1	-1	10,10,10	0	-1
+Alpit	-1	-1	-1	10	0	-1
+kallio	-1	-1	-1	10	0	-1
+valtameri	-1	-1	-1	11,11,11	0	-1
+syvä meri	-1	-1	-1	11	0	-1
+merialue	-1	-1	-1	11	0	-1
+laaja valtameri	-1	-1	-1	11	0	-1
+merivesi	-1	-1	-1	11	0	-1
+puhdas meri	-1	-1	-1	11	0	-1
+merinäköala	-1	-1	-1	11	0	-1
+Rakennukset	-1	-1	-1	12	0	-1
+rakenteet	-1	-1	-1	12	0	-1
+Ruokasali	-1	-1	-1	13	0	-1
+kanttiini	-1	-1	-1	13	0	-1
+ruokailutila	-1	-1	-1	13	0	-1
+ruokapaikka	-1	-1	-1	13	0	-1
+Yökerho	-1	-1	-1	14	0	-1
+pubi	-1	-1	-1	14	0	-1
+klubi	-1	-1	-1	14	0	-1
+Urheilu	-1	-1	-1	15,45	0	-1
+stadion	-1	-1	-1	15	0	-1
+kuntosali	-1	-1	-1	16	0	-1
+näyttelyhalli	-1	-1	-1	17	0	-1
+näyttelysali	-1	-1	-1	17	0	-1
+näyttely	-1	-1	-1	17	0	-1
+myyntipiste	-1	-1	-1	18,18	0	-1
+liiketoiminta	-1	-1	-1	18	0	-1
+liikeyritys	-1	-1	-1	18	0	-1
+kaupat	-1	-1	-1	18,18	0	-1
+kauppa	-1	-1	-1	18	0	-1
+ostaminen	-1	-1	-1	18	0	-1
+Terminaali	-1	-1	-1	19	0	-1
+Pääteasema	-1	-1	-1	19	0	-1
+Lentoasemahalli	-1	-1	-1	19	0	-1
+Vaatetus	-1	-1	-1	20	0	-1
+pukeutuminen	-1	-1	-1	20,20	0	-1
+vaatekerta	-1	-1	-1	20	0	-1
+muoti	-1	-1	-1	20	0	-1
+matkalaukut	-1	-1	-1	20	0	-1
+puvut	-1	-1	-1	20	0	-1
+Ostoskassi	-1	-1	-1	21	0	-1
+käsilaukku	-1	-1	-1	21,21	0	-1
+lompakko	-1	-1	-1	21	0	-1
+ihonhoitotuotteet	-1	-1	-1	22	0	-1
+Lasit	-1	-1	-1	23	0	-1
+Lisävarusteet	-1	-1	-1	24	0	-1
+koristeet	-1	-1	-1	24	0	-1
+kulta- ja hopeakorut	-1	-1	-1	24	0	-1
+Kuljetus	-1	-1	-1	25	0	-1
+liikenne	-1	-1	-1	25	0	-1
+kuljetus	-1	-1	-1	25	0	-1
+toimitus	-1	-1	-1	25	0	-1
+Ajoneuvo	-1	-1	-1	26	0	-1
+Laiva	-1	-1	-1	27	0	-1
+vene	-1	-1	-1	27	0	-1
+Ruokakauppa	-1	-1	-1	28	0	-1
+elintarvike	-1	-1	-1	28	0	-1
+Gourmet	-1	-1	-1	28	0	-1
+herkullinen	-1	-1	-1	28	0	-1
+maukas	-1	-1	-1	28	0	-1
+ateria	-1	-1	-1	28	0	-1
+herkku	-1	-1	-1	28,28	0	-1
+hyvä ruoka	-1	-1	-1	28	0	-1
+keittiö	-1	-1	-1	28	0	-1
+illallinen	-1	-1	-1	28	0	-1
+ruoanlaitto	-1	-1	-1	28	0	-1
+Länsimainen keittiö	-1	-1	-1	29	0	-1
+eurooppalainen keittiö	-1	-1	-1	29	0	-1
+eurooppalainen ruoka	-1	-1	-1	29	0	-1
+merituotteet	-1	-1	-1	30	0	-1
+Hedelmät	-1	-1	-1	31	0	-1
+tuoreet hedelmät	-1	-1	-1	31	0	-1
+hedelmät	-1	-1	-1	31,31	0	-1
+Oluen pano	-1	-1	-1	32	0	-1
+vuosikertaviini	-1	-1	-1	32,32	0	-1
+hyvä viini	-1	-1	-1	32,32	0	-1
+viina	-1	-1	-1	32	0	-1
+alkoholijuoma	-1	-1	-1	32	0	-1
+erinomainen viini	-1	-1	-1	32,32	0	-1
+vintage	-1	-1	-1	32	0	-1
+Viini	-1	-1	-1	33	0	-1
+kuiva viini	-1	-1	-1	33	0	-1
+kuiva punaviini	-1	-1	-1	33	0	-1
+Elektroninen laite	-1	-1	-1	36	0	-1
+Elektroniset tuotteet	-1	-1	-1	37	0	-1
+digitaalinen	-1	-1	-1	37,37	0	-1
+Matkapuhelin	-1	-1	-1	38	0	-1
+käsipuhelin	-1	-1	-1	38	0	-1
+Word	-1	-1	-1	41	0	-1
+diaesitys	-1	-1	-1	42	0	-1
+esitys	-1	-1	-1	42	0	-1
+Ruutukaappaus	-1	-1	-1	43	0	-1
+ruutukaappaukset	-1	-1	-1	43	0	-1
+ruutukaappaus	-1	-1	-1	43	0	-1
+Juhlat	-1	-1	-1	44	0	-1
+harjoitus	-1	-1	-1	45	0	-1
+kilpailu	-1	-1	-1	45	0	-1
+turnaus	-1	-1	-1	45	0	-1
+Ateria	-1	-1	-1	46	0	-1
+pidot	-1	-1	-1	46	0	-1
+juhla-ateria	-1	-1	-1	46,46	0	-1
+makupala	-1	-1	-1	46	0	-1
+vieras	-1	-1	-1	46	0	-1
+juhlat	-1	-1	-1	46	0	-1
+hääateria	-1	-1	-1	47	0	-1
+hää-juhla-ateria	-1	-1	-1	47	0	-1
+Esitys	-1	-1	-1	48	0	-1
+performanssitaide	-1	-1	-1	48	0	-1
+Pikkulintu	-1	-1	-1	49	0	-1
+kanalintu	-1	-1	-1	49	0	-1
+siipikarja	-1	-1	-1	49	0	-1
+linnut	-1	-1	-1	49	0	-1
+Kalat	-1	-1	-1	50	0	-1
+Iltahämärä	-1	-1	-1	54	0	-1
+Suuret putoukset	-1	-1	-1	55	0	-1
+sininen taivas	-1	-1	-1	56	0	-1
+pilvetön taivas	-1	-1	-1	56	0	-1
+Lumi	-1	-1	-1	57	0	-1
+lumi	-1	-1	-1	57	0	-1
+Katedraali	-1	-1	-1	59	0	-1
+pyhäkkö	-1	-1	-1	60	0	-1
+luostari	-1	-1	-1	60	0	-1
+Torni	-1	-1	-1	61	0	-1
+huvimaja	-1	-1	-1	62	0	-1
+Royal Court	-1	-1	-1	63	0	-1
+puutarhat	-1	-1	-1	63	0	-1
+Akvaario	-1	-1	-1	66	0	-1
+vedenalainen maailma	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+Kisko	-1	-1	-1	71	0	-1
+Jälkiruoat	-1	-1	-1	73	0	-1
+Shabu-shabu	-1	-1	-1	75	0	-1
+Tekstiasiakirja	-1	-1	-1	77	0	-1
+Kuvitus	-1	-1	-1	79	0	-1
+Sarjakuva	-1	-1	-1	80	0	-1
+Laulaminen	-1	-1	-1	82	0	-1
+Syntymäpäiväjuhla	-1	-1	-1	83	0	-1
+syntymäpäiväkokoontuminen	-1	-1	-1	83	0	-1
+Henkilö	-1	-1	-1	85	0	-1
+hahmo	-1	-1	-1	85	0	-1
+vauvat	-1	-1	-1	86	0	-1
+taaperot	-1	-1	-1	86	0	-1
+Suojus	-1	-1	-1	88	0	-1
+Luottokortti	-1	-1	-1	91	0	-1
+Kuitti	-1	-1	-1	92	0	-1

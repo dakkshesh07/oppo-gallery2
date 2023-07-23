@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d ਫੋਟੋਆਂ ਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ ਅਤੇ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀਆਂ।</item>
+        <item quantity="one">%d ਫੋਟੋ ਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ ਅਤੇ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d ਬੈਂਕ ਕਾਰਡਾਂ</item>
+        <item quantity="one">%1$d ਬੈਂਕ ਕਾਰਡ</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d IDs</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">"%d ਆਈਟਮਾਂ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਓ"</item>
+        <item quantity="one">"%d ਆਈਟਮ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਓ"</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d ਆਈਟਮਾਂ ਮਿਟਾਓ</item>
+        <item quantity="one">%d ਆਈਟਮ ਮਿਟਾਓ</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d ਫੋਟੋਆਂ</item>
+        <item quantity="one">%1$d ਫੋਟੋ</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">ਫੋਟੋਆਂ ਮਿਲੀਆਂ: %s. ਤੁਸੀਂ ਵਧੇਰੇ ਆਸਾਨ ਪਹੁੰਚ ਨਾਲ ਉਹਨਾਂ ਨੂੰ \"ਕਾਰਡ ਕੇਸ\" ਵਿੱਚ ਮੂਵ ਕਰ ਸਕਦੇ ਹੋ।</item>
+        <item quantity="one">ਫੋਟੋਆਂ ਮਿਲੀਆਂ: %s. ਤੁਸੀਂ ਵਧੇਰੇ ਆਸਾਨ ਪਹੁੰਚ ਨਾਲ ਇਸ ਨੂੰ \"ਕਾਰਡ ਕੇਸ\" ਵਿੱਚ ਮੂਵ ਕਰ ਸਕਦੇ ਹੋ।</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s ਦੀ ਫੋਟੋਆਂ ਨੂੰ \"ਕਾਰਡ ਕੇਸ\" ਵਿੱਚ ਮੂਵ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">%1$s ਦੀ ਫੋਟੋ ਨੂੰ \"ਕਾਰਡ ਕੇਸ\" ਵਿੱਚ ਮੂਵ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d ਟਿਕਟਾਂ/ਰਸੀਦਾਂ</item>
+        <item quantity="one">%1$d ਟਿਕਟ/ਰਸੀਦ</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">"ਇਹ ਚੁਣੀਆਂ ਆਈਟਮਾਂ ਪਹਿਲਾਂ 'ਤੇ ਹੀ ਐਲਬਮ ਵਿੱਚ ਮੌਜੂਦ ਹਨ"</item>
+        <item quantity="one">"ਇਹ ਚੁਣੀ ਆਈਟਮ ਪਹਿਲਾਂ 'ਤੇ ਹੀ ਐਲਬਮ ਵਿੱਚ ਮੌਜੂਦ ਹੈ"</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d ਆਈਟਮਾਂ</item>
+        <item quantity="one">%d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d ਫੋਟੋਆਂ ਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ ਅਤੇ ਮੂਵ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</item>
+        <item quantity="one">%d ਫੋਟੋ ਲੋਡ ਹੋ ਰਹੀ ਹੈ ਅਤੇ ਮੂਵ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d ਲੋਕ</item>
+        <item quantity="one">%1$d ਲੋਕ</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">ਫੋਟੋਆਂ ਮੂਵ ਕੀਤੀਆਂ ਗਈਆਂ। ਵੀਡੀਓ ਇਸ ਐਲਬਮ ਵਿੱਚ ਮੂਵ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ।</item>
+        <item quantity="one">ਫੋਟੋ ਮੂਵ ਕੀਤੀ ਗਈ। ਵੀਡੀਓ ਇਸ ਐਲਬਮ ਵਿੱਚ ਮੂਵ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ।</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d ਆਈਟਮਾਂ ਬਹਾਲ ਕਰੋ</item>
+        <item quantity="one">%d ਆਈਟਮ ਨੂੰ ਬਹਾਲ ਕਰੋ</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ਫੋਟੋਆਂ</item>
+        <item quantity="one">%1$d ਫੋਟੋ</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d ਵੀਡਿਓ</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d ਆਈਟਮਾਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%1$d ਚੁਣੀਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d ਐਲਬਮਾਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%1$d ਐਲਬਮ ਚੁਣੀ ਗਈ</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d ਲੋਕ ਚੁਣੇ</item>
+        <item quantity="one">%1$d ਲੋਕ ਚੁਣੇ</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d ਚੁਣੇ ਗਏ</item>
+        <item quantity="one">%1$d ਚੁਣਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d ਯਾਦਾਂ ਨੂੰ ਚੁਣਿਆ</item>
+        <item quantity="one">%1$d ਯਾਦ ਨੂੰ ਚੁਣਿਆ</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d ਵੀਡਿਓ ਚੁਣੇ ਗਏ</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ ਚੁਣਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d ਵੀਡਿਓ</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਇਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਚਾਰਜ ਕਰੋ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਇਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਚਾਰਜ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਡਿਵਾਈਸ ਚਾਰਜ ਕਰੋ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਡਿਵਾਈਸ ਚਾਰਜ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।:</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।:</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। %2$s।</item>
+        <item quantity="one">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।%2$s।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। %2$s ਜਾਂ %3$s।</item>
+        <item quantity="one">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ। %2$s ਜਾਂ %3$s।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+        <item quantity="one">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+        <item quantity="one">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">ਨਾਕਾਫ਼ੀ ਕਲਾਉਡ ਸਟੋਰੇਜ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+        <item quantity="one">ਨਾਕਾਫ਼ੀ ਕਲਾਉਡ ਸਟੋਰੇਜ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">ਡਿਵਾਈਸ ਵਿੱਚ ਲੋੜੀਂਦੀ ਸਟੋਰੇਜ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਡਿਵਾਈਸ ਵਿੱਚ ਲੋੜੀਂਦੀ ਸਟੋਰੇਜ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮਾਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">ਨਾਕਾਫ਼ੀ ਕਲਾਉਡ ਸਟੋਰੇਜ। %1$d ਮੂਲ ਫੋਟੋਆਂ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਨਾਕਾਫ਼ੀ ਕਲਾਉਡ ਸਟੋਰੇਜ। %1$d ਮੂਲ ਫੋਟੋ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d ਫੋਟੋਆਂ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ। ਕਲਾਉਡ ਸਟੋਰੇਜ਼ ਭਰ ਗਈ ਹੈ।</item>
+        <item quantity="one">%1$d ਫੋਟੋ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ। ਕਲਾਉਡ ਸਟੋਰੇਜ਼ ਭਰ ਗਈ ਹੈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d ਫੋਟੋਆਂ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ। ਕਲਾਉਡ ਸਿੰਕ ਰੋਕੀ ਗਈ ਹੈ ਜਦੋਂ ਬੈਟਰੀ %2$s ਨਾਲੋਂ ਘੱਟ ਹੁੰਦੀ ਹੈ।</item>
+        <item quantity="one">%1$d ਫੋਟੋ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ। ਕਲਾਉਡ ਸਿੰਕ ਰੋਕੀ ਗਈ ਹੈ ਜਦੋਂ ਬੈਟਰੀ %2$s ਨਾਲੋਂ ਘੱਟ ਹੁੰਦੀ ਹੈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d ਫੋਟੋਆਂ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ। ਕਲਾਉਡ ਸਿੰਕ ਨੂੰ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਵਿੱਚ ਰੋਕਿਆ ਗਿਆ ਹੈ।</item>
+        <item quantity="one">%1$d ਫੋਟੋ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ। ਕਲਾਉਡ ਸਿੰਕ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਵਿੱਚ ਰੋਕਿਆ ਗਿਆ ਹੈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">ਕਲਾਉਡ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। %1$d ਆਈਟਮਾਂ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਕਲਾਉਡ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। %1$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮਾਂ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਇਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਚਾਰਜ ਕਰੋ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਇਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਚਾਰਜ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਈਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਡਿਵਾਈਸ ਚਾਰਜ ਕਰੋ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ ਹੈ। %2$d ਆਈਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਡਿਵਾਈਸ ਚਾਰਜ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮਾਂ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਬੈਟਰੀ %1$s ਤੋਂ ਘੱਟ। %2$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮਾਂ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।:</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।:</item>
+        <item quantity="one">ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਚਾਲੂ। %1$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।:</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">ਕਲਾਉਡ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। %1$d ਆਈਟਮਾਂ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਕਲਾਉਡ ਸਟੋਰੇਜ ਭਰ ਗਈ ਹੈ। %1$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d ਵੀਡੀਓਜ਼ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ। ਕਲਾਉਡ ਸਟੋਰੇਜ਼ ਭਰ ਗਈ ਹੈ।</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ। ਕਲਾਉਡ ਸਟੋਰੇਜ਼ ਭਰ ਗਈ ਹੈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d ਵੀਡੀਓਜ਼ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ। ਕਲਾਉਡ ਸਿੰਕ ਰੋਕੀ ਗਈ ਹੈ ਜਦੋਂ ਬੈਟਰੀ %2$s ਨਾਲੋਂ ਘੱਟ ਹੁੰਦੀ ਹੈ।</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ। ਕਲਾਉਡ ਸਿੰਕ ਰੋਕੀ ਗਈ ਹੈ ਜਦੋਂ ਬੈਟਰੀ %2$s ਨਾਲੋਂ ਘੱਟ ਹੁੰਦੀ ਹੈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d ਵੀਡੀਓਜ਼ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ। ਕਲਾਉਡ ਸਿੰਕ ਨੂੰ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਵਿੱਚ ਰੋਕਿਆ ਗਿਆ ਹੈ।</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ। ਕਲਾਉਡ ਸਿੰਕ ਪਾਵਰ ਸੇਵਿੰਗ ਮੋਡ ਵਿੱਚ ਰੋਕਿਆ ਗਿਆ ਹੈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d ਫੋਟੋ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ।</item>
+        <item quantity="one">%1$d ਫੋਟੋਆਂ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ %1$d ਆਈਟਮਾਂ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। %2$s।</item>
+        <item quantity="one">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ %1$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ।%2$s।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ। %1$d ਆਈਟਮਾਂ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ। %2$s ਜਾਂ %3$s।</item>
+        <item quantity="one">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ। %1$d ਆਈਟਮ ਅੱਪਲੋਡ ਨਹੀਂ ਹੋਈ। %2$s ਜਾਂ %3$s।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+        <item quantity="one">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+        <item quantity="one">ਕੋਈ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ। %1$d ਆਈਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d ਵੀਡੀਓਜ਼ ਸਿੰਕ ਨਹੀਂ ਹੋਈਆਂ ਹਨ</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ ਸਿੰਕ ਨਹੀਂ ਹੋਈ ਹੈ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਨੈਟਵਰਕ ਤਰੁੱਟੀ। %1$d ਆਈਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">ਸੇਵਾ ਤਰੁੱਟੀ। %1$d ਆਈਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਸੇਵਾ ਤਰੁੱਟੀ। %1$d ਆਈਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">ਸੇਵਾ ਤਰੁੱਟੀ। %1$d ਆਈਟਮਾਂ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈਆਂ।</item>
+        <item quantity="one">ਸੇਵਾ ਤਰੁੱਟੀ। %1$d ਆਈਟਮ ਅਪਲੋਡ ਨਹੀਂ ਹੋਈ।</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">ਜੋੜਨ ਵਿੱਚ ਅਸਫਲ ਰਹੇ %d ਆਈਟਮਾਂ</item>
+        <item quantity="one">ਜੋੜਨ ਵਿੱਚ ਅਸਫਲ ਰਹੇ %d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d ਫੋਟੋਆਂ ਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ ਅਤੇ ਨਿੱਜੀ ਵਜੋਂ ਸੈਟ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀਆਂ।</item>
+        <item quantity="one">%d ਫੋਟੋ ਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ ਅਤੇ ਨਿੱਜੀ ਵਜੋਂ ਸੈਟ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d ਘੰਟੇ</item>
+        <item quantity="one">%d ਘੰਟਾ</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d ਆਈਟਮਾਂ</item>
+        <item quantity="one">%d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d ਮਿੰਟ</item>
+        <item quantity="one">%d ਮਿੰਟ</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d ਸਕਿੰਟ</item>
+        <item quantity="one">%d ਸਕਿੰਟ</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d ਦਿਨ</item>
+        <item quantity="one">%1$d ਦਿਨ</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ਫੋਟੋਆਂ</item>
+        <item quantity="one">%1$d ਫੋਟੋ</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d ਵੀਡਿਓ</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d ਫੋਟੋਆਂ ਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ</item>
+        <item quantity="one">%d ਫੋਟੋ ਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d mm ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d mm ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d px ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d px ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d mm ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d mm ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d px ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d px ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d KB ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d KB ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d mm ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d mm ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d px ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d px ਤੋਂ ਵੱਡਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d mm ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d mm ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d px ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+        <item quantity="one">%1$d px ਤੋਂ ਛੋਟਾ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">ਸਿਰਫ ਚੁਣੀਆਂ ਗਈਆਂ %d ਫੋਟੋਆਂ ਨੂੰ ਰੱਖੋ</item>
+        <item quantity="one">ਕੇਵਲ %d ਚੁਣੀ ਹੋਈ ਫੋਟੋ ਰੱਖੋ</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">ਮਿਟਾਓ %d ਆਈਟਮਾਂ</item>
+        <item quantity="one">ਮਿਟਾਓ %d ਆਈਟਮ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d ਚੁਣੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%1$d ਆਈਟਮਾਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d ਐਲਬਮਾਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
+        <item quantity="one">%1$d ਐਲਬਮ ਚੁਣੀ ਗਈ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d ਚੁਣਿਆ ਗਿਆ</item>
+        <item quantity="one">%1$d ਚੁਣੀਆਂ ਗਈਆਂ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d ਸਟਿੱਕਰ ਚੁਣੇ ਗਏ</item>
+        <item quantity="one">%1$d ਸਟਿੱਕਰ ਚੁਣਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d ਵੀਡਿਓ ਚੁਣੇ ਗਏ</item>
+        <item quantity="one">%1$d ਵੀਡਿਓ ਚੁਣਿਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d ਫੋਟੋਆਂ ਲੋਡ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ ਅਤੇ ਮਿਟਾਈਆਂ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀਆਂ।</item>
+        <item quantity="one">%d ਫੋਟੋ ਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ ਅਤੇ ਮਿਟਾਈ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d ਆਈਟਮਾਂ ਨੂੰ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+        <item quantity="one">%1$d ਆਈਟਮ ਨੂੰ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d ਨਵੀਂਆਂ ਸੂਚਨਾਵਾਂ</item>
+        <item quantity="one">%d ਨਵੀਂ ਸੂਚਨਾ</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d ਫੋਟੋਆਂ</item>
+        <item quantity="one">%1$d ਫੋਟੋ</item>
+    </plurals>
+</resources>

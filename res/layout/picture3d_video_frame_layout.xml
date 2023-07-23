@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/new_guide_video_capture_frame_view_stub" android:layout="@layout/picture3d_video_capture_frame_guide_window" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentEnd="true" />
+    <ViewStub android:id="@id/video_frame_flash_round_view_stub" android:layout="@layout/picture3d_video_frame_flash_round_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

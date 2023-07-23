@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <!--支持fileProver uri 并且（不支持open uri 或者 支持open uri但是open uri有异常）的应用名单配置-->
+    <version>2021070216</version>
+    <string-array name="fileprovider_uri_app_list">
+        <!--cn name list-->
+        <item pkg="com.coloros.oshare" />
+        <item pkg="com.facebook.katana" />
+        <item pkg="com.instagram.android" />
+        <item pkg="com.facebook.orca" />
+        <item pkg="com.twitter.android" />
+        <item pkg="com.snapchat.android" />
+        <item pkg="com.jingdong.app.mall" />
+        <item pkg="com.weico.international" />
+    </string-array>
+
+</filter-conf>

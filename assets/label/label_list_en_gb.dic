@@ -1,0 +1,340 @@
+Canine	-1	-1	-1	3	0	-1
+Hound	-1	-1	-1	3	0	-1
+Feline	-1	-1	-1	4	0	-1
+House Cat	-1	-1	-1	4	0	-1
+Puss	-1	-1	-1	4	0	-1
+Pussy	-1	-1	-1	4	0	-1
+Pussycat	-1	-1	-1	4	0	-1
+Young Tree	-1	-1	-1	5	0	-1
+Vine	-1	-1	-1	5	0	-1
+Shrub	-1	-1	-1	5	0	-1
+Herb	-1	-1	-1	5	0	-1
+Blossom	-1	-1	-1	6	0	-1
+Bloom	-1	-1	-1	6	0	-1
+Leaf	-1	-1	-1	6	0	-1
+Bud	-1	-1	-1	6	0	-1
+Herbage	-1	-1	-1	7	0	-1
+Turf	-1	-1	-1	7	0	-1
+Leaves	-1	-1	-1	7	0	-1
+Stem	-1	-1	-1	8	0	-1
+Trunk	-1	-1	-1	8	0	-1
+Arborescent	-1	-1	-1	8	0	-1
+Backdrop	-1	-1	-1	9	0	-1
+Background	-1	-1	-1	9	0	-1
+Mount	-1	-1	-1	10	0	-1
+Peak	-1	-1	-1	10	0	-1
+Mountain Range	-1	-1	-1	10	0	-1
+Range	-1	-1	-1	10	0	-1
+Mountaintop	-1	-1	-1	10	0	-1
+Pinnacle	-1	-1	-1	10	0	-1
+Summit	-1	-1	-1	10	0	-1
+Blue	-1	-1	-1	11	0	-1
+Brine	-1	-1	-1	11	0	-1
+Deep	-1	-1	-1	11	0	-1
+Seven Seas	-1	-1	-1	11	0	-1
+Blue Water	-1	-1	-1	11	0	-1
+High Seas	-1	-1	-1	11	0	-1
+Main	-1	-1	-1	11	0	-1
+Waters	-1	-1	-1	11	0	-1
+Frame	-1	-1	-1	12	0	-1
+Configuration	-1	-1	-1	12	0	-1
+Fabric	-1	-1	-1	12	0	-1
+Framework	-1	-1	-1	12	0	-1
+Infrastructure	-1	-1	-1	12	0	-1
+Network	-1	-1	-1	12	0	-1
+Contour	-1	-1	-1	12	0	-1
+Figure	-1	-1	-1	12,79	0	-1
+Outline	-1	-1	-1	12,79	0	-1
+Profile	-1	-1	-1	12	0	-1
+Shape	-1	-1	-1	12	0	-1
+Café	-1	-1	-1	13	0	-1
+Diner	-1	-1	-1	13	0	-1
+Eatery	-1	-1	-1	13	0	-1
+Grill	-1	-1	-1	13	0	-1
+Cafeteria	-1	-1	-1	13	0	-1
+Luncheonette	-1	-1	-1	13	0	-1
+Snack Bar	-1	-1	-1	13	0	-1
+Steak House	-1	-1	-1	13	0	-1
+Pizzeria	-1	-1	-1	13	0	-1
+Barroom	-1	-1	-1	14	0	-1
+Public House	-1	-1	-1	14	0	-1
+Saloon	-1	-1	-1	14	0	-1
+Bistro	-1	-1	-1	14	0	-1
+Sports Bar	-1	-1	-1	14	0	-1
+Wine Shop	-1	-1	-1	14	0	-1
+Outdoor Playing Area	-1	-1	-1	15	0	-1
+Facilities	-1	-1	-1	15	0	-1
+Spectators	-1	-1	-1	15	0	-1
+Indoor Sports Activities	-1	-1	-1	16	0	-1
+Gymnastic Apparatus	-1	-1	-1	16	0	-1
+Gallery	-1	-1	-1	17	0	-1
+Salon	-1	-1	-1	17	0	-1
+Collection	-1	-1	-1	17	0	-1
+Display	-1	-1	-1	17,43	0	-1
+Exhibition	-1	-1	-1	17,62,67	0	-1
+Boardwalk	-1	-1	-1	18	0	-1
+Promenade	-1	-1	-1	18	0	-1
+Walk	-1	-1	-1	18	0	-1
+Walkway	-1	-1	-1	18	0	-1
+Alameda	-1	-1	-1	18	0	-1
+Allée	-1	-1	-1	18	0	-1
+Arcade	-1	-1	-1	18	0	-1
+Colonnade	-1	-1	-1	18	0	-1
+Galleria	-1	-1	-1	18	0	-1
+Plaza	-1	-1	-1	18	0	-1
+Aerodrome	-1	-1	-1	19	0	-1
+Airdrome	-1	-1	-1	19	0	-1
+Airfield	-1	-1	-1	19	0	-1
+Field	-1	-1	-1	19,31	0	-1
+Air Base	-1	-1	-1	19	0	-1
+Air Park	-1	-1	-1	19	0	-1
+Helipad	-1	-1	-1	19	0	-1
+Heliport	-1	-1	-1	19	0	-1
+Jetport	-1	-1	-1	19	0	-1
+Airstrip	-1	-1	-1	19	0	-1
+Landing Field	-1	-1	-1	19	0	-1
+Landing Strip	-1	-1	-1	19	0	-1
+Runway	-1	-1	-1	19	0	-1
+Launch Pad	-1	-1	-1	19	0	-1
+Pad	-1	-1	-1	19	0	-1
+Activewear	-1	-1	-1	20	0	-1
+Loungewear	-1	-1	-1	20	0	-1
+Outerwear	-1	-1	-1	20	0	-1
+Playwear	-1	-1	-1	20	0	-1
+Sportswear	-1	-1	-1	20	0	-1
+Workwear	-1	-1	-1	20	0	-1
+Nightclothes	-1	-1	-1	20	0	-1
+Sleepwear	-1	-1	-1	20	0	-1
+Smallclothes	-1	-1	-1	20	0	-1
+Underclothes	-1	-1	-1	20	0	-1
+Underwear Haberdashery	-1	-1	-1	20	0	-1
+Menswear	-1	-1	-1	20	0	-1
+Pouch	-1	-1	-1	21	0	-1
+Sack	-1	-1	-1	21	0	-1
+Carryall	-1	-1	-1	21	0	-1
+Portmanteau	-1	-1	-1	21	0	-1
+Travelling Bag	-1	-1	-1	21	0	-1
+Sports Bag	-1	-1	-1	21	0	-1
+Makeup	-1	-1	-1	22	0	-1
+Cold Cream	-1	-1	-1	22	0	-1
+Cream	-1	-1	-1	22	0	-1
+Eye Shadow	-1	-1	-1	22	0	-1
+Lipstick	-1	-1	-1	22	0	-1
+Lotion	-1	-1	-1	22	0	-1
+Mascara	-1	-1	-1	22	0	-1
+Oil	-1	-1	-1	22	0	-1
+Powder	-1	-1	-1	22	0	-1
+Rouge	-1	-1	-1	22	0	-1
+Vanishing Cream	-1	-1	-1	22	0	-1
+Eyeglasses	-1	-1	-1	23	0	-1
+Specs	-1	-1	-1	23	0	-1
+Bifocals	-1	-1	-1	23	0	-1
+Half-Glasses	-1	-1	-1	23	0	-1
+Trifocals	-1	-1	-1	23	0	-1
+Contact Lens	-1	-1	-1	23	0	-1
+Jewels	-1	-1	-1	24	0	-1
+Precious Metals	-1	-1	-1	24	0	-1
+Adornment	-1	-1	-1	24	0	-1
+Vehicle	-1	-1	-1	25	0	-1
+Parking	-1	-1	-1	25	0	-1
+Automation	-1	-1	-1	25	0	-1
+Cruise	-1	-1	-1	27	0	-1
+Sail	-1	-1	-1	27	0	-1
+Navigate	-1	-1	-1	27	0	-1
+Voyage	-1	-1	-1	27	0	-1
+Edibles	-1	-1	-1	28	0	-1
+Provisions	-1	-1	-1	28	0	-1
+Victuals	-1	-1	-1	28	0	-1
+Vittles	-1	-1	-1	28	0	-1
+Nutriment	-1	-1	-1	28	0	-1
+Diet	-1	-1	-1	28,31	0	-1
+Nourishment	-1	-1	-1	28	0	-1
+Sustenance	-1	-1	-1	28	0	-1
+Meat	-1	-1	-1	29	0	-1
+Portion Size	-1	-1	-1	29	0	-1
+Condiments	-1	-1	-1	29	0	-1
+Seasonings	-1	-1	-1	29	0	-1
+Courses	-1	-1	-1	29	0	-1
+Sea Creature With Shell	-1	-1	-1	30	0	-1
+Omega-3	-1	-1	-1	30	0	-1
+Dish	-1	-1	-1	31	0	-1
+Strong Drink	-1	-1	-1	32	0	-1
+Tipple	-1	-1	-1	32	0	-1
+Spirits	-1	-1	-1	32	0	-1
+Bottle	-1	-1	-1	32	0	-1
+Drink	-1	-1	-1	32	0	-1
+Aperitif	-1	-1	-1	32	0	-1
+Bracer	-1	-1	-1	32	0	-1
+Chaser	-1	-1	-1	32	0	-1
+Nightcap	-1	-1	-1	32	0	-1
+Cocktail	-1	-1	-1	32	0	-1
+Mixed Drink	-1	-1	-1	32	0	-1
+Grapes	-1	-1	-1	33	0	-1
+Beverage	-1	-1	-1	33	0	-1
+Gadget	-1	-1	-1	36	0	-1
+Contraption	-1	-1	-1	36	0	-1
+Implement	-1	-1	-1	36	0	-1
+Instrument	-1	-1	-1	36	0	-1
+Tool	-1	-1	-1	36	0	-1
+Utensil	-1	-1	-1	36	0	-1
+Echnology	-1	-1	-1	37	0	-1
+Electricity	-1	-1	-1	37	0	-1
+Circuit Board	-1	-1	-1	37	0	-1
+Components	-1	-1	-1	37	0	-1
+Devices	-1	-1	-1	37	0	-1
+Equipment	-1	-1	-1	37	0	-1
+Telephone	-1	-1	-1	38	0	-1
+Call	-1	-1	-1	38	0	-1
+Dial	-1	-1	-1	38	0	-1
+Phonebook	-1	-1	-1	38	0	-1
+Handbook	-1	-1	-1	41	0	-1
+Manual	-1	-1	-1	41	0	-1
+Primer	-1	-1	-1	41	0	-1
+Textbook	-1	-1	-1	41	0	-1
+Pictures	-1	-1	-1	42	0	-1
+Information	-1	-1	-1	42	0	-1
+Lecture	-1	-1	-1	42	0	-1
+Screen	-1	-1	-1	43	0	-1
+Monitor	-1	-1	-1	43	0	-1
+Image	-1	-1	-1	43	0	-1
+Exercise	-1	-1	-1	44	0	-1
+Conditioning	-1	-1	-1	44	0	-1
+Exertion	-1	-1	-1	44	0	-1
+Training	-1	-1	-1	44	0	-1
+Warm-Up	-1	-1	-1	44	0	-1
+Workout	-1	-1	-1	44	0	-1
+Motion	-1	-1	-1	45	0	-1
+Mobility	-1	-1	-1	45	0	-1
+Roast	-1	-1	-1	46	0	-1
+Buffet	-1	-1	-1	46	0	-1
+Luncheon	-1	-1	-1	46	0	-1
+Smorgasbord	-1	-1	-1	46	0	-1
+Regale	-1	-1	-1	46	0	-1
+Spread	-1	-1	-1	46	0	-1
+Bridal	-1	-1	-1	47	0	-1
+Espousal	-1	-1	-1	47	0	-1
+Marriage	-1	-1	-1	47	0	-1
+Nuptial	-1	-1	-1	47	0	-1
+Match	-1	-1	-1	47	0	-1
+Matrimony	-1	-1	-1	47	0	-1
+Wedlock	-1	-1	-1	47	0	-1
+Union	-1	-1	-1	47	0	-1
+Demonstration	-1	-1	-1	48	0	-1
+Presentation	-1	-1	-1	48	0	-1
+Production	-1	-1	-1	48	0	-1
+Extravaganza	-1	-1	-1	48	0	-1
+Pageant	-1	-1	-1	48	0	-1
+Spectacle	-1	-1	-1	48	0	-1
+Feathered Vertebrate	-1	-1	-1	49	0	-1
+Feathers	-1	-1	-1	49	0	-1
+Wings	-1	-1	-1	49	0	-1
+Aquatic Vertebrate	-1	-1	-1	50	0	-1
+Freshwater	-1	-1	-1	50	0	-1
+Tropical	-1	-1	-1	50	0	-1
+Nocturnal	-1	-1	-1	54	0	-1
+Nightly	-1	-1	-1	54	0	-1
+Night-Time	-1	-1	-1	54	0	-1
+Late	-1	-1	-1	54	0	-1
+Midnight	-1	-1	-1	54	0	-1
+Overnight	-1	-1	-1	54	0	-1
+Cascade	-1	-1	-1	55	0	-1
+Cataract	-1	-1	-1	55	0	-1
+Fall	-1	-1	-1	55	0	-1
+Flume	-1	-1	-1	55	0	-1
+Chute	-1	-1	-1	55	0	-1
+Rapid	-1	-1	-1	55	0	-1
+White Water	-1	-1	-1	55	0	-1
+Firmament	-1	-1	-1	56	0	-1
+Mid-Air	-1	-1	-1	56	0	-1
+Horizon	-1	-1	-1	56	0	-1
+Skyline	-1	-1	-1	56	0	-1
+Landscape	-1	-1	-1	57	0	-1
+Snow Cover	-1	-1	-1	57	0	-1
+Sunset	-1	-1	-1	58	0	-1
+Abbey	-1	-1	-1	59	0	-1
+Cathedral	-1	-1	-1	59	0	-1
+Chapel	-1	-1	-1	59	0	-1
+Minster	-1	-1	-1	59	0	-1
+Mission	-1	-1	-1	59	0	-1
+Oratory	-1	-1	-1	59	0	-1
+Sanctuary	-1	-1	-1	59	0	-1
+Shrine	-1	-1	-1	59	0	-1
+Building	-1	-1	-1	60,62	0	-1
+Religion	-1	-1	-1	60,61	0	-1
+House Of Worship	-1	-1	-1	60	0	-1
+Memorial	-1	-1	-1	61	0	-1
+Sport	-1	-1	-1	62	0	-1
+Entertainment	-1	-1	-1	62	0	-1
+Tent	-1	-1	-1	62	0	-1
+Park	-1	-1	-1	62	0	-1
+Official Residence	-1	-1	-1	63	0	-1
+Stately House	-1	-1	-1	63	0	-1
+Large Public Building	-1	-1	-1	63	0	-1
+Marine Aquarium	-1	-1	-1	66	0	-1
+Sea Creatures	-1	-1	-1	66	0	-1
+Wild Animals	-1	-1	-1	67	0	-1
+Tour	-1	-1	-1	67	0	-1
+Confection	-1	-1	-1	73	0	-1
+Sweetmeat	-1	-1	-1	73	0	-1
+Confectionary	-1	-1	-1	73	0	-1
+Confectionery	-1	-1	-1	73	0	-1
+Candy	-1	-1	-1	73	0	-1
+Pastry	-1	-1	-1	73	0	-1
+Stew	-1	-1	-1	75	0	-1
+Vegetables	-1	-1	-1	75	0	-1
+Folder	-1	-1	-1	77	0	-1
+Directory	-1	-1	-1	77	0	-1
+Copy	-1	-1	-1	77	0	-1
+Paste	-1	-1	-1	77	0	-1
+Transfer	-1	-1	-1	77	0	-1
+Save	-1	-1	-1	77	0	-1
+Menu	-1	-1	-1	77	0	-1
+Sketch	-1	-1	-1	79	0	-1
+Doodle	-1	-1	-1	79,80	0	-1
+Caricature	-1	-1	-1	80	0	-1
+Illustration	-1	-1	-1	80,85	0	-1
+Boogie	-1	-1	-1	81	0	-1
+Bop	-1	-1	-1	81	0	-1
+Fox-Trot	-1	-1	-1	81	0	-1
+Jig	-1	-1	-1	81	0	-1
+Jitterbug	-1	-1	-1	81	0	-1
+Jive	-1	-1	-1	81	0	-1
+Shimmy	-1	-1	-1	81	0	-1
+Shuffle	-1	-1	-1	81	0	-1
+Tango	-1	-1	-1	81	0	-1
+Tap-Dance	-1	-1	-1	81	0	-1
+Twist	-1	-1	-1	81	0	-1
+Waltz	-1	-1	-1	81	0	-1
+Carol	-1	-1	-1	82	0	-1
+Chant	-1	-1	-1	82	0	-1
+Descant	-1	-1	-1	82	0	-1
+Vocalise	-1	-1	-1	82	0	-1
+Birth	-1	-1	-1	83	0	-1
+Anniversary	-1	-1	-1	83	0	-1
+Picture	-1	-1	-1	85	0	-1
+Photo	-1	-1	-1	85	0	-1
+Profile Picture	-1	-1	-1	85	0	-1
+Vignette	-1	-1	-1	85	0	-1
+Infant	-1	-1	-1	86	0	-1
+Child	-1	-1	-1	86	0	-1
+New-Born	-1	-1	-1	86	0	-1
+Minor	-1	-1	-1	86	0	-1
+Youngling	-1	-1	-1	86	0	-1
+Baseball Cap	-1	-1	-1	88	0	-1
+Pork Pie Hat	-1	-1	-1	88	0	-1
+Bowler Hat	-1	-1	-1	88	0	-1
+Woolly Hat	-1	-1	-1	88	0	-1
+Helmet	-1	-1	-1	88	0	-1
+Top Hat	-1	-1	-1	88	0	-1
+Chapeau	-1	-1	-1	88	0	-1
+Headdress	-1	-1	-1	88	0	-1
+Headgear	-1	-1	-1	88	0	-1
+Headpiece	-1	-1	-1	88	0	-1
+Beret	-1	-1	-1	88	0	-1
+Bonnet	-1	-1	-1	88	0	-1
+Debit Card	-1	-1	-1	91	0	-1
+Atm Card	-1	-1	-1	91	0	-1
+Account	-1	-1	-1	92	0	-1
+Invoice	-1	-1	-1	92	0	-1
+Statement	-1	-1	-1	92	0	-1
+Tab	-1	-1	-1	92	0	-1

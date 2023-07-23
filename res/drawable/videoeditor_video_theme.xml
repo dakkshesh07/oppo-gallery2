@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="theme___" android:height="@dimen/video_editor_menu_icon_size" android:width="@dimen/video_editor_menu_icon_size" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="path_width" android:pathData="M5.33368 7.0773C5.33368 6.90311 5.40186 6.73583 5.52362 6.61127L7.32652 4.76701C7.38923 4.70285 7.47516 4.66669 7.56488 4.66669H9.5458C9.5458 4.66669 10.4852 6.50003 12.0003 6.50002C13.5155 6.50001 14.4549 4.66669 14.4549 4.66669H16.4358C16.5255 4.66669 16.6115 4.70285 16.6742 4.76701L18.4771 6.61127C18.5988 6.73583 18.667 6.90311 18.667 7.0773V18.6667C18.667 19.0349 18.3685 19.3334 18.0003 19.3334H6.00035C5.63216 19.3334 5.33368 19.0349 5.33368 18.6667L5.33368 7.0773Z" android:strokeColor="#ffffffff" android:strokeWidth="1.57" android:fillType="evenOdd" />
+    <path android:name="path_width" android:pathData="M13.667 10.3334H16.3337" android:strokeColor="#ffffffff" android:strokeWidth="1.57" />
+</vector>

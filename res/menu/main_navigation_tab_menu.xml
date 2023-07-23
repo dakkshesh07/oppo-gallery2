@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/main_ic_nav_tab_photo_selector" android:id="@id/timeline" android:checked="true" android:title="@string/main_fragment_title_timeline" android:checkable="true" />
+    <item android:icon="@drawable/main_ic_nav_tab_album_selector" android:id="@id/all_album" android:title="@string/main_fragment_title_all_album" android:checkable="true" />
+    <item android:icon="@drawable/main_ic_nav_tab_discovery_selector" android:id="@id/explorer" android:title="@string/main_fragment_title_explorer" android:checkable="true" />
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/status_bar_layout_big" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/usb_connect_status" android:layout_width="fill_parent" android:layout_height="64.0dip">
+        <FrameLayout android:layout_gravity="center_vertical" android:layout_width="41.0dip" android:layout_height="41.0dip" android:layout_marginLeft="0.0dip">
+            <ImageView android:layout_gravity="center" android:id="@id/notification_icon" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+        <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:textAppearance="@android:style/TextAppearance.StatusBar.EventContent" android:textSize="12.0dip" android:ellipsize="end" android:id="@id/text" android:paddingTop="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:singleLine="false" />
+                <TextView android:textAppearance="@android:style/TextAppearance.StatusBar.EventContent" android:textSize="12.0dip" android:ellipsize="end" android:id="@id/file" android:paddingTop="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:singleLine="false" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

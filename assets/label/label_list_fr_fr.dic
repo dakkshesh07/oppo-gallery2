@@ -1,0 +1,563 @@
+Chiot	-1	-1	-1	3	0	-1
+chienne	-1	-1	-1	3	0	-1
+clébard	-1	-1	-1	3	0	-1
+clebs	-1	-1	-1	3	0	-1
+toutou	-1	-1	-1	3	0	-1
+chien de compagnie	-1	-1	-1	3	0	-1
+Chatte	-1	-1	-1	4	0	-1
+chaton	-1	-1	-1	4	0	-1
+chat domestique	-1	-1	-1	4	0	-1
+chat de compagnie	-1	-1	-1	4	0	-1
+minou	-1	-1	-1	4	0	-1
+Plantes	-1	-1	-1	5	0	-1
+végétal	-1	-1	-1	5,8	0	-1
+graminée	-1	-1	-1	5,7	0	-1
+légumineuse	-1	-1	-1	5	0	-1
+arbre	-1	-1	-1	5	0	-1
+arbuste	-1	-1	-1	5,5,8	0	-1
+liane	-1	-1	-1	5	0	-1
+herbe	-1	-1	-1	5	0	-1
+céréale	-1	-1	-1	5	0	-1
+verdure	-1	-1	-1	5,7	0	-1
+fleurs	-1	-1	-1	6	0	-1
+parfum	-1	-1	-1	6	0	-1
+lit de fleurs	-1	-1	-1	6	0	-1
+fleurs fraîches	-1	-1	-1	6	0	-1
+bouquet	-1	-1	-1	6	0	-1
+bouquet de fleurs	-1	-1	-1	6	0	-1
+arôme	-1	-1	-1	6	0	-1
+gerbe	-1	-1	-1	6	0	-1
+brassée	-1	-1	-1	6	0	-1
+odeur	-1	-1	-1	6	0	-1
+senteur	-1	-1	-1	6	0	-1
+gazon	-1	-1	-1	7	0	-1
+pelouse	-1	-1	-1	7	0	-1
+pâturage	-1	-1	-1	7	0	-1
+prairie	-1	-1	-1	7	0	-1
+gazon vert	-1	-1	-1	7	0	-1
+prairie verte	-1	-1	-1	7	0	-1
+pré	-1	-1	-1	7	0	-1
+herbage	-1	-1	-1	7	0	-1
+plante	-1	-1	-1	7,8	0	-1
+alpage	-1	-1	-1	7,10	0	-1
+tige	-1	-1	-1	8	0	-1
+forêt	-1	-1	-1	8	0	-1
+bois forêt	-1	-1	-1	8	0	-1
+grands arbres	-1	-1	-1	8	0	-1
+Vues	-1	-1	-1	9	0	-1
+paysages	-1	-1	-1	9	0	-1
+décor	-1	-1	-1	9	0	-1
+cadre	-1	-1	-1	9	0	-1
+scénographie	-1	-1	-1	9	0	-1
+site	-1	-1	-1	9	0	-1
+panorama	-1	-1	-1	9	0	-1
+peinture	-1	-1	-1	9,85	0	-1
+horizon	-1	-1	-1	9,9	0	-1
+point de vue	-1	-1	-1	9	0	-1
+tableau	-1	-1	-1	9	0	-1
+bucolique	-1	-1	-1	9	0	-1
+perspective	-1	-1	-1	9	0	-1
+scène	-1	-1	-1	9,48	0	-1
+Crête	-1	-1	-1	10	0	-1
+chaîne de montagnes	-1	-1	-1	10	0	-1
+montagne reculée	-1	-1	-1	10	0	-1
+haute Montagne	-1	-1	-1	10	0	-1
+crête de montagne	-1	-1	-1	10	0	-1
+paysage	-1	-1	-1	10	0	-1
+élévation	-1	-1	-1	10	0	-1
+hauteur	-1	-1	-1	10	0	-1
+mont	-1	-1	-1	10	0	-1
+monticule	-1	-1	-1	10	0	-1
+tas	-1	-1	-1	10	0	-1
+puy	-1	-1	-1	10	0	-1
+massif	-1	-1	-1	10	0	-1
+colline	-1	-1	-1	10	0	-1
+mer profonde	-1	-1	-1	11	0	-1
+territoire maritime	-1	-1	-1	11	0	-1
+océan vaste	-1	-1	-1	11	0	-1
+eau de mer	-1	-1	-1	11	0	-1
+mer claire	-1	-1	-1	11	0	-1
+vue mer	-1	-1	-1	11	0	-1
+flots	-1	-1	-1	11	0	-1
+eaux	-1	-1	-1	11	0	-1
+marine	-1	-1	-1	11	0	-1
+onde	-1	-1	-1	11	0	-1
+fleuve	-1	-1	-1	11	0	-1
+Bâtiments	-1	-1	-1	12	0	-1
+structures	-1	-1	-1	12	0	-1
+bâtiment	-1	-1	-1	12	0	-1
+charpente	-1	-1	-1	12	0	-1
+construction	-1	-1	-1	12	0	-1
+ossature	-1	-1	-1	12	0	-1
+maçonnerie	-1	-1	-1	12	0	-1
+forme	-1	-1	-1	12	0	-1
+style	-1	-1	-1	12	0	-1
+décoration	-1	-1	-1	12	0	-1
+ligne	-1	-1	-1	12	0	-1
+proportion	-1	-1	-1	12	0	-1
+Resto	-1	-1	-1	13	0	-1
+brasserie	-1	-1	-1	13,14	0	-1
+taverne	-1	-1	-1	13,14	0	-1
+cabaret	-1	-1	-1	13	0	-1
+café	-1	-1	-1	13,13	0	-1
+auberge	-1	-1	-1	13	0	-1
+bistro	-1	-1	-1	13	0	-1
+gargote	-1	-1	-1	13	0	-1
+self-service	-1	-1	-1	13	0	-1
+Café	-1	-1	-1	14	0	-1
+buvette	-1	-1	-1	14	0	-1
+bistrot	-1	-1	-1	14	0	-1
+zinc	-1	-1	-1	14	0	-1
+troquet	-1	-1	-1	14	0	-1
+pub	-1	-1	-1	14	0	-1
+boîte de nuit	-1	-1	-1	14	0	-1
+Stade	-1	-1	-1	15	0	-1
+terrain sportif	-1	-1	-1	15	0	-1
+vélodrome	-1	-1	-1	15	0	-1
+gymnase	-1	-1	-1	15,16	0	-1
+piste	-1	-1	-1	15	0	-1
+terrain	-1	-1	-1	15	0	-1
+Gymnastique	-1	-1	-1	16	0	-1
+centre de fitness	-1	-1	-1	16	0	-1
+centre sportif	-1	-1	-1	16	0	-1
+stade	-1	-1	-1	16	0	-1
+condition physique	-1	-1	-1	16	0	-1
+salle de sport	-1	-1	-1	16	0	-1
+Salle d'exposition	-1	-1	-1	17	0	-1
+galerie	-1	-1	-1	17	0	-1
+conservatoire	-1	-1	-1	17	0	-1
+muséum	-1	-1	-1	17	0	-1
+pinacothèque	-1	-1	-1	17	0	-1
+salon	-1	-1	-1	17	0	-1
+collection	-1	-1	-1	17	0	-1
+glyptothèque	-1	-1	-1	17	0	-1
+Galerie marchande	-1	-1	-1	18	0	-1
+magasin	-1	-1	-1	18	0	-1
+boutiques	-1	-1	-1	18	0	-1
+magasins	-1	-1	-1	18	0	-1
+shopping	-1	-1	-1	18	0	-1
+aérogare	-1	-1	-1	19	0	-1
+terminal	-1	-1	-1	19	0	-1
+gare terminale	-1	-1	-1	19	0	-1
+dépôt aérien	-1	-1	-1	19	0	-1
+Vêtement	-1	-1	-1	20	0	-1
+ajustement	-1	-1	-1	20	0	-1
+accoutrement	-1	-1	-1	20	0	-1
+effets	-1	-1	-1	20,20	0	-1
+habillement	-1	-1	-1	20	0	-1
+frusques	-1	-1	-1	20	0	-1
+atours	-1	-1	-1	20	0	-1
+nippes	-1	-1	-1	20	0	-1
+affaires	-1	-1	-1	20	0	-1
+parure	-1	-1	-1	20	0	-1
+garde-robe	-1	-1	-1	20	0	-1
+toilette	-1	-1	-1	20	0	-1
+costume	-1	-1	-1	20	0	-1
+mode	-1	-1	-1	20	0	-1
+trousseau	-1	-1	-1	20	0	-1
+tailleurs	-1	-1	-1	20	0	-1
+Sacoche	-1	-1	-1	21	0	-1
+poche	-1	-1	-1	21	0	-1
+bourse	-1	-1	-1	21,21	0	-1
+cabas	-1	-1	-1	21	0	-1
+bagage	-1	-1	-1	21	0	-1
+aumônière	-1	-1	-1	21	0	-1
+gibecière	-1	-1	-1	21	0	-1
+trousse	-1	-1	-1	21	0	-1
+Produits cosmétiques	-1	-1	-1	22	0	-1
+produits de beauté	-1	-1	-1	22	0	-1
+esthétique	-1	-1	-1	22	0	-1
+fard	-1	-1	-1	22	0	-1
+maquillage	-1	-1	-1	22	0	-1
+cosmétologie	-1	-1	-1	22	0	-1
+laque	-1	-1	-1	22	0	-1
+huile	-1	-1	-1	22	0	-1
+pommade	-1	-1	-1	22	0	-1
+crème	-1	-1	-1	22	0	-1
+soin de la peau	-1	-1	-1	22	0	-1
+Lunettes de vue	-1	-1	-1	23	0	-1
+lunettes de soleil	-1	-1	-1	23	0	-1
+lunette	-1	-1	-1	23	0	-1
+binocles	-1	-1	-1	23	0	-1
+verres	-1	-1	-1	23	0	-1
+besicles	-1	-1	-1	23	0	-1
+Joaillerie	-1	-1	-1	24	0	-1
+orfèvrerie	-1	-1	-1	24	0	-1
+joyau	-1	-1	-1	24	0	-1
+breloque diamant	-1	-1	-1	24	0	-1
+perle	-1	-1	-1	24	0	-1
+sautoir	-1	-1	-1	24	0	-1
+bracelet	-1	-1	-1	24	0	-1
+collier	-1	-1	-1	24	0	-1
+chaîne	-1	-1	-1	24	0	-1
+Instruments de transport	-1	-1	-1	25	0	-1
+dispositif de transport	-1	-1	-1	25	0	-1
+transport	-1	-1	-1	25	0	-1
+trafic	-1	-1	-1	25	0	-1
+engin	-1	-1	-1	25	0	-1
+machine	-1	-1	-1	25	0	-1
+dispositif	-1	-1	-1	25	0	-1
+appareil	-1	-1	-1	25,38	0	-1
+plate-forme	-1	-1	-1	25	0	-1
+accessoire	-1	-1	-1	25	0	-1
+bagnole	-1	-1	-1	26	0	-1
+berline	-1	-1	-1	26	0	-1
+tire	-1	-1	-1	26	0	-1
+tacot	-1	-1	-1	26	0	-1
+caisse	-1	-1	-1	26	0	-1
+véhicule	-1	-1	-1	26	0	-1
+Bateau	-1	-1	-1	27	0	-1
+bac	-1	-1	-1	27	0	-1
+navette	-1	-1	-1	27	0	-1
+traversier	-1	-1	-1	27	0	-1
+ferry-boat	-1	-1	-1	27	0	-1
+ferry-boats	-1	-1	-1	27	0	-1
+car-ferry	-1	-1	-1	27	0	-1
+transbordeur	-1	-1	-1	27	0	-1
+Aliments	-1	-1	-1	28	0	-1
+nourriture	-1	-1	-1	28	0	-1
+alimentation	-1	-1	-1	28	0	-1
+alimentaire	-1	-1	-1	28	0	-1
+cuisine	-1	-1	-1	28,28	0	-1
+denrées	-1	-1	-1	28	0	-1
+bouffe	-1	-1	-1	28	0	-1
+chère	-1	-1	-1	28	0	-1
+croûte	-1	-1	-1	28	0	-1
+mets	-1	-1	-1	28	0	-1
+ration	-1	-1	-1	28	0	-1
+repas	-1	-1	-1	28	0	-1
+victuailles	-1	-1	-1	28	0	-1
+victuaille	-1	-1	-1	28	0	-1
+vivres	-1	-1	-1	28	0	-1
+vivre	-1	-1	-1	28	0	-1
+épicerie	-1	-1	-1	28	0	-1
+produits alimentaires	-1	-1	-1	28	0	-1
+dégustation	-1	-1	-1	28	0	-1
+plats	-1	-1	-1	28	0	-1
+grande cuisine	-1	-1	-1	28	0	-1
+restauration	-1	-1	-1	28	0	-1
+Cuisine occidentale	-1	-1	-1	29	0	-1
+cuisine européenne	-1	-1	-1	29	0	-1
+oquillages	-1	-1	-1	30	0	-1
+coquillage	-1	-1	-1	30	0	-1
+crustacés	-1	-1	-1	30	0	-1
+crustacé	-1	-1	-1	30	0	-1
+Fruits	-1	-1	-1	31	0	-1
+fruits frais	-1	-1	-1	31	0	-1
+produit	-1	-1	-1	31	0	-1
+baies	-1	-1	-1	31	0	-1
+graines	-1	-1	-1	31	0	-1
+grain	-1	-1	-1	31	0	-1
+baie	-1	-1	-1	31	0	-1
+agrumes	-1	-1	-1	31	0	-1
+agrume	-1	-1	-1	31	0	-1
+Bière	-1	-1	-1	32	0	-1
+vin fin	-1	-1	-1	32	0	-1
+liqueur	-1	-1	-1	32	0	-1
+spiritueux	-1	-1	-1	32	0	-1
+millésime	-1	-1	-1	32	0	-1
+eau-de-vie	-1	-1	-1	32	0	-1
+pousse-café	-1	-1	-1	32	0	-1
+boisson	-1	-1	-1	32	0	-1
+brandy	-1	-1	-1	32	0	-1
+digestif	-1	-1	-1	32	0	-1
+gnôle	-1	-1	-1	32	0	-1
+schnaps	-1	-1	-1	32	0	-1
+rhum	-1	-1	-1	32	0	-1
+alcool fort	-1	-1	-1	32	0	-1
+bibine	-1	-1	-1	32	0	-1
+Vin	-1	-1	-1	33	0	-1
+vin rouge sec	-1	-1	-1	33	0	-1
+grand cru	-1	-1	-1	33	0	-1
+château	-1	-1	-1	33,63	0	-1
+piquette	-1	-1	-1	33	0	-1
+vinasse	-1	-1	-1	33	0	-1
+Dispositif électrique	-1	-1	-1	36	0	-1
+équipement électroménager	-1	-1	-1	36	0	-1
+appareil électrique	-1	-1	-1	36	0	-1
+machine électrique	-1	-1	-1	36	0	-1
+instrument électrique	-1	-1	-1	36	0	-1
+outil électrique	-1	-1	-1	36	0	-1
+ustensile électrique	-1	-1	-1	36	0	-1
+engin électrique	-1	-1	-1	36	0	-1
+Cybernétique	-1	-1	-1	37	0	-1
+informatique	-1	-1	-1	37	0	-1
+numérique	-1	-1	-1	37	0	-1
+produits électroniques	-1	-1	-1	37	0	-1
+produit électronique 	-1	-1	-1	37	0	-1
+Téléphone fixe	-1	-1	-1	38	0	-1
+téléphone portable	-1	-1	-1	38	0	-1
+cellulaire	-1	-1	-1	38	0	-1
+mobile	-1	-1	-1	38	0	-1
+portable	-1	-1	-1	38	0	-1
+télécommunication	-1	-1	-1	38	0	-1
+Ordinateurs	-1	-1	-1	39	0	-1
+ordinateur portable	-1	-1	-1	39	0	-1
+ordinateurs portables	-1	-1	-1	39	0	-1
+station de travail	-1	-1	-1	39	0	-1
+calculateur	-1	-1	-1	39	0	-1
+unité centrale	-1	-1	-1	39	0	-1
+bécane	-1	-1	-1	39	0	-1
+Appareil photographique	-1	-1	-1	40	0	-1
+caméra	-1	-1	-1	40	0	-1
+Message	-1	-1	-1	41	0	-1
+texto	-1	-1	-1	41	0	-1
+mot	-1	-1	-1	41	0	-1
+document	-1	-1	-1	41,77	0	-1
+manuscrit	-1	-1	-1	41,41	0	-1
+rédaction	-1	-1	-1	41,41	0	-1
+énoncé	-1	-1	-1	41	0	-1
+contenu	-1	-1	-1	41,41	0	-1
+écrit	-1	-1	-1	41	0	-1
+livret	-1	-1	-1	41	0	-1
+PowerPoint	-1	-1	-1	42	0	-1
+diapo	-1	-1	-1	42	0	-1
+présentation	-1	-1	-1	42	0	-1
+photographie	-1	-1	-1	42	0	-1
+photo	-1	-1	-1	42	0	-1
+transparent	-1	-1	-1	42	0	-1
+photocopie	-1	-1	-1	42	0	-1
+PPT	-1	-1	-1	42	0	-1
+Copie d'écran	-1	-1	-1	43	0	-1
+Pratique	-1	-1	-1	44	0	-1
+occupation	-1	-1	-1	44	0	-1
+opération	-1	-1	-1	44	0	-1
+engagement	-1	-1	-1	44,47	0	-1
+travail	-1	-1	-1	44	0	-1
+sport	-1	-1	-1	44	0	-1
+animation	-1	-1	-1	44,45	0	-1
+action	-1	-1	-1	44	0	-1
+Déplacement	-1	-1	-1	45	0	-1
+circulation	-1	-1	-1	45	0	-1
+mobilité	-1	-1	-1	45	0	-1
+manœuvre	-1	-1	-1	45	0	-1
+agitation	-1	-1	-1	45	0	-1
+activité	-1	-1	-1	45	0	-1
+turbulence	-1	-1	-1	45	0	-1
+Repas	-1	-1	-1	46	0	-1
+souper	-1	-1	-1	46	0	-1
+banquet	-1	-1	-1	46	0	-1
+festin	-1	-1	-1	46	0	-1
+déjeuner	-1	-1	-1	46	0	-1
+réception	-1	-1	-1	46	0	-1
+Noces	-1	-1	-1	47	0	-1
+noce	-1	-1	-1	47	0	-1
+alliance	-1	-1	-1	47	0	-1
+cérémonie	-1	-1	-1	47	0	-1
+couple	-1	-1	-1	47	0	-1
+épousailles	-1	-1	-1	47	0	-1
+sacrement	-1	-1	-1	47	0	-1
+union	-1	-1	-1	47	0	-1
+Show	-1	-1	-1	48	0	-1
+représentation	-1	-1	-1	48,48,79,85	0	-1
+numéro	-1	-1	-1	48	0	-1
+séance	-1	-1	-1	48	0	-1
+divertissement	-1	-1	-1	48	0	-1
+exhibition	-1	-1	-1	48	0	-1
+cirque	-1	-1	-1	48	0	-1
+comédie	-1	-1	-1	48	0	-1
+danse	-1	-1	-1	48	0	-1
+music-hall	-1	-1	-1	48	0	-1
+revue	-1	-1	-1	48	0	-1
+Volatile	-1	-1	-1	49	0	-1
+oisillon	-1	-1	-1	49	0	-1
+piaf	-1	-1	-1	49	0	-1
+volaille	-1	-1	-1	49	0	-1
+oiselet	-1	-1	-1	49	0	-1
+moineau	-1	-1	-1	49	0	-1
+poisson rouge	-1	-1	-1	50	0	-1
+pêche	-1	-1	-1	50	0	-1
+Fleurs de cerisiers	-1	-1	-1	52	0	-1
+cerisier en fleurs	-1	-1	-1	52	0	-1
+Feux d'artifices	-1	-1	-1	53	0	-1
+feu d'artifice	-1	-1	-1	53	0	-1
+pyrotechnie	-1	-1	-1	53	0	-1
+pétard	-1	-1	-1	53	0	-1
+Tombée de la nuit	-1	-1	-1	54	0	-1
+nuits	-1	-1	-1	54	0	-1
+ténèbres	-1	-1	-1	54	0	-1
+noir	-1	-1	-1	54	0	-1
+obscurité	-1	-1	-1	54	0	-1
+obscurcissement	-1	-1	-1	54	0	-1
+Chute d'eau	-1	-1	-1	55	0	-1
+chutes d'eau	-1	-1	-1	55	0	-1
+cascade d'eau	-1	-1	-1	55	0	-1
+déluge	-1	-1	-1	55	0	-1
+trombes d'eau	-1	-1	-1	55	0	-1
+firmament	-1	-1	-1	56	0	-1
+paradis	-1	-1	-1	56	0	-1
+azur	-1	-1	-1	56	0	-1
+univers	-1	-1	-1	56	0	-1
+cieux	-1	-1	-1	56	0	-1
+coupole du ciel	-1	-1	-1	56	0	-1
+éden	-1	-1	-1	56	0	-1
+voûte céleste	-1	-1	-1	56	0	-1
+baldaquin	-1	-1	-1	56	0	-1
+espace	-1	-1	-1	56	0	-1
+là-haut	-1	-1	-1	56	0	-1
+zénith	-1	-1	-1	56	0	-1
+Enneigé	-1	-1	-1	57	0	-1
+neigeux	-1	-1	-1	57	0	-1
+blanche	-1	-1	-1	57	0	-1
+glace	-1	-1	-1	57	0	-1
+névé	-1	-1	-1	57	0	-1
+poudreuse	-1	-1	-1	57	0	-1
+Coucher du soleil	-1	-1	-1	58	0	-1
+Aube	-1	-1	-1	58	0	-1
+aurore	-1	-1	-1	58	0	-1
+lever du jour	-1	-1	-1	58	0	-1
+Crépuscule	-1	-1	-1	58	0	-1
+tombée du jour	-1	-1	-1	58	0	-1
+soirée	-1	-1	-1	58	0	-1
+couchant	-1	-1	-1	58	0	-1
+tombée de la nuit	-1	-1	-1	58	0	-1
+entre chien et loup	-1	-1	-1	58	0	-1
+demi-jour	-1	-1	-1	58	0	-1
+cathédrale	-1	-1	-1	59	0	-1
+chrétienté	-1	-1	-1	59	0	-1
+catholicisme	-1	-1	-1	59	0	-1
+basilique	-1	-1	-1	59	0	-1
+dôme	-1	-1	-1	59	0	-1
+monument	-1	-1	-1	59	0	-1
+sanctuaire	-1	-1	-1	60,60	0	-1
+monastère	-1	-1	-1	60	0	-1
+mosquée	-1	-1	-1	60	0	-1
+panthéon	-1	-1	-1	60	0	-1
+saint des saints	-1	-1	-1	60	0	-1
+synagogue	-1	-1	-1	60	0	-1
+pagode	-1	-1	-1	60	0	-1
+templet	-1	-1	-1	60	0	-1
+église	-1	-1	-1	60	0	-1
+tour	-1	-1	-1	61	0	-1
+gazébo	-1	-1	-1	62	0	-1
+villa	-1	-1	-1	62	0	-1
+chalet	-1	-1	-1	62	0	-1
+habitation	-1	-1	-1	62	0	-1
+maisonnette	-1	-1	-1	62	0	-1
+ermitage	-1	-1	-1	62	0	-1
+bungalow	-1	-1	-1	62	0	-1
+kiosque	-1	-1	-1	62	0	-1
+Palace	-1	-1	-1	63	0	-1
+immeuble	-1	-1	-1	63	0	-1
+castel	-1	-1	-1	63	0	-1
+résidence	-1	-1	-1	63	0	-1
+demeure	-1	-1	-1	63	0	-1
+sérail	-1	-1	-1	63	0	-1
+Parc de loisir	-1	-1	-1	65	0	-1
+parc de détente	-1	-1	-1	65	0	-1
+Aquarium	-1	-1	-1	66	0	-1
+monde sous-marin	-1	-1	-1	66	0	-1
+animaux marins	-1	-1	-1	66	0	-1
+poissons	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+parc zoologique	-1	-1	-1	67	0	-1
+ménagerie	-1	-1	-1	67	0	-1
+jardin	-1	-1	-1	67	0	-1
+jardin d'acclimatation	-1	-1	-1	67	0	-1
+Chemin de fer	-1	-1	-1	70	0	-1
+convoi	-1	-1	-1	70	0	-1
+voie	-1	-1	-1	70	0	-1
+rame	-1	-1	-1	70	0	-1
+métro	-1	-1	-1	70	0	-1
+cortège	-1	-1	-1	70	0	-1
+fourgon	-1	-1	-1	70	0	-1
+locomotive	-1	-1	-1	70	0	-1
+rail	-1	-1	-1	70	0	-1
+voie ferrée	-1	-1	-1	70	0	-1
+Douceurs	-1	-1	-1	73	0	-1
+sucreries	-1	-1	-1	73	0	-1
+confiseries	-1	-1	-1	73	0	-1
+friandises	-1	-1	-1	73	0	-1
+pastilles	-1	-1	-1	73	0	-1
+berlingots	-1	-1	-1	73	0	-1
+dragées	-1	-1	-1	73	0	-1
+papillotes	-1	-1	-1	73	0	-1
+pâtes de fuit	-1	-1	-1	73	0	-1
+praline	-1	-1	-1	73,73	0	-1
+sucettes	-1	-1	-1	73	0	-1
+sucre d'orge	-1	-1	-1	73	0	-1
+calisson	-1	-1	-1	73	0	-1
+chocolat	-1	-1	-1	73	0	-1
+Shabu-shabu	-1	-1	-1	75	0	-1
+bouillon	-1	-1	-1	75	0	-1
+viande crue	-1	-1	-1	75	0	-1
+sukiyaki	-1	-1	-1	75	0	-1
+légumes	-1	-1	-1	75	0	-1
+nouilles	-1	-1	-1	75	0	-1
+Document texte	-1	-1	-1	77	0	-1
+classeur	-1	-1	-1	77	0	-1
+répertoire	-1	-1	-1	77	0	-1
+boîte	-1	-1	-1	77	0	-1
+casier	-1	-1	-1	77	0	-1
+registre	-1	-1	-1	77	0	-1
+catalogue	-1	-1	-1	77	0	-1
+dossier	-1	-1	-1	77	0	-1
+Illustration	-1	-1	-1	79	0	-1
+schéma	-1	-1	-1	79	0	-1
+croquis	-1	-1	-1	79,85	0	-1
+tracé	-1	-1	-1	79	0	-1
+plan	-1	-1	-1	79	0	-1
+image	-1	-1	-1	79	0	-1
+figure	-1	-1	-1	79,85	0	-1
+Bande dessinée	-1	-1	-1	80	0	-1
+dessin humoristique	-1	-1	-1	80	0	-1
+caricature	-1	-1	-1	80,85	0	-1
+cartoon	-1	-1	-1	80	0	-1
+Ballet	-1	-1	-1	81	0	-1
+valse	-1	-1	-1	81	0	-1
+chorégraphie	-1	-1	-1	81	0	-1
+ronde	-1	-1	-1	81	0	-1
+bal	-1	-1	-1	81	0	-1
+spectacle	-1	-1	-1	81	0	-1
+Mélodie	-1	-1	-1	82	0	-1
+chanson	-1	-1	-1	82	0	-1
+musique	-1	-1	-1	82	0	-1
+refrain	-1	-1	-1	82	0	-1
+ballade	-1	-1	-1	82	0	-1
+couplet	-1	-1	-1	82	0	-1
+air	-1	-1	-1	82	0	-1
+Fête d'anniversaire	-1	-1	-1	83	0	-1
+célébration	-1	-1	-1	83	0	-1
+commémoration	-1	-1	-1	83	0	-1
+mémoire	-1	-1	-1	83	0	-1
+fête	-1	-1	-1	83	0	-1
+souvenir	-1	-1	-1	83	0	-1
+Image	-1	-1	-1	85	0	-1
+effigie	-1	-1	-1	85	0	-1
+visage	-1	-1	-1	85,85	0	-1
+autoportrait	-1	-1	-1	85	0	-1
+dessin	-1	-1	-1	85	0	-1
+description	-1	-1	-1	85	0	-1
+Petit	-1	-1	-1	86	0	-1
+nourrisson	-1	-1	-1	86	0	-1
+nouveau-né	-1	-1	-1	86	0	-1
+chéri	-1	-1	-1	86	0	-1
+mioche	-1	-1	-1	86	0	-1
+moutard	-1	-1	-1	86	0	-1
+petiot	-1	-1	-1	86	0	-1
+poupon	-1	-1	-1	86	0	-1
+gosse	-1	-1	-1	86	0	-1
+enfant	-1	-1	-1	86	0	-1
+gamin	-1	-1	-1	86	0	-1
+môme	-1	-1	-1	86	0	-1
+baby	-1	-1	-1	86	0	-1
+loupiot	-1	-1	-1	86	0	-1
+bambi	-1	-1	-1	86	0	-1
+Souliers	-1	-1	-1	87	0	-1
+brodequin	-1	-1	-1	87	0	-1
+godillot	-1	-1	-1	87	0	-1
+bottine	-1	-1	-1	87	0	-1
+godasse	-1	-1	-1	87	0	-1
+basket	-1	-1	-1	87	0	-1
+chaussure	-1	-1	-1	87	0	-1
+Bonnet	-1	-1	-1	88	0	-1
+casquette	-1	-1	-1	88	0	-1
+couvre-chef	-1	-1	-1	88	0	-1
+coiffe	-1	-1	-1	88	0	-1
+Carte de crédit	-1	-1	-1	91	0	-1
+carte de débit	-1	-1	-1	91	0	-1
+Reçu	-1	-1	-1	92	0	-1
+note	-1	-1	-1	92	0	-1
+addition	-1	-1	-1	92	0	-1
+bordereau	-1	-1	-1	92	0	-1
+relevé	-1	-1	-1	92	0	-1

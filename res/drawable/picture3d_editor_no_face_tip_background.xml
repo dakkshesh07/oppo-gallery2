@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/picture3d_no_face_tip_background_radius" />
+    <solid android:color="@color/picture3d_editor_no_face_background_color" />
+</shape>

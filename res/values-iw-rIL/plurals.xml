@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d תמונות מועלות ולא ניתן להוסיף אותן.</item>
+        <item quantity="one">תמונה %d מועלית ולא ניתן להוסיף אותה.</item>
+        <item quantity="two">%d תמונות נטענות אך לא ניתן להוסיף אותן.</item>
+        <item quantity="many">%d תמונות נטענות אך לא ניתן להוסיף אותן.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d כרטיסים בנקאיים</item>
+        <item quantity="one">כרטיס בנקאי %1$d</item>
+        <item quantity="two">%1$d כרטיסים בנקאיים</item>
+        <item quantity="many">%1$d כרטיסים בנקאיים</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d מזהים</item>
+        <item quantity="one">מזהה %1$d</item>
+        <item quantity="two">%1$d מזהים</item>
+        <item quantity="many">%1$d מזהים</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">מחק %d פריטים לצמיתות</item>
+        <item quantity="one">מחר פריט %d לצמיתות</item>
+        <item quantity="two">מחק %d פריטים לצמיתות</item>
+        <item quantity="many">מחק %d פריטים לצמיתות</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">מחק %d פריטים</item>
+        <item quantity="one">מחק פריט %d</item>
+        <item quantity="two">מחיקת %d פריטים</item>
+        <item quantity="many">מחיקת %d פריטים</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d תמונות</item>
+        <item quantity="one">%1$d תמונה</item>
+        <item quantity="two">%1$d תמונות</item>
+        <item quantity="many">%1$d תמונות</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">תמונות שנמצאו: %s. באפשרותך להעבירן אל האלבום \"כיסויי כרטיסים\" לטובת גישה קלה יותר.</item>
+        <item quantity="one">תמונות שנמצאו: %s. באפשרותך להעבירה אל האלבום \"כיסויי כרטיסים\" לטובת גישה קלה יותר.</item>
+        <item quantity="two">תמונות שנמצאו: %s. באפשרותך להעבירן אל האלבום \"כיסויי כרטיסים\" לטובת גישה קלה יותר.</item>
+        <item quantity="many">תמונות שנמצאו: %s. באפשרותך להעבירן אל האלבום \"כיסויי כרטיסים\" לטובת גישה קלה יותר.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">תמונות של %1$s הועברו אל האלבום \"כיסויי כרטיסים\"</item>
+        <item quantity="one">תמונה של %1$s הועברה אל האלבום \"כיסויי כרטיסים\"</item>
+        <item quantity="two">תמונות של %1$s הועברו אל האלבום \"כיסויי כרטיסים\"</item>
+        <item quantity="many">תמונות של %1$s הועברו אל האלבום \"כיסויי כרטיסים\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d כרטיסים/קבלות</item>
+        <item quantity="one">כרטיס/קבלה %1$d</item>
+        <item quantity="two">%1$d כרטיסים/קבלות</item>
+        <item quantity="many">%1$d כרטיסים/קבלות</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">הפריטים שנבחרו כבר קיימים באלבום</item>
+        <item quantity="one">הפריט שנבחר כבר קיים באלבום</item>
+        <item quantity="two">הפריטים שנבחרו כבר קיימים באלבום</item>
+        <item quantity="many">הפריטים שנבחרו כבר קיימים באלבום</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">פריט %d</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d תמונות נטענות ולא ניתן להעביר אותן</item>
+        <item quantity="one">תמונה %d נטענת ולא ניתן להעביר אותה</item>
+        <item quantity="two">%d תמונות נטענות ולא ניתן להעביר אותן</item>
+        <item quantity="many">%d תמונות נטענות ולא ניתן להעביר אותן</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d אנשים</item>
+        <item quantity="one">%1$d אנשים</item>
+        <item quantity="two"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">התמונות הועברו. לא ניתן להעביר סרטונים אל האלבום הזה.</item>
+        <item quantity="one">התמונה הועברה. לא ניתן להעביר סרטונים אל האלבום הזה.</item>
+        <item quantity="two">התמונות הועברו. לא ניתן להעביר סרטונים אל האלבום הזה.</item>
+        <item quantity="many">התמונות הועברו. לא ניתן להעביר סרטונים אל האלבום הזה.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">שחזר %d פריטים</item>
+        <item quantity="one">שחזר פריט %d</item>
+        <item quantity="two">שחזר %d פריטים</item>
+        <item quantity="many">שחזר %d פריטים</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d תמונות</item>
+        <item quantity="one">%1$d תמונה</item>
+        <item quantity="two">%1$d תמונות</item>
+        <item quantity="many">%1$d תמונות</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d סרטונים</item>
+        <item quantity="one">%1$d סרטון</item>
+        <item quantity="two">%1$d סרטונים</item>
+        <item quantity="many">%1$d סרטונים</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d פריטים נבחרו</item>
+        <item quantity="one">%1$d נבחר</item>
+        <item quantity="two">%1$d פריטים נבחרו</item>
+        <item quantity="many">%1$d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">נבחרו %1$d אלבומים</item>
+        <item quantity="one">נבחר אלבום %1$d</item>
+        <item quantity="two">%1$d אלבומים נבחרו</item>
+        <item quantity="many">%1$d אלבומים נבחרו</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">נבחרו %1$d אנשים</item>
+        <item quantity="one">נבחר אדם %1$d</item>
+        <item quantity="two">%1$d אנשים נבחרו</item>
+        <item quantity="many">%1$d אנשים נבחרו</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d נבחרו</item>
+        <item quantity="one">%1$d נבחר</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">נבחרו %1$d זיכרונות</item>
+        <item quantity="one">נבחר זיכרון %1$d</item>
+        <item quantity="two">%1$d זיכרונות נבחרו</item>
+        <item quantity="many">%1$d זיכרונות נבחרו</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d סרטונים נמחקו</item>
+        <item quantity="one">%1$d סרטון נמחק</item>
+        <item quantity="two">%1$d סרטונים נבחרו</item>
+        <item quantity="many">%1$d סרטונים נבחרו</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d סרטונים</item>
+        <item quantity="one">%1$d סרטון</item>
+        <item quantity="two">%1$d סרטונים</item>
+        <item quantity="many">%1$d סרטונים</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">רמת סוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו.</item>
+        <item quantity="one">רמת סוללה נמוכה מ-%1$s. פריט %2$d לא הורד.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">רמת סוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו. טען את הטלפון שלך.</item>
+        <item quantity="one">רמת סוללה נמוכה מ-%1$s. פריט %2$d לא הורד. טען את הטלפון שלך.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו. יש לטעון את הטלפון.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו. יש לטעון את הטלפון.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">רמת הטעינה של הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו. יש לטעון את המכשיר.</item>
+        <item quantity="one">רמת הטעינה של הסוללה נמוכה מ-%1$s. פריט %2$d לא הורד. יש לטעון את המכשיר.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו. יש לטעון את הטלפון.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו. יש לטעון את הטלפון.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">רמת סוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו.</item>
+        <item quantity="one">רמת סוללה נמוכה מ-%1$s. פריט %2$d לא הורד.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">מצב חיסכון בחשמל. %1$d פריטים לא הורדו.</item>
+        <item quantity="one">מצב חיסכון בחשמל. פריט %1$d לא הורד.</item>
+        <item quantity="two">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הורדו.</item>
+        <item quantity="many">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">מצב חיסכון בחשמל. %1$d פריטים לא הורדו.</item>
+        <item quantity="one">מצב חיסכון בחשמל. פריט %1$d לא הורד.</item>
+        <item quantity="two">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הורדו.</item>
+        <item quantity="many">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">אין חיבור רשת. %1$d פריטים לא הורדו. %2$s.</item>
+        <item quantity="one">אין חיבור רשת. פריט %1$d לא הורד.%2$s.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים. %2$s.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">אין חיבור רשת. %1$d פריטים לא הורדו. %2$s או %3$s.</item>
+        <item quantity="one">אין חיבור רשת. פריט %1$d לא הורד.%2$s או %3$s.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים. %2$s או %3$s.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים. %2$s או %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים.</item>
+        <item quantity="one">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריט.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים.</item>
+        <item quantity="one">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריט.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">אין די שטח אחסון בענן. פריט %1$d לא הורד.</item>
+        <item quantity="one">אין די שטח אחסון בענן. %1$d פריטים לא הורדו.</item>
+        <item quantity="two">אין מספיק שטח אחסון בענן. %1$d פריטים לא הורדו.</item>
+        <item quantity="many">אין מספיק שטח אחסון בענן. %1$d פריטים לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">אין מספיק שטח אחסון במכשיר. %1$d פריטים לא הורדו.</item>
+        <item quantity="one">אין מספיק שטח אחסון במכשיר. פריט %1$d לא הורד.</item>
+        <item quantity="two">אין מספיק שטח אחסון בטלפון. פריט %1$d לא הורד.</item>
+        <item quantity="many">אין מספיק שטח אחסון בטלפון. פריט %1$d לא הורד.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">שגיאת רשת. %1$d פריטים לא ירדו.</item>
+        <item quantity="one">שגיאת רשת. %1$d הפריט לא ירד.</item>
+        <item quantity="two">שגיאת רשת. %1$d פריטים לא הורדו.</item>
+        <item quantity="many">שגיאת רשת. %1$d פריטים לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">שגיאת רשת. %1$d פריטים לא ירדו.</item>
+        <item quantity="one">שגיאת רשת. %1$d הפריט לא ירד.</item>
+        <item quantity="two">שגיאת רשת. %1$d פריטים לא הורדו.</item>
+        <item quantity="many">שגיאת רשת. %1$d פריטים לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">אין די שטח אחסון בענן. %1$d תמונות מקוריות לא הורדו.</item>
+        <item quantity="one">אין די שטח אחסון בענן. תמונה מקורית %1$d לא הורדה.</item>
+        <item quantity="two">אין מספיק שטח אחסון. %1$d תמונות מקוריות לא הורדו.</item>
+        <item quantity="many">אין מספיק שטח אחסון. %1$d תמונות מקוריות לא הורדו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d תמונות לא סונכרנו. שטח האחסון בענן מלא.</item>
+        <item quantity="one">תמונה %1$d לא סונכרנה. שטח האחסון בענן מלא.</item>
+        <item quantity="two">%1$d תמונות לא מסונכרנות. שטח האחסון בענן מלא.</item>
+        <item quantity="many">%1$d תמונות לא מסונכרנות. שטח האחסון בענן מלא.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d תמונות לא סונכרנו. הסנכרון לענן מושבת כאשר יש בסוללה פחות מ-%2$s טעינה.</item>
+        <item quantity="one">תמונה %1$d לא סונכרנה. הסנכרון לענן מושבת כאשר יש בסוללה פחות מ-%2$s טעינה.</item>
+        <item quantity="two">%1$d תמונות לא סונכרנו. הסנכרון עם הענן מושהה כשרמת הטעינה של הסוללה נמוכה מ-%2$s.</item>
+        <item quantity="many">%1$d תמונות לא סונכרנו. הסנכרון עם הענן מושהה כשרמת הטעינה של הסוללה נמוכה מ-%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d תמונות לא סונכרנו. הסנכרון לענן מושבת במצב חיסכון בחשמל.</item>
+        <item quantity="one">תמונה %1$d לא סונכרנה. הסנכרון לענן מושבת במצב חיסכון בחשמל.</item>
+        <item quantity="two">%1$d תמונות לא סונכרנו. הסנכרון עם הענן מושהה במצב חיסכון בחשמל.</item>
+        <item quantity="many">%1$d תמונות לא סונכרנו. הסנכרון עם הענן מושהה במצב חיסכון בחשמל.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">אין שטח אחסון בענן. %1$d פריטים לא הועלו.</item>
+        <item quantity="one">אין שטח אחסון בענן. פריט %1$d לא הועלה.</item>
+        <item quantity="two">שטח האחסון בענן מלא. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">שטח האחסון בענן מלא. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">רמת סוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו.</item>
+        <item quantity="one">רמת סוללה נמוכה מ-%1$s. פריט %2$d לא הועלה.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">רמת סוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו. אנא טען את הטלפון שלך.</item>
+        <item quantity="one">רמת סוללה נמוכה מ-%1$s. %2$d הפריט לא הועלה. אנא טען את הטלפון שלך.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו. יש לטעון את הטלפון.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו. יש לטעון את הטלפון.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">רמת הטעינה של הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו. יש לטעון את המכשיר.</item>
+        <item quantity="one">רמת הטעינה של הסוללה נמוכה מ-%1$s. פריט %2$d לא הועלה. יש לטעון את המכשיר.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו. יש לטעון את הטלפון.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו. יש לטעון את הטלפון.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">רמת סוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו.</item>
+        <item quantity="one">רמת סוללה נמוכה מ-%1$s. פריט %2$d לא הועלה.</item>
+        <item quantity="two">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו.</item>
+        <item quantity="many">עוצמת הסוללה נמוכה מ-%1$s. %2$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">מצב חיסכון בחשמל. %1$d פריטים לא הועלו.</item>
+        <item quantity="one">מצב חיסכון בחשמל. פריט %1$d לא הועלה.</item>
+        <item quantity="two">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">מצב חיסכון בחשמל. פריט %1$d לא הועלה.</item>
+        <item quantity="one">מצב חיסכון בחשמל. פריט %1$d לא הועלה.</item>
+        <item quantity="two">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">מצב חיסכון בחשמל מופעל. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">אין שטח אחסון בענן. %1$d פריטים לא הועלו.</item>
+        <item quantity="one">אין שטח אחסון בענן. פריט %1$d לא הועלה.</item>
+        <item quantity="two">שטח האחסון בענן מלא. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">שטח האחסון בענן מלא. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d סרטונים לא סונכרנו. שטח האחסון בענן מלא.</item>
+        <item quantity="one">סרטון %1$d לא סונכרן. שטח האחסון בענן מלא.</item>
+        <item quantity="two">%1$d סרטונים לא סונכרנו. שטח האחסון בענן מלא.</item>
+        <item quantity="many">%1$d סרטונים לא סונכרנו. שטח האחסון בענן מלא.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d סרטונים לא סונכרנו. הסנכרון לענן מושבת כאשר יש בסוללה פחות מ-%2$s טעינה.</item>
+        <item quantity="one">סרטון %1$d לא סונכרן. הסנכרון לענן מושבת כאשר יש בסוללה פחות מ-%2$s טעינה.</item>
+        <item quantity="two">%1$d סרטונים לא סונכרנו. הסנכרון עם הענן מושהה כשרמת הטעינה של הסוללה נמוכה מ-%2$s.</item>
+        <item quantity="many">%1$d סרטונים לא סונכרנו. הסנכרון עם הענן מושהה כשרמת הטעינה של הסוללה נמוכה מ-%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d סרטונים לא סונכרנו. הסנכרון לענן מושבת במצב חיסכון בחשמל.</item>
+        <item quantity="one">סרטון %1$d לא סונכרן. הסנכרון לענן מושבת במצב חיסכון בחשמל.</item>
+        <item quantity="two">%1$d סרטונים לא סונכרנו. הסנכרון עם הענן מושהה במצב חיסכון בחשמל.</item>
+        <item quantity="many">%1$d סרטונים לא סונכרנו. הסנכרון עם הענן מושהה במצב חיסכון בחשמל.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">תמונה %1$d לא סונכרנה.</item>
+        <item quantity="one">%1$d תמונות לא סונכרנו.</item>
+        <item quantity="two">%1$d תמונות לא סונכרנו.</item>
+        <item quantity="many">%1$d תמונות לא סונכרנו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">אין חיבור רשת. %1$d פריטים לא הועלו. %2$s.</item>
+        <item quantity="one">אין חיבור רשת. פריט %1$d לא הועלה.%2$s.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים. %2$s.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">אין חיבור רשת. %1$d פריטים לא הועלו. %2$s או %3$s.</item>
+        <item quantity="one">אין חיבור רשת. פריט %1$d לא הועלה.%2$s או %3$s.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים. %2$s או %3$s.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה הורדה של %1$d פריטים. %2$s או %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים.</item>
+        <item quantity="one">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריט.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים.</item>
+        <item quantity="one">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריט.</item>
+        <item quantity="two">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים.</item>
+        <item quantity="many">אין חיבור לרשת. לא התבצעה העלאה של %1$d פריטים.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d סרטונים לא סונכרנו.</item>
+        <item quantity="one">סרטון %1$d לא סונכרן.</item>
+        <item quantity="two">%1$d סרטונים לא סונכרנו.</item>
+        <item quantity="many">%1$d סרטונים לא סונכרנו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">שגיאת רשת. %1$d פריטים לא הועלו.</item>
+        <item quantity="one">שגיאת רשת. %1$d הפריט לא הועלה.</item>
+        <item quantity="two">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">שגיאת רשת. %1$d פריטים לא הועלו.</item>
+        <item quantity="one">שגיאת רשת. %1$d הפריט לא הועלה.</item>
+        <item quantity="two">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+        <item quantity="one">שגיאת שירות. %1$d הפריט לא הועלה.</item>
+        <item quantity="two">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+        <item quantity="one">שגיאת שירות. %1$d הפריט לא הועלה.</item>
+        <item quantity="two">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+        <item quantity="many">שגיאת שירות. %1$d פריטים לא הועלו.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">ההוספה של %d פריטים נכשלה</item>
+        <item quantity="one">ההוספה של פריט %d נכשלה</item>
+        <item quantity="two">הוספת %d פריטים נכשלה</item>
+        <item quantity="many">הוספת %d פריטים נכשלה</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d תמונות מועלות ולא ניתן להגדירן כפרטיות.</item>
+        <item quantity="one">תמונה %d מועלית ולא ניתן להגדירה כפרטית.</item>
+        <item quantity="two">%d תמונות נטענות אך לא ניתן להגדירן כפרטיות.</item>
+        <item quantity="many">%d תמונות נטענות אך לא ניתן להגדירן כפרטיות.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">%d שעה</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">פריט %d</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">%d דקה</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">%d שנייה</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d ימים</item>
+        <item quantity="one">%1$d יום</item>
+        <item quantity="two">%1$d ימים</item>
+        <item quantity="many">%1$d ימים</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d תמונות</item>
+        <item quantity="one">%1$d תמונה</item>
+        <item quantity="two">%1$d תמונות</item>
+        <item quantity="many">%1$d תמונות</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d סרטונים</item>
+        <item quantity="one">%1$d סרטון</item>
+        <item quantity="two">%1$d סרטונים</item>
+        <item quantity="many">%1$d סרטונים</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d תמונות בטעינה</item>
+        <item quantity="one">%d תמונה בטעינה</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">חייב להיות גדול מ-%1$d מ\"מ</item>
+        <item quantity="one">חייב להיות גדול מ-%1$d מ\"מ</item>
+        <item quantity="two">חייב להיות גדול יותר מ-%1$d מ\"מ</item>
+        <item quantity="many">חייב להיות גדול יותר מ-%1$d מ\"מ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">חייב להיות גדול מ-%1$dpx</item>
+        <item quantity="one">חייב להיות גדול מ-%1$dpx</item>
+        <item quantity="two">חייב להיות גדול יותר מ-%1$d פיקסלים</item>
+        <item quantity="many">חייב להיות גדול יותר מ-%1$d פיקסלים</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">חייב להיות קטן מ-%1$d מ\"מ</item>
+        <item quantity="one">חייב להיות קטן מ-%1$d מ\"מ</item>
+        <item quantity="two">חייב להיות קטן יותר מ-%1$d מ\"מ</item>
+        <item quantity="many">חייב להיות קטן יותר מ-%1$d מ\"מ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">חייב להיות קטן מ-%1$dpx</item>
+        <item quantity="one">חייב להיות קטן מ-%1$dpx</item>
+        <item quantity="two">חייב להיות קטן יותר מ-%1$d פיקסלים</item>
+        <item quantity="many">חייב להיות קטן יותר מ-%1$d פיקסלים</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">חייב להיות גדול מ-%1$dKB</item>
+        <item quantity="one">חייב להיות גדול מ-%1$dKB</item>
+        <item quantity="two">חייב להיות גדול יותר מ-%1$dKB</item>
+        <item quantity="many">חייב להיות גדול יותר מ-%1$dKB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">חייב להיות קטן מ-%1$dKB</item>
+        <item quantity="one">חייב להיות קטן מ-%1$dKB</item>
+        <item quantity="two">חייב להיות קטן יותר מ-%1$dKB</item>
+        <item quantity="many">חייב להיות קטן יותר מ-%1$dKB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">חייב להיות גדול מ-%1$d מ\"מ</item>
+        <item quantity="one">חייב להיות גדול מ-%1$d מ\"מ</item>
+        <item quantity="two">חייב להיות גדול יותר מ-%1$d מ\"מ</item>
+        <item quantity="many">חייב להיות גדול יותר מ-%1$d מ\"מ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">חייב להיות גדול מ-%1$dpx</item>
+        <item quantity="one">חייב להיות גדול מ-%1$dpx</item>
+        <item quantity="two">חייב להיות גדול יותר מ-%1$d פיקסלים</item>
+        <item quantity="many">חייב להיות גדול יותר מ-%1$d פיקסלים</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">חייב להיות קטן מ-%1$d מ\"מ</item>
+        <item quantity="one">חייב להיות קטן מ-%1$d מ\"מ</item>
+        <item quantity="two">חייב להיות קטן יותר מ-%1$d מ\"מ</item>
+        <item quantity="many">חייב להיות קטן יותר מ-%1$d מ\"מ</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">חייב להיות קטן מ-%1$dpx</item>
+        <item quantity="one">חייב להיות קטן מ-%1$dpx</item>
+        <item quantity="two">חייב להיות קטן יותר מ-%1$d פיקסלים</item>
+        <item quantity="many">חייב להיות קטן יותר מ-%1$d פיקסלים</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">שמור רק את %d התמונות שנבחרו</item>
+        <item quantity="one">שמור רק את התמונה ה-%d שנבחרה</item>
+        <item quantity="two">השאר רק את %d התמונות שנבחרו</item>
+        <item quantity="many">השאר רק את %d התמונות שנבחרו</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">מחק %d פריטים</item>
+        <item quantity="one">מחק %d פריט</item>
+        <item quantity="two">מחק %d פריטים</item>
+        <item quantity="many">מחק %d פריטים</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d נבחר</item>
+        <item quantity="one">%1$d פריטים נבחרו</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">נבחרו %1$d אלבומים</item>
+        <item quantity="one">נבחר אלבום %1$d</item>
+        <item quantity="two">%1$d אלבומים נבחרו</item>
+        <item quantity="many">%1$d אלבומים נבחרו</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d נבחר</item>
+        <item quantity="one">%1$d נבחר</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d מדבקות נבחרו</item>
+        <item quantity="one">%1$d מדבקה נבחרה</item>
+        <item quantity="two">%1$d מדבקות נבחרו</item>
+        <item quantity="many">%1$d מדבקות נבחרו</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d סרטונים נמחקו</item>
+        <item quantity="one">%1$d סרטון נמחק</item>
+        <item quantity="two">%1$d סרטונים נבחרו</item>
+        <item quantity="many">%1$d סרטונים נבחרו</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d תמונות מועלות ולא ניתן למחוק אותן.</item>
+        <item quantity="one">תמונה %d מועלית ולא ניתן למחוק אותה.</item>
+        <item quantity="two">%d תמונות נטענות ולא ניתן למחוק אותן.</item>
+        <item quantity="many">%d תמונות נטענות ולא ניתן למחוק אותן.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">מחיקת %1$d פריטים נכשלה. נסה שוב</item>
+        <item quantity="one">מחיקת %1$d פריט נכשלה. נסה שוב</item>
+        <item quantity="two"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d הודעות חדשות</item>
+        <item quantity="one">%d הודעות חדשות</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d תמונות</item>
+        <item quantity="one">%1$d תמונה</item>
+        <item quantity="two">%1$d תמונות</item>
+        <item quantity="many">%1$d תמונות</item>
+    </plurals>
+</resources>

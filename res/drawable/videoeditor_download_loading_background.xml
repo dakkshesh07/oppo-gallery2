@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/base_editor_menu_item_width_height" android:width="@dimen/base_editor_menu_item_width_height" />
+    <solid android:color="@color/videoeditor_download_loading_backgorund_color" />
+</shape>

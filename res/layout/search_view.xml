@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/search_bar" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/search_word_layout" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/search_edit_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" android:layoutDirection="locale">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/search_plate" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <view android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/search_src_text" android:background="@null" android:layout_width="0.0dip" android:layout_height="@dimen/search_view_edit_frame_height" android:hint="@string/model_search_hint" android:singleLine="true" android:layout_weight="1.0" android:inputType="textAutoComplete|textNoSuggestions" android:imeOptions="actionSearch" android:textCursorDrawable="@drawable/search_text_cursor" android:textAlignment="viewStart" class="com.oplus.gallery.searchpage.ui.SearchView$SearchAutoComplete" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/search_close_btn" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/search_edit_text_delete_icon" android:contentDescription="@string/common_search_title" android:paddingStart="@dimen/search_view_close_btn_padding_start" android:paddingEnd="@dimen/search_view_close_btn_padding_end" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/submit_area" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/search_go_btn" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:contentDescription="@string/base_delete" android:paddingStart="@dimen/search_view_go_btn_padding_start_end" android:paddingEnd="@dimen/search_view_go_btn_padding_start_end" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/search_voice_btn" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:paddingStart="@dimen/search_view_go_btn_padding_start_end" android:paddingEnd="@dimen/search_view_go_btn_padding_start_end" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

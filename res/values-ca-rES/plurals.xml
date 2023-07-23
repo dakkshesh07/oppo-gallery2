@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">"Error en configurar %d fotos com a privades perquè s'estan carregant."</item>
+        <item quantity="one">"Error en configurar %d foto com a privada perquè s'està carregant."</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d targetes bancàries</item>
+        <item quantity="one">%1$d targeta bancària</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ID</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Suprimeix de manera permanent %d elements</item>
+        <item quantity="one">Suprimeix de manera permanent %d element</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Suprimeix %d elements</item>
+        <item quantity="one">Suprimeix %d element</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Fotos trobades: %s. Podeu moure-les a \"Targeter\" per poder accedir-hi més fàcilment.</item>
+        <item quantity="one">Fotos trobades: %s. Podeu moure-la a \"Targeter\" per poder accedir-hi més fàcilment.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Fotos de %1$s mogudes al \"Targeter\"</item>
+        <item quantity="one">Foto de %1$s moguda al \"Targeter\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d tiquets/rebuts</item>
+        <item quantity="one">%1$d tiquet/rebut</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">"Els elements seleccionats ja existeixen a l'àlbum"</item>
+        <item quantity="one">"L'element seleccionat ja existeix a l'àlbum"</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">"%d fotos s'estan carregant i no es poden moure"</item>
+        <item quantity="one">"%d foto s'està carregant i no es pot moure"</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d persones</item>
+        <item quantity="one">%1$d persones</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">"S'han mogut les fotos. No es poden moure vídeos a aquest àlbum."</item>
+        <item quantity="one">"S'ha mogut la foto. No es poden moure vídeos a aquest àlbum."</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Restaura %d elements</item>
+        <item quantity="one">Restaura %d element</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d elements seleccionats</item>
+        <item quantity="one">%1$d element seleccionat</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d àlbums seleccionats</item>
+        <item quantity="one">%1$d àlbum seleccionat</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d persones seleccionades</item>
+        <item quantity="one">%1$d persones seleccionades</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d seleccionats</item>
+        <item quantity="one">%1$d seleccionat</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d records seleccionats</item>
+        <item quantity="one">%1$d record seleccionat</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d Víd. seleccionats</item>
+        <item quantity="one">%1$d vídeo seleccionat</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">"Bateria inferior a %1$s. No s'ha baixat %2$d elements."</item>
+        <item quantity="one">"Bateria inferior a %1$s. No s'ha baixat %2$d element."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">"Bateria inferior a %1$s. No s'ha baixat %2$d elements. Carregueu el telèfon."</item>
+        <item quantity="one">"Bateria inferior a %1$s. No s'ha baixat %2$d element. Carregueu el telèfon."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Bateria inferior a %1$s. %2$d elements no baixats. Carregueu el dispositiu.</item>
+        <item quantity="one">Bateria inferior a %1$s. %2$d element no baixat. Carregueu el dispositiu.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">"Bateria inferior a %1$s. No s'ha baixat %2$d elements."</item>
+        <item quantity="one">"Bateria inferior a %1$s. No s'ha baixat %2$d element."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">"Mode d'estalvi d'energia activat. %1$d elements no baixats."</item>
+        <item quantity="one">"Mode d'estalvi d'energia activat. %1$d element no baixat."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">"Mode d'estalvi d'energia activat. %1$d elements no baixats."</item>
+        <item quantity="one">"Mode d'estalvi d'energia activat. %1$d element no baixat."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">"No hi ha connexió de xarxa. No s'ha baixat %1$d element(s). %2$s."</item>
+        <item quantity="one">"No hi ha connexió de xarxa. No s'ha baixat %1$d element(s). %2$s."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">"No hi ha connexió de xarxa. No s'ha baixat %1$d elements. %2$s o %3$s."</item>
+        <item quantity="one">"No hi ha connexió de xarxa. No s'ha baixat %1$d element. %2$s o %3$s."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">No hi ha connexió de xarxa. %1$d elements no baixats.</item>
+        <item quantity="one">No hi ha connexió de xarxa. %1$d element no baixat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">No hi ha connexió de xarxa. %1$d elements no baixats.</item>
+        <item quantity="one">No hi ha connexió de xarxa. %1$d element no baixat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Emmagatzematge al núvol insuficient. %1$d element no baixat.</item>
+        <item quantity="one">Emmagatzematge al núvol insuficient. %1$d elements no baixats.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Emmagatzematge insuficient al dispositiu. %1$d elements no baixats.</item>
+        <item quantity="one">Emmagatzematge insuficient al dispositiu. %1$d element no baixat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Error de la xarxa. %1$d elements no baixats.</item>
+        <item quantity="one">Error de xarxa. %1$d element no baixat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Error de la xarxa. %1$d elements no baixats.</item>
+        <item quantity="one">Error de xarxa. %1$d element no baixat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Emmagatzematge al núvol insuficient. %1$d fotos originals no baixades.</item>
+        <item quantity="one">Emmagatzematge al núvol insuficient. %1$d foto original no baixada.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">"%1$d fotos no sincronitzades. L'emmagatzematge al núvol està ple."</item>
+        <item quantity="one">"%1$d foto no sincronitzada. L'emmagatzematge al núvol està ple."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d fotos no sincronitzades. La sincronització amb el núvol està en pausa quan el nivell de bateria és inferior al %2$s.</item>
+        <item quantity="one">%1$d foto no sincronitzada. La sincronització amb el núvol està en pausa quan el nivell de bateria és inferior al %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">"%1$d fotos no sincronitzades. La sincronització amb el núvol està en pausa en el mode d'estalvi d'energia."</item>
+        <item quantity="one">"%1$d foto no sincronitzada. La sincronització amb el núvol està en pausa en el mode d'estalvi d'energia."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">"Emmagatzematge al núvol ple. %1$d elements no s'han carregat."</item>
+        <item quantity="one">Emmagatzematge al núvol ple. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">"Bateria inferior a %1$s. %2$d elements no s'han carregat."</item>
+        <item quantity="one">Bateria inferior a %1$s. %2$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">"Bateria inferior a %1$s. %2$d elements no s'han carregat. Carregueu el telèfon."</item>
+        <item quantity="one">Bateria inferior a %1$s. %2$d element no carregat. Carregueu el telèfon.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Bateria inferior a %1$s. %2$d elements no carregats. Carregueu el dispositiu.</item>
+        <item quantity="one">Bateria inferior a %1$s. %2$d element no carregat. Carregueu el dispositiu.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">"Bateria inferior a %1$s. %2$d elements no s'han carregat."</item>
+        <item quantity="one">Bateria inferior a %1$s. %2$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">"Mode d'estalvi d'energia activat. %1$d elements no s'han carregat."</item>
+        <item quantity="one">"Mode d'estalvi d'energia activat. %1$d element no carregat."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">"Mode d'estalvi d'energia activat. %1$d element no carregat."</item>
+        <item quantity="one">"Mode d'estalvi d'energia activat. %1$d element no carregat."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">"Emmagatzematge al núvol ple. %1$d elements no s'han carregat."</item>
+        <item quantity="one">Emmagatzematge al núvol ple. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">"%1$d vídeos no sincronitzats. L'emmagatzematge al núvol està ple."</item>
+        <item quantity="one">"%1$d vídeo no sincronitzat. L'emmagatzematge al núvol està ple."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d vídeos no sincronitzats. La sincronització amb el núvol està en pausa quan el nivell de bateria és inferior al %2$s.</item>
+        <item quantity="one">%1$d vídeo no sincronitzat. La sincronització amb el núvol està en pausa quan el nivell de bateria és inferior al %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">"%1$d vídeos no sincronitzats. La sincronització amb el núvol està en pausa en el mode d'estalvi d'energia."</item>
+        <item quantity="one">"%1$d vídeo no sincronitzat. La sincronització amb el núvol està en pausa en el mode d'estalvi d'energia."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d foto no sincronitzada.</item>
+        <item quantity="one">%1$d fotos no sincronitzades.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">"No hi ha connexió de xarxa. %1$d elements no s'han carregat. %2$s."</item>
+        <item quantity="one">No hi ha connexió de xarxa. %1$d element no carregat.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">"No hi ha connexió de xarxa. %1$d elements no s'han carregat. %2$s o %3$s."</item>
+        <item quantity="one">No hi ha connexió de xarxa. %1$d element no carregat. %2$s o %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">No hi ha connexió de xarxa. %1$d elements no carregats.</item>
+        <item quantity="one">No hi ha connexió de xarxa. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">No hi ha connexió de xarxa. %1$d elements no carregats.</item>
+        <item quantity="one">No hi ha connexió de xarxa. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d vídeos no sincronitzats</item>
+        <item quantity="one">%1$d vídeo no sincronitzat</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Error de la xarxa. %1$d elements no carregats.</item>
+        <item quantity="one">Error de xarxa. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Error de la xarxa. %1$d elements no carregats.</item>
+        <item quantity="one">Error de xarxa. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Error del servei. %1$d elements no carregats.</item>
+        <item quantity="one">Error del servei. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Error del servei. %1$d elements no carregats.</item>
+        <item quantity="one">Error del servei. %1$d element no carregat.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Error en afegir els elements %d</item>
+        <item quantity="one">"Error en afegir l'element %d"</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">"Error en configurar %d fotos com a privades perquè s'estan carregant."</item>
+        <item quantity="one">"Error en configurar %d foto com a privada perquè s'està carregant."</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d minuts</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d segons</item>
+        <item quantity="one">%d segon</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d dies</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d vídeos</item>
+        <item quantity="one">%1$d vídeo</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">"%d fotos s'estan carregant"</item>
+        <item quantity="one">"%d foto s'està carregant"</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Han de ser superiors a %1$d mm</item>
+        <item quantity="one">Ha de ser superior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Han de ser superiors a %1$d px</item>
+        <item quantity="one">Ha de ser superior a %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Han de ser inferiors a %1$d mm</item>
+        <item quantity="one">Ha de ser inferior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Han de ser inferiors a %1$d px</item>
+        <item quantity="one">Ha de ser inferior a %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Han de ser superiors a %1$d KB</item>
+        <item quantity="one">Ha de ser superior a %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Han de ser inferiors a %1$d KB</item>
+        <item quantity="one">Ha de ser inferior a %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Han de ser superiors a %1$d mm</item>
+        <item quantity="one">Ha de ser superior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Han de ser superiors a %1$d px</item>
+        <item quantity="one">Ha de ser superior a %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Han de ser inferiors a %1$d mm</item>
+        <item quantity="one">Ha de ser inferior a %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Han de ser inferiors a %1$d px</item>
+        <item quantity="one">Ha de ser inferior a %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Conserva només les %d fotos seleccionades</item>
+        <item quantity="one">Conserva només la %d foto seleccionada</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Suprimeix %d elements</item>
+        <item quantity="one">Suprimeix %d element</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d seleccionat</item>
+        <item quantity="one">%1$d elem. seleccionats</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d àlbums seleccionats</item>
+        <item quantity="one">%1$d àlbum seleccionat</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d seleccionat</item>
+        <item quantity="one">%1$d seleccionat</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d adhesius seleccionats</item>
+        <item quantity="one">%1$d adhesiu seleccionat</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d Víd. seleccionats</item>
+        <item quantity="one">%1$d vídeo seleccionat</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">"Error en suprimir %d fotos perquè s'estan carregant."</item>
+        <item quantity="one">"Error en suprimir %d foto perquè s'està carregant."</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">"No s'han pogut suprimir els elements %1$d. Torneu-ho a provar"</item>
+        <item quantity="one">"No s'ha pogut suprimir l'element %1$d. Torneu-ho a provar"</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d noves notificacions</item>
+        <item quantity="one">%d nova notificació</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

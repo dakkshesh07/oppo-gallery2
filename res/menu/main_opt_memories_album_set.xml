@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/memories_album_fragment_edit" android:visible="false" android:title="@string/main_edit_album" app:showAsAction="collapseActionView" />
+    <item android:id="@id/action_create_memories" android:visible="false" android:title="@string/base_create_memories_album" app:showAsAction="collapseActionView" />
+</menu>

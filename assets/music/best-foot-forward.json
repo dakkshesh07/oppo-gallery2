@@ -1,0 +1,379 @@
+{
+    "music name": "Best Foot Forward",
+    "version": 1,
+    "music duration": 90000,
+    "clip max duration": 5000,
+    "points": [		
+        {
+            "cutPoint": 3080,
+            "transName":
+            [
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 4560,
+            "transName":
+            [
+                {"id": ""}   
+            ],
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 5920,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},	
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"},					
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 8720,
+            "transName":
+            [
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 10280,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "Fade"}				
+            ],
+            "transLen": 800
+        },			
+        {
+            "cutPoint": 11720,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"},					
+                {"id": "Lens Flare"},					
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },				
+        {
+            "cutPoint": 14560,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 17440,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 20280,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},				
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 23120,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"},					
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 25960,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "7F983A09-A1B4-4018-BAA3-E85E45EC14FA"},					
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 27440,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},	
+                {"id": "7F983A09-A1B4-4018-BAA3-E85E45EC14FA"},				
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 28680,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 31720,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},	
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"},				
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 33160,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "Lens Flare"},				
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},				
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 34560,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 37360,
+            "transName":
+            [
+                {"id": ""}			
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 38840,
+            "transName":
+            [
+                {"id": ""},
+                {"id": "Lens Flare"},				
+                {"id": "Fade"}					
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 40320,
+            "transName":
+            [
+                {"id": ""}			
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 43160,
+            "transName":
+            [
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"},				
+                {"id": "Fade"}				
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 46000,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "Lens Flare"},				
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"}				
+            ],
+            "transLen": 1000
+        },						
+        {
+            "cutPoint": 48880,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 51720,
+            "transName":
+            [
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 54520,
+            "transName":
+            [
+                {"id": ""}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 57280,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"}				
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 60240,
+            "transName":
+            [
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 61680,
+            "transName":
+            [
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 62960,
+            "transName":
+            [
+                {"id": "Fade"},			
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 65960,
+            "transName":
+            [
+                {"id": "Fade"},
+                {"id": "F5A6BCC4-37B4-4E02-AC8C-2746E159D667"},				
+                {"id": ""}
+            ],
+            "transLen": 800
+        },			
+        {
+            "cutPoint": 67280,
+            "transName":
+            [		
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },			
+        {
+            "cutPoint": 68680,
+            "transName":
+            [		
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},
+                {"id": "Fade"},				
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 71720,
+            "transName":
+            [		
+                {"id": ""},
+                {"id": "Fade"},
+                {"id": "7F983A09-A1B4-4018-BAA3-E85E45EC14FA"}				
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 74600,
+            "transName":
+            [		
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 77400,
+            "transName":
+            [
+                {"id": "Fade"},			
+                {"id": ""}
+            ],
+            "transLen": 800
+        },	
+        {
+            "cutPoint": 78840,
+            "transName":
+            [
+                {"id": ""},	
+                {"id": "7F983A09-A1B4-4018-BAA3-E85E45EC14FA"},				
+                {"id": "Fade"}
+            ],
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 81680,
+            "transName":
+            [		
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 83080,
+            "transName":
+            [		
+                {"id": "Fade"},
+                {"id": ""}				
+            ],
+            "transLen": 600
+        },			
+        {
+            "cutPoint": 84560,
+            "transName":
+            [		
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },		
+        {
+            "cutPoint": 86000,
+            "transName":
+            [		
+                {"id": "Fade"},
+                {"id": "C014E9FB-0C0C-4AD9-946C-4AB0179348E7"},				
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 87800,
+            "transName":
+            [		
+                {"id": "Fade"},
+                {"id": ""}
+            ],
+            "transLen": 1000
+        }			
+    ]
+}

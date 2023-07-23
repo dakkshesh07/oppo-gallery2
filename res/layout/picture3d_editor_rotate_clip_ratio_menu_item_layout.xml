@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.template.editor.widget.AlphaTextView android:textSize="@dimen/TD05" android:textColor="@color/picture3d_editor_menu_selectable_text_color" android:ellipsize="end" android:gravity="center" android:id="@id/icon_text" android:layout_width="wrap_content" android:layout_height="@dimen/picture3d_rotate_clip_ratio_menu_item_height" android:lines="1" android:textAlignment="center" android:paddingHorizontal="@dimen/picture3d_rotate_clip_ratio_menu_item_padding_horizontal" app:textSizeLevel="G2"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

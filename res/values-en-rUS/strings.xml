@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caesura_sign">", "</string>
+    <string name="color_runtime_read_external_storage">read SD card</string>
+    <string name="color_runtime_read_phone_state">obtain phone IMEI</string>
+    <string name="color_runtime_sslverify_cancel">Cancel</string>
+    <string name="color_runtime_sslverify_continue">Continue</string>
+    <string name="color_runtime_sslverify_msg">There are problems with the security certificate for this site.</string>
+    <string name="color_runtime_sslverify_title">Security warning</string>
+    <string name="color_runtime_warning_dialog_cancel">Exit</string>
+    <string name="color_runtime_warning_dialog_disc">\"%1$s\" requires the following permissions during use: %2$s.</string>
+    <string name="color_runtime_warning_dialog_ok">Settings</string>
+    <string name="color_runtime_warning_dialog_title">\"%1$s\"</string>
+    <string name="fb_start_loading">Loading...</string>
+    <string name="feedback_app_name">Help and Feedback</string>
+    <string name="mobile_and_wlan_network_not_connect_str">Turn on \"Mobile Data\" or use Wi-Fi to access</string>
+    <string name="no_network_connect_str">No network connection</string>
+    <string name="user_network_remind_info">Help &amp; Feedback would like to connect to network during use. Do you allow?</string>
+</resources>

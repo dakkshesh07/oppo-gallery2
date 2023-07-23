@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.picture_lib.photoeditor.app.aifilter.ui.AiFilterHorizontalListView android:layout_gravity="bottom" android:id="@id/filter_horizontal_list" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/picture3d_editor_ai_filter_height" android:layout_marginBottom="@dimen/picture3d_preview_menu_item_margin_bottom" android:layout_alignParentBottom="true" android:paddingStart="@dimen/picture3d_preview_menu_padding_start" android:paddingEnd="@dimen/picture3d_preview_menu_padding_start" app:picture3d_itemSpacing="@dimen/picture3d_preview_menu_item_spacing"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/videoeditor_music_play_pause_button_size" android:width="@dimen/videoeditor_music_play_pause_button_size" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#66000000" android:pathData="M0 18C0 8.06 8.06 0 18 0s18 8.06 18 18s-8.06 18-18 18S0 27.94 0 18z" />
+    <path android:fillColor="#ffffffff" android:pathData="M13.08 12.62C13 12.8 13 13.03 13 13.5v9c0 0.47 0 0.7 0.08 0.88c0.1 0.25 0.3 0.44 0.54 0.54C13.8 24 14.03 24 14.5 24c0.47 0 0.7 0 0.88-0.08c0.25-0.1 0.44-0.3 0.54-0.54C16 23.2 16 22.97 16 22.5v-9c0-0.47 0-0.7-0.08-0.88c-0.1-0.25-0.3-0.44-0.54-0.54C15.2 12 14.97 12 14.5 12c-0.47 0-0.7 0-0.88 0.08c-0.25 0.1-0.44 0.3-0.54 0.54zm7 0C20 12.8 20 13.03 20 13.5v9c0 0.47 0 0.7 0.08 0.88c0.1 0.25 0.3 0.44 0.54 0.54C20.8 24 21.03 24 21.5 24c0.47 0 0.7 0 0.88-0.08c0.25-0.1 0.44-0.3 0.54-0.54C23 23.2 23 22.97 23 22.5v-9c0-0.47 0-0.7-0.08-0.88c-0.1-0.25-0.3-0.44-0.54-0.54C22.2 12 21.97 12 21.5 12c-0.47 0-0.7 0-0.88 0.08c-0.25 0.1-0.44 0.3-0.54 0.54z" android:fillType="evenOdd" />
+</vector>

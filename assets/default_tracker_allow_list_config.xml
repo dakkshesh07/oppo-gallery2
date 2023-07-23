@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="heif_has_support_app_list">
+        <!-- Android/厂商 创建的官方目录 -->
+        <item dir="Alarms/" />
+        <item dir="Documents/" />
+        <item dir="Movies/" />
+        <item dir="Download/" />
+        <item dir="Pictures/" />
+        <item dir="Music/" />
+        <item dir="Notifications/" />
+        <item dir="Ringtones/" />
+        <item dir="Podcasts/" />
+        <item dir="Audiobooks/" />
+        <item dir="DCIM/" />
+        <item dir="DCIM/Pictures/" />
+
+
+        <!-- 内部应用创建的目录 -->
+        <!-- 相机拍摄 -->
+        <item dir="DCIM/Camera/" />
+        <!-- 截屏 -->
+        <item dir="DCIM/Screenshots/" />
+        <!-- 相册拼图 -->
+        <item dir="DCIM/Collage/" />
+        <!-- 相册自建图集 -->
+        <item dir="DCIM/MyAlbums/" />
+
+
+        <!-- 三方 app 官方创建目录 -->
+        <!-- 微信 -->
+        <item dir="Pictures/WeChat/" />
+        <item dir="Pictures/WeiXin/" />
+        <item dir="Tencent/MicroMsg/WeiXin/" />
+        <!-- 微博 -->
+        <item dir="sina/weibo/weibo/" />
+        <item dir="sina/weibo/storage/photoalbum_save/weibo/" />
+        <!-- WhatsApp -->
+        <item dir="WhatsApp/Media/WhatsApp Audio/" />
+        <item dir="WhatsApp/Media/WhatsApp Documents/" />
+        <item dir="WhatsApp/Media/WhatsApp Images/" />
+        <item dir="WhatsApp/Media/WhatsApp Video/" />
+        <item dir="WhatsApp/Media/WhatsApp Voice Notes/" />
+        <!-- QQ截屏 -->
+        <item dir="QQ_Screenshot/" />
+        <!-- QQ收藏 -->
+        <item dir="Tencent/QQ_Collection/" />
+        <!-- QQ保存的图片 -->
+        <item dir="Tencent/QQ_Images/" />
+        <!-- QQ文件传输保存的图片 -->
+        <item dir="Tencent/QQfile_recv/" />
+        <!-- QQ国际版保存的图片 -->
+        <item dir="Tencent/QQi_Images/" />
+        <!-- Facebook -->
+        <item dir="DCIM/Facebook/" />
+        <item dir="Pictures/Facebook/" />
+        <!-- Instagram -->
+        <item dir="Pictures/Instagram/" />
+        <item dir="Movies/Instagram/" />
+        <!-- Telegram -->
+        <item dir="Pictures/Telegram/" />
+        <!-- 陌陌 -->
+        <item dir="immomo/" />
+        <!-- Snapseed(修图软件) -->
+        <item dir="Snapseed/" />
+    </string-array>
+    <version>2022021600</version>
+</resources>

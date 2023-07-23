@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_0" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_1" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_2" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_3" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_4" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_5" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_6" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_7" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_8" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_9" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_10" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_11" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_12" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_13" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_14" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_15" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_16" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_17" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_18" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_19" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_gorgeous_20" />
+</animation-list>

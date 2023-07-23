@@ -1,0 +1,463 @@
+gato	-1	-1	-1	1	0	-1
+gallina	-1	-1	-1	1	0	-1
+gallo	-1	-1	-1	1	0	-1
+vaca	-1	-1	-1	1,1	0	-1
+borrego	-1	-1	-1	1	0	-1
+ratón	-1	-1	-1	1	0	-1
+toro	-1	-1	-1	1	0	-1
+conejo	-1	-1	-1	1	0	-1
+liebre	-1	-1	-1	1	0	-1
+animal de compañía	-1	-1	-1	2	0	-1
+cachorrito	-1	-1	-1	2	0	-1
+perrito	-1	-1	-1	3	0	-1
+canino	-1	-1	-1	3	0	-1
+cachorro	-1	-1	-1	3	0	-1
+perro guía	-1	-1	-1	3	0	-1
+perro de compañía	-1	-1	-1	3	0	-1
+perro faldero	-1	-1	-1	3	0	-1
+perro guardián	-1	-1	-1	3	0	-1
+ladrido	-1	-1	-1	3	0	-1
+gruñido	-1	-1	-1	3	0	-1
+miau	-1	-1	-1	4	0	-1
+gatito	-1	-1	-1	4	0	-1
+minino	-1	-1	-1	4	0	-1
+gato mascota	-1	-1	-1	4	0	-1
+felino	-1	-1	-1	4	0	-1
+Vegetación	-1	-1	-1	5	0	-1
+verdor	-1	-1	-1	5,10	0	-1
+bosque	-1	-1	-1	5	0	-1
+matorrales	-1	-1	-1	5	0	-1
+boscoso	-1	-1	-1	5	0	-1
+arbolado	-1	-1	-1	5	0	-1
+arbustos	-1	-1	-1	5	0	-1
+enramada	-1	-1	-1	5,62	0	-1
+plantas	-1	-1	-1	5	0	-1
+selvático	-1	-1	-1	5	0	-1
+fronda	-1	-1	-1	5	0	-1
+flores	-1	-1	-1	6	0	-1
+ramo de flores	-1	-1	-1	6	0	-1
+arreglo floral	-1	-1	-1	6	0	-1
+flores recién cortadas	-1	-1	-1	6	0	-1
+violetero	-1	-1	-1	6	0	-1
+pétalos	-1	-1	-1	6	0	-1
+florido	-1	-1	-1	6	0	-1
+tulipanes	-1	-1	-1	6	0	-1
+violetas	-1	-1	-1	6	0	-1
+margaritas	-1	-1	-1	6	0	-1
+orquídeas	-1	-1	-1	6	0	-1
+césped	-1	-1	-1	7	0	-1
+jardín	-1	-1	-1	7	0	-1
+pasto verde	-1	-1	-1	7	0	-1
+paja	-1	-1	-1	7	0	-1
+pajar	-1	-1	-1	7	0	-1
+setos	-1	-1	-1	7	0	-1
+prado	-1	-1	-1	7	0	-1
+pradera	-1	-1	-1	7	0	-1
+hojas de césped	-1	-1	-1	7	0	-1
+zacate	-1	-1	-1	7	0	-1
+Bosque	-1	-1	-1	8	0	-1
+árboles	-1	-1	-1	8	0	-1
+madera	-1	-1	-1	8	0	-1
+troncos	-1	-1	-1	8	0	-1
+tocón	-1	-1	-1	8	0	-1
+árboles de gran altura	-1	-1	-1	8	0	-1
+madera fina	-1	-1	-1	8	0	-1
+madera de cedro	-1	-1	-1	8	0	-1
+aserradero	-1	-1	-1	8	0	-1
+Escena	-1	-1	-1	9	0	-1
+cuadro	-1	-1	-1	9	0	-1
+vistas	-1	-1	-1	9	0	-1
+vista panorámica	-1	-1	-1	9	0	-1
+horizonte	-1	-1	-1	9	0	-1
+puesta de sol	-1	-1	-1	9	0	-1
+cadena montañosa	-1	-1	-1	10	0	-1
+cordillera	-1	-1	-1	10	0	-1
+cerro	-1	-1	-1	10,10	0	-1
+cima	-1	-1	-1	10	0	-1
+alpes	-1	-1	-1	10	0	-1
+montañoso	-1	-1	-1	10	0	-1
+paisaje	-1	-1	-1	10	0	-1
+ladera	-1	-1	-1	10	0	-1
+desfiladero	-1	-1	-1	10	0	-1
+colina	-1	-1	-1	10	0	-1
+pico de la montaña	-1	-1	-1	10	0	-1
+alta montaña	-1	-1	-1	10	0	-1
+punta del cerro	-1	-1	-1	10	0	-1
+despeñadero	-1	-1	-1	10	0	-1
+pared de la montaña	-1	-1	-1	10	0	-1
+al pie de la montaña	-1	-1	-1	10	0	-1
+meseta	-1	-1	-1	10	0	-1
+marítimo	-1	-1	-1	11	0	-1
+vasto océano	-1	-1	-1	11	0	-1
+agua salada	-1	-1	-1	11	0	-1
+agua del mar	-1	-1	-1	11	0	-1
+brisa marina	-1	-1	-1	11	0	-1
+vista a la playa	-1	-1	-1	11	0	-1
+vista al mar	-1	-1	-1	11	0	-1
+territorio océanico	-1	-1	-1	11	0	-1
+mar adentro	-1	-1	-1	11	0	-1
+profundidad del mar	-1	-1	-1	11	0	-1
+Estructuras	-1	-1	-1	12	0	-1
+edificios	-1	-1	-1	12	0	-1
+naves	-1	-1	-1	12	0	-1
+construcciones	-1	-1	-1	12	0	-1
+edificaciones	-1	-1	-1	12	0	-1
+condominio	-1	-1	-1	12	0	-1
+rascacielos	-1	-1	-1	12	0	-1
+Cenaduría	-1	-1	-1	13	0	-1
+restaurante	-1	-1	-1	13	0	-1
+cafetería	-1	-1	-1	13	0	-1
+comedor	-1	-1	-1	13	0	-1
+cocina	-1	-1	-1	13	0	-1
+desayunador	-1	-1	-1	13	0	-1
+área de comidas	-1	-1	-1	13	0	-1
+buffet	-1	-1	-1	13,46	0	-1
+Club nocturno	-1	-1	-1	14	0	-1
+cabaret	-1	-1	-1	14	0	-1
+centro nocturno	-1	-1	-1	14	0	-1
+cantina	-1	-1	-1	14	0	-1
+lounge bar	-1	-1	-1	14	0	-1
+área de bebidas	-1	-1	-1	14	0	-1
+taberna	-1	-1	-1	14	0	-1
+Deportes	-1	-1	-1	15	0	-1
+estadio	-1	-1	-1	15	0	-1
+canchas	-1	-1	-1	15	0	-1
+pista	-1	-1	-1	15	0	-1
+ciudad deportiva	-1	-1	-1	15	0	-1
+alberca olímpica	-1	-1	-1	15	0	-1
+campo de futbol	-1	-1	-1	15	0	-1
+campo de tenis	-1	-1	-1	15	0	-1
+centro de fisiculturismo	-1	-1	-1	16	0	-1
+centro de bienestar físico	-1	-1	-1	16	0	-1
+gym	-1	-1	-1	16	0	-1
+centro de reacondicionamiento físico	-1	-1	-1	16	0	-1
+exhibición	-1	-1	-1	17	0	-1
+muestra	-1	-1	-1	17	0	-1
+galería	-1	-1	-1	17	0	-1
+exposición	-1	-1	-1	17	0	-1
+sala de exposiciones	-1	-1	-1	17	0	-1
+colección permanente	-1	-1	-1	17	0	-1
+visita guiada	-1	-1	-1	17	0	-1
+colección museística	-1	-1	-1	17	0	-1
+tiendas	-1	-1	-1	18	0	-1
+almacenes	-1	-1	-1	18	0	-1
+mercados	-1	-1	-1	18	0	-1
+de compras	-1	-1	-1	18	0	-1
+tienda departamental	-1	-1	-1	18	0	-1
+plaza comercial	-1	-1	-1	18	0	-1
+boutique	-1	-1	-1	18	0	-1
+tianguis	-1	-1	-1	18	0	-1
+terminal	-1	-1	-1	19	0	-1
+terminal aérea	-1	-1	-1	19	0	-1
+puerto aéreo	-1	-1	-1	19	0	-1
+vestimenta	-1	-1	-1	20	0	-1
+moda	-1	-1	-1	20	0	-1
+disfraces	-1	-1	-1	20	0	-1
+prendas de vestir	-1	-1	-1	20	0	-1
+atuendo	-1	-1	-1	20	0	-1
+Bolsa de compras	-1	-1	-1	21	0	-1
+bolso	-1	-1	-1	21	0	-1
+cartera	-1	-1	-1	21	0	-1
+billetera	-1	-1	-1	21	0	-1
+bolsillos	-1	-1	-1	21	0	-1
+maletín	-1	-1	-1	21	0	-1
+productos para el cuidado de la piel	-1	-1	-1	22	0	-1
+bronceadores	-1	-1	-1	22	0	-1
+maquillaje	-1	-1	-1	22	0	-1
+sombras	-1	-1	-1	22	0	-1
+brochas	-1	-1	-1	22	0	-1
+lápiz labial	-1	-1	-1	22	0	-1
+Lentes	-1	-1	-1	23	0	-1
+lentes para lectura	-1	-1	-1	23	0	-1
+pupilentes	-1	-1	-1	23	0	-1
+lentes de contacto	-1	-1	-1	23	0	-1
+gafas	-1	-1	-1	23	0	-1
+anteojos para sol	-1	-1	-1	23	0	-1
+anteojos polarizados	-1	-1	-1	23	0	-1
+anteojos para vista cansada	-1	-1	-1	23	0	-1
+anteojos con filtro para computadora	-1	-1	-1	23	0	-1
+Accesorios	-1	-1	-1	24	0	-1
+adornos	-1	-1	-1	24	0	-1
+joyería de oro y plata	-1	-1	-1	24	0	-1
+bisutería	-1	-1	-1	24	0	-1
+joyería de fantasía	-1	-1	-1	24	0	-1
+joyería fina	-1	-1	-1	24	0	-1
+brazaletes	-1	-1	-1	24	0	-1
+dijes	-1	-1	-1	24	0	-1
+pulseras	-1	-1	-1	24	0	-1
+anillos	-1	-1	-1	24	0	-1
+Vehículo	-1	-1	-1	26	0	-1
+carro	-1	-1	-1	26	0	-1
+auto	-1	-1	-1	26	0	-1
+camioneta	-1	-1	-1	26	0	-1
+vagoneta	-1	-1	-1	26	0	-1
+camión	-1	-1	-1	26	0	-1
+Barco	-1	-1	-1	27	0	-1
+bote	-1	-1	-1	27	0	-1
+transbordador	-1	-1	-1	27	0	-1
+embarcación	-1	-1	-1	27	0	-1
+panga	-1	-1	-1	27	0	-1
+lancha	-1	-1	-1	27	0	-1
+Abarrotes	-1	-1	-1	28	0	-1
+víveres	-1	-1	-1	28	0	-1
+comida	-1	-1	-1	28	0	-1
+gourmet	-1	-1	-1	28	0	-1
+delicioso	-1	-1	-1	28	0	-1
+sabroso	-1	-1	-1	28	0	-1
+sabrosa comida	-1	-1	-1	28	0	-1
+excelentes platillos	-1	-1	-1	28	0	-1
+exquisita cocina	-1	-1	-1	28	0	-1
+cenas	-1	-1	-1	28	0	-1
+almuerzos	-1	-1	-1	28	0	-1
+delicia	-1	-1	-1	28	0	-1
+opíparo	-1	-1	-1	28	0	-1
+desayuno	-1	-1	-1	28	0	-1
+comida occidental	-1	-1	-1	29	0	-1
+cocina europea	-1	-1	-1	29	0	-1
+comida mediterránea	-1	-1	-1	29	0	-1
+cocina francesa	-1	-1	-1	29	0	-1
+cocina italiana	-1	-1	-1	29	0	-1
+platillos alemanes	-1	-1	-1	29	0	-1
+cocina española	-1	-1	-1	29	0	-1
+productos del mar	-1	-1	-1	30	0	-1
+pescados	-1	-1	-1	30	0	-1
+crustáceos	-1	-1	-1	30	0	-1
+pulpo	-1	-1	-1	30	0	-1
+camarón	-1	-1	-1	30	0	-1
+anchoas	-1	-1	-1	30	0	-1
+caracoles	-1	-1	-1	30	0	-1
+cangrejos	-1	-1	-1	30	0	-1
+fruta fresca	-1	-1	-1	31	0	-1
+fruta de temporada	-1	-1	-1	31	0	-1
+fruta picada	-1	-1	-1	31	0	-1
+frutos secos	-1	-1	-1	31	0	-1
+bebidas espirituosas	-1	-1	-1	32	0	-1
+buen vino	-1	-1	-1	32	0	-1
+licores fuertes	-1	-1	-1	32	0	-1
+destilados	-1	-1	-1	32	0	-1
+excelente vino	-1	-1	-1	32	0	-1
+vino de la casa	-1	-1	-1	32	0	-1
+cosecha	-1	-1	-1	32	0	-1
+reserva	-1	-1	-1	32	0	-1
+cava	-1	-1	-1	32	0	-1
+vino blanco	-1	-1	-1	32	0	-1
+espumoso	-1	-1	-1	32	0	-1
+mezcal	-1	-1	-1	32	0	-1
+tequila	-1	-1	-1	32	0	-1
+champaña	-1	-1	-1	32	0	-1
+tinto seco	-1	-1	-1	33	0	-1
+vino tinto seco	-1	-1	-1	33	0	-1
+borgoña	-1	-1	-1	33	0	-1
+tempranillo	-1	-1	-1	33	0	-1
+jerez	-1	-1	-1	33	0	-1
+vino de consagrar	-1	-1	-1	33	0	-1
+pianoforte	-1	-1	-1	35	0	-1
+clavecín	-1	-1	-1	35	0	-1
+órgano	-1	-1	-1	35	0	-1
+sintetizador	-1	-1	-1	35	0	-1
+Dispositivos electrónicos	-1	-1	-1	36	0	-1
+aparatos	-1	-1	-1	36	0	-1
+Aparatos digitales	-1	-1	-1	37,39	0	-1
+productos electrónicos	-1	-1	-1	37,39	0	-1
+equipo electrónico	-1	-1	-1	37,39	0	-1
+Teléfono móvil	-1	-1	-1	38	0	-1
+teléfono celular	-1	-1	-1	38	0	-1
+teléfono portátil	-1	-1	-1	38	0	-1
+Cámara digital	-1	-1	-1	40	0	-1
+cámara análoga	-1	-1	-1	40	0	-1
+cámara de video	-1	-1	-1	40	0	-1
+videocámara	-1	-1	-1	40	0	-1
+cámara profesional	-1	-1	-1	40	0	-1
+Palabra	-1	-1	-1	41	0	-1
+oración	-1	-1	-1	41	0	-1
+palabras clave	-1	-1	-1	41	0	-1
+puntuación	-1	-1	-1	41	0	-1
+escribir	-1	-1	-1	41	0	-1
+redactar	-1	-1	-1	41	0	-1
+ortografía	-1	-1	-1	41	0	-1
+corrector	-1	-1	-1	41	0	-1
+PPT	-1	-1	-1	42	0	-1
+documento de PowerPoint	-1	-1	-1	42	0	-1
+presentación	-1	-1	-1	42	0	-1
+diapositivas	-1	-1	-1	42	0	-1
+presentación con diapositivas	-1	-1	-1	42	0	-1
+foto de pantalla	-1	-1	-1	43	0	-1
+Fiesta	-1	-1	-1	44	0	-1
+reunión	-1	-1	-1	44	0	-1
+celebración	-1	-1	-1	44	0	-1
+evento social	-1	-1	-1	44	0	-1
+Deporte	-1	-1	-1	45	0	-1
+ejercicio	-1	-1	-1	45	0	-1
+torneo	-1	-1	-1	45	0	-1
+competencia	-1	-1	-1	45	0	-1
+juego	-1	-1	-1	45	0	-1
+justa	-1	-1	-1	45	0	-1
+ganar	-1	-1	-1	45	0	-1
+perder	-1	-1	-1	45	0	-1
+equipo	-1	-1	-1	45	0	-1
+Comida	-1	-1	-1	46	0	-1
+banquete	-1	-1	-1	46	0	-1
+invitado	-1	-1	-1	46	0	-1
+personas	-1	-1	-1	46	0	-1
+refrigerio	-1	-1	-1	46	0	-1
+colación	-1	-1	-1	46	0	-1
+festín	-1	-1	-1	46	0	-1
+comilona	-1	-1	-1	46	0	-1
+banquete de bodas	-1	-1	-1	47	0	-1
+brindis de bodas	-1	-1	-1	47	0	-1
+celebración matrimonial	-1	-1	-1	47	0	-1
+fiesta de bodas	-1	-1	-1	47	0	-1
+pastel de bodas	-1	-1	-1	47	0	-1
+recepción	-1	-1	-1	47	0	-1
+Actuación	-1	-1	-1	48	0	-1
+representación	-1	-1	-1	48	0	-1
+papel	-1	-1	-1	48	0	-1
+teatro	-1	-1	-1	48	0	-1
+función	-1	-1	-1	48	0	-1
+artes interpretartivas	-1	-1	-1	48	0	-1
+Pajarito	-1	-1	-1	49	0	-1
+aves	-1	-1	-1	49	0	-1
+aves de corral	-1	-1	-1	49	0	-1
+gallinas	-1	-1	-1	49	0	-1
+pescado	-1	-1	-1	50	0	-1
+hueva de pescado	-1	-1	-1	50	0	-1
+cardumen	-1	-1	-1	50	0	-1
+pescado fresco	-1	-1	-1	50	0	-1
+Rosas	-1	-1	-1	51	0	-1
+rosas rojas	-1	-1	-1	51	0	-1
+rosas rosas	-1	-1	-1	51	0	-1
+rosal	-1	-1	-1	51	0	-1
+docena de rosas	-1	-1	-1	51	0	-1
+pólvora	-1	-1	-1	53	0	-1
+fuegos de artificio	-1	-1	-1	53	0	-1
+cuetes	-1	-1	-1	53	0	-1
+Anochecer	-1	-1	-1	54	0	-1
+noche oscura	-1	-1	-1	54	0	-1
+cae la noche	-1	-1	-1	54	0	-1
+negrura	-1	-1	-1	54	0	-1
+Grandes cascadas	-1	-1	-1	55	0	-1
+caída de agua	-1	-1	-1	55	0	-1
+caudal	-1	-1	-1	55	0	-1
+caudaloso	-1	-1	-1	55	0	-1
+cataratas	-1	-1	-1	55	0	-1
+cielo azul	-1	-1	-1	56	0	-1
+celeste	-1	-1	-1	56	0	-1
+cielos despejados	-1	-1	-1	56	0	-1
+cielos	-1	-1	-1	56	0	-1
+nubes	-1	-1	-1	56	0	-1
+Nieve	-1	-1	-1	57	0	-1
+copo de nieve	-1	-1	-1	57	0	-1
+nevada	-1	-1	-1	57	0	-1
+ventisca	-1	-1	-1	57	0	-1
+deshielo	-1	-1	-1	57	0	-1
+tundra	-1	-1	-1	57	0	-1
+salida del sol	-1	-1	-1	58	0	-1
+primeros rayos del sol	-1	-1	-1	58	0	-1
+alba	-1	-1	-1	58	0	-1
+aurora	-1	-1	-1	58	0	-1
+Catedral	-1	-1	-1	59	0	-1
+basílica	-1	-1	-1	59	0	-1
+santuario	-1	-1	-1	59	0	-1
+capilla	-1	-1	-1	59	0	-1
+sagrario	-1	-1	-1	59	0	-1
+monasterio	-1	-1	-1	60	0	-1
+convento	-1	-1	-1	60	0	-1
+adoratorio	-1	-1	-1	60	0	-1
+Torre	-1	-1	-1	61	0	-1
+pérgola	-1	-1	-1	62	0	-1
+tienda	-1	-1	-1	62	0	-1
+mirador	-1	-1	-1	62	0	-1
+palapa	-1	-1	-1	62	0	-1
+Corte real	-1	-1	-1	63	0	-1
+jardines	-1	-1	-1	63	0	-1
+castillo	-1	-1	-1	63	0	-1
+centro recreativo	-1	-1	-1	65	0	-1
+área vacacional	-1	-1	-1	65	0	-1
+juegos y atracciones	-1	-1	-1	65	0	-1
+atracciones infantiles	-1	-1	-1	65	0	-1
+Acuario	-1	-1	-1	66	0	-1
+mundo submarino	-1	-1	-1	66	0	-1
+nadar con delfines	-1	-1	-1	66	0	-1
+espectáculo con delfines	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+jungla	-1	-1	-1	67	0	-1
+aventura con animales salvajes	-1	-1	-1	67	0	-1
+traje nupcial	-1	-1	-1	69	0	-1
+traje de novia	-1	-1	-1	69	0	-1
+ferrocarril	-1	-1	-1	71	0	-1
+vías férreas	-1	-1	-1	71	0	-1
+Postres	-1	-1	-1	73	0	-1
+pastelillos	-1	-1	-1	73	0	-1
+brownies	-1	-1	-1	73	0	-1
+flan	-1	-1	-1	73	0	-1
+gelatina	-1	-1	-1	73	0	-1
+ate	-1	-1	-1	73	0	-1
+pastel	-1	-1	-1	73	0	-1
+tarta	-1	-1	-1	73	0	-1
+pay	-1	-1	-1	73	0	-1
+Documento de texto	-1	-1	-1	77	0	-1
+carpeta	-1	-1	-1	77	0	-1
+documento	-1	-1	-1	77	0	-1
+Ilustración	-1	-1	-1	79	0	-1
+imagen	-1	-1	-1	79	0	-1
+fotografía	-1	-1	-1	79	0	-1
+foto	-1	-1	-1	79	0	-1
+Cuento	-1	-1	-1	80	0	-1
+cómic	-1	-1	-1	80	0	-1
+caricaturas	-1	-1	-1	80	0	-1
+revista ilustrada	-1	-1	-1	80	0	-1
+bailable	-1	-1	-1	81	0	-1
+pasos	-1	-1	-1	81	0	-1
+técnica	-1	-1	-1	81	0	-1
+danza	-1	-1	-1	81	0	-1
+coreografía	-1	-1	-1	81	0	-1
+canto	-1	-1	-1	82	0	-1
+tesitura	-1	-1	-1	82	0	-1
+voz	-1	-1	-1	82	0	-1
+coros	-1	-1	-1	82	0	-1
+canción	-1	-1	-1	82	0	-1
+interpretación	-1	-1	-1	82	0	-1
+bien entonado	-1	-1	-1	82	0	-1
+bella voz	-1	-1	-1	82	0	-1
+cantante	-1	-1	-1	82	0	-1
+Fiesta de cumpleaños	-1	-1	-1	83	0	-1
+reunión de cumpleaños	-1	-1	-1	83	0	-1
+celebración de cumpleaños	-1	-1	-1	83	0	-1
+cumpleaños entre amigos	-1	-1	-1	83	0	-1
+Persona	-1	-1	-1	85	0	-1
+carácter	-1	-1	-1	85	0	-1
+personalidad	-1	-1	-1	85	0	-1
+rasgos	-1	-1	-1	85	0	-1
+forma de ser	-1	-1	-1	85	0	-1
+pequeños	-1	-1	-1	86	0	-1
+infantes	-1	-1	-1	86	0	-1
+bebés	-1	-1	-1	86	0	-1
+párvulos	-1	-1	-1	86	0	-1
+chicos	-1	-1	-1	86	0	-1
+sandalias	-1	-1	-1	87	0	-1
+zapatillas	-1	-1	-1	87	0	-1
+zapatos tenis	-1	-1	-1	87	0	-1
+zapatos industriales	-1	-1	-1	87	0	-1
+botas	-1	-1	-1	87	0	-1
+botines	-1	-1	-1	87	0	-1
+zapatos de vestir	-1	-1	-1	87	0	-1
+borceguí	-1	-1	-1	87	0	-1
+bostonianos	-1	-1	-1	87	0	-1
+zapatos de charol	-1	-1	-1	87	0	-1
+huaraches	-1	-1	-1	87	0	-1
+Gorra	-1	-1	-1	88	0	-1
+cachucha	-1	-1	-1	88	0	-1
+gorro	-1	-1	-1	88	0	-1
+capucha	-1	-1	-1	88	0	-1
+fedora	-1	-1	-1	88	0	-1
+tocado	-1	-1	-1	88	0	-1
+tarjeta de ahorro	-1	-1	-1	91	0	-1
+libreta de ahorro	-1	-1	-1	91	0	-1
+cuenta de crédito	-1	-1	-1	91	0	-1
+saldo	-1	-1	-1	91	0	-1
+factura	-1	-1	-1	92	0	-1
+ticket	-1	-1	-1	92	0	-1
+voucher	-1	-1	-1	92	0	-1
+nota	-1	-1	-1	92	0	-1
+nota de remisión	-1	-1	-1	92	0	-1
+comprobante	-1	-1	-1	92	0	-1

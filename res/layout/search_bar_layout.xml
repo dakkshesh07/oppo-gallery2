@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.searchpage.ui.GallerySearchLayout android:id="@id/search_header" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/model_search_hint" android:paddingStart="@dimen/search_bar_padding_start" android:paddingEnd="@dimen/search_bar_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

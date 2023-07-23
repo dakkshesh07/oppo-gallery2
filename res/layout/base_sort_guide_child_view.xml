@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_sort" android:layout_width="@dimen/base_sort_guide_sort_icon_width" android:layout_height="@dimen/base_sort_guide_sort_icon_height" />
+    <TextView android:textSize="@dimen/base_sort_guide_common_text_size_14sp" android:textColor="@color/base_sort_guide_order_selectable_text_color" android:gravity="center" android:id="@id/tv_sort" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_sort_guide_textview_margin_top" android:fontFamily="sans-serif-regular" />
+    <RadioButton android:id="@id/rb_sort" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_sort_guide_radio_button_margin_top" />
+</LinearLayout>

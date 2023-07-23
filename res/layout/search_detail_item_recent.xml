@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/grid_item" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.gallery.business_lib.ui.view.FilterRoundedImageView android:layout_gravity="center" android:id="@id/grid_item_img" android:layout_width="@dimen/search_detail_item_recent_image_width" android:layout_height="@dimen/search_detail_item_recent_image_width" android:src="@drawable/search_default_recommend_cover" />
+    <ImageView android:id="@id/overlay_favorite" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/grid_item_img" android:layout_alignEnd="@id/grid_item_img" />
+    <ImageView android:id="@id/overlay_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/grid_item_img" android:layout_alignStart="@id/grid_item_img" />
+    <com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/search_detail_item_recent_text_size" android:textColor="@color/search_detail_item_text_color" android:gravity="end" android:id="@id/overlay_duration" android:paddingBottom="@dimen/search_detail_item_recent_text_padding" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignBottom="@id/grid_item_img" android:paddingEnd="@dimen/search_detail_item_recent_text_padding" android:layout_alignEnd="@id/grid_item_img" style="@style/ItemTextNormalFontStyle" />
+</RelativeLayout>

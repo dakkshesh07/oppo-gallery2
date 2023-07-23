@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d foton läses in och kan inte läggas till.</item>
+        <item quantity="one">%d foto läses in och kan inte läggas till.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d bankkort</item>
+        <item quantity="one">%1$d bankkort</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d id:n</item>
+        <item quantity="one">%1$d id</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Radera %d objekt permanent</item>
+        <item quantity="one">Radera %d objekt permanent</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Radera %d objekt</item>
+        <item quantity="one">Radera %d objekt</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d foton</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Bilder hittade: %s. Du kan flytta dem till \"Kortfodral\" för enklare åtkomst.</item>
+        <item quantity="one">Bilder hittade: %s. Du kan nu flytta dem till \"Kortfodral\" för enklare åtkomst.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Bilder med %1$s flyttade till Kortfodral</item>
+        <item quantity="one">Bild med %1$s flyttad till Kortfodral</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d biljetter/kvitton</item>
+        <item quantity="one">%1$d biljett/kvitto</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">De valda objekten finns redan i albumet</item>
+        <item quantity="one">Det valda objektet finns redan i albumet</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">%d objekt</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d bilder läses in och kan inte flyttas</item>
+        <item quantity="one">%d bild läses in och kan inte flyttas</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d människor</item>
+        <item quantity="one">%1$d människor</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Bilder flyttade. Videor kan inte flyttas till det här albumet.</item>
+        <item quantity="one">Bild flyttad. Videor kan inte flyttas till det här albumet.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Återställ %d objekt</item>
+        <item quantity="one">Återställ %d objekt</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d foton</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videor</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d objekt valda</item>
+        <item quantity="one">%1$d objekt valt</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d album markerade</item>
+        <item quantity="one">%1$d album markerade</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d människor markerade</item>
+        <item quantity="one">%1$d människa markerad</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d vald</item>
+        <item quantity="one">%1$d vald</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d valda minnen</item>
+        <item quantity="one">%1$d valt minne</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d videor markerade</item>
+        <item quantity="one">%1$d video markerad</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d videor</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Batterinivån lägre än %1$s. %2$d objekt hämtades inte.</item>
+        <item quantity="one">Batterinivån lägre än %1$s. %2$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batterinivå lägre än %1$s. %2$d objekt inte hämtade. Ladda telefonen.</item>
+        <item quantity="one">Batterinivå lägre än %1$s. %2$d objekt inte hämtat. Ladda telefonen.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batterinivån är lägre än %1$s. %2$d objekt hämtades inte. Ladda din enhet.</item>
+        <item quantity="one">Batterinivån är lägre än %1$s. %2$d objekt hämtades inte. Ladda din enhet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Batterinivån lägre än %1$s. %2$d objekt hämtades inte.</item>
+        <item quantity="one">Batterinivån lägre än %1$s. %2$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Energisparläge på. %1$d objekt hämtades inte.</item>
+        <item quantity="one">Energisparläge på. %1$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Energisparläge på. %1$d objekt hämtades inte.</item>
+        <item quantity="one">Energisparläge på. %1$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt hämtades inte. %2$s.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt hämtades inte. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt hämtades inte. %2$s eller %3$s.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt hämtades inte. %2$s eller %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt hämtades inte.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt hämtades inte.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">För lite molnlagringsutrymme. %1$d objekt hämtades inte.</item>
+        <item quantity="one">För lite molnlagringsutrymme. %1$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Otillräckligt lagringsutrymme på enheten. %1$d objekt hämtades inte.</item>
+        <item quantity="one">Otillräckligt lagringsutrymme på enheten. %1$d objekt hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Nätverksfel. %1$d objekt inte hämtade.</item>
+        <item quantity="one">Nätverksfel. %1$d objekt inte hämtat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Nätverksfel. %1$d objekt inte hämtade.</item>
+        <item quantity="one">Nätverksfel. %1$d objekt inte hämtat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">För lite molnlagringsutrymme. %1$d originalbilder hämtades inte.</item>
+        <item quantity="one">För lite molnlagringsutrymme. %1$d originalbild hämtades inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d bilder ej synkade. Molnlagring är fullt.</item>
+        <item quantity="one">%1$d bild ej synkad. Molnlagring är fullt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d bilder ej synkade. Molnsynkning pausas när batteriet är mindre än %2$s.</item>
+        <item quantity="one">%1$d bild ej synkad. Molnsynkning pausas när batterinivån är lägre än %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d bilder ej synkade. Molnsynkning har pausats i energisparläge.</item>
+        <item quantity="one">%1$d bild ej synkad. Molnsynkning har pausats i energisparläge.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Molnlagring är fullt. %1$d objekt överfördes inte.</item>
+        <item quantity="one">Molnlagring är fullt. %1$d objekt överfördes inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Batterinivån lägre än %1$s. %2$d objekt överfördes inte.</item>
+        <item quantity="one">Batterinivån lägre än %1$s. %2$d objekt överfördes inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batterinivå lägre än %1$s. %2$d objekt inte överförda. Ladda telefonen.</item>
+        <item quantity="one">Batterinivå lägre än %1$s. %2$d objekt inte överfört. Ladda telefonen.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batterinivån är lägre än %1$s. %2$d objekt överfördes inte. Ladda din enhet.</item>
+        <item quantity="one">Batterinivån är lägre än %1$s. %2$d objekt överfördes inte. Ladda din enhet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Batterinivån lägre än %1$s. %2$d objekt överfördes inte.</item>
+        <item quantity="one">Batterinivån lägre än %1$s. %2$d objekt överfördes inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Energisparläge på. %1$d objekt överfördes inte.</item>
+        <item quantity="one">Energisparläge på. %1$d objekt överfördes inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Energisparläge på. %1$d objekt överfördes inte.</item>
+        <item quantity="one">Energisparläge på. %1$d objekt överfördes inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Molnlagring är fullt. %1$d objekt överfördes inte.</item>
+        <item quantity="one">Molnlagring är fullt. %1$d objekt överfördes inte.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d videor ej synkade. Molnlagring är fullt.</item>
+        <item quantity="one">%1$d video ej synkad. Molnlagring är fullt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d videor ej synkade. Molnsynkning pausas när batteriet är mindre än %2$s.</item>
+        <item quantity="one">%1$d video ej synkad. Molnsynkning pausas när batterinivån är lägre än %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d videor ej synkade. Molnsynkning har pausats i energisparläge.</item>
+        <item quantity="one">%1$d video ej synkad. Molnsynkning har pausats i energisparläge.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d bild ej synkad.</item>
+        <item quantity="one">%1$d bilder ej synkade.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt överfördes inte. %2$s.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt överfördes inte.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt överfördes inte. %2$s eller %3$s.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt överfördes inte. %2$s eller %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt laddades inte upp.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt laddades inte upp.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Ingen nätverksanslutning. %1$d objekt laddades inte upp.</item>
+        <item quantity="one">Ingen nätverksanslutning. %1$d objekt laddades inte upp.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d videor ej synkade</item>
+        <item quantity="one">%1$d video ej synkad</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Nätverksfel. %1$d objekt inte skickade.</item>
+        <item quantity="one">Nätverksfel. %1$d objekt inte skickat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Nätverksfel. %1$d objekt inte skickade.</item>
+        <item quantity="one">Nätverksfel. %1$d objekt inte skickat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Tjänstefel. %1$d objekt inte skickade.</item>
+        <item quantity="one">Tjänstefel. %1$d objekt inte skickat.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Tjänstefel. %1$d objekt inte skickade.</item>
+        <item quantity="one">Tjänstefel. %1$d objekt inte skickat.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Det gick inte att lägga till %d objekt</item>
+        <item quantity="one">Det gick inte att lägga till %d objekt</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d foton läses in och kan inte ställas in som privat.</item>
+        <item quantity="one">%d foto läses in och kan inte ställas in som privat.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d timmar</item>
+        <item quantity="one">%d timme</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d objekt</item>
+        <item quantity="one">%d objekt</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d minuter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d dagar</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d foton</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videor</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d bilder laddas</item>
+        <item quantity="one">%d bild laddas</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nya aviseringar</item>
+        <item quantity="one">%d ny avisering</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Måste vara större än %1$d mm</item>
+        <item quantity="one">Måste vara större än %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Måste vara större än %1$d px</item>
+        <item quantity="one">Måste vara större än %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Måste vara mindre än %1$d mm</item>
+        <item quantity="one">Måste vara mindre än %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Måste vara mindre än %1$d px</item>
+        <item quantity="one">Måste vara mindre än %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Måste vara större än %1$d KB</item>
+        <item quantity="one">Måste vara större än %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Måste vara mindre än %1$d KB</item>
+        <item quantity="one">Måste vara mindre än %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Måste vara större än %1$d mm</item>
+        <item quantity="one">Måste vara större än %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Måste vara större än %1$d px</item>
+        <item quantity="one">Måste vara större än %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Måste vara mindre än %1$d mm</item>
+        <item quantity="one">Måste vara mindre än %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Måste vara mindre än %1$d px</item>
+        <item quantity="one">Måste vara mindre än %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Behåll endast %d valda bilder</item>
+        <item quantity="one">Behåll endast %d vald bild</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Radera %d objekt</item>
+        <item quantity="one">Radera %d objekt</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d vald</item>
+        <item quantity="one">%1$d objekt markerade</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d album markerade</item>
+        <item quantity="one">%1$d album markerade</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d vald</item>
+        <item quantity="one">%1$d vald</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d dekaler valda</item>
+        <item quantity="one">%1$d dekal vald</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d videor markerade</item>
+        <item quantity="one">%1$d video markerad</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d foton läses in och kan inte raderas.</item>
+        <item quantity="one">%d foto läses in och kan inte raderas.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Det gick inte att radera %1$d objekt. Försök igen</item>
+        <item quantity="one">Det gick inte att radera %1$d objekt. Försök igen</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d nya notiser</item>
+        <item quantity="one">%d ny notis</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d foton</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

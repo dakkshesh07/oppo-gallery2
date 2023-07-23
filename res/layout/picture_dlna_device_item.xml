@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/M9"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:id="@id/check" android:background="@null" android:visibility="invisible" android:clickable="false" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/M6" android:layout_alignParentEnd="true" />
+    <TextView android:textSize="@dimen/common_TD08" android:textColor="@color/common_C20" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="@dimen/picture_dlna_select_height" android:lines="1" android:layout_centerVertical="true" android:textAlignment="viewStart" android:layout_toStartOf="@id/check" android:layout_alignParentStart="true" />
+    <ImageView android:id="@id/divider" android:background="@drawable/coui_divider_horizontal_without_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:contentDescription="@null" />
+</RelativeLayout>

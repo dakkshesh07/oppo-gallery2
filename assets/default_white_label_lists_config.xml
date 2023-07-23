@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <version>2021101200</version>
+
+    <!--
+            <label
+            name="活动"
+            recommend="0" //recommend 为1，且reject 为0，智能场景页面显示，否则不显示
+            reject="0"/> // reject 为0 搜索页面可搜索，为1 不可搜索
+    -->
+
+    <country name="中国" nickName="China" region="CN,OC">
+        <label
+            name="风景"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="美食"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="建筑"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="人像"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="宝宝"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="海洋"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="文字"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="文档"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="身份证"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="动物"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="宠物"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="狗"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="猫"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="植物"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="花"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="草"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="树"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="山"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="健身房"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="交通工具"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="酒"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="数码产品"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="电脑"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="相机"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="活动"
+            recommend="0"
+            reject = "0"/>
+        <label
+            name="运动"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="聚餐"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="婚礼"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="演出"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="鸟"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="鱼"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="樱花"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="烟花"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="夜景"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="瀑布"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="天空"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="雪景"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="日出日落"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="游乐场"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="海洋馆"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="动物园"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="裙子"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="婚纱"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="汽车"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="甜点"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="寿司"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="火锅"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="票据收据"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="地图"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="绘画"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="卡通"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="舞蹈"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="唱歌"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="生日"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="鞋"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="帽子"
+            recommend="1"
+            reject="0"/>
+
+        <label
+            name="小孩"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="自拍"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="仓鼠"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="兔子"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="盆栽"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="饮品"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="吉他"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="汉服"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="商场"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="公园"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="草原"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="海滩"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="旅行出游"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="演唱会"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="游戏"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="王者荣耀"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="吃鸡游戏"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="LOL"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="跑步"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="瑜伽"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="爬山"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="篮球"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="羽毛球"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="游泳"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="滑板"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="滑雪"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="足球"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="合同"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="户口本"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="护照"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="毕业证"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="行驶证"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="营业执照"
+            recommend="0"
+            reject="0"/>
+
+        <label name="聚会" recommend="0" reject="0" />
+        <label name="小香猪" recommend="0" reject="0" />
+        <label name="观赏鱼" recommend="0" reject="0" />
+        <label name="海豚" recommend="0" reject="0" />
+        <label name="珊瑚" recommend="0" reject="0" />
+        <label name="披萨" recommend="0" reject="0" />
+        <label name="牛排" recommend="0" reject="0" />
+        <label name="三明治" recommend="0" reject="0" />
+        <label name="KTV" recommend="0" reject="0" />
+        <label name="中国古代宫殿" recommend="0" reject="0" />
+        <label name="乒乓球" recommend="0" reject="0" />
+        <label name="书法" recommend="0" reject="0" />
+        <label name="二维码" recommend="0" reject="0" />
+        <label name="云海" recommend="0" reject="0" />
+        <label name="人物雕塑" recommend="0" reject="0" />
+        <label name="人群" recommend="0" reject="0" />
+        <label name="仙人掌" recommend="0" reject="0" />
+        <label name="价格表" recommend="0" reject="0" />
+        <label name="保险单" recommend="0" reject="0" />
+        <label name="器械运动" recommend="0" reject="0" />
+        <label name="冲浪" recommend="0" reject="0" />
+        <label name="冲浪板" recommend="0" reject="0" />
+        <label name="准考证" recommend="0" reject="0" />
+        <label name="出生证明" recommend="0" reject="0" />
+        <label name="单车竞速" recommend="0" reject="0" />
+        <label name="发票" recommend="0" reject="0" />
+        <label name="合影" recommend="0" reject="0" />
+        <label name="吊桥" recommend="0" reject="0" />
+        <label name="名片" recommend="0" reject="1" />
+        <label name="图表" recommend="0" reject="0" />
+        <label name="城堡" recommend="0" reject="0" />
+        <label name="多肉植物" recommend="0" reject="0" />
+        <label name="大象" recommend="0" reject="0" />
+        <label name="太阳镜" recommend="0" reject="0" />
+        <label name="奖状" recommend="0" reject="0" />
+        <label name="学位证" recommend="0" reject="0" />
+        <label name="学生证" recommend="0" reject="0" />
+        <label name="室外跑步" recommend="0" reject="0" />
+        <label name="山区公路" recommend="0" reject="0" />
+        <label name="工牌" recommend="0" reject="0" />
+        <label name="工资条" recommend="0" reject="0" />
+        <label name="广告牌" recommend="0" reject="0" />
+        <label name="彩票" recommend="0" reject="0" />
+        <label name="悬崖" recommend="0" reject="0" />
+        <label name="纪念品" recommend="0" reject="0" />
+        <label name="房产证" recommend="0" reject="0" />
+        <label name="手部特写" recommend="0" reject="0" />
+        <label name="护目镜" recommend="0" reject="0" />
+        <label name="报纸" recommend="0" reject="0" />
+        <label name="拉杆箱" recommend="0" reject="0" />
+        <label name="拳击" recommend="0" reject="0" />
+        <label name="排球" recommend="0" reject="0" />
+        <label name="支票" recommend="0" reject="0" />
+        <label name="收据" recommend="0" reject="0" />
+        <label name="斑马" recommend="0" reject="0" />
+        <label name="明信片" recommend="0" reject="0" />
+        <label name="机票" recommend="0" reject="0" />
+        <label name="桌游" recommend="0" reject="0" />
+        <label name="棒球" recommend="0" reject="0" />
+        <label name="棒球场" recommend="0" reject="0" />
+        <label name="森林" recommend="0" reject="0" />
+        <label name="森林公路" recommend="0" reject="0" />
+        <label name="橄榄球" recommend="0" reject="0" />
+        <label name="水上乐园" recommend="0" reject="0" />
+        <label name="沙漠" recommend="0" reject="0" />
+        <label name="沙漠公路" recommend="0" reject="0" />
+        <label name="清真寺" recommend="0" reject="0" />
+        <label name="港澳通行证" recommend="0" reject="0" />
+        <label name="漂流" recommend="0" reject="0" />
+        <label name="潜水" recommend="0" reject="0" />
+        <label name="烹饪" recommend="0" reject="0" />
+        <label name="熊猫" recommend="0" reject="0" />
+        <label name="狮子" recommend="0" reject="0" />
+        <label name="登山包" recommend="0" reject="0" />
+        <label name="白板" recommend="0" reject="0" />
+        <label name="社保卡" recommend="0" reject="0" />
+        <label name="驾驶证" recommend="0" reject="0" />
+        <label name="简历" recommend="0" reject="0" />
+        <label name="篮球场" recommend="0" reject="0" />
+        <label name="纪念碑" recommend="0" reject="0" />
+        <label name="结婚证" recommend="0" reject="0" />
+        <label name="缆车" recommend="0" reject="0" />
+        <label name="网球场" recommend="0" reject="0" />
+        <label name="老虎" recommend="0" reject="0" />
+        <label name="聊天截图" recommend="0" reject="0" />
+        <label name="背影" recommend="0" reject="0" />
+        <label name="腿部特写" recommend="0" reject="0" />
+        <label name="花束" recommend="0" reject="0" />
+        <label name="表情包" recommend="0" reject="0" />
+        <label name="证件照" recommend="0" reject="0" />
+        <label name="课程表" recommend="0" reject="0" />
+        <label name="跑步机跑步" recommend="0" reject="0" />
+        <label name="车票" recommend="0" reject="0" />
+        <label name="野外道路" recommend="0" reject="0" />
+        <label name="长颈鹿" recommend="0" reject="0" />
+        <label name="门票" recommend="0" reject="1" />
+        <label name="集市" recommend="0" reject="0" />
+        <label name="露营" recommend="0" reject="0" />
+        <label name="飞机餐" recommend="0" reject="0" />
+        <label name="骆驼" recommend="0" reject="0" />
+        <label name="高尔夫" recommend="0" reject="0" />
+        <label name="高速公路" recommend="0" reject="0" />
+        <label name="黑板报" recommend="0" reject="0" />
+        <label name="书本内页" recommend="0" reject="0" />
+        <label name="热气球" recommend="0" reject="0" />
+        <label name="雪山" recommend="0" reject="0" />
+        <label name="橱窗" recommend="0" reject="0" />
+        <label name="网球" recommend="0" reject="0" />
+        <label name="杂志海报" recommend="0" reject="0" />
+
+        <label
+            name="餐厅"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="酒吧"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="机场"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="包"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="珠宝首饰"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="船"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="西餐"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="海鲜"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="乐器"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="手机"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="幻灯片"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="玫瑰"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="塔"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="宫殿"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="烧烤"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="证件"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="化妆品"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="眼镜"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="车"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="火车"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="水果"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="电器"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="教堂"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="寺庙"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="亭"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="运动场"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="博物馆"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="商店"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="衣服"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="红酒"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="钢琴"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="银行卡"
+            recommend="1"
+            reject="0"/>
+    </country>
+
+    <country name="外国" nickName="Foreign" region="EXP">
+        <label
+            name="美食"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="建筑"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="海洋"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="人像"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="宝宝"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="动物"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="花"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="草"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="包"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="山"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="交通工具"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="数码产品"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="电脑"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="相机"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="运动"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="鸟"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="鱼"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="樱花"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="烟花"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="夜景"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="瀑布"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="天空"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="雪景"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="日出日落"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="游乐场"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="动物园"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="裙子"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="婚纱"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="汽车"
+            recommend="1"
+            reject = "0"/>
+        <label
+            name="寿司"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="鞋"
+            recommend="1"
+            reject="0"/>
+
+        <label
+            name="小孩"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="自拍"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="仓鼠"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="兔子"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="盆栽"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="饮品"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="吉他"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="汉服"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="商场"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="公园"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="草原"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="海滩"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="旅行出游"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="演唱会"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="游戏"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="王者荣耀"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="吃鸡游戏"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="LOL"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="跑步"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="瑜伽"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="爬山"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="篮球"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="羽毛球"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="游泳"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="滑板"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="滑雪"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="足球"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="合同"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="户口本"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="护照"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="毕业证"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="行驶证"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="营业执照"
+            recommend="0"
+            reject="0"/>
+
+        <label name="聚会" recommend="0" reject="0" />
+        <label name="小香猪" recommend="0" reject="0" />
+        <label name="观赏鱼" recommend="0" reject="0" />
+        <label name="海豚" recommend="0" reject="0" />
+        <label name="珊瑚" recommend="0" reject="0" />
+        <label name="披萨" recommend="0" reject="0" />
+        <label name="牛排" recommend="0" reject="0" />
+        <label name="三明治" recommend="0" reject="0" />
+        <label name="KTV" recommend="0" reject="0" />
+        <label name="中国古代宫殿" recommend="0" reject="0" />
+        <label name="乒乓球" recommend="0" reject="0" />
+        <label name="书法" recommend="0" reject="0" />
+        <label name="二维码" recommend="0" reject="0" />
+        <label name="云海" recommend="0" reject="0" />
+        <label name="人物雕塑" recommend="0" reject="0" />
+        <label name="人群" recommend="0" reject="0" />
+        <label name="仙人掌" recommend="0" reject="0" />
+        <label name="价格表" recommend="0" reject="0" />
+        <label name="保险单" recommend="0" reject="0" />
+        <label name="器械运动" recommend="0" reject="0" />
+        <label name="冲浪" recommend="0" reject="0" />
+        <label name="冲浪板" recommend="0" reject="0" />
+        <label name="准考证" recommend="0" reject="1" />
+        <label name="出生证明" recommend="0" reject="1" />
+        <label name="单车竞速" recommend="0" reject="0" />
+        <label name="发票" recommend="0" reject="0" />
+        <label name="合影" recommend="0" reject="0" />
+        <label name="吊桥" recommend="0" reject="0" />
+        <label name="名片" recommend="0" reject="1" />
+        <label name="图表" recommend="0" reject="0" />
+        <label name="城堡" recommend="0" reject="0" />
+        <label name="多肉植物" recommend="0" reject="0" />
+        <label name="大象" recommend="0" reject="0" />
+        <label name="太阳镜" recommend="0" reject="0" />
+        <label name="奖状" recommend="0" reject="0" />
+        <label name="学位证" recommend="0" reject="1" />
+        <label name="学生证" recommend="0" reject="1" />
+        <label name="室外跑步" recommend="0" reject="0" />
+        <label name="山区公路" recommend="0" reject="0" />
+        <label name="工牌" recommend="0" reject="1" />
+        <label name="工资条" recommend="0" reject="0" />
+        <label name="广告牌" recommend="0" reject="0" />
+        <label name="彩票" recommend="0" reject="0" />
+        <label name="悬崖" recommend="0" reject="0" />
+        <label name="纪念品" recommend="0" reject="0" />
+        <label name="房产证" recommend="0" reject="1" />
+        <label name="手部特写" recommend="0" reject="0" />
+        <label name="护目镜" recommend="0" reject="0" />
+        <label name="报纸" recommend="0" reject="0" />
+        <label name="拉杆箱" recommend="0" reject="0" />
+        <label name="拳击" recommend="0" reject="0" />
+        <label name="排球" recommend="0" reject="0" />
+        <label name="支票" recommend="0" reject="0" />
+        <label name="收据" recommend="0" reject="0" />
+        <label name="斑马" recommend="0" reject="0" />
+        <label name="明信片" recommend="0" reject="0" />
+        <label name="机票" recommend="0" reject="0" />
+        <label name="桌游" recommend="0" reject="0" />
+        <label name="棒球" recommend="0" reject="0" />
+        <label name="棒球场" recommend="0" reject="0" />
+        <label name="森林" recommend="0" reject="0" />
+        <label name="森林公路" recommend="0" reject="0" />
+        <label name="橄榄球" recommend="0" reject="0" />
+        <label name="水上乐园" recommend="0" reject="0" />
+        <label name="沙漠" recommend="0" reject="0" />
+        <label name="沙漠公路" recommend="0" reject="0" />
+        <label name="清真寺" recommend="0" reject="0" />
+        <label name="港澳通行证" recommend="0" reject="1" />
+        <label name="漂流" recommend="0" reject="0" />
+        <label name="潜水" recommend="0" reject="0" />
+        <label name="烹饪" recommend="0" reject="0" />
+        <label name="熊猫" recommend="0" reject="0" />
+        <label name="狮子" recommend="0" reject="0" />
+        <label name="登山包" recommend="0" reject="0" />
+        <label name="白板" recommend="0" reject="0" />
+        <label name="社保卡" recommend="0" reject="1" />
+        <label name="驾驶证" recommend="0" reject="1" />
+        <label name="简历" recommend="0" reject="0" />
+        <label name="篮球场" recommend="0" reject="0" />
+        <label name="纪念碑" recommend="0" reject="0" />
+        <label name="结婚证" recommend="0" reject="1" />
+        <label name="缆车" recommend="0" reject="0" />
+        <label name="网球场" recommend="0" reject="0" />
+        <label name="老虎" recommend="0" reject="0" />
+        <label name="聊天截图" recommend="0" reject="0" />
+        <label name="背影" recommend="0" reject="0" />
+        <label name="腿部特写" recommend="0" reject="0" />
+        <label name="花束" recommend="0" reject="0" />
+        <label name="表情包" recommend="0" reject="0" />
+        <label name="证件照" recommend="0" reject="0" />
+        <label name="课程表" recommend="0" reject="0" />
+        <label name="跑步机跑步" recommend="0" reject="0" />
+        <label name="车票" recommend="0" reject="0" />
+        <label name="野外道路" recommend="0" reject="0" />
+        <label name="长颈鹿" recommend="0" reject="0" />
+        <label name="门票" recommend="0" reject="1" />
+        <label name="集市" recommend="0" reject="0" />
+        <label name="露营" recommend="0" reject="0" />
+        <label name="飞机餐" recommend="0" reject="0" />
+        <label name="骆驼" recommend="0" reject="0" />
+        <label name="高尔夫" recommend="0" reject="0" />
+        <label name="高速公路" recommend="0" reject="0" />
+        <label name="黑板报" recommend="0" reject="0" />
+        <label name="书本内页" recommend="0" reject="0" />
+        <label name="热气球" recommend="0" reject="0" />
+        <label name="雪山" recommend="0" reject="0" />
+        <label name="橱窗" recommend="0" reject="0" />
+        <label name="网球" recommend="0" reject="0" />
+        <label name="杂志海报" recommend="0" reject="0" />
+
+        <label
+            name="船"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="海鲜"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="教堂"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="机场"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="手机"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="寺庙"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="幻灯片"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="塔"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="玫瑰"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="亭"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="宫殿"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="海洋馆"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="博物馆"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="商店"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="衣服"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="西餐"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="甜点"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="火锅"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="烧烤"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="酒"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="红酒"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="乐器"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="钢琴"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="文字"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="文档"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="地图"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="绘画"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="卡通"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="活动"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="聚餐"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="婚礼"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="演出"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="舞蹈"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="唱歌"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="生日"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="帽子"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="证件"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="身份证"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="银行卡"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="票据收据"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="宠物"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="狗"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="猫"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="植物"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="树"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="风景"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="餐厅"
+            recommend="0"
+            reject="0"/>
+        <label
+            name="酒吧"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="运动场"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="健身房"
+            recommend="0"
+            reject="1"/>
+        <label
+            name="化妆品"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="眼镜"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="珠宝首饰"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="车"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="火车"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="水果"
+            recommend="1"
+            reject="0"/>
+        <label
+            name="电器"
+            recommend="1"
+            reject="0"/>
+
+    </country>
+
+</filter-conf>

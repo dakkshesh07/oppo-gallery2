@@ -1,0 +1,26 @@
+{
+  "type": "constraint",
+  "layout_width": "match_parent",
+  "layout_height": "match_parent",
+  "id": "mainLayout",
+  "package": "com.coloros.gallery3d",
+  "background": "@color/widget_image_bg_color",
+  "child": [
+    {
+      "type": "image",
+      "id": "previousImage",
+      "layout_width": "match_parent",
+      "layout_height": "match_parent",
+      "adjustViewBounds": true,
+      "scaleType": "centerCrop"
+    },
+    {
+      "type": "image",
+      "id": "currentImage",
+      "layout_width": "match_parent",
+      "layout_height": "match_parent",
+      "adjustViewBounds": true,
+      "scaleType": "centerCrop"
+    }
+  ]
+}

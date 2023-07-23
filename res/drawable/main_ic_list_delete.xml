@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/main_all_albumset_fragment_list_icon_color" android:pathData="M10.25 2.9H9.72l-0.2 0.49L8.28 6.4H3.25v1.57h1.84v11.47c0 0.44 0.17 0.86 0.48 1.17c0.32 0.31 0.74 0.49 1.18 0.49h10.5c0.44 0 0.86-0.18 1.18-0.49c0.3-0.3 0.48-0.73 0.48-1.17V7.97h1.84V6.4h-5.03l-1.24-3.01l-0.2-0.49h-0.53h-3.5zm3.77 3.5l-0.8-1.93h-2.44L9.98 6.4h4.04zm-6.4 1.57H6.66v11.47L6.7 19.5c0.01 0.02 0.04 0.02 0.06 0.02h10.5c0.02 0 0.05 0 0.06-0.02l0.03-0.06V7.97h-0.96h-1.18h-6.4h-1.18zm1.84 8.84V10.7h1.58v6.12H9.46zm3.5-6.12v6.12h1.58V10.7h-1.58z" android:fillType="evenOdd" />
+</vector>

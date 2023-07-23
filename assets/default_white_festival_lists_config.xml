@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--branch: rom/master/Q-->
+<filter-conf>
+    <version>2020121520</version>
+
+    <country name="中国" nickName="China" region="CN,OC">
+        <festival name="春节" level="5" nickName="新年" type="2">
+            <date>12-24</date>
+            <date>12-25</date>
+            <date>12-26</date>
+            <date>12-27</date>
+            <date>12-28</date>
+            <date>12-29</date>
+            <date>12-30</date>
+            <date>01-01</date>
+            <date>01-02</date>
+            <date>01-03</date>
+            <date>01-04</date>
+            <date>01-05</date>
+            <date>01-06</date>
+            <date>01-07</date>
+            <date>01-08</date>
+            <date>01-09</date>
+            <date>01-10</date>
+            <date>01-11</date>
+            <date>01-12</date>
+            <date>01-13</date>
+            <date>01-14</date>
+            <date>01-15</date>
+        </festival>
+
+        <festival name="元旦" level="4" nickName="元旦节" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="中秋节" level="3" nickName="" type="2">
+            <date>08-15</date>
+        </festival>
+
+        <festival name="国庆节" level="2" nickName="" type="1">
+            <date>09-30</date>
+            <date>10-01</date>
+            <date>10-02</date>
+            <date>10-03</date>
+            <date>10-04</date>
+            <date>10-05</date>
+            <date>10-06</date>
+            <date>10-07</date>
+        </festival>
+
+        <festival name="圣诞节" level="1" nickName="" type="1">
+            <date>12-24</date>
+            <date>12-25</date>
+            <date>12-26</date>
+        </festival>
+
+        <!-- 阴历每年的最后一天可能是1229也可能是1230，故除夕使用阳历穷举方案 -->
+        <festival name="除夕" level="0" nickName="" type="1">
+            <date>1971-01-26</date>
+            <date>1972-02-14</date>
+            <date>1973-02-02</date>
+            <date>1974-01-22</date>
+            <date>1975-02-10</date>
+            <date>1976-01-30</date>
+            <date>1977-02-17</date>
+            <date>1978-02-06</date>
+            <date>1979-01-27</date>
+            <date>1980-02-15</date>
+            <date>1981-02-04</date>
+            <date>1982-01-24</date>
+            <date>1983-02-12</date>
+            <date>1984-02-01</date>
+            <date>1985-02-19</date>
+            <date>1986-02-08</date>
+            <date>1987-01-28</date>
+            <date>1988-02-16</date>
+            <date>1989-02-05</date>
+            <date>1990-01-26</date>
+            <date>1991-02-14</date>
+            <date>1992-02-03</date>
+            <date>1993-01-22</date>
+            <date>1994-02-09</date>
+            <date>1995-01-30</date>
+            <date>1996-02-18</date>
+            <date>1997-02-06</date>
+            <date>1998-01-27</date>
+            <date>1999-02-15</date>
+            <date>2000-02-04</date>
+            <date>2001-01-23</date>
+            <date>2002-02-11</date>
+            <date>2003-01-31</date>
+            <date>2004-01-21</date>
+            <date>2005-02-08</date>
+            <date>2006-01-28</date>
+            <date>2007-02-17</date>
+            <date>2008-02-06</date>
+            <date>2009-01-25</date>
+            <date>2010-02-13</date>
+            <date>2011-02-02</date>
+            <date>2012-01-22</date>
+            <date>2013-02-09</date>
+            <date>2014-01-30</date>
+            <date>2015-02-18</date>
+            <date>2016-02-07</date>
+            <date>2017-01-27</date>
+            <date>2018-02-15</date>
+            <date>2019-02-04</date>
+            <date>2020-01-24</date>
+            <date>2021-02-11</date>
+            <date>2022-01-31</date>
+            <date>2023-01-21</date>
+            <date>2024-02-09</date>
+            <date>2025-01-28</date>
+            <date>2026-02-16</date>
+            <date>2027-02-05</date>
+            <date>2028-01-25</date>
+            <date>2029-02-12</date>
+            <date>2030-02-02</date>
+        </festival>
+
+        <festival name="元宵节" level="0" nickName="" type="2">
+            <date>01-15</date>
+        </festival>
+
+        <festival name="端午节" level="0" nickName="" type="2">
+            <date>05-03</date>
+            <date>05-04</date>
+            <date>05-05</date>
+            <date>05-06</date>
+            <date>05-07</date>
+        </festival>
+
+        <festival name="七夕节" level="0" nickName="" type="2">
+            <date>07-06</date>
+            <date>07-07</date>
+            <date>07-08</date>
+        </festival>
+
+        <festival name="重阳节" level="0" nickName="" type="2">
+            <date>09-09</date>
+        </festival>
+
+        <festival name="情人节" level="0" nickName="" type="1">
+            <date>02-13</date>
+            <date>02-14</date>
+            <date>02-15</date>
+        </festival>
+
+        <festival name="妇女节" level="0" nickName="" type="1">
+            <date>03-08</date>
+        </festival>
+
+        <festival name="愚人节" level="0" nickName="" type="1">
+            <date>04-01</date>
+        </festival>
+
+        <festival name="清明节" level="0" nickName="" type="1">
+            <date>04-02</date>
+            <date>04-03</date>
+            <date>04-04</date>
+            <date>04-05</date>
+            <date>04-06</date>
+            <date>04-07</date>
+            <date>04-08</date>
+        </festival>
+
+        <festival name="劳动节" level="0" nickName="五一" type="1">
+            <date>04-29</date>
+            <date>04-30</date>
+            <date>05-01</date>
+            <date>05-02</date>
+            <date>05-03</date>
+        </festival>
+
+        <festival name="儿童节" level="0" nickName="" type="1">
+            <date>06-01</date>
+        </festival>
+
+        <festival name="教师节" level="0" nickName="" type="1">
+            <date>09-10</date>
+        </festival>
+
+        <festival name="万圣节" level="0" nickName="" type="1">
+            <date>10-31</date>
+            <date>11-01</date>
+        </festival>
+
+        <festival name="母亲节" level="0" nickName="" type="1">
+            <date>1970-05-10</date>
+            <date>1971-05-09</date>
+            <date>1972-05-14</date>
+            <date>1973-05-13</date>
+            <date>1974-05-12</date>
+            <date>1975-05-11</date>
+            <date>1976-05-09</date>
+            <date>1977-05-08</date>
+            <date>1978-05-14</date>
+            <date>1979-05-13</date>
+            <date>1980-05-11</date>
+            <date>1981-05-10</date>
+            <date>1982-05-09</date>
+            <date>1983-05-08</date>
+            <date>1984-05-13</date>
+            <date>1985-05-12</date>
+            <date>1986-05-11</date>
+            <date>1987-05-10</date>
+            <date>1988-05-08</date>
+            <date>1989-05-14</date>
+            <date>1990-05-13</date>
+            <date>1991-05-12</date>
+            <date>1992-05-10</date>
+            <date>1993-05-09</date>
+            <date>1994-05-08</date>
+            <date>1995-05-14</date>
+            <date>1996-05-12</date>
+            <date>1997-05-11</date>
+            <date>1998-05-10</date>
+            <date>1999-05-09</date>
+            <date>2000-05-14</date>
+            <date>2001-05-13</date>
+            <date>2002-05-12</date>
+            <date>2003-05-11</date>
+            <date>2004-05-09</date>
+            <date>2005-05-08</date>
+            <date>2006-05-14</date>
+            <date>2007-05-13</date>
+            <date>2008-05-11</date>
+            <date>2009-05-10</date>
+            <date>2010-05-09</date>
+            <date>2011-05-08</date>
+            <date>2012-05-13</date>
+            <date>2013-05-12</date>
+            <date>2014-05-11</date>
+            <date>2015-05-10</date>
+            <date>2016-05-08</date>
+            <date>2017-05-14</date>
+            <date>2018-05-13</date>
+            <date>2019-05-12</date>
+            <date>2020-05-10</date>
+            <date>2021-05-09</date>
+            <date>2022-05-08</date>
+            <date>2023-05-14</date>
+            <date>2024-05-12</date>
+            <date>2025-05-11</date>
+            <date>2026-05-10</date>
+            <date>2027-05-09</date>
+            <date>2028-05-14</date>
+            <date>2029-05-13</date>
+            <date>2030-05-12</date>
+            <date>2031-05-11</date>
+            <date>2032-05-09</date>
+            <date>2033-05-08</date>
+            <date>2034-05-14</date>
+            <date>2035-05-13</date>
+            <date>2036-05-11</date>
+        </festival>
+
+        <festival name="父亲节" level="0" nickName="" type="1">
+            <date>1970-06-21</date>
+            <date>1971-06-20</date>
+            <date>1972-06-18</date>
+            <date>1973-06-17</date>
+            <date>1974-06-16</date>
+            <date>1975-06-15</date>
+            <date>1976-06-20</date>
+            <date>1977-06-19</date>
+            <date>1978-06-18</date>
+            <date>1979-06-17</date>
+            <date>1980-06-15</date>
+            <date>1981-06-21</date>
+            <date>1982-06-20</date>
+            <date>1983-06-19</date>
+            <date>1984-06-17</date>
+            <date>1985-06-16</date>
+            <date>1986-06-15</date>
+            <date>1987-06-21</date>
+            <date>1988-06-19</date>
+            <date>1989-06-18</date>
+            <date>1990-06-17</date>
+            <date>1991-06-16</date>
+            <date>1992-06-21</date>
+            <date>1993-06-20</date>
+            <date>1994-06-19</date>
+            <date>1995-06-18</date>
+            <date>1996-06-16</date>
+            <date>1997-06-15</date>
+            <date>1998-06-21</date>
+            <date>1999-06-20</date>
+            <date>2000-06-18</date>
+            <date>2001-06-17</date>
+            <date>2002-06-16</date>
+            <date>2003-06-15</date>
+            <date>2004-06-20</date>
+            <date>2005-06-19</date>
+            <date>2006-06-18</date>
+            <date>2007-06-17</date>
+            <date>2008-06-15</date>
+            <date>2009-06-21</date>
+            <date>2010-06-20</date>
+            <date>2011-06-19</date>
+            <date>2012-06-17</date>
+            <date>2013-06-16</date>
+            <date>2014-06-15</date>
+            <date>2015-06-21</date>
+            <date>2016-06-19</date>
+            <date>2017-06-18</date>
+            <date>2018-06-17</date>
+            <date>2019-06-16</date>
+            <date>2020-06-21</date>
+            <date>2021-06-20</date>
+            <date>2022-06-19</date>
+            <date>2023-06-18</date>
+            <date>2024-06-16</date>
+            <date>2025-06-15</date>
+            <date>2026-06-21</date>
+            <date>2027-06-20</date>
+            <date>2028-06-18</date>
+            <date>2029-06-17</date>
+            <date>2030-06-16</date>
+            <date>2031-06-15</date>
+            <date>2032-06-20</date>
+            <date>2033-06-19</date>
+            <date>2034-06-18</date>
+            <date>2035-06-17</date>
+            <date>2036-06-15</date>
+        </festival>
+    </country>
+
+    <country name="香港" nickName="HongKong" region="HK">
+        <festival name="元旦" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="春節" level="0" nickName="Lunar New Year" type="2">
+            <date>01-01</date>
+            <date>01-02</date>
+            <date>01-03</date>
+        </festival>
+
+        <festival name="勞動節" level="0" nickName="Labour Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="端午節" level="0" nickName="Dragon Boat Festival" type="2">
+            <date>05-05</date>
+        </festival>
+
+        <festival name="中秋節" level="0" nickName="Mid Autumn Festival" type="2">
+            <date>08-15</date>
+        </festival>
+
+        <festival name="聖誕節" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="印度" nickName="India" region="IN">
+        <festival name="नया साल" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="होली" level="0" nickName="Holi" type="1">
+            <date>2017-03-13</date>
+            <date>2018-03-02</date>
+            <date>2019-03-21</date>
+            <date>2020-03-10</date>
+        </festival>
+
+        <festival name="ओणम" level="0" nickName="Onam" type="1">
+            <date>2017-09-04</date>
+            <date>2018-08-25</date>
+            <date>2019-09-11</date>
+            <date>2020-08-22</date>
+        </festival>
+
+        <festival name="दीपावली" level="0" nickName="Deepavali" type="1">
+            <date>2017-10-19</date>
+            <date>2018-11-07</date>
+            <date>2019-10-27</date>
+            <date>2020-11-14</date>
+        </festival>
+    </country>
+
+    <country name="印度尼西亚" nickName="Indonesia" region="ID">
+        <festival name="Tahun Baru Masehi" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Tahun Baru Imlek" level="0" nickName="Chinese Lunar New Year's Day" type="2">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Hari Kemerdekaan" level="0" nickName="Indonesian Independence Day" type="1">
+            <date>08-17</date>
+        </festival>
+
+        <festival name="Hari Natal" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="泰国" nickName="Thailand" region="TH">
+        <festival name="ววันขื้นปีใหม" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="วันสงกรานต์" level="0" nickName="Songkran" type="1">
+            <date>04-13</date>
+            <date>04-14</date>
+            <date>04-15</date>
+        </festival>
+
+        <festival name="วันแม่แห่งชาต" level="0" nickName="Mother's Day" type="1">
+            <date>2017-08-14</date>
+            <date>2018-08-13</date>
+            <date>2019-08-12</date>
+            <date>2020-08-12</date>
+        </festival>
+
+        <festival name="ววันพ่อแห่งชาต" level="0" nickName="H.M. The King's Birthday" type="1">
+            <date>2017-07-28</date>
+            <date>2018-07-30</date>
+            <date>2019-07-29</date>
+            <date>2020-07-28</date>
+        </festival>
+
+        <festival name="วันสิ้นปี" level="0" nickName="New Year's Eve" type="1">
+            <date>12-31</date>
+        </festival>
+    </country>
+
+    <country name="马来西亚" nickName="Malaysia" region="MY">
+        <festival name="Tahun Baru" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Kekasih" level="0" nickName="Valentine's Day" type="1">
+            <date>02-14</date>
+        </festival>
+
+        <festival name="Tahun Baru Cina" level="0" nickName="Chinese Lunar New Year" type="2">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Hari Krismas" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="越南" nickName="Vietnam" region="VN">
+        <festival name="Tết dương lịch" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Tết" level="0" nickName="Vietnamese New Year" type="2">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Quốc Khánh" level="0" nickName="Independence Day" type="1">
+            <date>09-02</date>
+        </festival>
+    </country>
+
+    <country name="菲律宾" nickName="Philippines" region="PH">
+        <festival name="New Year's Day" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Labor Day" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="Independence Day" level="0" nickName="Independence Day" type="1">
+            <date>06-12</date>
+        </festival>
+
+        <festival name="All Saints Day" level="0" nickName="All Saints Day" type="1">
+            <date>11-01</date>
+        </festival>
+
+        <festival name="Christmas Day" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="孟加拉" nickName="Bengal" region="BD">
+        <festival name="মে দিবস" level="0" nickName="May Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="জাতীয় শোক দিবস" level="0" nickName="National Mourning Day" type="1">
+            <date>08-15</date>
+        </festival>
+    </country>
+
+    <country name="斯里兰卡" nickName="Sri Lanka" region="LK">
+        <festival name="Sinhala and Tamil New Year's Eve" level="0" nickName="Sinhala and Tamil New Year's Eve" type="1">
+            <date>2017-04-12</date>
+            <date>2018-04-13</date>
+            <date>2019-04-13</date>
+            <date>2020-04-13</date>
+        </festival>
+
+        <festival name="සිංහල හින්දු අලුත් අවුරුද්ද" level="0" nickName="Sinhala and Tamil New Year's Day" type="1">
+            <date>2017-04-13</date>
+            <date>2018-04-14</date>
+            <date>2019-04-14</date>
+            <date>2020-04-14</date>
+        </festival>
+        <festival name="දීපවාල" level="0" nickName="Deepavali" type="1">
+            <date>2017-10-18</date>
+            <date>2018-11-06</date>
+            <date>2019-10-27</date>
+            <date>2020-11-14</date>
+        </festival>
+        <festival name="නත්තල් දිනය" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="台湾" nickName="Taiwan" region="TW">
+        <festival name="春節" level="0" nickName="" type="2">
+            <date>01-01</date>
+        </festival>
+    </country>
+
+    <country name="新加坡" nickName="Singapore" region="SG">
+        <festival name="New Year's Day" level="0" nickName="一月一日" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Christmas Day" level="0" nickName="圣诞节" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="巴基斯坦" nickName="Pakistan" region="PK">
+        <festival name="یومِ آزادی" level="0" nickName="Independence Day" type="1">
+            <date>08-14</date>
+        </festival>
+    </country>
+
+    <country name="澳大利亚" nickName="Australia" region="AU">
+        <festival name="New Year's Day" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Australia Day" level="0" nickName="Australia Day" type="1">
+            <date>2017-01-26</date>
+            <date>2018-01-26</date>
+            <date>2019-01-28</date>
+            <date>2020-01-27</date>
+        </festival>
+
+        <festival name="Christmas Day" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+
+        <festival name="Valentine's Day" level="0" nickName="Valentine's Day" type="1">
+            <date>02-14</date>
+        </festival>
+
+        <festival name="Halloween" level="0" nickName="Halloween" type="1">
+            <date>10-31</date>
+        </festival>
+
+        <festival name="ANZAC Day" level="0" nickName="ANZAC Day" type="1">
+            <date>04-25</date>
+        </festival>
+    </country>
+
+    <country name="埃及" nickName="Egypt" region="EG">
+        <festival name="عيد الميلاد المجيد" level="0" nickName="Coptic Christmas Day" type="1">
+            <date>01-07</date>
+        </festival>
+    </country>
+
+    <country name="俄罗斯" nickName="Russia" region="RU">
+        <festival name="Новый год" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="День всех влюбленных" level="0" nickName="St. Valentine's Day" type="1">
+            <date>02-14</date>
+        </festival>
+
+        <festival name="Международный женский день" level="0" nickName="International Women's Day" type="1">
+            <date>03-08</date>
+        </festival>
+
+        <festival name="Праздник Весны и Труда" level="0" nickName="Spring and Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="День Победы" level="0" nickName="Victory Day" type="1">
+            <date>05-09</date>
+        </festival>
+    </country>
+
+    <country name="日本" nickName="Japan" region="JP">
+        <festival name="クリスマスイブ" level="0" nickName="Emperor's Birthday observed" type="1">
+            <date>12-24</date>
+        </festival>
+
+        <festival name="成人の日" level="0" nickName="Coming of Age Day" type="1">
+            <date>2017-01-09</date>
+            <date>2018-01-08</date>
+            <date>2019-01-14</date>
+            <date>2020-01-13</date>
+        </festival>
+
+        <festival name="バレンタインデー" level="0" nickName="" type="1">
+            <date>02-14</date>
+        </festival>
+
+        <festival name="雛祭り" level="0" nickName="" type="1">
+            <date>03-03</date>
+        </festival>
+
+        <festival name="こどもの日" level="0" nickName="Children's Day" type="1">
+            <date>05-05</date>
+        </festival>
+    </country>
+
+    <country name="新西兰" nickName="New Zealand" region="NZ">
+        <festival name="Christmas Eve" level="0" nickName="Christmas Eve" type="1">
+            <date>12-24</date>
+        </festival>
+
+        <festival name="New Year's Eve" level="0" nickName="New Year's Eve" type="1">
+            <date>12-31</date>
+        </festival>
+
+        <festival name="Valentine's Day" level="0" nickName="Valentine's Day" type="1">
+            <date>02-14</date>
+        </festival>
+
+        <festival name="Easter Day" level="0" nickName="Easter Day" type="1">
+            <date>2017-04-16</date>
+            <date>2018-04-01</date>
+            <date>2019-04-21</date>
+            <date>2020-04-12</date>
+            <date>2021-04-04</date>
+            <date>2022-04-17</date>
+            <date>2023-04-09</date>
+        </festival>
+
+        <festival name="Halloween" level="0" nickName="" type="1">
+            <date>10-31</date>
+        </festival>
+    </country>
+
+    <country name="法国" nickName="France" region="FR">
+        <festival name="Nouvel an" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Pâques" level="0" nickName="Easter Day" type="1">
+            <date>2017-04-16</date>
+            <date>2018-04-01</date>
+            <date>2019-04-21</date>
+            <date>2020-04-12</date>
+            <date>2021-04-04</date>
+            <date>2022-04-17</date>
+            <date>2023-04-09</date>
+            <date>2024-03-31</date>
+        </festival>
+
+        <festival name="Fête du Travail" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="Fête nationale" level="0" nickName="Bastille Day" type="1">
+            <date>07-14</date>
+        </festival>
+
+        <festival name="Assomption" level="0" nickName="Assumption of Mary" type="1">
+            <date>08-15</date>
+        </festival>
+
+        <festival name="Noël" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="意大利" nickName="Italy" region="IT">
+        <festival name="Capodanno" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Epifania" level="0" nickName="Epiphany" type="1">
+            <date>01-06</date>
+        </festival>
+
+        <festival name="Pasqua" level="0" nickName="Easter Day" type="1">
+            <date>2017-04-16</date>
+            <date>2018-04-01</date>
+            <date>2019-04-21</date>
+            <date>2020-04-12</date>
+            <date>2021-04-04</date>
+            <date>2022-04-17</date>
+            <date>2023-04-09</date>
+            <date>2024-03-31</date>
+        </festival>
+
+        <festival name="Festa del lavoro" level="0" nickName="Labour Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="Festa nazionale" level="0" nickName="Republic Day" type="1">
+            <date>06-02</date>
+        </festival>
+
+        <festival name="Festa dell'Assunzione di Maria" level="0" nickName="Assumption of Mary" type="1">
+            <date>08-15</date>
+        </festival>
+
+        <festival name="Natale" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="西班牙" nickName="Spain" region="ES">
+        <festival name="Día de Año Nuevo" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Día de los Reyes Magos" level="0" nickName="Epiphany" type="1">
+            <date>01-06</date>
+        </festival>
+
+        <festival name="Semana Santa" level="0" nickName="Easter Day" type="1">
+            <date>2017-04-16</date>
+            <date>2018-04-01</date>
+            <date>2019-04-21</date>
+            <date>2020-04-12</date>
+            <date>2021-04-04</date>
+            <date>2022-04-17</date>
+            <date>2023-04-09</date>
+            <date>2024-03-31</date>
+        </festival>
+
+        <festival name="Las Fallas" level="0" nickName="Las Fallas" type="1">
+            <date>03-15</date>
+            <date>03-16</date>
+            <date>03-17</date>
+            <date>03-18</date>
+            <date>03-19</date>
+        </festival>
+
+        <festival name="Encierros de San Fermín" level="0" nickName="Encierro" type="1">
+            <date>07-06</date>
+            <date>07-07</date>
+            <date>07-08</date>
+            <date>07-09</date>
+            <date>07-10</date>
+            <date>07-11</date>
+            <date>07-12</date>
+            <date>07-13</date>
+            <date>07-14</date>
+        </festival>
+
+        <festival name="Día del trabajo" level="0" nickName="Labour Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="Fiesta Nacional" level="0" nickName="Hispanic Day" type="1">
+            <date>10-12</date>
+        </festival>
+
+        <festival name="Asunción de María" level="0" nickName="Assumption of Mary" type="1">
+            <date>08-15</date>
+        </festival>
+
+        <festival name="Navidad" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="英国" nickName="United Kingdom" region="GB">
+        <festival name="New Year's Day" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Valentine's Day" level="0" nickName="Valentine's Day" type="1">
+            <date>02-14</date>
+        </festival>
+
+        <festival name="Easter Sunday" level="0" nickName="Easter Sunday" type="1">
+            <date>2017-04-16</date>
+            <date>2018-04-01</date>
+            <date>2019-04-21</date>
+            <date>2020-04-12</date>
+            <date>2021-04-04</date>
+            <date>2022-04-17</date>
+            <date>2023-04-09</date>
+            <date>2024-03-31</date>
+        </festival>
+
+        <festival name="Christmas Day" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="荷兰" nickName="Netherlands" region="NL">
+        <festival name="Nieuwjaar" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Pasen" level="0" nickName="Easter Day" type="1">
+            <date>2017-04-16</date>
+            <date>2018-04-01</date>
+            <date>2019-04-21</date>
+            <date>2020-04-12</date>
+            <date>2021-04-04</date>
+            <date>2022-04-17</date>
+            <date>2023-04-09</date>
+            <date>2024-03-31</date>
+        </festival>
+
+        <festival name="Bevrijdingsdag" level="0" nickName="Liberation Day" type="1">
+            <date>05-05</date>
+        </festival>
+
+        <festival name="Sinterklaasavond" level="0" nickName="St Nicholas' Eve" type="1">
+            <date>12-05</date>
+        </festival>
+
+        <festival name="Kerstmis" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="波兰" nickName="Poland" region="PL">
+        <festival name="Nowy Rok" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Wielkanoc" level="0" nickName="Easter Day" type="1">
+            <date>2017-04-16</date>
+            <date>2018-04-01</date>
+            <date>2019-04-21</date>
+            <date>2020-04-12</date>
+            <date>2021-04-04</date>
+            <date>2022-04-17</date>
+            <date>2023-04-09</date>
+            <date>2024-03-31</date>
+        </festival>
+
+        <festival name="Święto Pracy" level="0" nickName="Labour Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="Wniebowzięcie Najświętszej Maryi Panny" level="0" nickName="Assumption of Mary" type="1">
+            <date>08-15</date>
+        </festival>
+
+        <festival name="Boże Narodzenie" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+            <date>12-26</date>
+        </festival>
+    </country>
+
+    <country name="比利时" nickName="Belgium" region="BE">
+        <festival name="Nieuwjaar" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Dag van de Arbeid" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="Koningsdag" level="0" nickName="Belgian National Day" type="1">
+            <date>07-21</date>
+        </festival>
+
+        <festival name="Maria-Tenhemelopneming" level="0" nickName="Assumption of Mary" type="1">
+            <date>08-15</date>
+        </festival>
+
+        <festival name="Halloween" level="0" nickName="All Saints' Day" type="1">
+            <date>11-01</date>
+        </festival>
+
+        <festival name="Kerstmis" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="土耳其" nickName="Turkey" region="TR">
+        <festival name="Yeni Yılın İlk Günü" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Ulusal Egemenlik ve Çocuk Bayramı" level="0" nickName="National Sovereignty and Children's Day" type="1">
+            <date>04-23</date>
+        </festival>
+
+        <festival name="Emek ve Dayanışma Günü" level="0" nickName="Labor and Solidarity Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="Atatürk'ü Anma, Gençlik ve Spor Bayramı" level="0" nickName="Commemoration of Atatürk, Youth and Sports Day" type="1">
+            <date>05-19</date>
+        </festival>
+
+        <festival name="Zafer Bayramı" level="0" nickName="Victory Day" type="1">
+            <date>08-30</date>
+        </festival>
+
+        <festival name="Cumhuriyet Bayramı Arefesi" level="0" nickName="Republic Day Eve" type="1">
+            <date>10-28</date>
+        </festival>
+
+        <festival name="Cumhuriyet Bayramı" level="0" nickName="Republic Day" type="1">
+            <date>10-29</date>
+        </festival>
+    </country>
+
+    <country name="突尼斯" nickName="Tunisia" region="TN">
+        <festival name="عيد رأس السنة" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="عيد الثورة والشباب" level="0" nickName="Revolution and Youth Day" type="1">
+            <date>01-14</date>
+        </festival>
+
+        <festival name="عيد الاستقلال" level="0" nickName="Independence Day" type="1">
+            <date>03-20</date>
+        </festival>
+
+        <festival name="يوم الشهداء" level="0" nickName="Martyrs' Day" type="1">
+            <date>04-09</date>
+        </festival>
+
+        <festival name="عيد العمال" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="عيد الجمهورية" level="0" nickName="Republic Day" type="1">
+            <date>07-25</date>
+        </festival>
+
+        <festival name="عيد المرأة والأسرة" level="0" nickName="Women's and Family Day" type="1">
+            <date>08-13</date>
+        </festival>
+
+        <festival name="عيد الجلاء" level="0" nickName="Evacuation Day" type="1">
+            <date>10-15</date>
+        </festival>
+    </country>
+
+    <country name="尼日利亚" nickName="Nigeria" region="NG">
+        <festival name="New Year's Day" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+        <festival name="Workers' Day" level="0" nickName="Workers' Day" type="1">
+            <date>05-01</date>
+        </festival>
+        <festival name="Children's Day" level="0" nickName="Children's Day" type="1">
+            <date>05-27</date>
+        </festival>
+        <festival name="Democracy Day" level="0" nickName="Democracy Day" type="1">
+            <date>06-12</date>
+        </festival>
+        <festival name="Independence Day" level="0" nickName="National Day" type="1">
+            <date>10-01</date>
+        </festival>
+        <festival name="Christmas Day" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+        <festival name="Boxing Day" level="0" nickName="Boxing Day" type="1">
+            <date>12-26</date>
+        </festival>
+    </country>
+
+    <country name="瑞士" nickName="Switzerland" region="CH">
+        <festival name="Neujahr" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="Schweizer Bundesfeier" level="0" nickName="National Day" type="1">
+            <date>08-01</date>
+        </festival>
+
+        <festival name="Weihnachten" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="乌克兰" nickName="Ukraine" region="UA">
+        <festival name="Новий рік" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+        </festival>
+
+        <festival name="День Праці" level="0" nickName="Labour Day" type="1">
+            <date>05-01</date>
+        </festival>
+
+        <festival name="День Перемоги" level="0" nickName="Victory Day" type="1">
+            <date>05-09</date>
+        </festival>
+
+        <festival name="День Конституції України" level="0" nickName="Constitution Day" type="1">
+            <date>06-28</date>
+        </festival>
+
+        <festival name="День Незалежності України" level="0" nickName="Independence Day" type="1">
+            <date>08-24</date>
+        </festival>
+    </country>
+
+    <country name="墨西哥" nickName="Mexico" region="MX">
+        <festival name="Anio Nuevo" level="0" nickName="New Year's Day" type="1">
+            <date>12-31</date>
+            <date>01-01</date>
+        </festival>
+        <festival name="Dia de la Constitucion Mexicana" level="0" nickName="Mexican Constitution Day" type="1">
+            <date>2020-02-05</date>
+        </festival>
+        <festival name="Natalicio de Benito Juarez" level="0" nickName="Benito Juárez's Birthday Memorial" type="1">
+            <date>2018-03-21</date>
+            <date>2019-03-18</date>
+            <date>2020-03-16</date>
+        </festival>
+        <festival name="Dia de Trabajo" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+        <festival name="Dia de la Independencia" level="0" nickName="Independence Day" type="1">
+            <date>09-16</date>
+        </festival>
+        <festival name="Dia de la Revolucion" level="0" nickName="Mexican Liberation Day" type="1">
+            <date>2018-11-19</date>
+            <date>2019-11-18</date>
+            <date>2020-11-16</date>
+        </festival>
+        <festival name="Navidad" level="0" nickName="Christmas Day" type="1">
+            <date>12-24</date>
+            <date>12-25</date>
+        </festival>
+    </country>
+
+    <country name="罗马尼亚" nickName="Romania" region="RO">
+        <festival name="Anul Nou" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+            <date>01-02</date>
+        </festival>
+        <festival name="Unirea Principatelor Romane" level="0" nickName="Unification Day" type="1">
+            <date>01-24</date>
+        </festival>
+        <festival name="Ziua Muncii" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+        <festival name="Ziua Copilului" level="0" nickName="Children‘s Day" type="1">
+            <date>06-01</date>
+        </festival>
+        <festival name="Adormirea Maicii Domnului" level="0" nickName="St Mary's Day" type="1">
+            <date>08-15</date>
+        </festival>
+        <festival name="Sfantul Andrei" level="0" nickName="St Andrew's Day" type="1">
+            <date>11-30</date>
+        </festival>
+        <festival name="Ziua Nationala a Romaniei" level="0" nickName="National holiday" type="1">
+            <date>12-01</date>
+        </festival>
+        <festival name="Craciun" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+            <date>12-26</date>
+        </festival>
+    </country>
+    <country name="罗马尼亚" nickName="Romania" region="RO">
+        <festival name="Anul Nou" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+            <date>01-02</date>
+        </festival>
+        <festival name="Unirea Principatelor Romane" level="0" nickName="Unification Day" type="1">
+            <date>01-24</date>
+        </festival>
+        <festival name="Ziua Muncii" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+        <festival name="Ziua Copilului" level="0" nickName="Children‘s Day" type="1">
+            <date>06-01</date>
+        </festival>
+        <festival name="Adormirea Maicii Domnului" level="0" nickName="St Mary's Day" type="1">
+            <date>08-15</date>
+        </festival>
+        <festival name="Sfantul Andrei" level="0" nickName="St Andrew's Day" type="1">
+            <date>11-30</date>
+        </festival>
+        <festival name="Ziua Nationala a Romaniei" level="0" nickName="National holiday" type="1">
+            <date>12-01</date>
+        </festival>
+        <festival name="Craciun" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+            <date>12-26</date>
+        </festival>
+    </country>
+
+    <country name="罗马尼亚" nickName="Romania" region="RO">
+        <festival name="Anul Nou" level="0" nickName="New Year's Day" type="1">
+            <date>01-01</date>
+            <date>01-02</date>
+        </festival>
+        <festival name="Unirea Principatelor Romane" level="0" nickName="Unification Day" type="1">
+            <date>01-24</date>
+        </festival>
+        <festival name="Ziua Muncii" level="0" nickName="Labor Day" type="1">
+            <date>05-01</date>
+        </festival>
+        <festival name="Ziua Copilului" level="0" nickName="Children‘s Day" type="1">
+            <date>06-01</date>
+        </festival>
+        <festival name="Adormirea Maicii Domnului" level="0" nickName="St Mary's Day" type="1">
+            <date>08-15</date>
+        </festival>
+        <festival name="Sfantul Andrei" level="0" nickName="St Andrew's Day" type="1">
+            <date>11-30</date>
+        </festival>
+        <festival name="Ziua Nationala a Romaniei" level="0" nickName="National holiday" type="1">
+            <date>12-01</date>
+        </festival>
+        <festival name="Craciun" level="0" nickName="Christmas Day" type="1">
+            <date>12-25</date>
+            <date>12-26</date>
+        </festival>
+    </country>
+</filter-conf>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:bottomLeftRadius="@dimen/main_select_album_list_bg_radius_size" android:bottomRightRadius="@dimen/main_select_album_list_bg_radius_size" />
+    <solid android:color="@color/base_gallery_background_color" />
+</shape>

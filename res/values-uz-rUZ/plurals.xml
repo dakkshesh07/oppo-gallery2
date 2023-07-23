@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d ta fotosurat yuklanmoqda va ularni qoʻshish imkonsiz.</item>
+        <item quantity="one">%d ta fotosurat yuklanmoqda va ularni qoʻshish imkonsiz.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d ta bank kartasi</item>
+        <item quantity="one">%1$d ta bank kartasi</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d IDlar</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d ta elementni butunlay oʻchirib tashlash</item>
+        <item quantity="one">%d ta elementni butunlay oʻchirib tashlash</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d ta elementni oʻchirish</item>
+        <item quantity="one">%d ta elementni oʻchirish</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d ta surat</item>
+        <item quantity="one">%1$d ta surat</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Quyidagi suratlar topildi: %s. Osonroq kirish uchun ularni “Karta jildi” albomiga koʻchirishingiz mumkin.</item>
+        <item quantity="one">Quyidagi suratlar topildi: %s. Osonroq kirish uchun uni “Karta jildi” albomiga koʻchirishingiz mumkin.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s surati “Kartalar jildi” albomiga olindi</item>
+        <item quantity="one">%1$s surati “Kartalar jildi” albomiga olindi</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d ta chek/kvitansiya</item>
+        <item quantity="one">%1$d ta chek/kvitansiya</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Belgilangan elementlar ushbu albomda mavjud</item>
+        <item quantity="one">Belgilangan element ushbu albomda mavjud</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d ta element</item>
+        <item quantity="one">%d ta element</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d ta surat yuklanmoqda va ularni koʻchirish imkonsiz</item>
+        <item quantity="one">%d ta surat yuklanmoqda va ularni koʻchirish imkonsiz</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d ta kishi</item>
+        <item quantity="one">%1$d ta kishi</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Suratlar koʻchirildi. Videolarni ushbu albomga koʻchirish imkonsiz.</item>
+        <item quantity="one">Surat koʻchirildi. Videolarni ushbu albomga koʻchirish imkonsiz.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d ta elementni tiklash</item>
+        <item quantity="one">%d ta elementni tiklash</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ta fotosurat</item>
+        <item quantity="one">%1$d ta fotosurat</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$dVideo</item>
+        <item quantity="one">%1$dVideo</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d ta element tanlandi</item>
+        <item quantity="one">%1$d ta element tanlandi</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d ta albom belgilandi</item>
+        <item quantity="one">%1$d ta albom belgilandi</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d kishi tanlandi</item>
+        <item quantity="one">%1$d kishi tanlandi</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">Belgilandi: %1$d</item>
+        <item quantity="one">Belgilandi: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d ta xotira tanlandi</item>
+        <item quantity="one">%1$d ta xotira tanlandi</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d ta video tanlandi</item>
+        <item quantity="one">%1$d ta video tanlandi</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$dVideo</item>
+        <item quantity="one">%1$dVideo</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batareya quvvati %1$s dan kam. %2$d ta element yuklab olinmadi. Telefoningizni quvvatlang.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam. %2$d ta element yuklab olinmadi. Telefoningizni quvvatlang.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklab olinmadi. Qurilmangizni quvvatlang.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklab olinmadi. Qurilmangizni quvvatlang.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Tarmoqqa ulanmagansiz. %1$d ta element yuklab olinmadi. %2$s.</item>
+        <item quantity="one">Tarmoqqa ulanmagansiz. %1$d ta element yuklab olinmadi. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Tarmoq aloqasi mavjud emas. %1$d ta element yuklab olinmadi. %2$s yoki %3$s.</item>
+        <item quantity="one">Tarmoq aloqasi mavjud emas. %1$d ta element yuklab olinmadi. %2$s yoki %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Tarmoqqa ulanmagansiz. %1$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Tarmoqqa ulanmagansiz. %1$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Tarmoqqa ulanmagansiz. %1$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Tarmoqqa ulanmagansiz. %1$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Xotirada joy kam. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Xotirada joy kam. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Qurilma xotirasida joy kam. %1$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Qurilma xotirasida joy kam. %1$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Tarmoqda xatolik yuz berdi. %1$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Tarmoqda xatolik yuz berdi. %1$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Tarmoqda xatolik yuz berdi. %1$d ta element yuklab olinmadi.</item>
+        <item quantity="one">Tarmoqda xatolik yuz berdi. %1$d ta element yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Xotirada joy kam. %1$d ta suratning asl nusxasi yuklab olinmadi.</item>
+        <item quantity="one">Xotirada joy kam. %1$d ta suratning asl nusxasi yuklab olinmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d ta surat sinxronlanmadi.Bulutdagi xotira joyini kengaytiring.</item>
+        <item quantity="one">%1$d ta surat sinxronlanmadi. Bulutdagi xotirada joy qolmagan.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d ta fotosurat sinxronlanmadi. Batareya quvvati %2$s dan kam bo‘lganida bulutga sinxronlash to‘xtatib turiladi.</item>
+        <item quantity="one">%1$d ta fotosurat sinxronlanmadi. Batareya quvvati%2$s dan kam bo‘lganida bulutga sinxronlash to‘xtatib turiladi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d ta fotosurat sinxronlanmadi. Cloud sinxronizatsiyasi quvvat tejash rejimida pauzalandi.</item>
+        <item quantity="one">%1$d ta fotosurat sinxronlanmadi. Cloud sinxronizatsiyasi quvvat tejash rejimida faolsizlantirildi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Cloud xotirasida joy qolmagan. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Cloud xotirasida joy qolmagan. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklanmadi.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batareya quvvati %1$s dan kam. %2$d ta element yuklanmadi. Telefoningizni quvvatlang.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam. %2$d ta element yuklanmadi. Telefoningizni quvvatlang.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklanmadi. Qurilmangizni quvvatlang.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklanmadi. Qurilmangizni quvvatlang.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklanmadi.</item>
+        <item quantity="one">Batareya quvvati %1$s dan kam qolgan. %2$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Quvvat tejash rejimi yoqilgan. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Cloud xotirasida joy qolmagan. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Cloud xotirasida joy qolmagan. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d ta video sinxronlanmadi. Bulut xotirasi to‘lgan.</item>
+        <item quantity="one">%1$d ta video sinxronlanmadi. Bulut xotirasi to‘lgan.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d ta video sinxronlanmadi. Batareya quvvati %2$s dan kam bo‘lganida bulutga sinxronlash to‘xtatib turiladi.</item>
+        <item quantity="one">%1$d ta video sinxronlanmadi. Batareya quvvati%2$s dan kam bo‘lganida bulutga sinxronlash to‘xtatib turiladi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d ta video sinxronlanmadi. Cloud sinxronizatsiyasi quvvat tejash rejimida pauzalandi.</item>
+        <item quantity="one">%1$d ta video sinxronlanmadi. Cloud sinxronizatsiyasi quvvat tejash rejimida faolsizlantirildi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d ta surat sinxronlanmadi.</item>
+        <item quantity="one">%1$d ta surat sinxronlanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Tarmoq aloqasi mavjud emas. %1$d ta element yuklanmadi. %2$s.</item>
+        <item quantity="one">Tarmoq aloqasi mavjud emas. %1$d ta element yuklanmadi. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Tarmoq aloqasi mavjud emas. %1$d ta element yuklanmadi. %2$s yoki %3$s.</item>
+        <item quantity="one">Tarmoq aloqasi mavjud emas. %1$d ta element yuklanmadi. %2$s yoki %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Tarmoqqa ulanmagansiz. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Tarmoqqa ulanmagansiz. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Tarmoqqa ulanmagansiz. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Tarmoqqa ulanmagansiz. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d ta video sinxronlanmadi</item>
+        <item quantity="one">%1$d ta video sinxronlanmadi</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Tarmoqda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Tarmoqda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Tarmoqda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Tarmoqda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Xizmatda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Xizmatda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Xizmatda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+        <item quantity="one">Xizmatda xatolik yuz berdi. %1$d ta element yuklanmadi.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d ta element kiritilmadi</item>
+        <item quantity="one">%d ta element kiritilmadi</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d ta fotosurat yuklanmoqda va maxfiy qilib belgilanmaydi.</item>
+        <item quantity="one">%d ta fotosurat yuklanmoqda va maxfiy qilib belgilanmaydi.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d soat</item>
+        <item quantity="one">%d soat</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d ta element</item>
+        <item quantity="one">%d ta element</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d daqiqa</item>
+        <item quantity="one">%d daqiqa</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d soniya</item>
+        <item quantity="one">%d soniya</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d kun</item>
+        <item quantity="one">%1$d kun</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ta fotosurat</item>
+        <item quantity="one">%1$d ta fotosurat</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$dVideo</item>
+        <item quantity="one">%1$dVideo</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d ta surat yuklanmoqda</item>
+        <item quantity="one">%d ta surat yuklanmoqda</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d mm dan katta boʻlishi kerak</item>
+        <item quantity="one">%1$d mm dan katta boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d px dan katta boʻlishi kerak</item>
+        <item quantity="one">%1$d px dan katta boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d mm dan kichik boʻlishi kerak</item>
+        <item quantity="one">%1$d mm dan kichik boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d px dan kichik boʻlishi kerak</item>
+        <item quantity="one">%1$d px dan kichik boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB dan katta boʻlishi kerak</item>
+        <item quantity="one">%1$d KB dan katta boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB dan kichik boʻlishi kerak</item>
+        <item quantity="one">%1$d KB dan kichik boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d mm dan katta boʻlishi kerak</item>
+        <item quantity="one">%1$d mm dan katta boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d px dan katta boʻlishi kerak</item>
+        <item quantity="one">%1$d px dan katta boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d mm dan kichik boʻlishi kerak</item>
+        <item quantity="one">%1$d mm dan kichik boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d px dan kichik boʻlishi kerak</item>
+        <item quantity="one">%1$d px dan kichik boʻlishi kerak</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Faqat tanlangan %d ta suratlar saqlab qolinsin</item>
+        <item quantity="one">Faqat belgilangan %d ta surat saqlab qolinsin</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d ta elementni oʻchirish</item>
+        <item quantity="one">%d ta elementni oʻchirish</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">Belgilandi: %1$d</item>
+        <item quantity="one">%1$d tasi tanlandi</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d ta albom belgilandi</item>
+        <item quantity="one">%1$d ta albom belgilandi</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">Belgilandi: %1$d</item>
+        <item quantity="one">Belgilandi: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d ta stiker tanlandi</item>
+        <item quantity="one">%1$d ta stiker tanlandi</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d ta video tanlandi</item>
+        <item quantity="one">%1$d ta video tanlandi</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d ta fotosurat yuklanmoqda va ularni oʻchirish imkonsiz.</item>
+        <item quantity="one">%d ta fotosurat yuklanmoqda va ularni oʻchirish imkonsiz.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d tasini o‘chirib bo‘lmadi. Qayta urining</item>
+        <item quantity="one">%1$d tasini o‘chirib bo‘lmadi. Qayta urining</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d ta yangi bildirishnoma</item>
+        <item quantity="one">%d ta yangi bildirishnoma</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d ta fotosurat</item>
+        <item quantity="one">%1$d ta surat</item>
+    </plurals>
+</resources>

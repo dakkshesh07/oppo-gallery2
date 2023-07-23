@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">ဓာတ္ပံု %d ပံုကို ေဒါင္းလုဒ္လုပ္ေနဆဲျဖစ္၍ ေပါင္းထည့္၍မရပါ။</item>
+        <item quantity="one">ဓာတ္ပံု %d ပံုကို ေဒါင္းလုဒ္လုပ္ေနဆဲျဖစ္၍ ေပါင္းထည့္၍မရပါ။</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d ခု အၿပီးဖ်က္မည္</item>
+        <item quantity="one">%d ခု အၿပီးဖ်က္မည္</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">ဓာတ္ပံု %1$d ပံု</item>
+        <item quantity="one">ဓာတ္ပံု %1$d ပံု</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d ခု</item>
+        <item quantity="one">%d ခု</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">လူ %1$d ဦး</item>
+        <item quantity="one">လူ %1$d ဦး</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ပံု</item>
+        <item quantity="one">%1$d ပံု</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">ဗီဒီယို %1$d ကား</item>
+        <item quantity="one">ဗီဒီယို %1$d ကား</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d ခု ေရြးထားသည္</item>
+        <item quantity="one">%1$d ခု ေရြးထား</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">အယ္လ္ဘမ္ %1$d ခု ေရြးထားသည္</item>
+        <item quantity="one">အယ္လ္ဘမ္ %1$d ခု ေရြးထားသည္</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d ဦး ေရြးထား</item>
+        <item quantity="one">%1$d ဦး ေရြးထား</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d ပံု ေရြးထားသည္</item>
+        <item quantity="one">%1$d ပံု ေရြးထားသည္</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">အမွတ္တရ %1$d ခုကို ေ႐ြးခ်ယ္ထားသည္</item>
+        <item quantity="one">အမွတ္တရ %1$d ခုကို ေ႐ြးခ်ယ္ထားသည္</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d ကား ေရြးထား</item>
+        <item quantity="one">%1$d ကား ေရြးထား</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">ဗီဒီယို %1$d ကား</item>
+        <item quantity="one">ဗီဒီယို %1$d ကား</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">ဘက္ထရီမွာ %1$s ေအာက္ ေလ်ာ့နည္းေနသည္။ အိုင္တမ္ %2$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+        <item quantity="one">ဘက္ထရီမွာ %1$s ေအာက္ ေလ်ာ့နည္းေနသည္။ အိုင္တမ္ %2$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ဘက္ထရီ %1$s ထက္ နည္းေနပါၿပီ။ %2$d ခု ေဒါင္းလုဒ္မလုပ္ခဲ့ပါ။ သင့္ဖုန္းကို အားသြင္းေပးပါ။</item>
+        <item quantity="one">ဘက္ထရီ %1$s ထက္ နည္းေနပါၿပီ။ %2$d ခု ေဒါင္းလုဒ္မလုပ္ခဲ့ပါ။ သင့္ဖုန္းကို အားသြင္းေပးပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">ပါဝါေခၽြတာမုဒ္ကို ဖြင့္ထားသည္။ အိုင္တမ္ %1$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+        <item quantity="one">ပါဝါေခၽြတာမုဒ္ကို ဖြင့္ထားသည္။ အိုင္တမ္ %1$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">ကြန္ရက္ခ်ိတ္ဆက္မႈ မရွိပါ။ %1$d ခုကို ေဒါင္းလုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။ %2$s။</item>
+        <item quantity="one">ကြန္ရက္ခ်ိတ္ဆက္မႈ မရွိပါ။ %1$d ခုကို ေဒါင္းလုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။ %2$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">ကြန္ရက္ ခ်ိတ္ဆက္မႈ မရွိပါ။ အိုင္တမ္ %1$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။ %2$s သုိ႔မဟုတ္ %3$s။</item>
+        <item quantity="one">ကြန္ရက္ ခ်ိတ္ဆက္မႈ မရွိပါ။ အိုင္တမ္ %1$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။ %3$s သို႔မဟုတ္ %2$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">ကြန္ရက္ခ်ိတ္ဆက္မႈ မရွိပါ။ %1$d ခုကို ေဒါင္းလုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။</item>
+        <item quantity="one">ကြန္ရက္ခ်ိတ္ဆက္မႈ မရွိပါ။ %1$d ခုကို ေဒါင္းလုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">ကေလာက္ဒ္ သိုေလွာင္ခန္း မလုံေလာက္ပါ။ အိုင္တမ္ %1$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+        <item quantity="one">ကေလာက္ဒ္ သိုေလွာင္ခန္း မလုံေလာက္ပါ။ အိုင္တမ္ %1$d ခုကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">ဝန္ေဆာင္မႈ ခြ်တ္ယြင္းေနသည္။ %1$d ခု ေဒါင္းလုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။</item>
+        <item quantity="one">ဝန္ေဆာင္မႈ ခြ်တ္ယြင္းေနသည္။ %1$d ခု ေဒါင္းလုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">ကေလာက္ဒ္ သိုေလွာင္ခန္း မလုံေလာက္ပါ။ မူရင္း ဓာတ္ပုံ %1$d ပုံကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+        <item quantity="one">ကေလာက္ဒ္ သိုေလွာင္ခန္း မလုံေလာက္ပါ။ %1$d မူရင္း ဓာတ္ပုံကို ေဒါင္းလုဒ္လုပ္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။ ကေလာက္ဒ္ သိုေလွာင္ခန္း ျပည့္ေနသည္။</item>
+        <item quantity="one">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။ ကေလာက္ဒ္ သိုေလွာင္ခန္း ျပည့္ေနသည္။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။ ဘက္ထရီ %2$s ေအာက္ ေလ်ာ့နည္းခ်ိန္တြင္ ကေလာက္ဒ္စင့္ခ္ကို ရပ္ထားသည္။</item>
+        <item quantity="one">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။ ဘက္ထရီ %2$s ေအာက္ ေလ်ာ့နည္းခ်ိန္တြင္ ကေလာက္ဒ္စင့္ခ္ကို ရပ္ထားသည္။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။ ပါဝါေခြ်တာမုဒ္တြင္ ကေလာက္ဒ္သို႔ စင့္ခ္လုပ္ျခင္း ခဏရပ္သြားသည္။</item>
+        <item quantity="one">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။ ပါဝါေခြ်တာမုဒ္တြင္ ကေလာက္ဒ္သို႔ စင့္ခ္လုပ္ျခင္း ခဏရပ္သြားသည္။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">ကေလာက္ဒ္ သိုေလွာင္ခန္း ျပည့္ေနသည္။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္တင္မထားပါ။</item>
+        <item quantity="one">ကေလာက္ဒ္ သိုေလွာင္ခန္း ျပည့္ေနသည္။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္တင္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">ဘက္ထရီမွာ %1$s ေအာက္ ေလ်ာ့နည္းေနသည္။ အိုင္တမ္ %2$d ခုကို အပ္လုဒ္တင္မထားပါ။</item>
+        <item quantity="one">ဘက္ထရီမွာ %1$s ေအာက္ ေလ်ာ့နည္းေနသည္။ အိုင္တမ္ %2$d ခုကို အပ္လုဒ္လုပ္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ဘက္ထရီ %1$s ထက္ နည္းေနပါၿပီ။ %2$d ခု အပ္လုဒ္မတင္ခဲ့ပါ။ သင့္ဖုန္းကို အားသြင္းေပးပါ။</item>
+        <item quantity="one">ဘက္ထရီ %1$s ထက္ နည္းေနပါၿပီ။ %2$d ခု အပ္လုဒ္မတင္ခဲ့ပါ။ သင့္ဖုန္းကို အားသြင္းေပးပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">ပါဝါေခၽြတာမုဒ္ကို ဖြင့္ထားသည္။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္လုပ္မထားပါ။</item>
+        <item quantity="one">ပါဝါေခၽြတာမုဒ္ကို ဖြင့္ထားသည္။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္လုပ္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">ဗီဒီယို %1$d ဖိုင္ကို စင့္ခ္လုပ္မထားပါ။ ကေလာက္ဒ္ သိုေလွာင္ခန္း ျပည့္ေနသည္။</item>
+        <item quantity="one">ဗီဒီယို %1$d ဖိုင္ကို စင့္ခ္လုပ္မထားပါ။ ကေလာက္ဒ္ သိုေလွာင္ခန္း ျပည့္ေနသည္။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">ဗီဒီယို %1$d ခု စင့္ခ္လုပ္မထားပါ။ ဘက္ထရီ %2$s ေအာက္ ေလ်ာ့နည္းခ်ိန္တြင္ ကေလာက္ဒ္စင့္ခ္ကို ရပ္ထားသည္။</item>
+        <item quantity="one">ဗီဒီယို %1$d ခု စင့္ခ္လုပ္မထားပါ။ ဘက္ထရီ %2$s ေအာက္ ေလ်ာ့နည္းခ်ိန္တြင္ ကေလာက္ဒ္စင့္ခ္ကို ရပ္ထားသည္။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">ဗီဒီယို %1$d ခု စင့္ခ္လုပ္မထားပါ။ ပါဝါေခြ်တာမုဒ္တြင္ ကေလာက္ဒ္သို႔ စင့္ခ္လုပ္ျခင္း ခဏရပ္သြားသည္။</item>
+        <item quantity="one">ဗီဒီယို %1$d ခု စင့္ခ္လုပ္မထားပါ။ ပါဝါေခြ်တာမုဒ္တြင္ ကေလာက္ဒ္သို႔ စင့္ခ္လုပ္ျခင္း ခဏရပ္သြားသည္။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။</item>
+        <item quantity="one">ဓာတ္ပုံ %1$d ပုံ စင့္ခ္လုပ္မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">ကြန္ရက္ ခ်ိတ္ဆက္မႈ မရွိပါ။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္တင္မထားပါ။ %2$s။</item>
+        <item quantity="one">ကြန္ရက္ ခ်ိတ္ဆက္မႈ မရွိပါ။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္တင္မထားပါ။%2$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">ကြန္ရက္ ခ်ိတ္ဆက္မႈ မရွိပါ။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္တင္မထားပါ။ %2$s သို႔မဟုတ္ %3$s။</item>
+        <item quantity="one">ကြန္ရက္ ခ်ိတ္ဆက္မႈ မရွိပါ။ အိုင္တမ္ %1$d ခုကို အပ္လုဒ္တင္မထားပါ။ %2$s သို႔မဟုတ္ %3$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">ကြန္ရက္ခ်ိတ္ဆက္မႈ မရွိပါ။ %1$d ခုကို အပ္လုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။</item>
+        <item quantity="one">ကြန္ရက္ခ်ိတ္ဆက္မႈ မရွိပါ။ %1$d ခုကို အပ္လုဒ္ မလုပ္ျဖစ္ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">ဗီဒီယို %1$d ခု စင့္ခ္လုပ္မထားပါ</item>
+        <item quantity="one">ဗီဒီယို %1$d ခု စင့္ခ္လုပ္မထားပါ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">ကြန္ရက္ ခြ်တ္ယြင္းေနသည္။ အမယ္ %1$d ခုကို အပ္လုဒ္မတင္ျဖစ္ခဲ့ပါ။</item>
+        <item quantity="one">ကြန္ရက္ ခြ်တ္ယြင္းေနသည္။ အမယ္ %1$d ခုကို အပ္လုဒ္မတင္ျဖစ္ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">ဝန္ေဆာင္မႈ ခြ်တ္ယြင္းေနသည္။ %1$d ခု အပ္လုဒ္မတင္ျဖစ္ခဲ့ပါ။</item>
+        <item quantity="one">ဝန္ေဆာင္မႈ ခြ်တ္ယြင္းေနသည္။ %1$d ခု အပ္လုဒ္မတင္ျဖစ္ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d ခု ထည့္ရန္ မေအာင္ျမင္ပါ</item>
+        <item quantity="one">%d ခု ထည့္ရန္ မေအာင္ျမင္ပါ</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">ဓာတ္ပံု %d ပံုကို ေဒါင္းလုဒ္လုပ္ေနဆဲျဖစ္၍ မိမိသီးသန္႔အျဖစ္ သတ္မွတ္၍မရပါ။</item>
+        <item quantity="one">ဓာတ္ပံု %d ပံုကို ေဒါင္းလုဒ္လုပ္ေနဆဲျဖစ္၍ မိမိသီးသန္႔အျဖစ္ သတ္မွတ္၍မရပါ။</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d နာရီ</item>
+        <item quantity="one">%d နာရီ</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d ခု</item>
+        <item quantity="one">%d ခု</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d မိနစ္</item>
+        <item quantity="one">%d မိနစ္</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d စကၠန႔္</item>
+        <item quantity="one">%d စကၠန႔္</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ပံု</item>
+        <item quantity="one">%1$d ပံု</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">ဗီဒီယို %1$d ကား</item>
+        <item quantity="one">ဗီဒီယို %1$d ကား</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">ဓာတ္ပုံ %d ပုံကို လုပ္ေဆာင္ေနသည္</item>
+        <item quantity="one">ဓာတ္ပုံ %d ပုံကို လုပ္ေဆာင္ေနသည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d mm ထက္ ပိုမ်ားရမည္</item>
+        <item quantity="one">%1$d mm ထက္ ပိုမ်ားရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d px ထက္ ပိုမ်ားရမည္</item>
+        <item quantity="one">%1$d px ထက္ ပိုမ်ားရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d mm ထက္ ပိုေသးရမည္</item>
+        <item quantity="one">%1$d mm ထက္ ပိုေသးရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d px ထက္ ပိုေသးရမည္</item>
+        <item quantity="one">%1$d px ထက္ ပိုေသးရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB ထက္ ပိုမ်ားရမည္</item>
+        <item quantity="one">%1$d KB ထက္ ပိုမ်ားရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB ထက္ ပိုေသးရမည္</item>
+        <item quantity="one">%1$d KB ထက္ ပိုေသးရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d mm ထက္ ပိုမ်ားရမည္</item>
+        <item quantity="one">%1$d mm ထက္ ပိုမ်ားရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d px ထက္ ပိုမ်ားရမည္</item>
+        <item quantity="one">%1$d px ထက္ ပိုမ်ားရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d mm ထက္ ပိုေသးရမည္</item>
+        <item quantity="one">%1$d mm ထက္ ပိုေသးရမည္</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d px ထက္ ပိုေသးရမည္</item>
+        <item quantity="one">%1$d px ထက္ ပိုေသးရမည္</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">ေရြးခ်ယ္ထားေသာ ဓာတ္ပံု %d ပံုကိုသာ သိမ္းပါ</item>
+        <item quantity="one">ေရြးခ်ယ္ထားေသာ ဓာတ္ပံု %d ပံုကိုသာ သိမ္းပါ</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d ခု ဖ်က္ပါ</item>
+        <item quantity="one">%d ခု ဖ်က္ပါ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d ခု ေရြးထား</item>
+        <item quantity="one">%1$d ခု ေရြးထားသည္</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">အယ္လ္ဘမ္ %1$d ခု ေရြးထားသည္</item>
+        <item quantity="one">အယ္လ္ဘမ္ %1$d ခု ေရြးထားသည္</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d ပံု ေရြးထားသည္</item>
+        <item quantity="one">%1$d ခု ေရြးထား</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">စတစ္ကာ %1$d ခု ေရြးထား</item>
+        <item quantity="one">စတစ္ကာ %1$d ခု ေရြးထား</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d ကား ေရြးထား</item>
+        <item quantity="one">%1$d ကား ေရြးထား</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">ဓာတ္ပံု %d ပံုကို ေဒါင္းလုဒ္လုပ္ေနဆဲျဖစ္၍ ဖ်က္၍မရပါ။</item>
+        <item quantity="one">ဓာတ္ပံု %d ပံုကို ေဒါင္းလုဒ္လုပ္ေနဆဲျဖစ္၍ ဖ်က္၍မရပါ။</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d ခု ဖ်က္ရန္ မေအာင္ျမင္ပါ။ ေက်းဇူးျပဳ၍ ထပ္ႀကိဳးစားပါ</item>
+        <item quantity="one">%1$d ခု ဖ်က္ရန္ မေအာင္ျမင္ပါ ေက်းဇူးျပဳ၍ ထပ္ႀကိဳးစားပါ</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">အသိေပးခ်က္အသစ္မ်ား %d ခု</item>
+        <item quantity="one">အသိေပးခ်က္အသစ္ %d ခု</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d ပံု</item>
+        <item quantity="one">ဓာတ္ပံု %1$d ပံု</item>
+    </plurals>
+</resources>

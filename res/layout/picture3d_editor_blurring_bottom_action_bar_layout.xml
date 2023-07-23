@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.picture_lib.photoeditor.widget.EditorBottomActionBar android:background="@color/picture3d_bottom_action_bar_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent" app:picture3d_actionUseText="false" app:picture3d_titleText="@string/picture3d_editor_text_blurring" app:picture3d_titleTintColor="@color/picture3d_editor_menu_text_color_normal"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

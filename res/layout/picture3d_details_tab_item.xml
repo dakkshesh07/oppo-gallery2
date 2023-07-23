@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/picture3d_details_tab_item_padding_tb" android:paddingBottom="@dimen/picture3d_details_tab_item_padding_tb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/picture3d_details_tab_item_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/picture3d_details_table_text_size" android:textColor="@color/picture3d_details_dialog_tab_row_left_text_color" android:gravity="start" android:id="@id/details_tablerow_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" />
+        <TextView android:textSize="@dimen/picture3d_details_table_text_size" android:textColor="@color/picture3d_details_dialog_tab_row_left_text_color" android:gravity="start" android:id="@id/details_tablerow_separator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAlignment="viewStart" />
+    </LinearLayout>
+    <TextView android:textSize="@dimen/picture3d_details_table_text_size" android:textColor="@android:color/black" android:id="@id/details_tablerow_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/picture3d_details_table_row_right_margin_top" android:singleLine="false" android:textAlignment="viewStart" />
+</LinearLayout>

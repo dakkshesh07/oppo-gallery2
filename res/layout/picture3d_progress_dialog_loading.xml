@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:layout_gravity="center_horizontal" android:background="@drawable/picture3d_editor_loading_dialog_bg" android:layout_width="@dimen/picture3d_editor_loading_dialog_width" android:layout_height="@dimen/picture3d_editor_loading_dialog_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.widget.COUILoadingView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@null" app:couiLoadingViewColor="@color/picture3d_LoadingBlackViewColor" style="@style/picture3d_Editor.LoadingView" />
+</RelativeLayout>

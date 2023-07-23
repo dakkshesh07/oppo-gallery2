@@ -1,0 +1,844 @@
+živočich	-1	-1	-1	1	0	-1
+zvířátko	-1	-1	-1	1,2	0	-1
+živá bytost	-1	-1	-1	1	0	-1
+bytost	-1	-1	-1	1	0	-1
+živý tvor	-1	-1	-1	1	0	-1
+němá tvář	-1	-1	-1	1	0	-1
+němý tvor	-1	-1	-1	1	0	-1
+domácí zvíře	-1	-1	-1	2	0	-1
+mazlíček	-1	-1	-1	2	0	-1
+miláček	-1	-1	-1	2	0	-1
+domácí zvířátko	-1	-1	-1	2	0	-1
+fena	-1	-1	-1	3	0	-1
+štěně	-1	-1	-1	3	0	-1
+štěňátko	-1	-1	-1	3	0	-1
+domácí pes	-1	-1	-1	3	0	-1
+pejsek	-1	-1	-1	3	0	-1
+psíček	-1	-1	-1	3	0	-1
+hafan	-1	-1	-1	3	0	-1
+rafan	-1	-1	-1	3	0	-1
+psisko	-1	-1	-1	3	0	-1
+psík	-1	-1	-1	3	0	-1
+kotě	-1	-1	-1	4	0	-1
+kočička	-1	-1	-1	4	0	-1
+kočinda	-1	-1	-1	4	0	-1
+mňau	-1	-1	-1	4	0	-1
+číča	-1	-1	-1	4	0	-1
+kočkovitá šelma	-1	-1	-1	4	0	-1
+kocour	-1	-1	-1	4	0	-1
+mourek	-1	-1	-1	4	0	-1
+micka	-1	-1	-1	4	0	-1
+micinka	-1	-1	-1	4	0	-1
+čičí	-1	-1	-1	4	0	-1
+koťátko	-1	-1	-1	4	0	-1
+zeleň	-1	-1	-1	5,7,8,10	0	-1
+vegetace	-1	-1	-1	5	0	-1
+bylina	-1	-1	-1	5	0	-1
+bylinka	-1	-1	-1	5	0	-1
+kytka	-1	-1	-1	5,6	0	-1
+sazenice	-1	-1	-1	5	0	-1
+plodina	-1	-1	-1	5	0	-1
+rostlinstvo	-1	-1	-1	5	0	-1
+květinka	-1	-1	-1	6	0	-1
+květ	-1	-1	-1	6	0	-1
+kytička	-1	-1	-1	6	0	-1
+okrasa	-1	-1	-1	6	0	-1
+kvítí	-1	-1	-1	6	0	-1
+vůně	-1	-1	-1	6	0	-1
+květinový záhon	-1	-1	-1	6	0	-1
+kytice	-1	-1	-1	6	0	-1
+pugét	-1	-1	-1	6	0	-1
+puget	-1	-1	-1	6	0	-1
+buket	-1	-1	-1	6	0	-1
+aroma	-1	-1	-1	6	0	-1
+trávník	-1	-1	-1	7	0	-1
+stéblo	-1	-1	-1	7	0	-1
+zelený trávník	-1	-1	-1	7	0	-1
+pažit	-1	-1	-1	7	0	-1
+pastva	-1	-1	-1	7	0	-1
+drn	-1	-1	-1	7	0	-1
+osivo	-1	-1	-1	7	0	-1
+travina	-1	-1	-1	7	0	-1
+pastvina	-1	-1	-1	7	0	-1
+anglický trávník	-1	-1	-1	7	0	-1
+louka	-1	-1	-1	7	0	-1
+lučina	-1	-1	-1	7	0	-1
+paseka	-1	-1	-1	7	0	-1
+sekačka	-1	-1	-1	7	0	-1
+sekat	-1	-1	-1	7	0	-1
+sekáč	-1	-1	-1	7	0	-1
+břit	-1	-1	-1	7	0	-1
+mulč	-1	-1	-1	7	0	-1
+keř	-1	-1	-1	8	0	-1
+dřevina	-1	-1	-1	8	0	-1
+dřevo	-1	-1	-1	8	0	-1
+les	-1	-1	-1	8	0	-1
+lesík	-1	-1	-1	8	0	-1
+stromek	-1	-1	-1	8	0	-1
+kmen	-1	-1	-1	8	0	-1
+koruna	-1	-1	-1	8	0	-1
+kůra	-1	-1	-1	8	0	-1
+větev	-1	-1	-1	8	0	-1
+dříví	-1	-1	-1	8	0	-1
+hvozd	-1	-1	-1	8	0	-1
+alej	-1	-1	-1	8	0	-1
+dřevař	-1	-1	-1	8	0	-1
+dřevorubec	-1	-1	-1	8	0	-1
+lesník	-1	-1	-1	8	0	-1
+lesák	-1	-1	-1	8	0	-1
+park	-1	-1	-1	8,63	0	-1
+scenerie	-1	-1	-1	9	0	-1
+krajina	-1	-1	-1	9,10	0	-1
+výjev	-1	-1	-1	9	0	-1
+obraz	-1	-1	-1	9,85	0	-1
+příroda	-1	-1	-1	9	0	-1
+rozhled	-1	-1	-1	9	0	-1
+ráz krajiny	-1	-1	-1	9	0	-1
+krajinný ráz	-1	-1	-1	9	0	-1
+výhled	-1	-1	-1	9	0	-1
+malebný	-1	-1	-1	9	0	-1
+terén	-1	-1	-1	9	0	-1
+kraj	-1	-1	-1	9	0	-1
+krajinka	-1	-1	-1	9	0	-1
+rozhledna	-1	-1	-1	9,10	0	-1
+hůrka	-1	-1	-1	10	0	-1
+vrchol	-1	-1	-1	10	0	-1
+pohoří	-1	-1	-1	10	0	-1
+hory	-1	-1	-1	10	0	-1
+kopec	-1	-1	-1	10	0	-1
+vrch	-1	-1	-1	10	0	-1
+vrchovina	-1	-1	-1	10,10	0	-1
+hromada	-1	-1	-1	10	0	-1
+horstvo	-1	-1	-1	10	0	-1
+horský	-1	-1	-1	10	0	-1
+Alpy	-1	-1	-1	10	0	-1
+Krkonoše	-1	-1	-1	10	0	-1
+vysoké hory	-1	-1	-1	10	0	-1
+vysokohorský	-1	-1	-1	10	0	-1
+kopcovitý	-1	-1	-1	10	0	-1
+vysočina	-1	-1	-1	10	0	-1
+kopečky	-1	-1	-1	10	0	-1
+horal	-1	-1	-1	10	0	-1
+horolezec	-1	-1	-1	10	0	-1
+horská bouda	-1	-1	-1	10	0	-1
+oceán	-1	-1	-1	11	0	-1
+mořský	-1	-1	-1	11	0	-1
+přímořský	-1	-1	-1	11	0	-1
+mořská voda	-1	-1	-1	11	0	-1
+širé moře	-1	-1	-1	11	0	-1
+oceánský	-1	-1	-1	11	0	-1
+zaoceánský	-1	-1	-1	11	0	-1
+zámořský	-1	-1	-1	11	0	-1
+námořní	-1	-1	-1	11	0	-1
+námořník	-1	-1	-1	11	0	-1
+mořeplavba	-1	-1	-1	11	0	-1
+vlna	-1	-1	-1	11	0	-1
+vlnobití	-1	-1	-1	11	0	-1
+odliv	-1	-1	-1	11	0	-1
+příliv	-1	-1	-1	11	0	-1
+maják	-1	-1	-1	11	0	-1
+jachta	-1	-1	-1	11	0	-1
+dovolená	-1	-1	-1	11	0	-1
+stavba	-1	-1	-1	12	0	-1
+budova	-1	-1	-1	12	0	-1
+konstrukce	-1	-1	-1	12	0	-1
+stavění	-1	-1	-1	12	0	-1
+budování	-1	-1	-1	12	0	-1
+stavitelství	-1	-1	-1	12	0	-1
+stavebnictví	-1	-1	-1	12	0	-1
+architekt	-1	-1	-1	12	0	-1
+stavební sloh	-1	-1	-1	12	0	-1
+hostinec	-1	-1	-1	13	0	-1
+jídelna	-1	-1	-1	13	0	-1
+stravovna	-1	-1	-1	13	0	-1
+nálevna	-1	-1	-1	13,14	0	-1
+hospoda	-1	-1	-1	13,14	0	-1
+hospůdka	-1	-1	-1	13,14	0	-1
+kantýna	-1	-1	-1	13	0	-1
+kavárna	-1	-1	-1	13	0	-1
+cukrárna	-1	-1	-1	13	0	-1
+jídelní vůz	-1	-1	-1	13	0	-1
+bufet	-1	-1	-1	13	0	-1
+automat	-1	-1	-1	13	0	-1
+kafetérie	-1	-1	-1	13	0	-1
+jídelňák	-1	-1	-1	13	0	-1
+pití	-1	-1	-1	13,14	0	-1
+číšník	-1	-1	-1	13	0	-1
+kuchař	-1	-1	-1	13	0	-1
+klub	-1	-1	-1	14	0	-1
+noční klub	-1	-1	-1	14	0	-1
+lokál	-1	-1	-1	14	0	-1
+výčep	-1	-1	-1	14	0	-1
+pivnice	-1	-1	-1	14	0	-1
+krčma	-1	-1	-1	14	0	-1
+barman	-1	-1	-1	14	0	-1
+drink	-1	-1	-1	14	0	-1
+sportoviště	-1	-1	-1	15	0	-1
+hřiště	-1	-1	-1	15	0	-1
+stadion	-1	-1	-1	15	0	-1
+stadión	-1	-1	-1	15	0	-1
+závodiště	-1	-1	-1	15	0	-1
+dráha	-1	-1	-1	15,71	0	-1
+hrací plocha	-1	-1	-1	15	0	-1
+sportování	-1	-1	-1	15,45	0	-1
+soutěžení	-1	-1	-1	15	0	-1
+závodění	-1	-1	-1	15	0	-1
+závody	-1	-1	-1	15	0	-1
+fitness centrum	-1	-1	-1	16	0	-1
+fitness	-1	-1	-1	16	0	-1
+fitnes	-1	-1	-1	16	0	-1
+fitko	-1	-1	-1	16	0	-1
+sportovní centrum	-1	-1	-1	16	0	-1
+sportcentrum	-1	-1	-1	16	0	-1
+tělocvik	-1	-1	-1	16	0	-1
+tělesná výchova	-1	-1	-1	16	0	-1
+galerie	-1	-1	-1	17	0	-1
+galérie	-1	-1	-1	17	0	-1
+výstavní hala	-1	-1	-1	17	0	-1
+výstavní pavilon	-1	-1	-1	17	0	-1
+výstavní dvorana	-1	-1	-1	17	0	-1
+výstaviště	-1	-1	-1	17	0	-1
+výstavní prostory	-1	-1	-1	17	0	-1
+obrazárna	-1	-1	-1	17	0	-1
+historie	-1	-1	-1	17	0	-1
+umění	-1	-1	-1	17,48	0	-1
+vzdělávání	-1	-1	-1	17,66,67	0	-1
+nákupní středisko	-1	-1	-1	18	0	-1
+nákupák	-1	-1	-1	18	0	-1
+outlet	-1	-1	-1	18	0	-1
+nákupní areál	-1	-1	-1	18	0	-1
+prodejna	-1	-1	-1	18	0	-1
+obchod	-1	-1	-1	18	0	-1
+obchodní dům	-1	-1	-1	18	0	-1
+obchodní centrum	-1	-1	-1	18	0	-1
+obchoďák	-1	-1	-1	18	0	-1
+krám	-1	-1	-1	18	0	-1
+nakupování	-1	-1	-1	18	0	-1
+shop	-1	-1	-1	18	0	-1
+hala	-1	-1	-1	18	0	-1
+prodejní místnost	-1	-1	-1	18	0	-1
+e-shop	-1	-1	-1	18	0	-1
+obchodník	-1	-1	-1	18	0	-1
+prodejce	-1	-1	-1	18	0	-1
+velkoobchod	-1	-1	-1	18	0	-1
+tržby	-1	-1	-1	18	0	-1
+zákazníci	-1	-1	-1	18	0	-1
+prodejci	-1	-1	-1	18	0	-1
+zboží	-1	-1	-1	18	0	-1
+terminál	-1	-1	-1	19	0	-1
+odbavení	-1	-1	-1	19	0	-1
+letecká přeprava	-1	-1	-1	19	0	-1
+cestující	-1	-1	-1	19	0	-1
+náklad	-1	-1	-1	19	0	-1
+pilot	-1	-1	-1	19	0	-1
+dispečink	-1	-1	-1	19	0	-1
+letadlo	-1	-1	-1	19	0	-1
+šaty	-1	-1	-1	20	0	-1
+oděv	-1	-1	-1	20	0	-1
+oblek	-1	-1	-1	20	0	-1
+prádlo	-1	-1	-1	20	0	-1
+garderoba	-1	-1	-1	20	0	-1
+šat	-1	-1	-1	20	0	-1
+šatstvo	-1	-1	-1	20	0	-1
+odívání	-1	-1	-1	20	0	-1
+konfekce	-1	-1	-1	20	0	-1
+šití	-1	-1	-1	20	0	-1
+oblékání	-1	-1	-1	20	0	-1
+ošacení	-1	-1	-1	20	0	-1
+outfit	-1	-1	-1	20	0	-1
+móda	-1	-1	-1	20	0	-1
+střih	-1	-1	-1	20,69	0	-1
+ohoz	-1	-1	-1	20	0	-1
+styl	-1	-1	-1	20	0	-1
+roucho	-1	-1	-1	20	0	-1
+háv	-1	-1	-1	20	0	-1
+úbor	-1	-1	-1	20	0	-1
+uniforma	-1	-1	-1	20	0	-1
+kostým	-1	-1	-1	20	0	-1
+kroj	-1	-1	-1	20	0	-1
+toaleta	-1	-1	-1	20	0	-1
+pytel	-1	-1	-1	21	0	-1
+vak	-1	-1	-1	21	0	-1
+kabela	-1	-1	-1	21	0	-1
+kabelka	-1	-1	-1	21	0	-1
+peněženka	-1	-1	-1	21	0	-1
+batoh	-1	-1	-1	21	0	-1
+zavazadlo	-1	-1	-1	21	0	-1
+brašna	-1	-1	-1	21	0	-1
+nákupní taška	-1	-1	-1	21	0	-1
+příruční vak	-1	-1	-1	21	0	-1
+náprsní taška	-1	-1	-1	21	0	-1
+náprsenka	-1	-1	-1	21	0	-1
+mošna	-1	-1	-1	21	0	-1
+tlumok	-1	-1	-1	21	0	-1
+tobolka	-1	-1	-1	21	0	-1
+kufřík	-1	-1	-1	21	0	-1
+pouzdro	-1	-1	-1	21	0	-1
+kosmetické prostředky	-1	-1	-1	22	0	-1
+péče o pleť	-1	-1	-1	22	0	-1
+šminky	-1	-1	-1	22	0	-1
+make-up	-1	-1	-1	22	0	-1
+malování	-1	-1	-1	22	0	-1
+brejle	-1	-1	-1	23	0	-1
+obroučky	-1	-1	-1	23	0	-1
+cvikr	-1	-1	-1	23	0	-1
+skla	-1	-1	-1	23	0	-1
+dioptrické brýle	-1	-1	-1	23	0	-1
+sportovní brýle	-1	-1	-1	23	0	-1
+ochranné brýle	-1	-1	-1	23	0	-1
+pracovní brýle	-1	-1	-1	23	0	-1
+drahokamy	-1	-1	-1	24	0	-1
+šperky	-1	-1	-1	24	0	-1
+zlato	-1	-1	-1	24	0	-1
+stříbro	-1	-1	-1	24	0	-1
+drahé kameny	-1	-1	-1	24	0	-1
+bižuterie	-1	-1	-1	24	0	-1
+klenotnické zboží	-1	-1	-1	24	0	-1
+ornamenty	-1	-1	-1	24	0	-1
+ozdoby	-1	-1	-1	24	0	-1
+klenotnictví	-1	-1	-1	24	0	-1
+doprava	-1	-1	-1	25	0	-1
+přeprava	-1	-1	-1	25	0	-1
+převoz	-1	-1	-1	25,27	0	-1
+transport	-1	-1	-1	25	0	-1
+cestování	-1	-1	-1	25	0	-1
+ruch	-1	-1	-1	25	0	-1
+jízda	-1	-1	-1	25,45	0	-1
+veřejná doprava	-1	-1	-1	25	0	-1
+vůz	-1	-1	-1	26,70	0	-1
+vozidlo	-1	-1	-1	26,70	0	-1
+vozítko	-1	-1	-1	26	0	-1
+vozík	-1	-1	-1	26	0	-1
+auťák	-1	-1	-1	26,70	0	-1
+kára	-1	-1	-1	26,70	0	-1
+čtyřkolka	-1	-1	-1	26	0	-1
+dopravní prostředek	-1	-1	-1	26,70	0	-1
+povoz	-1	-1	-1	26,70	0	-1
+motorové vozidlo	-1	-1	-1	26,70	0	-1
+osobní vozidlo	-1	-1	-1	26,70	0	-1
+nákladní vozidlo	-1	-1	-1	26,70	0	-1
+osobák	-1	-1	-1	26,70	0	-1
+náklaďák	-1	-1	-1	26,70	0	-1
+terénní automobil	-1	-1	-1	26	0	-1
+automobil do města	-1	-1	-1	26	0	-1
+SUV	-1	-1	-1	26,70	0	-1
+pick-up	-1	-1	-1	26,70	0	-1
+dodávka	-1	-1	-1	26,70	0	-1
+kamion	-1	-1	-1	26	0	-1
+přívoz	-1	-1	-1	27	0	-1
+vor	-1	-1	-1	27	0	-1
+pravidelná linka	-1	-1	-1	27	0	-1
+pramice	-1	-1	-1	27	0	-1
+loď	-1	-1	-1	27	0	-1
+plavidlo	-1	-1	-1	27	0	-1
+koráb	-1	-1	-1	27	0	-1
+člun	-1	-1	-1	27	0	-1
+potraviny	-1	-1	-1	28	0	-1
+strava	-1	-1	-1	28	0	-1
+krmení	-1	-1	-1	28	0	-1
+krmě	-1	-1	-1	28	0	-1
+pokrm	-1	-1	-1	28	0	-1
+krmivo	-1	-1	-1	28	0	-1
+výživa	-1	-1	-1	28	0	-1
+žrádlo	-1	-1	-1	28	0	-1
+poživatiny	-1	-1	-1	28	0	-1
+živiny	-1	-1	-1	28	0	-1
+gurmán	-1	-1	-1	28	0	-1
+labužník	-1	-1	-1	28	0	-1
+oběd	-1	-1	-1	28	0	-1
+kuchyně	-1	-1	-1	28	0	-1
+vaření	-1	-1	-1	28	0	-1
+stravování	-1	-1	-1	28	0	-1
+evropská kuchyně	-1	-1	-1	29	0	-1
+evropské jídlo	-1	-1	-1	29	0	-1
+stolování	-1	-1	-1	29	0	-1
+pizza	-1	-1	-1	29	0	-1
+steaky	-1	-1	-1	29	0	-1
+kontinentální kuchyně	-1	-1	-1	29	0	-1
+fast food	-1	-1	-1	29	0	-1
+hamburger	-1	-1	-1	29	0	-1
+švédský stůl	-1	-1	-1	29	0	-1
+párek v rohlíku	-1	-1	-1	29	0	-1
+mořské ryby	-1	-1	-1	30	0	-1
+mořské potraviny	-1	-1	-1	30	0	-1
+korýši	-1	-1	-1	30	0	-1
+měkkýši	-1	-1	-1	30	0	-1
+plody moře	-1	-1	-1	30	0	-1
+čerstvé ovoce	-1	-1	-1	31	0	-1
+sušené ovoce	-1	-1	-1	31	0	-1
+kandované ovoce	-1	-1	-1	31	0	-1
+nakládané ovoce	-1	-1	-1	31	0	-1
+plody	-1	-1	-1	31	0	-1
+plodiny	-1	-1	-1	31	0	-1
+plody přírody	-1	-1	-1	31	0	-1
+smoothie	-1	-1	-1	31	0	-1
+líh	-1	-1	-1	32	0	-1
+etanol	-1	-1	-1	32	0	-1
+alkoholický nápoj	-1	-1	-1	32	0	-1
+víno	-1	-1	-1	32,33	0	-1
+pivo	-1	-1	-1	32	0	-1
+tvrdý alkohol	-1	-1	-1	32	0	-1
+lihovina	-1	-1	-1	32	0	-1
+likér	-1	-1	-1	32	0	-1
+lihový nápoj	-1	-1	-1	32	0	-1
+destilát	-1	-1	-1	32	0	-1
+střik	-1	-1	-1	32	0	-1
+archivní víno	-1	-1	-1	32,33	0	-1
+dobré víno	-1	-1	-1	32	0	-1
+pivní speciál	-1	-1	-1	32	0	-1
+desítka	-1	-1	-1	32	0	-1
+dvanáctka	-1	-1	-1	32	0	-1
+růžové víno	-1	-1	-1	33	0	-1
+suché víno	-1	-1	-1	33	0	-1
+polosuché víno	-1	-1	-1	33	0	-1
+polosladké víno	-1	-1	-1	33	0	-1
+kabinet	-1	-1	-1	33	0	-1
+moravské víno	-1	-1	-1	33	0	-1
+burgundské víno	-1	-1	-1	33	0	-1
+strunné nástroje	-1	-1	-1	34	0	-1
+dechové nástroje	-1	-1	-1	34	0	-1
+žesťové nástroje	-1	-1	-1	34	0	-1
+žestě	-1	-1	-1	34	0	-1
+smyčcové nástroje	-1	-1	-1	34	0	-1
+bicí nástroje	-1	-1	-1	34	0	-1
+elektrické hudební nástroje	-1	-1	-1	34	0	-1
+piano	-1	-1	-1	35	0	-1
+piáno	-1	-1	-1	35	0	-1
+křídlo	-1	-1	-1	35	0	-1
+koncertní křídlo	-1	-1	-1	35	0	-1
+pianino	-1	-1	-1	35	0	-1
+klávesy	-1	-1	-1	35	0	-1
+strunný úderný nástroj	-1	-1	-1	35	0	-1
+fortepiano	-1	-1	-1	35	0	-1
+forte piano	-1	-1	-1	35	0	-1
+elektronické spotřebiče	-1	-1	-1	36	0	-1
+elektrospotřebiče	-1	-1	-1	36	0	-1
+elektrické přístroje	-1	-1	-1	36	0	-1
+elektronické výrobky	-1	-1	-1	37	0	-1
+elektronické produkty	-1	-1	-1	37	0	-1
+digitální technika	-1	-1	-1	37	0	-1
+analogové přístroje	-1	-1	-1	37	0	-1
+měřicí přístroje	-1	-1	-1	37	0	-1
+radiotechnika	-1	-1	-1	37	0	-1
+elektronická zařízení	-1	-1	-1	37	0	-1
+mobilní telefon	-1	-1	-1	38	0	-1
+mobil	-1	-1	-1	38	0	-1
+sluchátko	-1	-1	-1	38	0	-1
+telefonní přístroj	-1	-1	-1	38	0	-1
+přenosný telefon	-1	-1	-1	38	0	-1
+pevná linka	-1	-1	-1	38	0	-1
+pevný telefon	-1	-1	-1	38	0	-1
+telekomunikační zařízení	-1	-1	-1	38	0	-1
+signál	-1	-1	-1	38	0	-1
+vysílač	-1	-1	-1	38	0	-1
+přijímač	-1	-1	-1	38	0	-1
+komunikace	-1	-1	-1	38	0	-1
+phablet	-1	-1	-1	38,39	0	-1
+SIM karta	-1	-1	-1	38	0	-1
+volání	-1	-1	-1	38	0	-1
+telefonování	-1	-1	-1	38	0	-1
+hlasová schránka	-1	-1	-1	38	0	-1
+dotykáč	-1	-1	-1	38	0	-1
+dotykový telefon	-1	-1	-1	38	0	-1
+smartphone	-1	-1	-1	38	0	-1
+smart phone	-1	-1	-1	38	0	-1
+chytrý telefon	-1	-1	-1	38	0	-1
+hovor	-1	-1	-1	38	0	-1
+hands-free	-1	-1	-1	38	0	-1
+appka	-1	-1	-1	38	0	-1
+komputer	-1	-1	-1	39	0	-1
+kalkulátor	-1	-1	-1	39	0	-1
+přenosný počítač	-1	-1	-1	39	0	-1
+příruční počítač	-1	-1	-1	39	0	-1
+kapesní počítač	-1	-1	-1	39	0	-1
+laptop	-1	-1	-1	39	0	-1
+notebook	-1	-1	-1	39	0	-1
+stolní počítač	-1	-1	-1	39	0	-1
+mainframe	-1	-1	-1	39	0	-1
+tablet	-1	-1	-1	39	0	-1
+sálový počítač	-1	-1	-1	39	0	-1
+hardware	-1	-1	-1	39	0	-1
+software	-1	-1	-1	39	0	-1
+systém	-1	-1	-1	39	0	-1
+procesor	-1	-1	-1	39	0	-1
+monitor	-1	-1	-1	39	0	-1
+All-in-One	-1	-1	-1	39	0	-1
+mini počítač	-1	-1	-1	39	0	-1
+PC	-1	-1	-1	39	0	-1
+sestava	-1	-1	-1	39	0	-1
+aplikace	-1	-1	-1	39	0	-1
+program	-1	-1	-1	39	0	-1
+foťák	-1	-1	-1	40	0	-1
+fotoaparát	-1	-1	-1	40	0	-1
+kamera	-1	-1	-1	40	0	-1
+aparát	-1	-1	-1	40	0	-1
+fotografický aparát	-1	-1	-1	40	0	-1
+fotografický přístroj	-1	-1	-1	40	0	-1
+filmový přístroj	-1	-1	-1	40	0	-1
+digitál	-1	-1	-1	40	0	-1
+focení	-1	-1	-1	40	0	-1
+fotografování	-1	-1	-1	40	0	-1
+Word	-1	-1	-1	41	0	-1
+slovo	-1	-1	-1	41	0	-1
+obsah	-1	-1	-1	41	0	-1
+dokument	-1	-1	-1	41	0	-1
+ppt	-1	-1	-1	42	0	-1
+pptx	-1	-1	-1	42	0	-1
+prezentace	-1	-1	-1	42	0	-1
+power point	-1	-1	-1	42	0	-1
+slideshow	-1	-1	-1	42	0	-1
+sejmout obrazovku	-1	-1	-1	43	0	-1
+aktuální obsah obrazovky	-1	-1	-1	43	0	-1
+otisk obrazovky	-1	-1	-1	43	0	-1
+aktuální podoba obrazovky	-1	-1	-1	43	0	-1
+činnost	-1	-1	-1	44	0	-1
+společnost	-1	-1	-1	44	0	-1
+zábava	-1	-1	-1	44,48,65	0	-1
+oslava	-1	-1	-1	44,46,53	0	-1
+sport	-1	-1	-1	45	0	-1
+cvičení	-1	-1	-1	45	0	-1
+soutěž	-1	-1	-1	45	0	-1
+turnaj	-1	-1	-1	45	0	-1
+chod	-1	-1	-1	45	0	-1
+tempo	-1	-1	-1	45	0	-1
+plavba	-1	-1	-1	45	0	-1
+let	-1	-1	-1	45	0	-1
+běh	-1	-1	-1	45	0	-1
+posun	-1	-1	-1	45	0	-1
+dynamika	-1	-1	-1	45	0	-1
+hostina	-1	-1	-1	46	0	-1
+banket	-1	-1	-1	46	0	-1
+recepce	-1	-1	-1	46	0	-1
+party	-1	-1	-1	46	0	-1
+hodování	-1	-1	-1	46	0	-1
+hody	-1	-1	-1	46	0	-1
+slavnost	-1	-1	-1	46	0	-1
+hodokvas	-1	-1	-1	46	0	-1
+host	-1	-1	-1	46	0	-1
+hostit	-1	-1	-1	46	0	-1
+svatební hostina	-1	-1	-1	47	0	-1
+ženitba	-1	-1	-1	47	0	-1
+vdavky	-1	-1	-1	47,69	0	-1
+sňatek	-1	-1	-1	47	0	-1
+oddavky	-1	-1	-1	47	0	-1
+svatební noc	-1	-1	-1	47	0	-1
+svatební dar	-1	-1	-1	47	0	-1
+svatební oznámení	-1	-1	-1	47	0	-1
+svatební prsten	-1	-1	-1	47	0	-1
+svatební dort	-1	-1	-1	47	0	-1
+svatební obřad	-1	-1	-1	47	0	-1
+radnice	-1	-1	-1	47	0	-1
+obřadní síň	-1	-1	-1	47	0	-1
+svatební den	-1	-1	-1	47	0	-1
+svatební oblek	-1	-1	-1	47	0	-1
+ženich	-1	-1	-1	47,69	0	-1
+nevěsta	-1	-1	-1	47,69	0	-1
+svědek	-1	-1	-1	47	0	-1
+oddávající	-1	-1	-1	47	0	-1
+šou	-1	-1	-1	48	0	-1
+přehlídka	-1	-1	-1	48	0	-1
+podívaná	-1	-1	-1	48	0	-1
+sláva	-1	-1	-1	48	0	-1
+estráda	-1	-1	-1	48	0	-1
+cirkus	-1	-1	-1	48	0	-1
+představení	-1	-1	-1	48	0	-1
+hra	-1	-1	-1	48	0	-1
+vystoupení	-1	-1	-1	48	0	-1
+herecký výkon	-1	-1	-1	48	0	-1
+výkon	-1	-1	-1	48	0	-1
+divadlo	-1	-1	-1	48	0	-1
+ptáček	-1	-1	-1	49	0	-1
+drůbež	-1	-1	-1	49	0	-1
+ptáče	-1	-1	-1	49	0	-1
+opeřenec	-1	-1	-1	49	0	-1
+ptáčátko	-1	-1	-1	49	0	-1
+ryby	-1	-1	-1	50	0	-1
+rybka	-1	-1	-1	50	0	-1
+rybička	-1	-1	-1	50	0	-1
+ploutvovec	-1	-1	-1	50	0	-1
+růžička	-1	-1	-1	51	0	-1
+růžová	-1	-1	-1	51	0	-1
+Růženka	-1	-1	-1	51	0	-1
+Růža	-1	-1	-1	51	0	-1
+třešeň	-1	-1	-1	52	0	-1
+okvětí	-1	-1	-1	52	0	-1
+odpalování	-1	-1	-1	53	0	-1
+střelmistr	-1	-1	-1	53	0	-1
+silvestr	-1	-1	-1	53	0	-1
+noční	-1	-1	-1	54	0	-1
+soumrak	-1	-1	-1	54	0	-1
+tma	-1	-1	-1	54	0	-1
+večer	-1	-1	-1	54	0	-1
+temno	-1	-1	-1	54	0	-1
+temnota	-1	-1	-1	54	0	-1
+šero	-1	-1	-1	54	0	-1
+setmění	-1	-1	-1	54	0	-1
+stmívání	-1	-1	-1	54	0	-1
+podvečer	-1	-1	-1	54	0	-1
+spánek	-1	-1	-1	54	0	-1
+voda	-1	-1	-1	55	0	-1
+kaskáda	-1	-1	-1	55	0	-1
+vodopádový	-1	-1	-1	55	0	-1
+kaskádový	-1	-1	-1	55	0	-1
+Niagara	-1	-1	-1	55	0	-1
+nebe	-1	-1	-1	56	0	-1
+nebíčko	-1	-1	-1	56	0	-1
+blankyt	-1	-1	-1	56	0	-1
+azur	-1	-1	-1	56	0	-1
+podnebí	-1	-1	-1	56	0	-1
+oblaka	-1	-1	-1	56	0	-1
+vzdušný prostor	-1	-1	-1	56	0	-1
+jasná obloha	-1	-1	-1	56	0	-1
+širé nebe	-1	-1	-1	56	0	-1
+nebesa	-1	-1	-1	56	0	-1
+nebeský	-1	-1	-1	56	0	-1
+mraky	-1	-1	-1	56	0	-1
+sníh	-1	-1	-1	57	0	-1
+krajina pokrytá sněhem	-1	-1	-1	57	0	-1
+bílá krajina	-1	-1	-1	57	0	-1
+zapadaný sněhem	-1	-1	-1	57	0	-1
+svítání	-1	-1	-1	58	0	-1
+východ	-1	-1	-1	58	0	-1
+úsvit	-1	-1	-1	58	0	-1
+rozbřesk	-1	-1	-1	58	0	-1
+jitro	-1	-1	-1	58	0	-1
+ráno	-1	-1	-1	58	0	-1
+začátek dne	-1	-1	-1	58	0	-1
+ranní červánky	-1	-1	-1	58	0	-1
+probuzení	-1	-1	-1	58	0	-1
+svatostánek	-1	-1	-1	59	0	-1
+katedrála	-1	-1	-1	59	0	-1
+církev	-1	-1	-1	59	0	-1
+kněz	-1	-1	-1	59	0	-1
+kněžství	-1	-1	-1	59	0	-1
+kostelík	-1	-1	-1	59	0	-1
+sakrální stavba	-1	-1	-1	59	0	-1
+fara	-1	-1	-1	59	0	-1
+víra	-1	-1	-1	59	0	-1
+křesťanství	-1	-1	-1	59	0	-1
+křesťan	-1	-1	-1	59	0	-1
+kříž	-1	-1	-1	59	0	-1
+dóm	-1	-1	-1	59	0	-1
+oltář	-1	-1	-1	59,60	0	-1
+kaple	-1	-1	-1	59,60	0	-1
+modlitba	-1	-1	-1	59,60	0	-1
+svatyně	-1	-1	-1	60	0	-1
+dóma	-1	-1	-1	60	0	-1
+hrobka	-1	-1	-1	60	0	-1
+klášter	-1	-1	-1	60	0	-1
+pavilónek	-1	-1	-1	61	0	-1
+věž	-1	-1	-1	61	0	-1
+bašta	-1	-1	-1	61	0	-1
+kultovní místo	-1	-1	-1	61	0	-1
+stožár	-1	-1	-1	61	0	-1
+tvrz	-1	-1	-1	61	0	-1
+pevnost	-1	-1	-1	61	0	-1
+stan	-1	-1	-1	62	0	-1
+baldachýn	-1	-1	-1	62	0	-1
+altán	-1	-1	-1	62	0	-1
+besídka	-1	-1	-1	62	0	-1
+altánek	-1	-1	-1	62	0	-1
+výstavní dům	-1	-1	-1	63	0	-1
+rezidence	-1	-1	-1	63	0	-1
+zámek	-1	-1	-1	63	0	-1
+královský dvůr	-1	-1	-1	63	0	-1
+zámecký dvůr	-1	-1	-1	63	0	-1
+zahrady	-1	-1	-1	63	0	-1
+lunapark	-1	-1	-1	65	0	-1
+pouť	-1	-1	-1	65	0	-1
+tematický park	-1	-1	-1	65	0	-1
+dinopark	-1	-1	-1	65	0	-1
+centrum zábavy	-1	-1	-1	65	0	-1
+Legoland	-1	-1	-1	65	0	-1
+Disneyland	-1	-1	-1	65	0	-1
+děti	-1	-1	-1	65	0	-1
+volný čas	-1	-1	-1	65	0	-1
+podmořský svět	-1	-1	-1	66	0	-1
+akvárium	-1	-1	-1	66	0	-1
+svět pod hladinou	-1	-1	-1	66	0	-1
+vodní nádrž	-1	-1	-1	66	0	-1
+mořský život	-1	-1	-1	66	0	-1
+atrakce	-1	-1	-1	66,67	0	-1
+zoologická zahrada	-1	-1	-1	67	0	-1
+zoologická	-1	-1	-1	67	0	-1
+Safari	-1	-1	-1	67	0	-1
+botanická zahrada	-1	-1	-1	67	0	-1
+výchova	-1	-1	-1	67	0	-1
+minisukně	-1	-1	-1	68	0	-1
+krátká sukně	-1	-1	-1	68	0	-1
+midi sukně	-1	-1	-1	68	0	-1
+dlouhá sukně	-1	-1	-1	68	0	-1
+dolly sukně	-1	-1	-1	68	0	-1
+tylová sukně	-1	-1	-1	68	0	-1
+společenské šaty	-1	-1	-1	68	0	-1
+kalhotová sukně	-1	-1	-1	68	0	-1
+plizé	-1	-1	-1	68	0	-1
+plizovaná sukně	-1	-1	-1	68	0	-1
+džínová sukně	-1	-1	-1	68	0	-1
+kárová sukně	-1	-1	-1	68	0	-1
+svatební kostým	-1	-1	-1	69	0	-1
+kalhotový kostým	-1	-1	-1	69	0	-1
+áčko	-1	-1	-1	69	0	-1
+korzet	-1	-1	-1	69	0	-1
+siréna	-1	-1	-1	69	0	-1
+princess	-1	-1	-1	69	0	-1
+empír	-1	-1	-1	69	0	-1
+závoj	-1	-1	-1	69	0	-1
+vlečka	-1	-1	-1	69	0	-1
+družička	-1	-1	-1	69	0	-1
+rukavičky	-1	-1	-1	69	0	-1
+střevíce	-1	-1	-1	69,87	0	-1
+vagon	-1	-1	-1	70	0	-1
+tramvaj	-1	-1	-1	70	0	-1
+železnice	-1	-1	-1	71	0	-1
+jízdní souprava	-1	-1	-1	71	0	-1
+vláček	-1	-1	-1	71	0	-1
+mašinka	-1	-1	-1	71	0	-1
+cukroví	-1	-1	-1	73	0	-1
+moučník	-1	-1	-1	73	0	-1
+cukrovinky	-1	-1	-1	73	0	-1
+bonbony	-1	-1	-1	73	0	-1
+bonbóny	-1	-1	-1	73	0	-1
+dezerty	-1	-1	-1	73	0	-1
+zákusek	-1	-1	-1	73	0	-1
+cukr	-1	-1	-1	73	0	-1
+suši	-1	-1	-1	74	0	-1
+japonská kuchyně	-1	-1	-1	74	0	-1
+syrové rybí maso s rýží	-1	-1	-1	74	0	-1
+omáčka sušinoko	-1	-1	-1	74	0	-1
+vařená rýže	-1	-1	-1	74	0	-1
+shabu-shabu	-1	-1	-1	75	0	-1
+kotlík	-1	-1	-1	75	0	-1
+polévka	-1	-1	-1	75	0	-1
+vývar	-1	-1	-1	75	0	-1
+asijská polévka	-1	-1	-1	75	0	-1
+čínské jídlo	-1	-1	-1	75	0	-1
+barbecue	-1	-1	-1	76	0	-1
+opékání na rožni	-1	-1	-1	76	0	-1
+pečeně	-1	-1	-1	76	0	-1
+pečínka	-1	-1	-1	76	0	-1
+gril	-1	-1	-1	76	0	-1
+grilovačka	-1	-1	-1	76	0	-1
+maso	-1	-1	-1	76	0	-1
+dřevěné uhlí	-1	-1	-1	76	0	-1
+rošt	-1	-1	-1	76	0	-1
+textový dokument	-1	-1	-1	77	0	-1
+grafický dokument	-1	-1	-1	77	0	-1
+audio soubor	-1	-1	-1	77	0	-1
+video soubor	-1	-1	-1	77	0	-1
+komprimovaný soubor	-1	-1	-1	77	0	-1
+složka	-1	-1	-1	77	0	-1
+data	-1	-1	-1	77	0	-1
+plán	-1	-1	-1	78,79	0	-1
+situace	-1	-1	-1	78	0	-1
+graf	-1	-1	-1	78	0	-1
+zmapování	-1	-1	-1	78	0	-1
+navigace	-1	-1	-1	78	0	-1
+kartografie	-1	-1	-1	78	0	-1
+plánek	-1	-1	-1	78	0	-1
+schéma	-1	-1	-1	78	0	-1
+ilustrace	-1	-1	-1	79	0	-1
+nákres	-1	-1	-1	79	0	-1
+kreslení	-1	-1	-1	79	0	-1
+rys	-1	-1	-1	79	0	-1
+črta	-1	-1	-1	79	0	-1
+rýsování	-1	-1	-1	79	0	-1
+nárys	-1	-1	-1	79	0	-1
+skica	-1	-1	-1	80	0	-1
+karikatura	-1	-1	-1	80	0	-1
+groteska	-1	-1	-1	80	0	-1
+kreslený vtip	-1	-1	-1	80	0	-1
+obrázkový seriál	-1	-1	-1	80	0	-1
+komiks	-1	-1	-1	80	0	-1
+tancování	-1	-1	-1	81	0	-1
+tanečník	-1	-1	-1	81	0	-1
+tanečnice	-1	-1	-1	81	0	-1
+taneční umění	-1	-1	-1	81	0	-1
+balet	-1	-1	-1	81	0	-1
+baletka	-1	-1	-1	81	0	-1
+taneční mistr	-1	-1	-1	81	0	-1
+zpěv	-1	-1	-1	82	0	-1
+zpěvák	-1	-1	-1	82	0	-1
+zpěvačka	-1	-1	-1	82	0	-1
+pěvec	-1	-1	-1	82	0	-1
+diva	-1	-1	-1	82	0	-1
+pěvkyně	-1	-1	-1	82	0	-1
+narozeninová oslava	-1	-1	-1	83	0	-1
+kulatiny	-1	-1	-1	83	0	-1
+půlkulatiny	-1	-1	-1	83	0	-1
+narozeninový dort	-1	-1	-1	83	0	-1
+narozeninový večírek	-1	-1	-1	83	0	-1
+oslava narozenin	-1	-1	-1	83	0	-1
+výročí	-1	-1	-1	83	0	-1
+osoba	-1	-1	-1	85	0	-1
+postava	-1	-1	-1	85	0	-1
+podobizna	-1	-1	-1	85	0	-1
+vyobrazení	-1	-1	-1	85	0	-1
+charakteristika	-1	-1	-1	85	0	-1
+prcek	-1	-1	-1	86	0	-1
+potomek	-1	-1	-1	86	0	-1
+junior	-1	-1	-1	86	0	-1
+děťátko	-1	-1	-1	86	0	-1
+nemluvně	-1	-1	-1	86	0	-1
+bejby	-1	-1	-1	86	0	-1
+malé dítě	-1	-1	-1	86	0	-1
+miminko	-1	-1	-1	86	0	-1
+novorozenec	-1	-1	-1	86	0	-1
+kojenec	-1	-1	-1	86	0	-1
+maličký	-1	-1	-1	86	0	-1
+harant	-1	-1	-1	86	0	-1
+batole	-1	-1	-1	86	0	-1
+batolátko	-1	-1	-1	86	0	-1
+pachole	-1	-1	-1	86	0	-1
+špunt	-1	-1	-1	86	0	-1
+nejmenší	-1	-1	-1	86	0	-1
+obuv	-1	-1	-1	87	0	-1
+topánky	-1	-1	-1	87	0	-1
+škrpály	-1	-1	-1	87	0	-1
+sportovní obuv	-1	-1	-1	87	0	-1
+společenská obuv	-1	-1	-1	87	0	-1
+domácí obuv	-1	-1	-1	87	0	-1
+zimní obuv	-1	-1	-1	87	0	-1
+letní obuv	-1	-1	-1	87	0	-1
+pracovní obuv	-1	-1	-1	87	0	-1
+holínky	-1	-1	-1	87	0	-1
+kanady	-1	-1	-1	87	0	-1
+lyžáky	-1	-1	-1	87	0	-1
+tretry	-1	-1	-1	87	0	-1
+lezečky	-1	-1	-1	87	0	-1
+mačky	-1	-1	-1	87	0	-1
+klobouk	-1	-1	-1	88	0	-1
+pokrývka hlavy	-1	-1	-1	88	0	-1
+čepička	-1	-1	-1	88	0	-1
+čapka	-1	-1	-1	88	0	-1
+přilba	-1	-1	-1	88	0	-1
+cylindr	-1	-1	-1	88	0	-1
+kšiltovka	-1	-1	-1	88	0	-1
+basebalka	-1	-1	-1	88	0	-1
+helma	-1	-1	-1	88	0	-1
+blembák	-1	-1	-1	88	0	-1
+certifikát	-1	-1	-1	89	0	-1
+oprávnění	-1	-1	-1	89	0	-1
+atest	-1	-1	-1	89	0	-1
+doklad	-1	-1	-1	89	0	-1
+identifikační karta	-1	-1	-1	90	0	-1
+legitimace	-1	-1	-1	90	0	-1
+osobní průkaz	-1	-1	-1	90	0	-1
+evidenční průkaz	-1	-1	-1	90	0	-1
+občanský průkaz	-1	-1	-1	90	0	-1
+občanka	-1	-1	-1	90	0	-1
+členský průkaz	-1	-1	-1	90	0	-1
+debetní karta	-1	-1	-1	91	0	-1
+kreditní karta	-1	-1	-1	91	0	-1
+bankovní karta	-1	-1	-1	91	0	-1
+bankomatová karta	-1	-1	-1	91	0	-1
+bezhotovostní platba	-1	-1	-1	91	0	-1
+předplacená karta	-1	-1	-1	91	0	-1
+bezkontaktní platební karta	-1	-1	-1	91	0	-1
+embosovaná karta	-1	-1	-1	91	0	-1
+faktura	-1	-1	-1	92	0	-1
+stvrzenka	-1	-1	-1	92	0	-1
+vyúčtování	-1	-1	-1	92	0	-1
+zúčtování	-1	-1	-1	92	0	-1
+fakturace	-1	-1	-1	92	0	-1
+daňový doklad	-1	-1	-1	92	0	-1

@@ -1,0 +1,685 @@
+Silvestre	-1	-1	-1	1	0	-1
+Floresta	-1	-1	-1	1,5,8	0	-1
+Cuidados	-1	-1	-1	1,2,3,5,49,86	0	-1
+Adestramento	-1	-1	-1	1,3	0	-1
+Fauna	-1	-1	-1	1	0	-1
+Espécie	-1	-1	-1	1	0	-1
+Aquário	-1	-1	-1	1,50,66	0	-1
+Furão	-1	-1	-1	2	0	-1
+Fofo	-1	-1	-1	2	0	-1
+Adoção	-1	-1	-1	2,3	0	-1
+Castração	-1	-1	-1	2,3,4	0	-1
+Vacinas	-1	-1	-1	2,3,4	0	-1
+Filhote	-1	-1	-1	3,4	0	-1
+Lobo	-1	-1	-1	3	0	-1
+Cão-guia	-1	-1	-1	3	0	-1
+Au au	-1	-1	-1	3	0	-1
+Coleira	-1	-1	-1	3,4	0	-1
+Ração	-1	-1	-1	3,4,49,50	0	-1
+Acessórios	-1	-1	-1	3,4,50	0	-1
+Tapete higiênico	-1	-1	-1	3	0	-1
+Petshop	-1	-1	-1	3,49	0	-1
+Canil	-1	-1	-1	3	0	-1
+Shitzu	-1	-1	-1	3	0	-1
+Beagle	-1	-1	-1	3	0	-1
+Pastor alemão	-1	-1	-1	3	0	-1
+Vira-lata	-1	-1	-1	3,4	0	-1
+Miau	-1	-1	-1	4	0	-1
+Brinquedo	-1	-1	-1	4	0	-1
+Arranhador	-1	-1	-1	4	0	-1
+Gato de botas	-1	-1	-1	4	0	-1
+Brinquedos	-1	-1	-1	4,65	0	-1
+Areia	-1	-1	-1	4,11	0	-1
+Persa	-1	-1	-1	4	0	-1
+Siamês	-1	-1	-1	4	0	-1
+Vegetação	-1	-1	-1	5,8,10	0	-1
+Cultivo	-1	-1	-1	5,6,7,8	0	-1
+Plantação	-1	-1	-1	5	0	-1
+Rega	-1	-1	-1	5	0	-1
+Poda	-1	-1	-1	5,8	0	-1
+Vasos	-1	-1	-1	5	0	-1
+Terra	-1	-1	-1	5	0	-1
+Jardim	-1	-1	-1	5,6,7	0	-1
+Fotossíntese	-1	-1	-1	5	0	-1
+Folhagem	-1	-1	-1	5	0	-1
+Estufa	-1	-1	-1	5	0	-1
+Paisagismo…	-1	-1	-1	5	0	-1
+Flores	-1	-1	-1	6,47	0	-1
+Buquê	-1	-1	-1	6,47,51	0	-1
+Floricultura	-1	-1	-1	6	0	-1
+Fragrância	-1	-1	-1	6,51	0	-1
+Perfume	-1	-1	-1	6,6,52	0	-1
+Decoração	-1	-1	-1	6,7,12,47,51,52,83	0	-1
+Arranjo	-1	-1	-1	6	0	-1
+Imagens	-1	-1	-1	6	0	-1
+Chá	-1	-1	-1	6,51,52	0	-1
+Gastronomia	-1	-1	-1	6,13,28	0	-1
+Primavera	-1	-1	-1	6,52	0	-1
+Holambra	-1	-1	-1	6	0	-1
+Floração	-1	-1	-1	6,51,52	0	-1
+Flora	-1	-1	-1	6,52	0	-1
+Semente	-1	-1	-1	6	0	-1
+Parque	-1	-1	-1	7	0	-1
+Capim	-1	-1	-1	7	0	-1
+Gramado	-1	-1	-1	7	0	-1
+Pasto	-1	-1	-1	7	0	-1
+Cortador de grama	-1	-1	-1	7	0	-1
+Peso	-1	-1	-1	7	0	-1
+Campo	-1	-1	-1	7,15	0	-1
+Grama sintética	-1	-1	-1	7	0	-1
+Aparador de Grama	-1	-1	-1	7	0	-1
+Clorofila	-1	-1	-1	7	0	-1
+Pastor	-1	-1	-1	7	0	-1
+Sistema de irrigação	-1	-1	-1	7	0	-1
+Madeira	-1	-1	-1	8	0	-1
+Tronco	-1	-1	-1	8	0	-1
+Árvore genealógica	-1	-1	-1	8	0	-1
+Ramo	-1	-1	-1	8	0	-1
+Galho	-1	-1	-1	8	0	-1
+Frutos	-1	-1	-1	8,11	0	-1
+Árvore de Natal	-1	-1	-1	8	0	-1
+Casa em árvore	-1	-1	-1	8	0	-1
+Árvore da vida	-1	-1	-1	8	0	-1
+Reflorestamento	-1	-1	-1	8	0	-1
+Natureza	-1	-1	-1	8,10	0	-1
+Decoração teatral	-1	-1	-1	9	0	-1
+Vista	-1	-1	-1	9	0	-1
+Panorama	-1	-1	-1	9	0	-1
+Paisagem	-1	-1	-1	9,10,11,52,58,85	0	-1
+Cena	-1	-1	-1	9	0	-1
+Decoração cinematográfica	-1	-1	-1	9	0	-1
+Fotografia	-1	-1	-1	9,40,85	0	-1
+Caminhada	-1	-1	-1	10	0	-1
+Serra	-1	-1	-1	10	0	-1
+Escalada	-1	-1	-1	10	0	-1
+Morro	-1	-1	-1	10	0	-1
+Pico	-1	-1	-1	10	0	-1
+Cume	-1	-1	-1	10	0	-1
+Esportes radicais	-1	-1	-1	10,11	0	-1
+Tirolesa	-1	-1	-1	10	0	-1
+Colina	-1	-1	-1	10	0	-1
+Monte	-1	-1	-1	10	0	-1
+Asa-delta	-1	-1	-1	10	0	-1
+Parapente	-1	-1	-1	10	0	-1
+Alpes	-1	-1	-1	10	0	-1
+Vilarejo	-1	-1	-1	10	0	-1
+Ciclismo	-1	-1	-1	10	0	-1
+Rapel	-1	-1	-1	10	0	-1
+Cordilheira	-1	-1	-1	10	0	-1
+Rochedo	-1	-1	-1	10	0	-1
+Penedo	-1	-1	-1	10	0	-1
+Montanhismo	-1	-1	-1	10	0	-1
+Everest	-1	-1	-1	10	0	-1
+Mar	-1	-1	-1	11	0	-1
+Oceano Atlântico	-1	-1	-1	11	0	-1
+Oceano Pacífico	-1	-1	-1	11	0	-1
+Oceano Índico	-1	-1	-1	11	0	-1
+Oceano Ártico	-1	-1	-1	11	0	-1
+Alto-mar	-1	-1	-1	11	0	-1
+Fundo do mar	-1	-1	-1	11	0	-1
+Onda	-1	-1	-1	11	0	-1
+Litoral	-1	-1	-1	11	0	-1
+Transatlântico	-1	-1	-1	11	0	-1
+Ilha	-1	-1	-1	11	0	-1
+Vida marinha	-1	-1	-1	11	0	-1
+Esportes aquáticos	-1	-1	-1	11	0	-1
+Pesca em alto mar	-1	-1	-1	11	0	-1
+Surf	-1	-1	-1	11	0	-1
+Sal marinho	-1	-1	-1	11	0	-1
+Naufrágio	-1	-1	-1	11	0	-1
+Fauna marinha	-1	-1	-1	11,66	0	-1
+Água-viva	-1	-1	-1	11	0	-1
+Maré	-1	-1	-1	11	0	-1
+Windsurf	-1	-1	-1	11	0	-1
+Kitesurf	-1	-1	-1	11	0	-1
+Esqui aquático	-1	-1	-1	11	0	-1
+Wakeboard	-1	-1	-1	11	0	-1
+Natação,	-1	-1	-1	11	0	-1
+Urbanismo	-1	-1	-1	12	0	-1
+Construção	-1	-1	-1	12,62	0	-1
+Edifício	-1	-1	-1	12	0	-1
+Arquitetônico	-1	-1	-1	12	0	-1
+Estrutura	-1	-1	-1	12,62	0	-1
+Arquiteto	-1	-1	-1	12	0	-1
+Faculdade	-1	-1	-1	12	0	-1
+Projeto	-1	-1	-1	12	0	-1
+Design	-1	-1	-1	12	0	-1
+Arte	-1	-1	-1	12,12,17,48,79,80	0	-1
+Casa	-1	-1	-1	12	0	-1
+Planejamento urbano	-1	-1	-1	12	0	-1
+Arranha-céu	-1	-1	-1	12	0	-1
+Barroco	-1	-1	-1	12,59	0	-1
+Gótico	-1	-1	-1	12,59	0	-1
+Cantina	-1	-1	-1	13	0	-1
+Cafeteria	-1	-1	-1	13	0	-1
+Culinária	-1	-1	-1	13,28,50	0	-1
+Garçom	-1	-1	-1	13	0	-1
+Atendimento	-1	-1	-1	13	0	-1
+Horário de funcionamento	-1	-1	-1	13	0	-1
+Bufê	-1	-1	-1	13	0	-1
+Bebida	-1	-1	-1	13,14,46	0	-1
+Lanchonete	-1	-1	-1	13	0	-1
+Sobremesa	-1	-1	-1	13,28,46,73	0	-1
+Entrada	-1	-1	-1	13	0	-1
+Prato Principal	-1	-1	-1	13	0	-1
+Cardápio	-1	-1	-1	13	0	-1
+Petisco	-1	-1	-1	13,14	0	-1
+Cheff	-1	-1	-1	13,28	0	-1
+Comércio	-1	-1	-1	13	0	-1
+Estabelecimento	-1	-1	-1	13	0	-1
+Refeição	-1	-1	-1	13,28,46	0	-1
+Hamburgueria	-1	-1	-1	13	0	-1
+Pub	-1	-1	-1	14	0	-1
+Drinque	-1	-1	-1	14,32	0	-1
+Bartender	-1	-1	-1	14	0	-1
+Barman	-1	-1	-1	14	0	-1
+Bebida alcóolica	-1	-1	-1	14	0	-1
+Esportes	-1	-1	-1	15	0	-1
+Estádio	-1	-1	-1	15	0	-1
+Atleta	-1	-1	-1	15,45	0	-1
+Equipe	-1	-1	-1	15	0	-1
+Modalidades esportivas	-1	-1	-1	15	0	-1
+Ginásio	-1	-1	-1	15,16	0	-1
+Ginástica	-1	-1	-1	16,45	0	-1
+Treinamento físico	-1	-1	-1	16	0	-1
+Aparelho esportivo	-1	-1	-1	16	0	-1
+Atividade física	-1	-1	-1	16	0	-1
+Mensalidade	-1	-1	-1	16	0	-1
+Corrida	-1	-1	-1	16	0	-1
+Musculação	-1	-1	-1	16	0	-1
+Pilates	-1	-1	-1	16	0	-1
+Hidroginástica	-1	-1	-1	16	0	-1
+Jump	-1	-1	-1	16	0	-1
+Zumba	-1	-1	-1	16,81	0	-1
+Crossfit	-1	-1	-1	16	0	-1
+Professor	-1	-1	-1	16	0	-1
+Personal trainer	-1	-1	-1	16	0	-1
+Condicionamento físico	-1	-1	-1	16	0	-1
+Exposições	-1	-1	-1	17	0	-1
+Atrações	-1	-1	-1	17,67	0	-1
+Galeria de arte	-1	-1	-1	17	0	-1
+Objetos raros	-1	-1	-1	17	0	-1
+Coleção	-1	-1	-1	17,20,69	0	-1
+Souvenir	-1	-1	-1	17	0	-1
+Saguão	-1	-1	-1	17	0	-1
+Museologia	-1	-1	-1	17	0	-1
+Moda	-1	-1	-1	17,18,20	0	-1
+Quadro	-1	-1	-1	17	0	-1
+Pintura	-1	-1	-1	17,70	0	-1
+Loja de presentes	-1	-1	-1	17	0	-1
+Iconografia	-1	-1	-1	17	0	-1
+Bilhete	-1	-1	-1	17,19,27,48,71,81,82	0	-1
+Ingresso	-1	-1	-1	17,81,82	0	-1
+Preço	-1	-1	-1	17,20,21,53,66,67,68,69	0	-1
+Estátua	-1	-1	-1	17	0	-1
+Ciência	-1	-1	-1	17	0	-1
+História natural	-1	-1	-1	17	0	-1
+Tecnologia	-1	-1	-1	17,37	0	-1
+Arte Sacra	-1	-1	-1	17	0	-1
+Shopping Center	-1	-1	-1	18	0	-1
+Compras	-1	-1	-1	18	0	-1
+Lojas	-1	-1	-1	18	0	-1
+Praça de alimentação	-1	-1	-1	18,19	0	-1
+Promoção	-1	-1	-1	18	0	-1
+Sacola	-1	-1	-1	18	0	-1
+Vitrine	-1	-1	-1	18	0	-1
+Manequim	-1	-1	-1	18	0	-1
+Avião	-1	-1	-1	19,25	0	-1
+Decolagem	-1	-1	-1	19	0	-1
+Aterrisagem	-1	-1	-1	19	0	-1
+Portão de embarque	-1	-1	-1	19	0	-1
+Segurança	-1	-1	-1	19	0	-1
+Imigração	-1	-1	-1	19	0	-1
+Voos	-1	-1	-1	19	0	-1
+Companhias Aéreas	-1	-1	-1	19	0	-1
+Terminal	-1	-1	-1	19	0	-1
+Restituição de bagagem	-1	-1	-1	19	0	-1
+Bagagem	-1	-1	-1	19	0	-1
+Mala	-1	-1	-1	19,21	0	-1
+Passagem	-1	-1	-1	19	0	-1
+Sanitário	-1	-1	-1	19	0	-1
+Alfândega	-1	-1	-1	19	0	-1
+Passaporte	-1	-1	-1	19	0	-1
+Polícia Federal	-1	-1	-1	19	0	-1
+Pouso	-1	-1	-1	19	0	-1
+Fashion	-1	-1	-1	20	0	-1
+Roupa	-1	-1	-1	20,51	0	-1
+Vestuário	-1	-1	-1	20,51	0	-1
+Loja	-1	-1	-1	20	0	-1
+Marca	-1	-1	-1	20,21,68,69	0	-1
+Estilista	-1	-1	-1	20,68	0	-1
+Estilo	-1	-1	-1	20,69	0	-1
+Indumentária	-1	-1	-1	20	0	-1
+Lançamento	-1	-1	-1	20	0	-1
+Tecido	-1	-1	-1	20,21,68,69	0	-1
+Estampa	-1	-1	-1	20,68,68	0	-1
+Modelagem	-1	-1	-1	20,68,69	0	-1
+Tamanho	-1	-1	-1	20,21,68	0	-1
+Bolsa de mão	-1	-1	-1	21	0	-1
+Bolsa grande	-1	-1	-1	21	0	-1
+Bolsa pequena	-1	-1	-1	21	0	-1
+Bolsa Tiracolo	-1	-1	-1	21	0	-1
+Couro	-1	-1	-1	21	0	-1
+Material sintético	-1	-1	-1	21	0	-1
+Alça	-1	-1	-1	21	0	-1
+Mochila	-1	-1	-1	21	0	-1
+Mala de mão	-1	-1	-1	21	0	-1
+Cor	-1	-1	-1	21	0	-1
+Necessaire	-1	-1	-1	21	0	-1
+Verniz	-1	-1	-1	21	0	-1
+Cosmético	-1	-1	-1	22	0	-1
+Creme	-1	-1	-1	22	0	-1
+Cuidados com a pele	-1	-1	-1	22	0	-1
+Olhos	-1	-1	-1	22	0	-1
+Rosto	-1	-1	-1	22	0	-1
+Lábios	-1	-1	-1	22	0	-1
+Mãos	-1	-1	-1	22	0	-1
+Antirrugas	-1	-1	-1	22	0	-1
+Hidrante	-1	-1	-1	22	0	-1
+Natural	-1	-1	-1	22	0	-1
+Lente	-1	-1	-1	23,40	0	-1
+Óculos solares	-1	-1	-1	23	0	-1
+Monóculo	-1	-1	-1	23	0	-1
+Binóculo	-1	-1	-1	23	0	-1
+Óptica	-1	-1	-1	23	0	-1
+Grau	-1	-1	-1	23	0	-1
+Armação	-1	-1	-1	23	0	-1
+Óculos de sol	-1	-1	-1	23	0	-1
+Ouro	-1	-1	-1	24	0	-1
+Prata	-1	-1	-1	24	0	-1
+Rubi	-1	-1	-1	24	0	-1
+Esmeralda	-1	-1	-1	24	0	-1
+Ornamento	-1	-1	-1	24	0	-1
+Enfeite	-1	-1	-1	24,83	0	-1
+Acessório	-1	-1	-1	24	0	-1
+Diamante	-1	-1	-1	24	0	-1
+Brilhante	-1	-1	-1	24	0	-1
+Adorno	-1	-1	-1	24	0	-1
+Brinco	-1	-1	-1	24	0	-1
+Pulseira	-1	-1	-1	24	0	-1
+Colar	-1	-1	-1	24	0	-1
+Anel	-1	-1	-1	24	0	-1
+Aliança	-1	-1	-1	24	0	-1
+Tráfego	-1	-1	-1	25	0	-1
+Semáforo	-1	-1	-1	25	0	-1
+Metrô	-1	-1	-1	25	0	-1
+Automóvel	-1	-1	-1	26,70	0	-1
+Velocidade	-1	-1	-1	26	0	-1
+Veículo motorizado	-1	-1	-1	26	0	-1
+Quatro rodas	-1	-1	-1	26	0	-1
+Modelo	-1	-1	-1	26,70	0	-1
+Autonomia	-1	-1	-1	26	0	-1
+Barco de passagem	-1	-1	-1	27	0	-1
+Embarcadouro	-1	-1	-1	27	0	-1
+Desembarcadouro	-1	-1	-1	27	0	-1
+Embarcação	-1	-1	-1	27	0	-1
+Itinerário	-1	-1	-1	27,71	0	-1
+Salva-vidas	-1	-1	-1	27	0	-1
+Alimento	-1	-1	-1	28	0	-1
+Fast food	-1	-1	-1	28	0	-1
+Mercearia	-1	-1	-1	28	0	-1
+jantar	-1	-1	-1	28	0	-1
+Almoço	-1	-1	-1	28,47	0	-1
+Lanche	-1	-1	-1	28	0	-1
+Gostoso	-1	-1	-1	28	0	-1
+Delicioso	-1	-1	-1	28	0	-1
+Receita	-1	-1	-1	28,74,75	0	-1
+Ingredientes	-1	-1	-1	28,74,75	0	-1
+Delicatéssen	-1	-1	-1	28	0	-1
+Supermercado	-1	-1	-1	28	0	-1
+Confeitaria	-1	-1	-1	28,73	0	-1
+Massa	-1	-1	-1	29	0	-1
+Arroz	-1	-1	-1	29,74	0	-1
+Feijão	-1	-1	-1	29	0	-1
+Carne	-1	-1	-1	29,76	0	-1
+Frutos do Mar	-1	-1	-1	29	0	-1
+Hortaliças	-1	-1	-1	29,75	0	-1
+Camarão	-1	-1	-1	30	0	-1
+Lagosta	-1	-1	-1	30	0	-1
+Produtos do mar	-1	-1	-1	30	0	-1
+Marisco	-1	-1	-1	30	0	-1
+Mexilhão	-1	-1	-1	30	0	-1
+Ouriço	-1	-1	-1	30	0	-1
+Lula	-1	-1	-1	30	0	-1
+Caviar	-1	-1	-1	30	0	-1
+Frutas frescas	-1	-1	-1	31	0	-1
+Hortifruti	-1	-1	-1	31	0	-1
+Fruta da estação	-1	-1	-1	31	0	-1
+Feira	-1	-1	-1	31	0	-1
+Morango	-1	-1	-1	31	0	-1
+Melancia	-1	-1	-1	31	0	-1
+Banana	-1	-1	-1	31	0	-1
+Fruta tropical	-1	-1	-1	31	0	-1
+Fruta-do-conde	-1	-1	-1	31	0	-1
+Abacaxi	-1	-1	-1	31	0	-1
+Mamão	-1	-1	-1	31	0	-1
+Uva	-1	-1	-1	31	0	-1
+Vinho	-1	-1	-1	32	0	-1
+Cerveja	-1	-1	-1	32	0	-1
+Licor	-1	-1	-1	32	0	-1
+Uísque	-1	-1	-1	32	0	-1
+Vodca	-1	-1	-1	32	0	-1
+Coquetel	-1	-1	-1	32	0	-1
+Cachaça	-1	-1	-1	32	0	-1
+Merlot	-1	-1	-1	32,33	0	-1
+Champanhe	-1	-1	-1	32,46	0	-1
+Espumante	-1	-1	-1	32	0	-1
+Cidra	-1	-1	-1	32	0	-1
+Cerveja artesanal	-1	-1	-1	32	0	-1
+Brunnelo di Montalcino	-1	-1	-1	33	0	-1
+Vinho seco	-1	-1	-1	33	0	-1
+Vinho tinto suave	-1	-1	-1	33	0	-1
+Vinho doce	-1	-1	-1	33	0	-1
+Primitivo	-1	-1	-1	33	0	-1
+Carbenet	-1	-1	-1	33	0	-1
+Shiraz	-1	-1	-1	33	0	-1
+Chianti	-1	-1	-1	33	0	-1
+Saxofone	-1	-1	-1	34	0	-1
+Violão	-1	-1	-1	34	0	-1
+Guitarra	-1	-1	-1	34	0	-1
+Bateria	-1	-1	-1	34	0	-1
+Teclado	-1	-1	-1	34,35	0	-1
+Viola	-1	-1	-1	34	0	-1
+Acordeão	-1	-1	-1	34	0	-1
+Harpa	-1	-1	-1	34	0	-1
+Trombeta	-1	-1	-1	34	0	-1
+Acorde	-1	-1	-1	34	0	-1
+Partitura	-1	-1	-1	34,35,82	0	-1
+Piano de causa	-1	-1	-1	35	0	-1
+Piano vertical	-1	-1	-1	35	0	-1
+Cordas	-1	-1	-1	35	0	-1
+Notas musicais	-1	-1	-1	35	0	-1
+Eletrodomésticos	-1	-1	-1	36	0	-1
+Digital	-1	-1	-1	37	0	-1
+Celular	-1	-1	-1	38	0	-1
+Telefone móvel	-1	-1	-1	38	0	-1
+Empresas telefônicas	-1	-1	-1	38	0	-1
+Operadoras de celular	-1	-1	-1	38	0	-1
+Laptop	-1	-1	-1	39	0	-1
+Computador portátil	-1	-1	-1	39	0	-1
+Notebook	-1	-1	-1	39	0	-1
+Câmera profissional	-1	-1	-1	40	0	-1
+Livro	-1	-1	-1	41	0	-1
+Anotação	-1	-1	-1	41	0	-1
+Word	-1	-1	-1	41	0	-1
+Palavra	-1	-1	-1	41	0	-1
+Slide	-1	-1	-1	42	0	-1
+Imagem	-1	-1	-1	42,43	0	-1
+Dispositivo	-1	-1	-1	42	0	-1
+Projetor	-1	-1	-1	42	0	-1
+Captura de imagens	-1	-1	-1	43	0	-1
+Screenshot	-1	-1	-1	43	0	-1
+Festa	-1	-1	-1	44,46,47,83	0	-1
+Reunião	-1	-1	-1	44,46,83	0	-1
+Compromisso	-1	-1	-1	44	0	-1
+Esporte	-1	-1	-1	45	0	-1
+Competição	-1	-1	-1	45	0	-1
+Dança	-1	-1	-1	45	0	-1
+Torneio	-1	-1	-1	45	0	-1
+Banquete	-1	-1	-1	46,47	0	-1
+Delícias	-1	-1	-1	46	0	-1
+Convidados	-1	-1	-1	46,47	0	-1
+Anfitrião	-1	-1	-1	46	0	-1
+Anfitriã	-1	-1	-1	46	0	-1
+Amigos	-1	-1	-1	46,83	0	-1
+Louça	-1	-1	-1	46	0	-1
+Petiscos	-1	-1	-1	46	0	-1
+Bebidas alcóolicas	-1	-1	-1	46	0	-1
+Cerimônia	-1	-1	-1	47	0	-1
+Padrinhos	-1	-1	-1	47	0	-1
+Noivo	-1	-1	-1	47	0	-1
+Noiva	-1	-1	-1	47	0	-1
+Bem-casado	-1	-1	-1	47	0	-1
+Confeitos	-1	-1	-1	47	0	-1
+Madrinhas	-1	-1	-1	47	0	-1
+Véu	-1	-1	-1	47,69	0	-1
+Cerimonialista	-1	-1	-1	47	0	-1
+Damas de honra	-1	-1	-1	47	0	-1
+Pajem	-1	-1	-1	47	0	-1
+Valsa	-1	-1	-1	47,81	0	-1
+DJ	-1	-1	-1	47	0	-1
+Performance	-1	-1	-1	48	0	-1
+Estreia	-1	-1	-1	48	0	-1
+Plateia	-1	-1	-1	48,82	0	-1
+Bilheteria	-1	-1	-1	48	0	-1
+Data	-1	-1	-1	48	0	-1
+Cantor	-1	-1	-1	48,82	0	-1
+Cantora	-1	-1	-1	48,82	0	-1
+Artista	-1	-1	-1	48	0	-1
+Passarinho	-1	-1	-1	49	0	-1
+Canto	-1	-1	-1	49,82	0	-1
+João-de-barro	-1	-1	-1	49	0	-1
+Beija-flor	-1	-1	-1	49	0	-1
+Gaiola	-1	-1	-1	49	0	-1
+Viveiro	-1	-1	-1	49,50,67	0	-1
+Arara	-1	-1	-1	49	0	-1
+Pardal	-1	-1	-1	49	0	-1
+Peixes	-1	-1	-1	50	0	-1
+Pesca	-1	-1	-1	50	0	-1
+Pesqueiro	-1	-1	-1	50	0	-1
+Ovas	-1	-1	-1	50	0	-1
+Acessórios de pesca	-1	-1	-1	50	0	-1
+Cor-de-rosa	-1	-1	-1	51	0	-1
+Infusor	-1	-1	-1	51	0	-1
+Roseira	-1	-1	-1	51	0	-1
+Batom	-1	-1	-1	51	0	-1
+Cereja	-1	-1	-1	52	0	-1
+Japão	-1	-1	-1	52	0	-1
+Festival das Cerejeiras	-1	-1	-1	52	0	-1
+Tatuagem	-1	-1	-1	52	0	-1
+Sakura	-1	-1	-1	52	0	-1
+Festival	-1	-1	-1	53	0	-1
+Réveillon	-1	-1	-1	53	0	-1
+Rojão	-1	-1	-1	53	0	-1
+Cascata	-1	-1	-1	53	0	-1
+Cores	-1	-1	-1	53	0	-1
+Chuva de prata	-1	-1	-1	53	0	-1
+Fotos	-1	-1	-1	53	0	-1
+Ano Novo	-1	-1	-1	53	0	-1
+Anoitecer	-1	-1	-1	54	0	-1
+Estrela	-1	-1	-1	54,56	0	-1
+Escuridão	-1	-1	-1	54	0	-1
+Trevas	-1	-1	-1	54	0	-1
+Noturno	-1	-1	-1	54	0	-1
+Constelação	-1	-1	-1	54	0	-1
+Pernoite	-1	-1	-1	54	0	-1
+Madrugada	-1	-1	-1	54	0	-1
+Cascata d'água	-1	-1	-1	55	0	-1
+Catarata	-1	-1	-1	55	0	-1
+Queda d'água	-1	-1	-1	55	0	-1
+Firmamento	-1	-1	-1	56	0	-1
+Abóboda celeste	-1	-1	-1	56	0	-1
+Celestial	-1	-1	-1	56	0	-1
+Nuvem	-1	-1	-1	56	0	-1
+Sol	-1	-1	-1	56	0	-1
+Azul celeste	-1	-1	-1	56	0	-1
+Astronomia	-1	-1	-1	56	0	-1
+Astrologia	-1	-1	-1	56	0	-1
+Planetário	-1	-1	-1	56	0	-1
+Sistema solar	-1	-1	-1	56	0	-1
+Neve	-1	-1	-1	57	0	-1
+Nevasca	-1	-1	-1	57	0	-1
+Snowboard	-1	-1	-1	57	0	-1
+Floco de neve	-1	-1	-1	57	0	-1
+Boneco de neve	-1	-1	-1	57	0	-1
+Patinação no gelo	-1	-1	-1	57	0	-1
+Snowmobile	-1	-1	-1	57	0	-1
+Esportes invernais	-1	-1	-1	57	0	-1
+Nascer do sol	-1	-1	-1	58	0	-1
+Catedral	-1	-1	-1	59	0	-1
+Templo religioso	-1	-1	-1	59,60	0	-1
+Grupo religioso	-1	-1	-1	59	0	-1
+Arte sacra	-1	-1	-1	59	0	-1
+Sacro	-1	-1	-1	59	0	-1
+Santidade	-1	-1	-1	59	0	-1
+Abóboda	-1	-1	-1	59	0	-1
+Sino	-1	-1	-1	59	0	-1
+Santuário	-1	-1	-1	60	0	-1
+Monastério	-1	-1	-1	60	0	-1
+Sagrado	-1	-1	-1	60	0	-1
+Religião	-1	-1	-1	60	0	-1
+Monumento	-1	-1	-1	61	0	-1
+Memorial	-1	-1	-1	61	0	-1
+Torre	-1	-1	-1	61,63,63	0	-1
+Arco	-1	-1	-1	61	0	-1
+Tenda	-1	-1	-1	62	0	-1
+Barraca	-1	-1	-1	62	0	-1
+Realeza	-1	-1	-1	63	0	-1
+Real	-1	-1	-1	63	0	-1
+Palacete	-1	-1	-1	63	0	-1
+Residência real	-1	-1	-1	63	0	-1
+Diversão	-1	-1	-1	65,80	0	-1
+Atração	-1	-1	-1	65,66	0	-1
+Roda-gigante	-1	-1	-1	65	0	-1
+Montanha-russa	-1	-1	-1	65	0	-1
+Disney	-1	-1	-1	65	0	-1
+Fauna aquática	-1	-1	-1	66	0	-1
+Espécies	-1	-1	-1	66,67	0	-1
+Aquários	-1	-1	-1	66	0	-1
+Mundo subaquático	-1	-1	-1	66	0	-1
+Animais	-1	-1	-1	67	0	-1
+Safari	-1	-1	-1	67	0	-1
+Leão	-1	-1	-1	67	0	-1
+Girafa	-1	-1	-1	67	0	-1
+Vida selvagem	-1	-1	-1	67	0	-1
+Jaula	-1	-1	-1	67	0	-1
+Saia longa	-1	-1	-1	68	0	-1
+Saia curta	-1	-1	-1	68	0	-1
+Balonê	-1	-1	-1	68	0	-1
+Brilho	-1	-1	-1	69	0	-1
+Renda	-1	-1	-1	69	0	-1
+Aluguel	-1	-1	-1	69	0	-1
+Venda	-1	-1	-1	69	0	-1
+Catálogo	-1	-1	-1	69	0	-1
+Tiara	-1	-1	-1	69	0	-1
+Vestido curto	-1	-1	-1	69	0	-1
+Vestido com calda	-1	-1	-1	69	0	-1
+Tomara que caia	-1	-1	-1	69	0	-1
+Ano	-1	-1	-1	70	0	-1
+Fabricante	-1	-1	-1	70	0	-1
+Combustível	-1	-1	-1	70	0	-1
+Carro elétrico	-1	-1	-1	70	0	-1
+Motor	-1	-1	-1	70	0	-1
+Peças	-1	-1	-1	70	0	-1
+Fuselagem	-1	-1	-1	70	0	-1
+Estofamento	-1	-1	-1	70	0	-1
+Cabine	-1	-1	-1	71	0	-1
+Vagão	-1	-1	-1	71	0	-1
+Plataforma	-1	-1	-1	71	0	-1
+Estação	-1	-1	-1	71	0	-1
+Trilho	-1	-1	-1	71	0	-1
+Máquina	-1	-1	-1	71	0	-1
+Via férrea	-1	-1	-1	71	0	-1
+Maria-fumaça	-1	-1	-1	71	0	-1
+Transporte ferroviário	-1	-1	-1	71	0	-1
+Trem-bala	-1	-1	-1	71	0	-1
+Companhia	-1	-1	-1	71	0	-1
+Doce	-1	-1	-1	73	0	-1
+Chocolate	-1	-1	-1	73	0	-1
+Torta	-1	-1	-1	73	0	-1
+Bolo	-1	-1	-1	73,83	0	-1
+Pudim	-1	-1	-1	73	0	-1
+Culinária japonesa	-1	-1	-1	74,75	0	-1
+Atum	-1	-1	-1	74	0	-1
+Salmão	-1	-1	-1	74	0	-1
+Restaurante japonês	-1	-1	-1	74	0	-1
+Sushiman	-1	-1	-1	74	0	-1
+Culinária asiática	-1	-1	-1	74	0	-1
+Culinária chinesa	-1	-1	-1	75	0	-1
+Gastronomia chinesa	-1	-1	-1	75	0	-1
+Sopa	-1	-1	-1	75	0	-1
+Vegetais	-1	-1	-1	75	0	-1
+Restaurantes chineses	-1	-1	-1	75	0	-1
+Nabemono	-1	-1	-1	75	0	-1
+Cogumelos	-1	-1	-1	75	0	-1
+Grill	-1	-1	-1	76	0	-1
+Picanha	-1	-1	-1	76	0	-1
+Maminha	-1	-1	-1	76	0	-1
+Coração de galinha	-1	-1	-1	76	0	-1
+Pão de alho	-1	-1	-1	76	0	-1
+Brasa	-1	-1	-1	76	0	-1
+Carvão	-1	-1	-1	76	0	-1
+Farofa	-1	-1	-1	76	0	-1
+Documento de texto	-1	-1	-1	77	0	-1
+Arquivo	-1	-1	-1	77	0	-1
+Localização	-1	-1	-1	78	0	-1
+Carta geográfica	-1	-1	-1	78	0	-1
+Mapear	-1	-1	-1	78	0	-1
+Endereço	-1	-1	-1	78	0	-1
+Trajeto	-1	-1	-1	78	0	-1
+Gráfico	-1	-1	-1	78	0	-1
+Desenho	-1	-1	-1	79	0	-1
+Quadrinhos	-1	-1	-1	80	0	-1
+Caricaturas	-1	-1	-1	80	0	-1
+Dançarinos	-1	-1	-1	81	0	-1
+Dançarinas	-1	-1	-1	81	0	-1
+Ritmos	-1	-1	-1	81	0	-1
+Ballet	-1	-1	-1	81	0	-1
+Ensaio	-1	-1	-1	81,82	0	-1
+Convite	-1	-1	-1	81,82	0	-1
+Espetáculo	-1	-1	-1	81,82	0	-1
+Banda	-1	-1	-1	82	0	-1
+Musicista	-1	-1	-1	82	0	-1
+Videokê	-1	-1	-1	82	0	-1
+Microfone	-1	-1	-1	82	0	-1
+Instrumento musical	-1	-1	-1	82	0	-1
+Aula	-1	-1	-1	82	0	-1
+Presente	-1	-1	-1	83	0	-1
+Parabéns	-1	-1	-1	83	0	-1
+Feliz Aniversário	-1	-1	-1	83	0	-1
+Comemoração	-1	-1	-1	83	0	-1
+Velas	-1	-1	-1	83	0	-1
+Balão	-1	-1	-1	83	0	-1
+Bexiga	-1	-1	-1	83	0	-1
+Recordação	-1	-1	-1	85	0	-1
+Pessoa	-1	-1	-1	85	0	-1
+Revelação	-1	-1	-1	85	0	-1
+Foto	-1	-1	-1	85	0	-1
+Neném	-1	-1	-1	86	0	-1
+Berço	-1	-1	-1	86	0	-1
+Carrinho	-1	-1	-1	86	0	-1
+Fralda	-1	-1	-1	86	0	-1
+Creche	-1	-1	-1	86	0	-1
+Papinha	-1	-1	-1	86	0	-1
+Alimentação	-1	-1	-1	86	0	-1
+Leite materno	-1	-1	-1	86	0	-1
+Pomada	-1	-1	-1	86	0	-1
+Maternidade	-1	-1	-1	86	0	-1
+Amamentação	-1	-1	-1	86	0	-1
+Sapato	-1	-1	-1	87	0	-1
+Oxford	-1	-1	-1	87	0	-1
+Calçado	-1	-1	-1	87	0	-1
+Bota	-1	-1	-1	87	0	-1
+Coturno	-1	-1	-1	87	0	-1
+Chinelo	-1	-1	-1	87	0	-1
+Sandália	-1	-1	-1	87	0	-1
+Rasteirinha	-1	-1	-1	87	0	-1
+Alpargata	-1	-1	-1	87	0	-1
+Boné	-1	-1	-1	88	0	-1
+Quepe	-1	-1	-1	88	0	-1
+Feltro	-1	-1	-1	88	0	-1
+Gorro	-1	-1	-1	88	0	-1
+Chapéu de palha	-1	-1	-1	88	0	-1
+Chapéu-coco	-1	-1	-1	88	0	-1
+Cartola	-1	-1	-1	88	0	-1
+Elmo	-1	-1	-1	88	0	-1
+Touca	-1	-1	-1	88	0	-1
+Turbante	-1	-1	-1	88	0	-1
+Viseira	-1	-1	-1	88	0	-1
+Chapéu-panamá	-1	-1	-1	88	0	-1
+Comprovação	-1	-1	-1	89,89	0	-1
+Atestado	-1	-1	-1	89	0	-1
+Diploma	-1	-1	-1	89	0	-1
+Certidão	-1	-1	-1	89	0	-1
+Declaração	-1	-1	-1	89	0	-1
+Cartão de crédito	-1	-1	-1	91	0	-1
+Cartão de débito	-1	-1	-1	91	0	-1
+Chip	-1	-1	-1	91	0	-1
+Conta bancária.	-1	-1	-1	91	0	-1
+Recibo	-1	-1	-1	92	0	-1
+Nota fiscal	-1	-1	-1	92	0	-1
+Pagamento	-1	-1	-1	92	0	-1
+Comprovante	-1	-1	-1	92	0	-1
+Débito	-1	-1	-1	92	0	-1
+Dívida	-1	-1	-1	92	0	-1
+Crédito	-1	-1	-1	92	0	-1

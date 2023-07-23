@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/picture3d_sticker_grid_view_width" android:width="@dimen/picture3d_sticker_grid_view_height" />
+    <corners android:radius="@dimen/picture3d_sticker_grid_view_background_radius" />
+    <solid android:color="@color/base_editor_item_mask_70_color" />
+</shape>

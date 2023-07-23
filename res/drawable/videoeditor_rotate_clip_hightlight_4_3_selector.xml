@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/videoeditor_rotate_clip_4_3" android:tint="@color/videoeditor_C05" />
+    </item>
+</selector>

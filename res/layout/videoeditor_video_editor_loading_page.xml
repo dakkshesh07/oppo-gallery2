@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/video_editor_loading_page" android:background="@null" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.coui.appcompat.widget.COUILoadingView android:id="@id/loading_process" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="@dimen/videoeditor_video_editor_loading_page_text_size" android:textColor="@color/videoeditor_video_editor_gallery_list_item_small_text_color" android:id="@id/loading_progress_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
+    <ImageView android:id="@id/loading_manual" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/videoeditor_video_editor_loading_icon" android:contentDescription="@null" />
+</LinearLayout>

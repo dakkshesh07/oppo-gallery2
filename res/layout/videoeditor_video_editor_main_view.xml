@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:forceDarkAllowed="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.gallery.videoeditor_lib.engine.GalleryEditorVideoView android:id="@id/video_engine_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/video_editor_top_view_margin_top" android:layout_above="@id/main_control_view" android:layout_alignParentTop="true">
+        <com.oplus.gallery.videoeditor_lib.video.ui.VideoSubTitleEditTextView android:id="@id/gallery_video_subtitle_text" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    </com.oplus.gallery.videoeditor_lib.engine.GalleryEditorVideoView>
+    <com.oplus.gallery.videoeditor_lib.base.ui.ControlBarView android:id="@id/main_control_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <View android:id="@id/anchor" android:visibility="invisible" android:layout_width="1.0px" android:layout_height="1.0px" android:layout_marginTop="@dimen/video_editor_guide_view_margin_top" android:layout_alignTop="@id/main_control_view" android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:id="@id/appbar_layout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setting_category_top_padding" app:elevation="0.0dip" app:layout_behavior="@string/common_hideable_divider_toolbar_behavior">
+        <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/toolbar" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/setting_toolbar_min_height" app:supportTitleTextAppearance="@style/textAppearanceSecondTitle" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/security_logo_content" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/security_logo" android:visibility="visible" android:layout_width="@dimen/setting_security_icon_width" android:layout_height="@dimen/setting_security_icon_height" android:layout_marginTop="@dimen/setting_security_icon_margin_top" android:src="@drawable/setting_security_page_logo_icon" android:layout_marginStart="@dimen/setting_security_margin_start" />
+        <TextView android:textColor="@color/base_black_55_percent" android:id="@id/security_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setting_category_top_padding" android:text="@string/base_security_share_send_detail" android:fontFamily="sans-serif-regular" android:layout_marginStart="@dimen/setting_text_preference_padding_end" android:layout_marginEnd="@dimen/setting_security_margin_end" />
+    </LinearLayout>
+    <View android:id="@id/security_divider" android:background="@color/common_divider_line_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_divider_height" android:layout_marginTop="@dimen/setting_security_divider_line_margin_Top" android:layout_centerInParent="true" android:layout_marginStart="@dimen/setting_security_margin_start" android:layout_marginEnd="@dimen/setting_security_margin_end" android:forceDarkAllowed="false" />
+    <RelativeLayout android:id="@id/settingContent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/ai_repair_bg" android:background="@color/picture3d_photo_editor_ai_repair_loading_bg_color" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/ai_repair_refresh_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/ai_repair_image" android:background="@drawable/picture3d_ai_repair_refresh" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ImageView android:id="@id/ai_repair_refresh_gif" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/picture3d_ai_repair_refresh_gif" />
+    </RelativeLayout>
+</RelativeLayout>

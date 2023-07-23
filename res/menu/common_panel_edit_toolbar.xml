@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/common_ic_action_cancel_selector" android:id="@id/menu_cancel" android:title="cancel" app:showAsAction="always" />
+    <item android:icon="@drawable/common_ic_action_finish_selector" android:id="@id/menu_save" android:title="save" app:showAsAction="always" />
+</menu>

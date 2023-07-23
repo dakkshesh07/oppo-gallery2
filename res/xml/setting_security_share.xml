@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/common_app_name"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/base_setting_security_share_send_erase_location_title" android:key="pref_security_share_send_erase_location" android:summary="@string/base_security_share_send_erase_location_detail" android:defaultValue="false" app:couiShowDivider="true" />
+    <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/base_security_share_send_erase_take_photo_title" android:key="pref_security_share_send_erase_take_photo" android:summary="@string/base_security_share_send_erase_take_photo_detail" android:defaultValue="false" app:couiShowDivider="false" />
+</androidx.preference.PreferenceScreen>

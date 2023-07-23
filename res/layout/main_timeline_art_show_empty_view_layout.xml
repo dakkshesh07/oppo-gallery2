@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="start" android:orientation="vertical" android:id="@id/title_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_timeline_art_show_empty_page_title_container_margin_top" android:layout_marginHorizontal="@dimen/main_timeline_art_show_empty_page_title_container_margin_left">
+        <TextView android:textSize="@dimen/main_timeline_art_show_empty_page_title_size" android:textColor="@color/main_art_show_empty_page_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/main_timeline_tab_button_art_show" android:fontFamily="sans-serif-light" />
+        <TextView android:textSize="@dimen/main_timeline_art_show_empty_page_summary_size" android:textColor="@color/main_art_show_empty_page_summary_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_timeline_art_show_empty_page_summary_margin_top" android:text="@string/main_art_show_empty_page_summary" />
+    </LinearLayout>
+    <com.oplus.anim.EffectiveAnimationView android:id="@id/empty_view_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="matrix" android:forceDarkAllowed="false" app:anim_autoPlay="true" app:anim_rawRes="@raw/base_empty_view_art_show" />
+</merge>

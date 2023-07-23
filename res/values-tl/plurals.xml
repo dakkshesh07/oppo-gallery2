@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d (na) litrato ang nilo-load at hindi maidaragdag.</item>
+        <item quantity="one">%d litrato ang nilo-load at hindi maidaragdag.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d (na) bank card</item>
+        <item quantity="one">%1$d bank card</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">Nahanap na larawan: %s. I-on ang feature na ito para ayusin ang mga nauugnay na larawan. Puwede mong i-on o i-off ito anumang oras sa Mga Setting.</item>
+        <item quantity="one">Nahanap na larawan: %s. I-on ang feature na ito para ayusin ang mga nauugnay na larawan. Puwede mong i-on o i-off ito anumang oras sa Mga Setting.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d (na) ID</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Permanenteng i-delete ang %d (na) item</item>
+        <item quantity="one">Permanenteng i-delete ang %d item</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">I-delete ang %d (na) item</item>
+        <item quantity="one">I-delete ang %d item</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d (na) larawan</item>
+        <item quantity="one">%1$d larawan</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Nahanap na larawan: %s. Puwede mong ilipat ang mga iyon sa \"Card case\" para sa mas madaling pag-access.</item>
+        <item quantity="one">Nahanap na larawan: %s. Puwede mo itong ilipat sa \"Card case\" para sa mas madaling pag-access.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Inilipat sa \"Card case\" ang %1$s</item>
+        <item quantity="one">Inilipat sa \"Card case\" ang %1$s</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d (na) ticket/resibo</item>
+        <item quantity="one">%1$d ticket/resibo</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Nasa album na ang mga napiling item</item>
+        <item quantity="one">Nasa album na ang napiling item</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d (na) item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">Naglo-load ang %d (na) larawan at hindi mailipat</item>
+        <item quantity="one">Naglo-load ang %d larawan ang hindi mailipat</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d (na) tao</item>
+        <item quantity="one">%1$d (na) tao</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Nailipat ang mga larawan. Hindi maililipat ang mga video sa album na ito.</item>
+        <item quantity="one">Nailipat ang larawan. Hindi maililipat ang mga video sa album na ito.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">I-restore ang %d (na) item</item>
+        <item quantity="one">I-restore ang %d item</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d (na) Larawan</item>
+        <item quantity="one">%1$d Larawan</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d (na) Video</item>
+        <item quantity="one">%1$d (na) Video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d (na) item ang napili</item>
+        <item quantity="one">%1$d item ang napili</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d (na) Album ang Napili</item>
+        <item quantity="one">%1$d Album ang Napili</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d (na) Tao ang Napili</item>
+        <item quantity="one">%1$d (na) Tao ang Napili</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d ang napili</item>
+        <item quantity="one">%1$d ang napili</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d (na) memory ang napili</item>
+        <item quantity="one">%1$d memory ang napili</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d Video ang Napili</item>
+        <item quantity="one">%1$d Video ang Napili</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d (na) Video</item>
+        <item quantity="one">%1$d (na) Video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. Hindi na-download ang %2$d (na) item.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. Hindi na-download ang %2$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. Hindi na-download ang %2$d (na) item. Paki-charge ang iyong telepono.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. Hindi na-download ang %2$d item. Paki-charge ang iyong telepono.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. %2$d (na) item ang hindi na-download. Paki-charge ang iyong device.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. %2$d item ang hindi na-download. Paki-charge ang iyong device.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. Hindi na-download ang %2$d (na) item.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. Hindi na-download ang %2$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Naka-on ang Power saving mode. Hindi na-download ang %1$d (na) item.</item>
+        <item quantity="one">Naka-on ang Power saving mode. Hindi na-download ang %1$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Naka-on ang Power saving mode. Hindi na-download ang %1$d (na) item.</item>
+        <item quantity="one">Naka-on ang Power saving mode. Hindi na-download ang %1$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Walang koneksyon sa network. Hindi na-download ang %1$d (na) item. %2$s.</item>
+        <item quantity="one">Walang koneksyon sa network. Hindi na-download ang %1$d item. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Walang koneksyon sa network. Hindi na-download ang %1$d (na) item. %2$s o %3$s.</item>
+        <item quantity="one">Walang koneksyon sa network. Hindi na-download ang %1$d item. %2$s o %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Walang koneksyon sa network. %1$d (na) item ang hindi na-download.</item>
+        <item quantity="one">Walang koneksyon sa network. %1$d item ang hindi na-download.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Walang koneksyon sa network. %1$d (na) item ang hindi na-download.</item>
+        <item quantity="one">Walang koneksyon sa network. %1$d item ang hindi na-download.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Hindi sapat ang storage sa cloud. Hindi na-download ang %1$d item.</item>
+        <item quantity="one">Hindi sapat ang storage sa cloud. Hindi na-download ang %1$d (na) item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Hindi sapat ang storage ng device. %1$d (na) item ang hindi na-download.</item>
+        <item quantity="one">Hindi sapat ang storage ng device. %1$d item ang hindi na-download.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Error sa network. %1$d (na) item ang hindi na-download.</item>
+        <item quantity="one">Error sa network. %1$d item ang hindi na-download.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Error sa network. %1$d (na) item ang hindi na-download.</item>
+        <item quantity="one">Error sa network. %1$d item ang hindi na-download.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Hindi sapat ang storage sa cloud. Hindi na-download ang %1$d (na) orihinal na larawan.</item>
+        <item quantity="one">Hindi sapat ang storage sa cloud. Hindi na-download ang %1$d orihinal na larawan.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d (na) larawan ang hindi na-sync. Puno na ang storage sa cloud.</item>
+        <item quantity="one">%1$d larawan ang hindi na-sync. Puno na ang storage sa cloud.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">Hindi na-sync ang %1$d (na) larawan. Pino-pause ang pag-sync sa cloud kapag mas mababa na sa %2$s ang baterya.</item>
+        <item quantity="one">Hindi na-sync ang %1$d larawan. Pino-pause ang pag-sync sa cloud kapag mas mababa na sa %2$s ang baterya.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d (na) larawan ang hindi na-sync. Naka-pause ang pag-sync ng cloud sa power saving mode.</item>
+        <item quantity="one">%1$d larawan ang hindi na-sync. Naka-pause ang pag-sync ng cloud sa power saving mode.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Puno na ang storage sa cloud. Hindi na-upload ang %1$d (na) item.</item>
+        <item quantity="one">Puno na ang storage ng cloud. Hindi na-upload ang %1$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. Hindi na-upload ang %2$d (na) item.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. Hindi na-upload ang %2$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. Hindi na-upload ang %2$d (na) item. Paki-charge ang iyong telepono.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. Hindi na-upload ang %2$d item. Paki-charge ang iyong telepono.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. %2$d (na) item ang hindi na-upload. Paki-charge ang iyong device.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. %2$d item ang hindi na-upload. Paki-charge ang iyong device.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Mas mababa sa %1$s ang baterya. Hindi na-upload ang %2$d (na) item.</item>
+        <item quantity="one">Mas mababa sa %1$s ang baterya. Hindi na-upload ang %2$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Naka-on ang Power saving mode. Hindi na-upload ang %1$d (na) item.</item>
+        <item quantity="one">Naka-on ang Power saving mode. Hindi na-upload ang %1$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Naka-on ang Power saving mode. Hindi na-upload ang %1$d item.</item>
+        <item quantity="one">Naka-on ang Power saving mode. Hindi na-upload ang %1$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Puno na ang storage sa cloud. Hindi na-upload ang %1$d (na) item.</item>
+        <item quantity="one">Puno na ang storage ng cloud. Hindi na-upload ang %1$d item.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d (na) video ang hindi na-sync. Puno na ang storage sa cloud.</item>
+        <item quantity="one">%1$d video ang hindi na-sync. Puno na ang storage sa cloud.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">Hindi na-sync ang %1$d (na) video. Pino-pause ang pag-sync sa cloud kapag mas mababa na sa %2$s ang baterya.</item>
+        <item quantity="one">Hindi na-sync ang %1$d video. Pino-pause ang pag-sync sa cloud kapag mas mababa na sa %2$s ang baterya.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d (na) video ang hindi na-sync. Naka-pause ang pag-sync ng cloud sa power saving mode.</item>
+        <item quantity="one">%1$d video ang hindi na-sync. Naka-pause ang pag-sync ng cloud sa power saving mode.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d larawan ang hindi na-sync.</item>
+        <item quantity="one">%1$d (na) larawan ang hindi na-sync.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Walang koneksyon sa network. Hindi na-upload ang %1$d (na) item. %2$s.</item>
+        <item quantity="one">Walang koneksyon sa network. Hindi na-upload ang %1$d item.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Walang koneksyon sa network. Hindi na-upload ang %1$d (na) item. %2$s o %3$s.</item>
+        <item quantity="one">Walang koneksyon sa network. Hindi na-upload ang %1$d item. %2$s o %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Walang koneksyon sa network. %1$d (na) item ang hindi na-upload.</item>
+        <item quantity="one">Walang koneksyon sa network. %1$d item ang hindi na-upload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Walang koneksyon sa network. %1$d (na) item ang hindi na-upload.</item>
+        <item quantity="one">Walang koneksyon sa network. %1$d item ang hindi na-upload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d (na) video ang hindi na-sync</item>
+        <item quantity="one">%1$d video ang hindi na-sync</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Error sa network. %1$d (na) item ang hindi na-upload.</item>
+        <item quantity="one">Error sa network. %1$d item ang hindi na-upload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Error sa network. %1$d (na) item ang hindi na-upload.</item>
+        <item quantity="one">Error sa network. %1$d item ang hindi na-upload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Error sa serbisyo. %1$d (na) item ang hindi na-upload.</item>
+        <item quantity="one">Error sa serbisyo. %1$d item ang hindi na-upload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Error sa serbisyo. %1$d (na) item ang hindi na-upload.</item>
+        <item quantity="one">Error sa serbisyo. %1$d item ang hindi na-upload.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Hindi naidagdag ang %d (na) item</item>
+        <item quantity="one">Hindi naidagdag ang %d item</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d (na) litrato ang nilo-load at hindi maitatakda bilang pribado.</item>
+        <item quantity="one">%d litrato ang nilo-load at hindi maitatakda bilang pribado.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d (na) oras</item>
+        <item quantity="one">%d oras</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d (na) item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d (na) minuto</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d (na) segundo</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d (na) araw</item>
+        <item quantity="one">%1$d araw</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d (na) Larawan</item>
+        <item quantity="one">%1$d Larawan</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d (na) Video</item>
+        <item quantity="one">%1$d (na) Video</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d (na) larawan ang nilo-load</item>
+        <item quantity="one">%d larawan ang nilo-load</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d na bagong notification</item>
+        <item quantity="one">%d bagong notification</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Mas malaki dapat sa %1$d (na) mm</item>
+        <item quantity="one">Mas malaki dapat sa %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Mas malaki dapat sa %1$d (na) px</item>
+        <item quantity="one">Mas malaki dapat sa %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Mas maliit dapat sa %1$d (na) mm</item>
+        <item quantity="one">Mas maliit dapat sa %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Mas maliit dapat sa %1$d (na) px</item>
+        <item quantity="one">Mas maliit dapat sa %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Mas malaki dapat sa %1$d (na) KB</item>
+        <item quantity="one">Mas malaki dapat sa %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Mas maliit dapat sa %1$d (na) KB</item>
+        <item quantity="one">Mas maliit dapat sa %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Mas malaki dapat sa %1$d (na) mm</item>
+        <item quantity="one">Mas malaki dapat sa %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Mas malaki dapat sa %1$d (na) px</item>
+        <item quantity="one">Mas malaki dapat sa %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Mas maliit dapat sa %1$d (na) mm</item>
+        <item quantity="one">Mas maliit dapat sa %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Mas maliit dapat sa %1$d (na) px</item>
+        <item quantity="one">Mas maliit dapat sa %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Panatilihin ang %d (na) piniling litrato lang</item>
+        <item quantity="one">Panatilihin ang %d piniling litrato lang</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">I-delete ang %d (na) Item</item>
+        <item quantity="one">I-delete ang %d Item</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d ang napili</item>
+        <item quantity="one">%1$d (na) Item ang Napili</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d (na) Album ang Napili</item>
+        <item quantity="one">%1$d Album ang Napili</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d ang napili</item>
+        <item quantity="one">%1$d ang napili</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d (na) sticker ang pinili</item>
+        <item quantity="one">%1$d sticker ang pinili</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d Video ang Napili</item>
+        <item quantity="one">%1$d Video ang Napili</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d (na) litrato ang nilo-load at hindi made-delete.</item>
+        <item quantity="one">%d litrato ang nilo-load at hindi made-delete.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Hindi na-delete ang %1$d (na) item. Pakisubukang muli</item>
+        <item quantity="one">Hindi na-delete ang %1$d item. Pakisubukang muli</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d (na) bagong notification</item>
+        <item quantity="one">%d bagong notification</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d (na) Larawan</item>
+        <item quantity="one">%1$d larawan</item>
+    </plurals>
+</resources>

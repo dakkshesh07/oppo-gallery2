@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="tab_photo" android:tint="@color/main_tab_default_icon_black" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <clip-path android:pathData="M4,4.6667h16v14.6667h-16z" />
+    <path android:fillColor="#ffffffff" android:pathData="M5,4.6674C4.4477,4.6674 4,5.1151 4,5.6674V18.334C4,18.8863 4.4477,19.334 5,19.334H8.963L9.8289,20.1133L10.5302,19.334H19C19.5523,19.334 20,18.8863 20,18.334V5.6674C20,5.1151 19.5523,4.6674 19,4.6674H5ZM11.7302,18.0007H18.6667V16.5211L15.4081,13.9142L11.7302,18.0007ZM18.6667,14.8136V6.0007H5.3333V18.0007H9.9364L14.8378,12.5547L15.2586,12.0872L15.7498,12.4801L18.6667,14.8136Z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M8.6667,8.6673m-1.3333,0a1.3333,1.3333 0,1 1,2.6667 0a1.3333,1.3333 0,1 1,-2.6667 0" />
+</vector>

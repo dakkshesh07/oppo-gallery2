@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_horizontal" android:id="@id/timeline_item_count" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textColor="@color/base_timeline_footer_str_cloud_text_color" android:gravity="center_horizontal" android:id="@id/cloud_sync_status" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_timeline_footer_cloud_sync_margin_top" android:minWidth="@dimen/base_timeline_footer_cloud_sync_text_mini_size" android:lineSpacingMultiplier="@dimen/base_text_line_spacing" android:textDirection="anyRtl" android:textAlignment="center" />
+</merge>

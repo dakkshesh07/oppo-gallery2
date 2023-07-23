@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">사진 %d장을 로드 중이며 추가할 수 없습니다.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d장의 은행 카드</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">발견된 사진: %s. 관련 사진을 정리하려면 이 기능을 켜세요. 설정에서 언제든지 켜거나 끌 수 있습니다.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d개의 신분증</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d개 항목 영구 삭제</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d개 항목 삭제</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d건의 사진</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">발견된 사진: %s. 더 용이한 접근을 위해 \"카드 케이스\"로 이동시킬 수 있습니다.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s의 사진이 \"카드 케이스\"로 이동되었습니다</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d장의 티켓/영수증</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">선택한 항목이 이미 앨범에 있습니다</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d장의 사진이 업로드 중이며 이동할 수 없습니다</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d명</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">사진이 이동되었습니다. 동영상은 이 앨범으로 이동시킬 수 없습니다.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d개 항목 복원</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d장의 사진</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d개의 동영상</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d개의 항목이 선택됨</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d개의 앨범이 선택됨</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d 명 선택됨</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d 선택</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d개의 추억이 선택됨</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d개의 동영상이 선택됨</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d개의 동영상</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">배터리가 %1$s보다 낮음. %2$d개 항목이 다운로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">배터리가 %1$s보다 낮습니다. %2$d개 항목이 다운로드되지 않습니다. 휴대전화를 충전하세요.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">배터리가 %1$s보다 낮습니다. %2$d개 항목이 다운로드되지 않았습니다. 기기를 충전하세요.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">배터리가 %1$s보다 낮음. %2$d개 항목이 다운로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">절전 모드 켜짐. %1$d개 항목이 다운로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">절전 모드 켜짐. %1$d개 항목이 다운로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 다운로드 되지 않음. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 다운로드되지 않음. %2$s 또는 %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 다운로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 다운로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">클라우드 저장 공간 부족. %1$d개 항목이 다운로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">기기 저장 공간 부족. %1$d개 항목이 다운로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">네트워크 오류. %1$d 항목들이 다운로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">네트워크 오류. %1$d 항목들이 다운로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">클라우드 저장 공간 부족. %1$d매의 원본 사진이 다운로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">사진 %1$d장 동기화 실패. 클라우드 저장소가 꽉 찼습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">사진 %1$d장 동기화 실패. 배터리가 %2$s 미만이면 클라우드 동기화가 일시 정지됩니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">사진 %1$d장 동기화 실패. 절전 모드에서는 클라우드 동기화가 일시 정지됩니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">클라우드 저장 공간 꽉 참. %1$d개 항목이 업로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">배터리가 %1$s보다 낮음. %2$d개 항목이 업로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">배터리가 %1$s보다 낮습니다. %2$d개 항목이 업로드되지 않습니다. 휴대전화를 충전하세요.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">배터리가 %1$s보다 낮습니다. %2$d개 항목이 업로드되지 않았습니다. 기기를 충전하세요.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">배터리가 %1$s보다 낮음. %2$d개 항목이 업로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">절전 모드 켜짐. %1$d개 항목이 업로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">절전 모드 켜짐. %1$d개 항목이 업로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">클라우드 저장 공간 꽉 참. %1$d개 항목이 업로드되지 않음.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">동영상 %1$d개 동기화 실패. 클라우드 저장소가 꽉 찼습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">동영상 %1$d개 동기화 실패. 배터리가 %2$s 미만이면 클라우드 동기화가 일시 정지됩니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">동영상 %1$d개 동기화 실패. 절전 모드에서는 클라우드 동기화가 일시 정지됩니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">사진 %1$d장 동기화 실패.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 업로드되지 않음. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 업로드되지 않음. %2$s 또는 %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 업로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">네트워크 연결되지 않음. %1$d개 항목이 업로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">동영상 %1$d개 동기화 실패</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">네트워크 오류. %1$d 항목들이 업로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">네트워크 오류. %1$d 항목들이 업로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">서비스 오류. %1$d 항목들이 업로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">서비스 오류. %1$d 항목들이 업로드되지 않았습니다.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d개의 항목을 추가하지 못했습니다.</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">사진 %d장을 로드 중이며 비공개로 설정할 수 없습니다.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d시간</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d개 항목</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d일</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d장의 사진</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d개의 동영상</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d개의 사진이 로드됨</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">새 알림 %d개</item>
+        <item quantity="one">새 알림 %d개</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$dmm를 초과해야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$dpx을 초과해야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$dmm 미만이어야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$dpx 미만이어야 함</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$dKB를 초과해야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$dKB 미만이어야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$dmm를 초과해야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$dpx을 초과해야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$dmm 미만이어야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$dpx 미만이어야 합니다</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">%d개의 선택된 사진만 보관</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d개 항목 삭제</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d개 선택됨</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d개의 앨범이 선택됨</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d 선택</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">스티커 %1$d개 선택됨</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d개의 동영상이 선택됨</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">사진 %d장을 로드 중이며 삭제할 수 없습니다.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d개의 항목을 삭제하지 못했습니다. 다시 시도하십시오.</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d개의 새로운 알림</item>
+        <item quantity="one">%d개의 새로운 알림</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d장의 사진</item>
+    </plurals>
+</resources>

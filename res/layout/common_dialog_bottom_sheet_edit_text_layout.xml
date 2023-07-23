@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/normal_bottom_sheet_toolbar" android:background="@null" android:layout_width="fill_parent" android:layout_height="@dimen/common_panel_ordinary_first_level_toolbar_height" />
+    <com.coui.appcompat.widget.COUIEditText android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/common_panel_edit_dialog_text_size" android:id="@id/normal_bottom_sheet_edit_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_panel_edit_dialog_layout_marginTop" android:layout_marginBottom="@dimen/common_panel_edit_dialog_layout_marginBottom" android:layout_marginStart="@dimen/common_panel_edit_dialog_layout_marginStartEnd" android:layout_marginEnd="@dimen/common_panel_edit_dialog_layout_marginStartEnd" app:quickDelete="true" style="?couiEditTextLineHintDisableStyle" />
+</LinearLayout>

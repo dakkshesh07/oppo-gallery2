@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/picture3d_editor_menu_icon_size" android:width="@dimen/picture3d_editor_menu_icon_size" android:autoMirrored="true" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffec3e50" android:pathData="M12,12m-9.665,0a9.665,9.665 0,1 1,19.33 0a9.665,9.665 0,1 1,-19.33 0" android:strokeColor="#fffafafa" android:strokeWidth="1.33" />
+    <path android:fillColor="#ffffffff" android:pathData="M8,11.335H16V12.665H8V11.335Z" />
+</vector>

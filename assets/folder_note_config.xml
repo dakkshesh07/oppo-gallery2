@@ -1,0 +1,1242 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<!--OS 8.0 EXP-->
+<filter-conf>
+    <version>2022032300</version>
+    <isOpen>1</isOpen>
+    <filter-name>med_gallery_specifiedalbumname_list</filter-name>
+
+    <item
+        folder="/Download/PC Connect"
+        note="Multi-Screen Connect"
+        note-zh-rCN="跨屏互联"
+        note-zh-rTW="跨屏互聯 "/>
+    <item
+        folder="/Download/Multi-Screen Connect"
+        note="Multi-Screen Connect"
+        note-zh-rCN="跨屏互联"
+        note-zh-rTW="跨屏互聯 "/>
+    <item
+        folder="/DCIM/Camera"
+        note="Camera"
+        note-zh-rCN="相机"
+        note-zh-rTW="相機"/>
+
+    <item
+        folder="/DCIM/Photo space"
+        note="Photo space"
+        note-zh-rCN="心情相册"
+        note-zh-rTW="心情相冊"/>
+
+    <item
+        folder="/Pictures/Screenshots"
+        note="Screenshots"
+        note-zh-rCN="截屏录屏"
+        note-zh-rTW="螢幕截圖"/>
+
+    <item
+        folder="/Pictures/Longshots"
+        note="Longshots"
+        note-zh-rCN="长截屏"
+        note-zh-rTW="長截屏"/>
+
+    <item
+        folder="/Pictures"
+        note="Pictures"
+        note-zh-rCN="示例图片"
+        note-zh-rTW="示範圖片"/>
+
+    <item
+        folder="/Browser"
+        note="Browser"
+        note-zh-rCN="浏览器"
+        note-zh-rTW="瀏覽器"/>
+
+    <item
+        folder="/Download"
+        note="Download"
+        note-zh-rCN="下载"
+        note-zh-rTW="下載"/>
+
+    <item
+        folder="/云端下载"
+        note="OCloud"
+        note-zh-rCN="云端下载"
+        note-zh-rTW="雲端下載"/>
+
+    <item
+        folder="/我的图片"
+        note="MyPictures"
+        note-zh-rCN="我的图片"
+        note-zh-rTW="我的圖片"/>
+
+    <item
+        folder="/Notes"
+        note="Notes"
+        note-zh-rCN="云便签"
+        note-zh-rTW="雲便簽"/>
+
+    <item
+        folder="/Pcitures/QQ"
+        note="QQ"
+        note-zh-rCN="QQ"
+        note-zh-rTW="QQ"/>
+
+    <item
+        folder="/Tencent/MobileQQ/Photo"
+        note="QQ"
+        note-zh-rCN="QQ"
+        note-zh-rTW="QQ"/>
+
+    <item
+        folder="/Tencent/QQ_Images"
+        note="QQ"
+        note-zh-rCN="QQ"
+        note-zh-rTW="QQ"/>
+
+    <item
+        folder="/Tencent/QQi_Images"
+        note="QQi"
+        note-zh-rCN="QQ国际版"
+        note-zh-rTW="QQi"/>
+
+    <item
+        folder="/Tencent/QQfile_recv"
+        note="QQfile_recv"
+        note-zh-rCN="QQ快传"
+        note-zh-rTW="QQ快传"/>
+
+    <item
+        folder="/QQ_Screenshot"
+        note="QQ_Screenshot"
+        note-zh-rCN="QQ截屏"
+        note-zh-rTW="QQ截屏"/>
+
+    <item
+        folder="/Tencent/QQ_Collection/pic"
+        note="QQ_Collection"
+        note-zh-rCN="QQ收藏"
+        note-zh-rTW="QQ收藏"/>
+
+    <item
+        folder="/Tencent/qzone"
+        note="Qzone"
+        note-zh-rCN="QQ空间"
+        note-zh-rTW="QQ空间"/>
+
+    <item
+        folder="/immomo"
+        note="immomo"
+        note-zh-rCN="陌陌"
+        note-zh-rTW="陌陌"/>
+
+    <item
+        folder="/Tencent/MicroMsg/WeiXin"
+        note="WeChat"
+        note-zh-rCN="微信"
+        note-zh-rTW="微信"/>
+
+    <item
+        folder="/Tencent/MicroMsg/WeChat"
+        note="WeChat"
+        note-zh-rCN="微信"
+        note-zh-rTW="微信"/>
+
+    <item
+        folder="/Pictures/WeiXin"
+        note="WeChat"
+        note-zh-rCN="微信"
+        note-zh-rTW="微信"/>
+
+    <item
+        folder="/Pictures/WeChat"
+        note="WeChat"
+        note-zh-rCN="微信"
+        note-zh-rTW="微信"/>
+
+    <item
+        folder="/Pictures/Yixin"
+        note="Yixin"
+        note-zh-rCN="易信"
+        note-zh-rTW="易信"/>
+
+    <item
+        folder="/sina/weibo/save"
+        note="Weibo"
+        note-zh-rCN="微博"
+        note-zh-rTW="微博"/>
+
+    <item
+        folder="/sina/weibo/weibo"
+        note="Weibo"
+        note-zh-rCN="微博"
+        note-zh-rTW="微博"/>
+
+    <item
+        folder="/sina/weibo/storage/photoalbum_save/weibo"
+        note="Weibo"
+        note-zh-rCN="微博"
+        note-zh-rTW="微博"/>
+
+    <item
+        folder="/Pictures/weibo"
+        note="Weibo"
+        note-zh-rCN="微博"
+        note-zh-rTW="微博"/>
+
+    <item
+        folder="/DCIM/weibovideo"
+        note="Weibo"
+        note-zh-rCN="微博"
+        note-zh-rTW="微博"/>
+
+    <item
+        folder="/Tencent/weibo/save"
+        note="腾讯微博"
+        note-zh-rCN="腾讯微博"
+        note-zh-rTW="腾讯微博"/>
+
+    <item
+        folder="/tencent/weibo/save"
+        note="腾讯微博"
+        note-zh-rCN="腾讯微博"
+        note-zh-rTW="腾讯微博"/>
+
+    <item
+        folder="/Tencent/QzonePic"
+        note="Qzone"
+        note-zh-rCN="QQ空间"
+        note-zh-rTW="QQ空间"/>
+
+    <item
+        folder="/photowonder"
+        note="PhotoWonder"
+        note-zh-rCN="百度魔图"
+        note-zh-rTW="百度魔图"/>
+
+    <item
+        folder="/QQBrowser/图片收藏"
+        note="QQBrowser"
+        note-zh-rCN="QQ浏览器"
+        note-zh-rTW="QQ浏览器"/>
+
+    <item
+        folder="/MTXX"
+        note="MTXX"
+        note-zh-rCN="美图秀秀"
+        note-zh-rTW="美图秀秀"/>
+
+    <item
+        folder="/netease/newsreader/netease_down_pic"
+        note="NetEase News"
+        note-zh-rCN="网易新闻"
+        note-zh-rTW="網易新聞"/>
+
+    <item
+        folder="/Pitu"
+        note="Pitu"
+        note-zh-rCN="天天P图"
+        note-zh-rTW="天天P图"/>
+
+    <item
+        folder="/photowonder"
+        note="PhotoWonder"
+        note-zh-rCN="百度魔图"
+        note-zh-rTW="百度魔图"/>
+
+    <item
+        folder="/MomanCamera/Moment"
+        note="Moment"
+        note-zh-rCN="魔漫相机"
+        note-zh-rTW="魔漫相机"/>
+
+    <item
+        folder="/Cam_Emoticon"
+        note="Cam_Emoticon"
+        note-zh-rCN="魔漫相机"
+        note-zh-rTW="魔漫相机"/>
+
+    <item
+        folder="/DCIM/MomentCam"
+        note="MomentCam"
+        note-zh-rCN="魔漫相机"
+        note-zh-rTW="魔漫相机"/>
+
+    <item
+        folder="/DCIM/XiaoYing"
+        note="XiaoYing"
+        note-zh-rCN="小影"
+        note-zh-rTW="小影"/>
+
+    <item
+        folder="/MTTT"
+        note="MTTT"
+        note-zh-rCN="美图贴贴"
+        note-zh-rTW="美图贴贴"/>
+
+    <item
+        folder="/Pictures/Papa"
+        note="Papa"
+        note-zh-rCN="啪啪"
+        note-zh-rTW="啪啪"/>
+
+    <item
+        folder="/Fotolr照片工坊"
+        note="Fotolr"
+        note-zh-rCN="Fotolr照片工坊"
+        note-zh-rTW="Fotolr照片工坊"/>
+
+    <item
+        folder="/FotolrPS"
+        note="FotolrPS"
+        note-zh-rCN="Fotolr照片工坊"
+        note-zh-rTW="Fotolr照片工坊"/>
+
+    <item
+        folder="/MTGIF"
+        note="MTGIF"
+        note-zh-rCN="美图gif"
+        note-zh-rTW="美图gif"/>
+
+    <item
+        folder="/Tencent/QQXiangJi"
+        note="QQXiangJi"
+        note-zh-rCN="创意相机"
+        note-zh-rTW="创意相机"/>
+
+    <item
+        folder="/DCIM/Ucam"
+        note="Ucam"
+        note-zh-rCN="全能相机"
+        note-zh-rTW="全能相机"/>
+
+    <item
+        folder="/DCIM/CrazyEmoji"
+        note="caiman"
+        note-zh-rCN="彩漫相机"
+        note-zh-rTW="彩漫相机"/>
+
+    <item
+        folder="/DCIM/caiman"
+        note="caiman"
+        note-zh-rCN="彩漫相机"
+        note-zh-rTW="彩漫相机"/>
+
+    <item
+        folder="/Cymera2"
+        note="Cymera"
+        note-zh-rCN="cymera特效相机"
+        note-zh-rTW="cymera特效相机"/>
+
+    <item
+        folder="/MeiShe/Camera"
+        note="MeiShe"
+        note-zh-rCN="美摄"
+        note-zh-rTW="美摄"/>
+
+    <item
+        folder="/Autodesk/Pixlr"
+        note="Pixlr"
+        note-zh-rCN="Pixlr Express图片处理"
+        note-zh-rTW="Pixlr Express图片处理"/>
+
+    <item
+        folder="/PixlrCamera"
+        note="Pixlr"
+        note-zh-rCN="Pixlr Express图片处理"
+        note-zh-rTW="Pixlr Express图片处理"/>
+
+    <item
+        folder="/GirlsCamera"
+        note="GirlsCamera"
+        note-zh-rCN="女孩相机"
+        note-zh-rTW="女孩相机"/>
+
+    <item
+        folder="/GirlsCamera/FramePhoto"
+        note="FramePhoto"
+        note-zh-rCN="女孩相机"
+        note-zh-rTW="女孩相机"/>
+
+    <item
+        folder="/doubi"
+        note="tedo"
+        note-zh-rCN="特逗"
+        note-zh-rTW="特逗"/>
+
+    <item
+        folder="/POMELO"
+        note="POMELO"
+        note-zh-rCN="柚子相机"
+        note-zh-rTW="柚子相机"/>
+
+    <item
+        folder="/Sign_Camera/photo"
+        note="Sign_Camera"
+        note-zh-rCN="签名照相机"
+        note-zh-rTW="签名照相机"/>
+
+    <item
+        folder="/FaceQ"
+        note="FaceQ"
+        note-zh-rCN="MYOTee脸萌"
+        note-zh-rTW="MYOTee脸萌"/>
+
+    <item
+        folder="/DCIM/YouCam Perfact"
+        note="YouCam"
+        note-zh-rCN="玩美"
+        note-zh-rTW="玩美"/>
+
+    <item
+        folder="/doupai/draft"
+        note="DouPai"
+        note-zh-rCN="逗拍"
+        note-zh-rTW="逗拍"/>
+
+    <item
+        folder="/doupai/camera"
+        note="DouPai"
+        note-zh-rCN="逗拍"
+        note-zh-rTW="逗拍"/>
+
+    <item
+        folder="/DECOPIC"
+        note="DECOPIC"
+        note-zh-rCN="照片大头贴"
+        note-zh-rTW="照片大头贴"/>
+
+    <item
+        folder="/topit/photo"
+        note="Topit"
+        note-zh-rCN="优美图"
+        note-zh-rTW="优美图"/>
+
+    <item
+        folder="/FontStudio"
+        note="FontStudio"
+        note-zh-rCN="美图文字"
+        note-zh-rTW="美图文字"/>
+
+    <item
+        folder="/Picture/Adobe®"
+        note="Photoshop"
+        note-zh-rCN="ps手机版"
+        note-zh-rTW="ps手机版"/>
+
+    <item
+        folder="/Photoshop® Touch"
+        note="Photoshop"
+        note-zh-rCN="ps手机版"
+        note-zh-rTW="ps手机版"/>
+
+    <item
+        folder="/LINEcamera"
+        note="LINEcamera"
+        note-zh-rCN="连我相机"
+        note-zh-rTW="连我相机"/>
+
+    <item
+        folder="/DCIM/aillis"
+        note="LINEcamera"
+        note-zh-rCN="连我相机"
+        note-zh-rTW="连我相机"/>
+
+    <item
+        folder="/TTpic/album"
+        note="TTpic"
+        note-zh-rCN="天天美图"
+        note-zh-rTW="天天美图"/>
+
+    <item
+        folder="/TTpic/history"
+        note="TTpic"
+        note-zh-rCN="天天美图"
+        note-zh-rTW="天天美图"/>
+
+    <item
+        folder="/DCIM/Instamoji"
+        note="TTpic"
+        note-zh-rCN="趣味加表情"
+        note-zh-rTW="趣味加表情"/>
+
+    <item
+        folder="Pictures/TwinCamera"
+        note="EasyTwinCamer"
+        note-zh-rCN="双胞胎相机"
+        note-zh-rTW="双胞胎相机"/>
+
+    <item
+        folder="/Pictures/VSCOCam"
+        note="VSCO Cam"
+        note-zh-rCN="VSCO Cam"
+        note-zh-rTW="VSCO Cam"/>
+
+    <item
+        folder="/Wallpapers"
+        note="Wallpapers"
+        note-zh-rCN="主题壁纸"
+        note-zh-rTW="主題桌布"/>
+    <!-- #endif  VENDOR_EDIT-->
+
+    <item
+        folder="/SmurfsWallPaper"
+        note="SmurfsWallPaper"
+        note-zh-rCN="心情壁纸"
+        note-zh-rTW="心情壁纸"/>
+
+    <item
+        folder="/Sogou-Wallpaper"
+        note="Sogou-Wallpaper"
+        note-zh-rCN="搜狗壁纸"
+        note-zh-rTW="搜狗壁纸"/>
+
+    <item
+        folder="/zuimei-wallpaper"
+        note="zuimei-wallpaper"
+        note-zh-rCN="最美壁纸"
+        note-zh-rTW="搜狗壁纸"/>
+
+    <item
+        folder="/LoveWallpaper/save"
+        note="LoveWallpaper"
+        note-zh-rCN="爱壁纸"
+        note-zh-rTW="爱壁纸"/>
+
+    <item
+        folder="/GoStore/download/Picture"
+        note="GoStore"
+        note-zh-rCN="GO桌面"
+        note-zh-rTW="GO桌面"/>
+
+    <item
+        folder="/HDWallpaper/pic"
+        note="HDWallpaper"
+        note-zh-rCN="高清壁纸"
+        note-zh-rTW="高清壁纸"/>
+
+    <item
+        folder="/DCIM/360wallpaper"
+        note="360wallpaper"
+        note-zh-rCN="360壁纸"
+        note-zh-rTW="360壁纸"/>
+
+    <item
+        folder="/shoujiduoduo/Wallpaper/favorate"
+        note="Shoujiduoduo"
+        note-zh-rCN="壁纸多多"
+        note-zh-rTW="壁纸多多"/>
+
+    <item
+        folder="/youba_wallpaper/wallpaper_x2"
+        note="youba_wallpaper"
+        note-zh-rCN="好壁纸"
+        note-zh-rTW="好壁纸"/>
+
+    <item
+        folder="/HDWallPaper/bigImage"
+        note="HDWallPaper"
+        note-zh-rCN="奇思壁纸"
+        note-zh-rTW="奇思壁纸"/>
+
+    <item
+        folder="/moxiu/wallpaper/shup"
+        note="Moxiu"
+        note-zh-rCN="魔秀壁纸"
+        note-zh-rTW="魔秀壁纸"/>
+
+    <item
+        folder="/MIUI/wallpaper"
+        note="MIUI"
+        note-zh-rCN="小米桌面"
+        note-zh-rTW="小米桌面"/>
+
+    <item
+        folder="/qqmusic/downloadalbum"
+        note="QQMusic"
+        note-zh-rCN="QQ音乐"
+        note-zh-rTW="QQ音乐"/>
+
+    <item
+        folder="/Pictures/xiami"
+        note="Xiami"
+        note-zh-rCN="虾米音乐"
+        note-zh-rTW="虾米音乐"/>
+
+    <item
+        folder="/kbrowser_fast/download/Image"
+        note="Kbrowser"
+        note-zh-rCN="猎豹浏览器"
+        note-zh-rTW="猎豹浏览器"/>
+
+    <item
+        folder="/UCDownloads/"
+        note="UCbrowser"
+        note-zh-rCN="UC浏览器"
+        note-zh-rTW="UC浏览器"/>
+
+    <item
+        folder="/BaiduBox/downloads"
+        note="BaiduBrowser"
+        note-zh-rCN="百度浏览器"
+        note-zh-rTW="百度浏览器"/>
+
+    <item
+        folder="/Pictures/netease/newsreader"
+        note="NetEaseNews"
+        note-zh-rCN="网易新闻"
+        note-zh-rTW="网易新闻"/>
+    <item
+        folder="/Pictures/TencentNews"
+        note="TencentNews"
+        note-zh-rCN="腾讯新闻"
+        note-zh-rTW="腾讯新闻"/>
+
+    <item
+        folder="/news/BaiduNews"
+        note="BaiduNews"
+        note-zh-rCN="百度新闻"
+        note-zh-rTW="百度新闻"/>
+
+    <item
+        folder="/news_article"
+        note="News_article"
+        note-zh-rCN="今日头条"
+        note-zh-rTW="今日头条"/>
+
+    <item
+        folder="/sina/news/save"
+        note="SinaNews"
+        note-zh-rCN="新浪新闻"
+        note-zh-rTW="新浪新闻"/>
+
+    <item
+        folder="/sina/news/download"
+        note="SinaNews"
+        note-zh-rCN="新浪新闻"
+        note-zh-rTW="新浪新闻"/>
+
+    <item
+        folder="/ZAKER/Download"
+        note="ZAKER"
+        note-zh-rCN="ZAKER新闻杂志"
+        note-zh-rTW="ZAKER新闻杂志"/>
+
+    <item
+        folder="/dianping"
+        note="Dianping"
+        note-zh-rCN="大众点评"
+        note-zh-rTW="大众点评"/>
+
+    <item
+        folder="/Pictures/meituan"
+        note="Meituan"
+        note-zh-rCN="美团"
+        note-zh-rTW="美团"/>
+
+    <item
+        folder="/Pictures/meituan"
+        note="Meituan"
+        note-zh-rCN="美团"
+        note-zh-rTW="美团"/>
+
+    <item
+        folder="/BaiduNetdisk"
+        note="BaiduNetdisk"
+        note-zh-rCN="百度云"
+        note-zh-rTW="百度云"/>
+
+    <item
+        folder="/我的快盘"
+        note="Kuaipan"
+        note-zh-rCN="快盘"
+        note-zh-rTW="快盘"/>
+
+    <item
+        folder="/115wangpan/download"
+        note="115wangpan"
+        note-zh-rCN="115云"
+        note-zh-rTW="115云"/>
+
+    <item
+        folder="/Dbank/DownLoad"
+        note="Dbank"
+        note-zh-rCN="华为网盘"
+        note-zh-rTW="华为网盘"/>
+
+    <item
+        folder="/微云保存的文件"
+        note="Weiyun"
+        note-zh-rCN="微云"
+        note-zh-rTW="微云"/>
+
+    <item
+        folder="/酷盘/文件/导入的照片"
+        note="kupan"
+        note-zh-rCN="酷盘"
+        note-zh-rTW="酷盤"/>
+
+    <item
+        folder="/酷盘/文件/照片"
+        note="kupan"
+        note-zh-rCN="酷盘"
+        note-zh-rTW="酷盤"/>
+
+    <item
+        folder="/yunpan"
+        note="Yunpan"
+        note-zh-rCN="云盘"
+        note-zh-rTW="云盘"/>
+
+    <item
+        folder="/QieZi/pictures"
+        note="QieZi"
+        note-zh-rCN="茄子快传"
+        note-zh-rTW="茄子快传"/>
+
+    <item
+        folder="/zapya/photo"
+        note="Zapya"
+        note-zh-rCN="快牙"
+        note-zh-rTW="快牙"/>
+
+    <item
+        folder="/Xender/image"
+        note="Xender"
+        note-zh-rCN="闪传"
+        note-zh-rTW="闪传"/>
+
+    <item
+        folder="/tieba"
+        note="tieba"
+        note-zh-rCN="百度贴吧"
+        note-zh-rTW="百度贴吧"/>
+
+    <item
+        folder="/joke_essay"
+        note="joke_essay"
+        note-zh-rCN="内涵段子"
+        note-zh-rTW="内涵段子"/>
+
+    <item
+        folder="/autohomemain/img"
+        note="autohomemain"
+        note-zh-rCN="汽车之家"
+        note-zh-rTW="汽车之家"/>
+
+    <item
+        folder="/budejie"
+        note="budejie"
+        note-zh-rCN="百思不得姐"
+        note-zh-rTW="百思不得姐"/>
+
+    <item
+        folder="/KuwoMusic/picture"
+        note="KuwoMusic"
+        note-zh-rCN="酷我音乐"
+        note-zh-rTW="酷我音乐"/>
+
+    <item
+        folder="/kugou/market"
+        note="kugou"
+        note-zh-rCN="酷狗音乐"
+        note-zh-rTW="酷狗音乐"/>
+
+    <item
+        folder="/Baidu_music/image"
+        note="Baidu_music"
+        note-zh-rCN="百度音乐"
+        note-zh-rTW="百度音乐"/>
+
+    <item
+        folder="/duomi/image"
+        note="duomi"
+        note-zh-rCN="多米音乐"
+        note-zh-rTW="多米音乐"/>
+
+    <item
+        folder="/YinYueTaiImage"
+        note="YinYueTai"
+        note-zh-rCN="音悦台"
+        note-zh-rTW="音悦台"/>
+
+    <item
+        folder="/Kshare"
+        note="Kshare"
+        note-zh-rCN="爱唱"
+        note-zh-rTW="爱唱"/>
+
+    <item
+        folder="/Kshare/picture"
+        note="Kshare"
+        note-zh-rCN="爱唱"
+        note-zh-rTW="爱唱"/>
+
+    <item
+        folder="/Pictures/INFile"
+        note="IN"
+        note-zh-rCN="IN"
+        note-zh-rTW="IN"/>
+
+    <item
+        folder="/Tencent/QQXiangJi"
+        note="QQXiangJi"
+        note-zh-rCN="QQ创意相机"
+        note-zh-rTW="QQ创意相机"/>
+
+    <item
+        folder="/Pictures/PixlrCamera"
+        note="Pixlr Express"
+        note-zh-rCN="Pixlr Express"
+        note-zh-rTW="Pixlr Express"/>
+
+    <item
+        folder="/Autodesk/Pixlr"
+        note="Pixlr Express"
+        note-zh-rCN="Pixlr Express"
+        note-zh-rTW="Pixlr Express"/>
+
+    <item
+        folder="/百度魔拍"
+        note="百度魔拍"
+        note-zh-rCN="百度魔拍"
+        note-zh-rTW="百度魔拍"/>
+
+    <item
+        folder="/天天相册"
+        note="天天相册"
+        note-zh-rCN="天天相册"
+        note-zh-rTW="天天相册"/>
+
+    <item
+        folder="/PicsArt"
+        note="PicsArt"
+        note-zh-rCN="PicsArt"
+        note-zh-rTW="PicsArt"/>
+
+    <item
+        folder="/Pictures/Lookmook"
+        note="Lookmook"
+        note-zh-rCN="Lookmook"
+        note-zh-rTW="Lookmook"/>
+
+    <item
+        folder="/DCIM/大象册"
+        note="大象册"
+        note-zh-rCN="大象册"
+        note-zh-rTW="Lookmook"/>
+
+    <item
+        folder="/Spring"
+        note="Spring"
+        note-zh-rCN="Spring"
+        note-zh-rTW="Spring"/>
+
+    <item
+        folder="/SilentCameraSoft"
+        note="SilentCamera"
+        note-zh-rCN="无声相机"
+        note-zh-rTW="无声相机"/>
+
+    <item
+        folder="/babytreetime"
+        note="babytreetime"
+        note-zh-rCN="宝宝树时光"
+        note-zh-rTW="宝宝树时光"/>
+
+    <item
+        folder="/DCIM/CandyCam"
+        note="CandyCam"
+        note-zh-rCN="糖果相机"
+        note-zh-rTW="糖果相机"/>
+
+    <item
+        folder="/DCIM/足记FotoPlace"
+        note="FotoPlace"
+        note-zh-rCN="足记"
+        note-zh-rTW="足记"/>
+
+    <item
+        folder="/NewsCamera"
+        note="NewsCamera"
+        note-zh-rCN="新闻相机"
+        note-zh-rTW="新闻相机"/>
+
+    <item
+        folder="/Pictures/PicCollage拼贴趣"
+        note="PicCollage"
+        note-zh-rCN="拼贴趣"
+        note-zh-rTW="拼贴趣"/>
+
+    <item
+        folder="/Pictures/KeepCap"
+        note="KeepCap"
+        note-zh-rCN="KeepCap"
+        note-zh-rTW="KeepCap"/>
+
+    <item
+        folder="/CartoonCamera"
+        note="CartoonCamera"
+        note-zh-rCN="漫画照相机"
+        note-zh-rTW="漫画照相机"/>
+
+    <item
+        folder="/CoolCamera"
+        note="CoolCamera"
+        note-zh-rCN="酷跑相机"
+        note-zh-rTW="酷跑相机"/>
+
+    <item
+        folder="/Pictures/B612"
+        note="B612"
+        note-zh-rCN="B612小王子自拍"
+        note-zh-rTW="B612小王子自拍"/>
+
+    <item
+        folder="/Pictures/Photaf"
+        note="Photaf"
+        note-zh-rCN="3D全景相机"
+        note-zh-rTW="3D全景相机"/>
+
+    <item
+        folder="/Pictures/lidow"
+        note="lidow"
+        note-zh-rCN="lidow"
+        note-zh-rTW="lidow"/>
+
+    <item
+        folder="/dragoncamera/headstore"
+        note="headstore"
+        note-zh-rCN="头像秀"
+        note-zh-rTW="头像秀"/>
+
+    <item
+        folder="dragoncamera/headshow"
+        note="headstore"
+        note-zh-rCN="头像秀"
+        note-zh-rTW="头像秀"/>
+
+    <item
+        folder="/Pictures/Photaf"
+        note="Photaf"
+        note-zh-rCN="3D全景相机"
+        note-zh-rTW="3D全景相机"/>
+
+    <item
+        folder="/Fotolr/MULTILENCAMERA/STORE"
+        note="MULTILENCAMERA"
+        note-zh-rCN="多镜头相机"
+        note-zh-rTW="多镜头相机"/>
+
+    <item
+        folder="/youxing"
+        note="youxing"
+        note-zh-rCN="有型"
+        note-zh-rTW="有型"/>
+
+    <item
+        folder="/paintcamera"
+        note="paintcamera"
+        note-zh-rCN="魔幻相机"
+        note-zh-rTW="魔幻相机"/>
+
+    <item
+        folder="/CameraZOOM"
+        note="CameraZOOM"
+        note-zh-rCN="超强相机"
+        note-zh-rTW="超强相机"/>
+
+    <item
+        folder="/BlendPic"
+        note="BlendPic"
+        note-zh-rCN="BlendPic"
+        note-zh-rTW="BlendPic"/>
+
+    <item
+        folder="/DCIM/cardmaker/cards"
+        note="cardmaker"
+        note-zh-rCN="Q照片墙美化"
+        note-zh-rTW="Q照片墙美化"/>
+
+    <item
+        folder="/moxiu/wallpaper"
+        note="moxiu"
+        note-zh-rCN="魔秀壁纸"
+        note-zh-rTW="魔秀壁纸"/>
+
+    <item
+        folder="/solowallpaper"
+        note="solowallpaper"
+        note-zh-rCN="solo壁纸"
+        note-zh-rTW="solo壁纸"/>
+
+    <item
+        folder="/QQReader/Pluglnlmg"
+        note="QQReader"
+        note-zh-rCN="QQ阅读"
+        note-zh-rTW="QQ阅读"/>
+
+    <item
+        folder="/纹字壁纸"
+        note="纹字壁纸"
+        note-zh-rCN="纹字壁纸"
+        note-zh-rTW="纹字壁纸"/>
+
+    <item
+        folder="/androidesk/wallpapers"
+        note="androidesk"
+        note-zh-rCN="安卓桌面"
+        note-zh-rTW="安卓桌面"/>
+
+    <item
+        folder="/baoruan_download/shangcheng/brwallpaper"
+        note="brwallpaper"
+        note-zh-rCN="秀桌面"
+        note-zh-rTW="秀桌面"/>
+
+    <item
+        folder="/CloudDisk/我的相册/*"
+        note="CloudDisk"
+        note-zh-rCN="网盘"
+        note-zh-rTW="網盤"/>
+
+    <item
+        folder="/baidu/flyflow/downloads"
+        note="BaiduBrowser"
+        note-zh-rCN="百度浏览器"
+        note-zh-rTW="百度浏览器"/>
+
+    <item
+        folder="/Picture/Douban"
+        note="Douban"
+        note-zh-rCN="豆瓣"
+        note-zh-rTW="豆瓣"/>
+
+    <item
+        folder="/Picture/知乎"
+        note="知乎"
+        note-zh-rCN="知乎"
+        note-zh-rTW="知乎"/>
+
+    <item
+        folder="/mogujie/transformer/mogujie"
+        note="mogujie"
+        note-zh-rCN="蘑菇街"
+        note-zh-rTW="蘑菇街"/>
+
+    <item
+        folder="/thestore"
+        note="thestore"
+        note-zh-rCN="一号店"
+        note-zh-rTW="一号店"/>
+
+    <item
+        folder="/Pictures/taobao"
+        note="taobao"
+        note-zh-rCN="淘宝"
+        note-zh-rTW="淘宝"/>
+
+    <item
+        folder="/DCIM/TmallPic"
+        note="Tmall"
+        note-zh-rCN="天猫"
+        note-zh-rTW="天猫"/>
+
+    <item
+        folder="/DCIM/jdimage"
+        note="JD"
+        note-zh-rCN="京东"
+        note-zh-rTW="京东"/>
+
+    <item
+        folder="/dangdang/pictures"
+        note="dangdang"
+        note-zh-rCN="当当"
+        note-zh-rTW="当当"/>
+
+    <item
+        folder="/dangdang/imgs"
+        note="dangdang"
+        note-zh-rCN="当当"
+        note-zh-rTW="当当"/>
+
+    <item
+        folder="/vipshop/images"
+        note="vipshop"
+        note-zh-rCN="唯品会"
+        note-zh-rTW="唯品会"/>
+
+    <item
+        folder="/vipshop/images"
+        note="vipshop"
+        note-zh-rCN="唯品会"
+        note-zh-rTW="唯品会"/>
+
+    <item
+        folder="/sougouMap/image"
+        note="sougouMap"
+        note-zh-rCN="搜狗地图"
+        note-zh-rTW="搜狗地图"/>
+
+    <item
+        folder="/bluetooth"
+        note="Bluetooth"
+        note-zh-rCN="蓝牙"
+        note-zh-rTW="藍牙"/>
+
+    <item
+        folder="/Download/Bluetooth"
+        note="Bluetooth"
+        note-zh-rCN="蓝牙"
+        note-zh-rTW="藍牙"/>
+
+    <item
+        folder="/Pictures/realme Share"
+        note="realme Share Pictures"
+        note-zh-rCN="realme 互传图片"
+        note-zh-rTW="realme Share Pictures"/>
+
+    <item
+        folder="/realme Share/pictures"
+        note="realme Share Pictures"
+        note-zh-rCN="realme 互传图片"
+        note-zh-rTW="realme Share Pictures"/>
+
+    <item
+        folder="/Movies/realme Share"
+        note="realme Share Videos"
+        note-zh-rCN="realme 互传视频"
+        note-zh-rTW="realme Share Videos"/>
+
+    <item
+        folder="/realme Share/videos"
+        note="realme Share Videos"
+        note-zh-rCN="realme 互传视频"
+        note-zh-rTW="realme Share Videos"/>
+
+    <item
+        folder="/DCIM/Collage"
+        note="Collage"
+        note-zh-rCN="拼图"
+        note-zh-rTW="拼圖"/>
+
+    <item
+        folder="/smartisan/notes"
+        note="notes"
+        note-zh-rCN="锤子便签"
+        note-zh-rTW="锤子便签"/>
+
+    <item
+        folder="/DCIM/Screenshots"
+        note="Screenshots"
+        note-zh-rCN="截屏录屏"
+        note-zh-rTW="螢幕截圖"/>
+
+    <item
+        folder="/Pictures/Screenshots"
+        note="Screenshots"
+        note-zh-rCN="截屏录屏"
+        note-zh-rTW="螢幕截圖"/>
+
+    <item
+        folder="/ColorOS/Browser"
+        note="Browser"
+        note-zh-rCN="浏览器"
+        note-zh-rTW="瀏覽器"/>
+
+    <item
+        folder="/ColorOS/Browser/Download"
+        note="Browser"
+        note-zh-rCN="浏览器"
+        note-zh-rTW="瀏覽器"/>
+
+    <item
+        folder="/ColorOS/Notes"
+        note="Notes"
+        note-zh-rCN="便签"
+        note-zh-rTW="便簽"/>
+
+    <item
+        folder="/Download/CloudDownload"
+        note="CloudDownload"
+        note-zh-rCN="云端下载"
+        note-zh-rTW="雲端下載"/>
+
+    <item
+        folder="/ColorOS/ThemeStore/Wallpapers"
+        note="Wallpapers"
+        note-zh-rCN="主题壁纸"
+        note-zh-rTW="主題桌布"/>
+
+    <item
+        folder="/tencent/TencentVideo/TencentVideo"
+        note="TencentVideo"
+        note-zh-rCN="视频截图"
+        note-zh-rTW="视频截圖"/>
+
+    <item
+        folder="/ColorOS/Market/Pictures/Market"
+        note="Market"
+        note-zh-rCN="软件商店"
+        note-zh-rTW="軟件商店"/>
+
+    <item
+        folder="/hers/download"
+        note="Hers"
+        note-zh-rCN="她社区"
+        note-zh-rTW="她社区"/>
+
+    <item
+        folder="/Pictures/我要个性"
+        note="我要个性"
+        note-zh-rCN="我要个性"
+        note-zh-rTW="我要个性"/>
+
+    <item
+        folder="/Pictures/magic_mirror"
+        note="淘宝试妆台"
+        note-zh-rCN="淘宝试妆台"
+        note-zh-rTW="淘宝试妆台"/>
+
+    <item
+        folder="/tencent/Qpaint"
+        note="Qpaint "
+        note-zh-rCN="小Q画笔"
+        note-zh-rTW="小Q画笔"/>
+
+    <item
+        folder="/Pictures/OcrScanner"
+        note="OcrScanner"
+        note-zh-rCN="扫文档"
+        note-zh-rTW="掃描文檔"/>
+
+    <item
+        folder="/Download/Mms"
+        note="Mms"
+        note-zh-rCN="信息"
+        note-zh-rTW="訊息"/>
+
+    <item
+        folder="/DCIM/HeyTapCloud/ShareAlbum"
+        note="From Share Album"
+        note-zh-rCN="来自共享"
+        note-zh-rTW="來自共享"/>
+
+    <item
+        folder="/ColorOS/OCloud/ShareAlbum"
+        note="From Share Album"
+        note-zh-rCN="来自共享"
+        note-zh-rTW="來自共享"/>
+
+    <item
+        folder="/DCIM/ShareAlbum"
+        note="From Share Album"
+        note-zh-rCN="来自共享"
+        note-zh-rTW="來自共享"/>
+
+    <item
+        folder="/Pictures/TeamTalk"
+        note="TeamTalk"
+        note-zh-rCN="TeamTalk"
+        note-zh-rTW="TeamTalk"/>
+
+</filter-conf>

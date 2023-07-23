@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="redo___" android:height="@dimen/picture3d_editor_menu_item_icon_height" android:width="@dimen/picture3d_editor_menu_item_icon_width" android:alpha="@dimen/picture3d_state_pressed_alpha" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M7.45825 9.55079C9.26049 8.5097 11.3657 8.11943 13.4214 8.44533C15.477 8.77123 17.3583 9.79351 18.7502 11.341V7.41663H20.25V14.0003H13.6667V12.5H17.7696C16.6208 11.1498 15.0349 10.2451 13.2879 9.94359C11.541 9.64203 9.74354 9.96266 8.20858 10.8497C7.05731 11.5169 6.10126 12.4745 5.43593 13.6269C4.7706 14.7792 4.41928 16.086 4.41707 17.4166H2.91642C2.91921 15.8228 3.34012 14.2576 4.13711 12.8773C4.93409 11.497 6.07926 10.35 7.45825 9.55079Z" />
+</vector>

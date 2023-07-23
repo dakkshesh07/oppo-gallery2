@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.videoeditor_lib.base.ui.BottomActionBar android:layout_width="fill_parent" android:layout_height="fill_parent" videoeditor:actionCancelText="@string/videoeditor_control_cancel" videoeditor:actionDoneText="@string/videoeditor_button_save"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:videoeditor="http://schemas.android.com/apk/res-auto" />

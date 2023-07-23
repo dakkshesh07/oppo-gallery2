@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/cloudsync_cloud_sync_all_sync_content_height" android:paddingStart="@dimen/cloudsync_TF29" android:paddingEnd="@dimen/cloudsync_TF29"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.widget.COUISwitch android:id="@id/sync_click_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+    <RelativeLayout android:id="@id/content" android:layout_width="fill_parent" android:layout_height="@dimen/cloudsync_cloud_sync_all_sync_content_height" android:layout_alignParentBottom="true" android:layout_toStartOf="@id/sync_click_button" android:layout_alignParentStart="true">
+        <RelativeLayout android:id="@id/album_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/TF09" android:layout_toEndOf="@id/sync_album_cover">
+            <TextView android:textSize="@dimen/TD09" android:textColor="@color/cloudsync_black" android:ellipsize="end" android:id="@id/sync_album_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:textAlignment="viewStart" />
+            <TextView android:textSize="@dimen/TD05" android:textColor="@color/cloudsync_black_55_percent" android:ellipsize="end" android:id="@id/sync_album_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/M2" android:singleLine="true" android:layout_below="@id/sync_album_name" android:textAlignment="viewStart" />
+        </RelativeLayout>
+        <com.oplus.gallery.cloudsync_lib.ui.RoundImageView android:id="@id/sync_album_cover" android:layout_width="@dimen/cloudsync_cloud_sync_album_item_image_width_height" android:layout_height="@dimen/cloudsync_cloud_sync_album_item_image_width_height" android:scaleType="centerCrop" android:layout_centerVertical="true" app:cloudsync_corner_radius="@dimen/cloudsync_cloud_sync_album_item_image_radius" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,288 @@
+Animali	-1	-1	-1	1	0	-1
+bestia	-1	-1	-1	1	0	-1
+belva	-1	-1	-1	1	0	-1
+Animali da compagnia	-1	-1	-1	2	0	-1
+cani	-1	-1	-1	2	0	-1
+gatti	-1	-1	-1	2	0	-1
+conigli	-1	-1	-1	2	0	-1
+criceti	-1	-1	-1	2	0	-1
+cagnolino	-1	-1	-1	3	0	-1
+cane da compagnia	-1	-1	-1	3	0	-1
+cucciolo di cane	-1	-1	-1	3	0	-1
+miagolare	-1	-1	-1	4	0	-1
+gattino	-1	-1	-1	4	0	-1
+gatto da compagnia	-1	-1	-1	4	0	-1
+Vegetazione	-1	-1	-1	5	0	-1
+verde	-1	-1	-1	5	0	-1
+foglie	-1	-1	-1	5,8	0	-1
+fogliame	-1	-1	-1	5	0	-1
+fronda	-1	-1	-1	5	0	-1
+fiori	-1	-1	-1	6	0	-1
+fragranza	-1	-1	-1	6	0	-1
+bouquet	-1	-1	-1	6	0	-1
+mazzo di fiori	-1	-1	-1	6	0	-1
+fiori freschi	-1	-1	-1	6	0	-1
+prfumo	-1	-1	-1	6	0	-1
+aroma	-1	-1	-1	6	0	-1
+prato	-1	-1	-1	7	0	-1
+prateria	-1	-1	-1	7	0	-1
+pascoli	-1	-1	-1	7	0	-1
+tagliaerba	-1	-1	-1	7	0	-1
+paglia	-1	-1	-1	7	0	-1
+fieno	-1	-1	-1	7	0	-1
+balle di fieno	-1	-1	-1	7	0	-1
+	-1	-1	-1	7,35,76	0	-1
+legno	-1	-1	-1	8	0	-1
+tronco	-1	-1	-1	8	0	-1
+bosco	-1	-1	-1	8	0	-1
+grandi alberi	-1	-1	-1	8	0	-1
+foresta	-1	-1	-1	8	0	-1
+alberelli	-1	-1	-1	8	0	-1
+arbusto	-1	-1	-1	8	0	-1
+fusto	-1	-1	-1	8	0	-1
+ceppo	-1	-1	-1	8	0	-1
+chioma	-1	-1	-1	8	0	-1
+Scenario	-1	-1	-1	9	0	-1
+scena	-1	-1	-1	9	0	-1
+vista	-1	-1	-1	9	0	-1
+scenari	-1	-1	-1	9	0	-1
+scenico	-1	-1	-1	9	0	-1
+catena di monti	-1	-1	-1	10	0	-1
+cima	-1	-1	-1	10	0	-1
+montagne	-1	-1	-1	10	0	-1
+collina	-1	-1	-1	10	0	-1
+alta montagna	-1	-1	-1	10	0	-1
+vetta	-1	-1	-1	10	0	-1
+rilievo	-1	-1	-1	10	0	-1
+massiccio	-1	-1	-1	10	0	-1
+altura	-1	-1	-1	10,10	0	-1
+alpe	-1	-1	-1	10	0	-1
+alpi	-1	-1	-1	10	0	-1
+cresta	-1	-1	-1	10	0	-1
+crinale	-1	-1	-1	10	0	-1
+paesaggio	-1	-1	-1	10	0	-1
+vegetazione	-1	-1	-1	10	0	-1
+gruppo montuoso	-1	-1	-1	10	0	-1
+zona alpina	-1	-1	-1	10	0	-1
+acqua di mare	-1	-1	-1	11	0	-1
+territorio marino	-1	-1	-1	11	0	-1
+vista del mare	-1	-1	-1	11	0	-1
+mare profondo	-1	-1	-1	11	0	-1
+mare cristallino	-1	-1	-1	11	0	-1
+Edifici	-1	-1	-1	12	0	-1
+strutture	-1	-1	-1	12	0	-1
+costruzione	-1	-1	-1	12	0	-1
+fabbricato	-1	-1	-1	12	0	-1
+case	-1	-1	-1	12	0	-1
+Sala da pranzo	-1	-1	-1	13	0	-1
+mensa	-1	-1	-1	13	0	-1
+sala ristoro	-1	-1	-1	13	0	-1
+trattoria	-1	-1	-1	13	0	-1
+caffetteria	-1	-1	-1	13	0	-1
+tavola calda	-1	-1	-1	13	0	-1
+Nightclub	-1	-1	-1	14	0	-1
+locale notturno	-1	-1	-1	14	0	-1
+club	-1	-1	-1	14	0	-1
+stadio	-1	-1	-1	15	0	-1
+campo da gioco	-1	-1	-1	15	0	-1
+centro fitness	-1	-1	-1	16	0	-1
+sala ginnastica	-1	-1	-1	16	0	-1
+sala attrezzi	-1	-1	-1	16	0	-1
+mostra	-1	-1	-1	17	0	-1
+showroom	-1	-1	-1	17	0	-1
+galleria	-1	-1	-1	17	0	-1
+sala mostre	-1	-1	-1	17	0	-1
+pinacoteca	-1	-1	-1	17	0	-1
+outlet	-1	-1	-1	18	0	-1
+impresa	-1	-1	-1	18	0	-1
+negozi	-1	-1	-1	18	0	-1
+negozio	-1	-1	-1	18	0	-1
+market	-1	-1	-1	18	0	-1
+shopping center	-1	-1	-1	18	0	-1
+shopping	-1	-1	-1	18	0	-1
+terminale	-1	-1	-1	19	0	-1
+stazione terminale	-1	-1	-1	19	0	-1
+deposito aereo	-1	-1	-1	19	0	-1
+Vestiti	-1	-1	-1	20	0	-1
+vestiario	-1	-1	-1	20	0	-1
+abbigliamento	-1	-1	-1	20	0	-1
+completo	-1	-1	-1	20	0	-1
+moda	-1	-1	-1	20	0	-1
+costumi	-1	-1	-1	20	0	-1
+abito	-1	-1	-1	20	0	-1
+Sacchetto	-1	-1	-1	21	0	-1
+borsetta	-1	-1	-1	21	0	-1
+portafoglio	-1	-1	-1	21	0	-1
+sacca	-1	-1	-1	21	0	-1
+prodotti per la cura della pella	-1	-1	-1	22	0	-1
+creme	-1	-1	-1	22	0	-1
+ornamenti	-1	-1	-1	24	0	-1
+gioielli	-1	-1	-1	24	0	-1
+bigiotteria	-1	-1	-1	24	0	-1
+gioielli in oro e argento	-1	-1	-1	24	0	-1
+Trasporto	-1	-1	-1	25	0	-1
+traffico	-1	-1	-1	25	0	-1
+spedizione	-1	-1	-1	25	0	-1
+viaggio	-1	-1	-1	25	0	-1
+Veicolo	-1	-1	-1	26	0	-1
+automobile	-1	-1	-1	26	0	-1
+auto	-1	-1	-1	26	0	-1
+vettura	-1	-1	-1	26	0	-1
+Nave	-1	-1	-1	27	0	-1
+barca	-1	-1	-1	27	0	-1
+imbarcazione	-1	-1	-1	27	0	-1
+veliero	-1	-1	-1	27	0	-1
+vascello	-1	-1	-1	27	0	-1
+scialuppa,canoa	-1	-1	-1	27	0	-1
+cibo	-1	-1	-1	28	0	-1
+alimenti	-1	-1	-1	28	0	-1
+generi alimentari	-1	-1	-1	28	0	-1
+gourmet	-1	-1	-1	28	0	-1
+delizioso	-1	-1	-1	28,73	0	-1
+gustoso	-1	-1	-1	28	0	-1
+pasto	-1	-1	-1	28,46	0	-1
+delicatezza	-1	-1	-1	28	0	-1
+buon cibo	-1	-1	-1	28	0	-1
+cucina	-1	-1	-1	28	0	-1
+pietanza	-1	-1	-1	28	0	-1
+vitto	-1	-1	-1	28	0	-1
+vivande	-1	-1	-1	28	0	-1
+cibo occidentale	-1	-1	-1	29	0	-1
+cucina europea	-1	-1	-1	29	0	-1
+cibo europeo	-1	-1	-1	29	0	-1
+risorse ittiche	-1	-1	-1	30	0	-1
+frutta fresca	-1	-1	-1	31	0	-1
+fruttivendolo	-1	-1	-1	31	0	-1
+macedonia	-1	-1	-1	31	0	-1
+alcol	-1	-1	-1	32	0	-1
+buon vino	-1	-1	-1	32	0	-1
+vino delizioso	-1	-1	-1	32	0	-1
+liquore forte	-1	-1	-1	32	0	-1
+grappa	-1	-1	-1	32	0	-1
+vino eccellente	-1	-1	-1	32	0	-1
+vino raffinato	-1	-1	-1	32	0	-1
+vendemmia	-1	-1	-1	32	0	-1
+raccolta dell'uva	-1	-1	-1	32	0	-1
+acquavite	-1	-1	-1	32	0	-1
+vino secco	-1	-1	-1	33	0	-1
+vino rosso secco	-1	-1	-1	33	0	-1
+vino rosso	-1	-1	-1	33	0	-1
+vino bianco	-1	-1	-1	33	0	-1
+spumante	-1	-1	-1	33	0	-1
+prosecco	-1	-1	-1	33	0	-1
+aperitivo	-1	-1	-1	33	0	-1
+spritz	-1	-1	-1	33	0	-1
+vino dolce	-1	-1	-1	33	0	-1
+chitarra	-1	-1	-1	34	0	-1
+pianoforte	-1	-1	-1	34	0	-1
+violino	-1	-1	-1	34	0	-1
+viola	-1	-1	-1	34	0	-1
+contrabbasso	-1	-1	-1	34	0	-1
+tromba	-1	-1	-1	34	0	-1
+sax	-1	-1	-1	34	0	-1
+flauto	-1	-1	-1	34	0	-1
+clarinetto	-1	-1	-1	34	0	-1
+organo	-1	-1	-1	35	0	-1
+pianola	-1	-1	-1	35	0	-1
+piano	-1	-1	-1	35	0	-1
+Dispositivo elettronico	-1	-1	-1	36	0	-1
+prodotti digitali	-1	-1	-1	37	0	-1
+prodotto digitale	-1	-1	-1	37	0	-1
+cellulare	-1	-1	-1	38	0	-1
+Portatile	-1	-1	-1	39	0	-1
+PPT	-1	-1	-1	42	0	-1
+presentazione di diapositive	-1	-1	-1	42	0	-1
+presentazione	-1	-1	-1	42	0	-1
+Cattura schermo	-1	-1	-1	43	0	-1
+acquisizione schermo	-1	-1	-1	43	0	-1
+party	-1	-1	-1	44,46	0	-1
+esercizio	-1	-1	-1	45	0	-1
+competizione	-1	-1	-1	45	0	-1
+torneo	-1	-1	-1	45	0	-1
+festa	-1	-1	-1	46	0	-1
+banchetto	-1	-1	-1	46	0	-1
+delizie	-1	-1	-1	46	0	-1
+ospite	-1	-1	-1	46	0	-1
+convivio	-1	-1	-1	46	0	-1
+cena di nozze	-1	-1	-1	47	0	-1
+banchetto di nozze	-1	-1	-1	47	0	-1
+arti dello spettacolo	-1	-1	-1	48	0	-1
+Uccellino	-1	-1	-1	49	0	-1
+uccelli	-1	-1	-1	49	0	-1
+corvo	-1	-1	-1	49	0	-1
+cornacchia	-1	-1	-1	49	0	-1
+pollo	-1	-1	-1	49	0	-1
+pollame	-1	-1	-1	49	0	-1
+Pesci	-1	-1	-1	50	0	-1
+pesce di acqua dolce	-1	-1	-1	50	0	-1
+pesce di mare	-1	-1	-1	50	0	-1
+roseto	-1	-1	-1	51	0	-1
+rose	-1	-1	-1	51	0	-1
+petalo	-1	-1	-1	51	0	-1
+petali	-1	-1	-1	51	0	-1
+Fiori ciliegio	-1	-1	-1	52	0	-1
+primavera	-1	-1	-1	52	0	-1
+ciliegie	-1	-1	-1	52	0	-1
+rosso	-1	-1	-1	52	0	-1
+pirotecnico	-1	-1	-1	53	0	-1
+botti	-1	-1	-1	53	0	-1
+Crepuscolo	-1	-1	-1	54	0	-1
+imbrunire	-1	-1	-1	54	0	-1
+Grandi cascate	-1	-1	-1	55	0	-1
+rapide	-1	-1	-1	55	0	-1
+fiume	-1	-1	-1	55	0	-1
+cielo blu	-1	-1	-1	56	0	-1
+cielo chiaro	-1	-1	-1	56	0	-1
+paradiso	-1	-1	-1	56	0	-1
+Neve	-1	-1	-1	57	0	-1
+nevicata	-1	-1	-1	57	0	-1
+nevischio	-1	-1	-1	57	0	-1
+tormenta di neve	-1	-1	-1	57	0	-1
+chiarore	-1	-1	-1	58	0	-1
+prima luce del giorno	-1	-1	-1	58	0	-1
+albore	-1	-1	-1	58	0	-1
+Cattedrale	-1	-1	-1	59	0	-1
+chiesetta	-1	-1	-1	59	0	-1
+colonne	-1	-1	-1	59	0	-1
+basilica	-1	-1	-1	59	0	-1
+convento	-1	-1	-1	60	0	-1
+monastero	-1	-1	-1	60	0	-1
+abbazia	-1	-1	-1	60	0	-1
+Torre	-1	-1	-1	61	0	-1
+torrione	-1	-1	-1	61	0	-1
+campanile	-1	-1	-1	61	0	-1
+gazebo	-1	-1	-1	62	0	-1
+chiosco	-1	-1	-1	62	0	-1
+Corte reale	-1	-1	-1	63	0	-1
+giardini	-1	-1	-1	63	0	-1
+Acquario	-1	-1	-1	66	0	-1
+mondo sottomarino	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+giardino zoologico	-1	-1	-1	67	0	-1
+ferrovia	-1	-1	-1	71	0	-1
+dessert	-1	-1	-1	73	0	-1
+deliziosi	-1	-1	-1	73	0	-1
+pasticceria	-1	-1	-1	73	0	-1
+Panettone (Italia)	-1	-1	-1	75	0	-1
+carne alla griglia	-1	-1	-1	76	0	-1
+pesce alla griglia	-1	-1	-1	76	0	-1
+Documento di testo	-1	-1	-1	77	0	-1
+disegno	-1	-1	-1	79	0	-1
+ballo	-1	-1	-1	81	0	-1
+ballare	-1	-1	-1	81	0	-1
+balli	-1	-1	-1	81	0	-1
+canzone	-1	-1	-1	82	0	-1
+canto	-1	-1	-1	82	0	-1
+canti	-1	-1	-1	82	0	-1
+canzoni	-1	-1	-1	82	0	-1
+festa di compleanno	-1	-1	-1	83	0	-1
+ritrovo di compleanno	-1	-1	-1	83	0	-1
+carattere	-1	-1	-1	85	0	-1
+bimbi	-1	-1	-1	86	0	-1
+lattanti	-1	-1	-1	86	0	-1
+neonati	-1	-1	-1	86	0	-1
+calzature	-1	-1	-1	87	0	-1
+cuffia	-1	-1	-1	88	0	-1
+berretto	-1	-1	-1	88	0	-1
+Carta d'identità	-1	-1	-1	90	0	-1
+carta risparmi	-1	-1	-1	91	0	-1

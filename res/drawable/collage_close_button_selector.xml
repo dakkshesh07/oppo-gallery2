@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <vector android:tint="@color/collage_toolbar_title_text_color" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <path android:fillColor="@color/common_C12" android:pathData="M10.87 12L5.3 17.56l1.13 1.13L12 13.13l5.56 5.56l1.13-1.13L13.13 12l5.56-5.56l-1.13-1.13L12 10.87L6.44 5.3L5.31 6.44L10.87 12z" android:fillAlpha="0.55" android:fillType="evenOdd" />
+        </vector>
+    </item>
+    <item android:state_enabled="false">
+        <vector android:tint="@color/collage_toolbar_title_text_color" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <path android:fillColor="@color/common_C12" android:pathData="M10.87 12L5.3 17.56l1.13 1.13L12 13.13l5.56 5.56l1.13-1.13L13.13 12l5.56-5.56l-1.13-1.13L12 10.87L6.44 5.3L5.31 6.44L10.87 12z" android:fillAlpha="0.2" android:fillType="evenOdd" />
+        </vector>
+    </item>
+    <item>
+        <vector android:tint="@color/collage_toolbar_title_text_color" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <path android:fillColor="@color/common_C12" android:pathData="M10.87 12L5.3 17.56l1.13 1.13L12 13.13l5.56 5.56l1.13-1.13L13.13 12l5.56-5.56l-1.13-1.13L12 10.87L6.44 5.3L5.31 6.44L10.87 12z" android:fillAlpha="0.85" android:fillType="evenOdd" />
+        </vector>
+    </item>
+</selector>

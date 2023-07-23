@@ -1,0 +1,79 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: OppoGallery2.apk
+compressionType: false
+doNotCompress:
+- classes.dex
+- resources.arsc
+- png
+- jpg
+- mp3
+- m4a
+- lib/arm64-v8a/libColorSpaceConverter.so
+- lib/arm64-v8a/libNvStreamingSdkCore.so
+- lib/arm64-v8a/libRSSupport.so
+- lib/arm64-v8a/libSNPE.so
+- lib/arm64-v8a/libXDocProcessSDK.so
+- lib/arm64-v8a/libYTCommon.so
+- lib/arm64-v8a/libarcsoft_beauty_ex.so
+- lib/arm64-v8a/libautocrop-jni.so
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libcommon.so
+- lib/arm64-v8a/libcv_image_understanding.so
+- lib/arm64-v8a/libffmpeg.so
+- lib/arm64-v8a/libffmpegJNI.so
+- lib/arm64-v8a/libgav1JNI.so
+- lib/arm64-v8a/libhci_face_album_api.so
+- lib/arm64-v8a/libjni_cvimage_api.so
+- lib/arm64-v8a/libjni_hci_face_album_api.so
+- lib/arm64-v8a/libmedia_breakpad_jni.so
+- lib/arm64-v8a/libmpbase.so
+- lib/arm64-v8a/liboplus_gifdecoder.so
+- lib/arm64-v8a/liboplus_image_process.so
+- lib/arm64-v8a/librsjni.so
+- lib/arm64-v8a/librsjni_androidx.so
+- lib/arm64-v8a/librtmp-jni.so
+- lib/arm64-v8a/libst_sticker.so
+- lib/arm64-v8a/libst_sticker_jni.so
+- lib/arm64-v8a/libtensorflow_inference.so
+- lib/arm64-v8a/libtensorflowlite_gpu_jni.so
+- lib/arm64-v8a/libtensorflowlite_jni.so
+- lib/arm64-v8a/libyuv2.so
+- res/raw/autocrop.dlc
+- ogg
+- gif
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '29'
+  targetSdkVersion: '31'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  androidsupportmultidexversion.txt: '8'
+  build-data.properties: '8'
+  com/oplusos/sau/aidl/AppUpdateInfo.aidl: '8'
+  com/oplusos/sau/aidl/DataresUpdateInfo.aidl: '8'
+  google/protobuf/any.proto: '8'
+  google/protobuf/api.proto: '8'
+  google/protobuf/descriptor.proto: '8'
+  google/protobuf/duration.proto: '8'
+  google/protobuf/empty.proto: '8'
+  google/protobuf/field_mask.proto: '8'
+  google/protobuf/source_context.proto: '8'
+  google/protobuf/struct.proto: '8'
+  google/protobuf/timestamp.proto: '8'
+  google/protobuf/type.proto: '8'
+  google/protobuf/wrappers.proto: '8'
+  google/protobuf/compiler/plugin.proto: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '121209'
+  versionName: 12.12.9

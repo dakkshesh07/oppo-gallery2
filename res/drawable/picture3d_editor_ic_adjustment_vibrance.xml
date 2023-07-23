@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="saturation____" android:height="@dimen/picture3d_editor_menu_item_icon_height" android:width="@dimen/picture3d_editor_menu_item_icon_width" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M2.25 6C2.25 5.0335 3.0335 4.25 4 4.25H20C20.9665 4.25 21.75 5.0335 21.75 6V9.25V10V18C21.75 18.9665 20.9665 19.75 20 19.75H17.25H16.5H15.75H12.75H12H11.25H8.25H7.5H6.75H4C3.0335 19.75 2.25 18.9665 2.25 18V10V9.25V6ZM15.75 18.25V10.75H12.75V18.25H15.75ZM15.75 9.25H16.5H17.25H20.25V6C20.25 5.86193 20.1381 5.75 20 5.75H4C3.86193 5.75 3.75 5.86193 3.75 6V9.25H6.75H7.5H8.25H11.25H12H12.75H15.75ZM20.25 10.75H17.25V18.25H20C20.1381 18.25 20.25 18.1381 20.25 18V10.75ZM8.25 10.75H11.25V18.25H8.25V10.75ZM6.75 18.25V10.75H3.75V18C3.75 18.1294 3.84838 18.2359 3.97444 18.2487C3.98284 18.2496 3.99137 18.25 4 18.25H6.75Z" android:fillType="evenOdd" />
+</vector>

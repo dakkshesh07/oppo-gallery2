@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/picture3d_sticker_grid_view_outline_radius" />
+    <stroke android:width="@dimen/picture3d_sticker_grid_view_outline_width" android:color="@color/picture3d_sticker_item_normal_color" />
+</shape>

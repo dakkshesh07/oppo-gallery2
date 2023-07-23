@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<card-provider app:groupImage="@drawable/app_icon_system_application_gallery3d" app:groupTitle="@string/app_name" app:name="@string/app_name" app:previewImage="@drawable/widget_4x4" app:settingUrl="oplus.intent.action.GALLERY_WIDGET_MODE_SELECTION" app:size="four2four" app:type="208" xmlns:app="http://schemas.android.com/apk/res-auto" />

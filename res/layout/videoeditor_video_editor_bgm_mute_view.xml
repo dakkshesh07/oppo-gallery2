@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.gallery.videoeditor_lib.base.ui.SuitableSizeG2TextView android:textSize="@dimen/video_editor_bgm_mute_text_size" android:textColor="@color/base_black" android:ellipsize="end" android:id="@id/video_bgm_mute" android:background="@drawable/videoeditor_video_editor_bgm_mute_dialog_background" android:paddingTop="@dimen/video_editor_bgm_mute_dialog_back_height_padding" android:paddingBottom="@dimen/video_editor_bgm_mute_dialog_back_height_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/videoeditor_original_music_mute_on" android:maxLines="2" android:lineSpacingMultiplier="@dimen/video_editor_text_line_spacing" android:fontFamily="sans-serif-medium" android:paddingStart="@dimen/video_editor_bgm_mute_dialog_back_width_padding" android:paddingEnd="@dimen/video_editor_bgm_mute_dialog_back_width_padding" />
+</RelativeLayout>

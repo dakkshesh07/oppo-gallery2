@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d foto’s worden geladen en kunnen niet worden toegevoegd.</item>
+        <item quantity="one">%d foto wordt geladen en kan niet worden toegevoegd.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d bankpassen</item>
+        <item quantity="one">%1$d bankpas</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d identiteitsbewijzen</item>
+        <item quantity="one">%1$d identiteitsbewijs</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d items permanent verwijderen</item>
+        <item quantity="one">%d item permanent verwijderen</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d items verwijderen</item>
+        <item quantity="one">%d item verwijderen</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">"%1$d foto's"</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">"Foto’s gevonden: %s. U kunt ze naar 'Kaarthouder' verplaatsen voor eenvoudigere toegang."</item>
+        <item quantity="one">"Foto’s gevonden: %s. U kunt deze naar 'Kaarthouder' verplaatsen voor eenvoudigere toegang."</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">"Foto's van %1$s verplaatst naar 'Kaarthouder'"</item>
+        <item quantity="one">"Foto van %1$s verplaatst naar 'Kaarthouder'"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d kaartjes/kassabonnen</item>
+        <item quantity="one">%1$d kaartje/kassabon</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">De geselecteerde items bestaan al in het album</item>
+        <item quantity="one">Het geselecteerde item bestaat al in het album</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">"Er worden %d foto's geladen en deze kunnen niet worden verplaatst"</item>
+        <item quantity="one">Er wordt %d foto geladen en deze kan niet worden verplaatst</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d mensen</item>
+        <item quantity="one">%1$d mensen</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">"Foto's verplaatst. Video's kunnen niet naar dit album worden verplaatst."</item>
+        <item quantity="one">"Foto verplaatst. Video's kunnen niet naar dit album worden verplaatst."</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d items herstellen</item>
+        <item quantity="one">%d item herstellen</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d foto’s</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">"%1$d video's"</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d items geselecteerd</item>
+        <item quantity="one">%1$d item geselecteerd</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d geselect.</item>
+        <item quantity="one">%1$d album geselect.:</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d personen geselect.</item>
+        <item quantity="one">%1$d persoon geselect.</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d herinneringen geselecteerd</item>
+        <item quantity="one">%1$d herinnering geselecteerd</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d video’s geselecteerd</item>
+        <item quantity="one">%1$d video geselecteerd</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">"%1$d video's"</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Accuniveau lager dan %1$s. %2$d items niet gedownload.</item>
+        <item quantity="one">Accuniveau lager dan %1$s. %2$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Accuniveau lager dan %1$s. %2$d items niet gedownload. Laad uw telefoon op.</item>
+        <item quantity="one">Accuniveau lager dan %1$s. %2$d item niet gedownload. Laad uw telefoon op.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batterijniveau lager dan %1$s. %2$d items niet gedownload. Laad uw apparaat op.</item>
+        <item quantity="one">Batterijniveau lager dan %1$s. %2$d item niet gedownload. Laad uw apparaat op.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Accuniveau lager dan %1$s. %2$d items niet gedownload.</item>
+        <item quantity="one">Accuniveau lager dan %1$s. %2$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Energiebesparingsmodus is ingeschakeld. %1$d items niet gedownload.</item>
+        <item quantity="one">Energiebesparingsmodus is ingeschakeld. %1$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Energiebesparingsmodus is ingeschakeld. %1$d items niet gedownload.</item>
+        <item quantity="one">Energiebesparingsmodus is ingeschakeld. %1$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet gedownload. %2$s.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet gedownload. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet gedownload. %2$s of %3$s.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet gedownload. %2$s of %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet gedownload.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet gedownload.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Onvoldoende cloudopslag. %1$d item niet gedownload.</item>
+        <item quantity="one">Onvoldoende cloudopslag. %1$d items niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Onvoldoende apparaatopslag. %1$d items niet gedownload.</item>
+        <item quantity="one">Onvoldoende apparaatopslag. %1$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Netwerkfout. %1$d items niet gedownload.</item>
+        <item quantity="one">Netwerkfout. %1$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Netwerkfout. %1$d items niet gedownload.</item>
+        <item quantity="one">Netwerkfout. %1$d item niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">"Onvoldoende cloudopslag. %1$d originele foto's niet gedownload."</item>
+        <item quantity="one">Onvoldoende cloudopslag. %1$d originele foto niet gedownload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">"%1$d foto's niet gesynchroniseerd. Cloudopslag is vol."</item>
+        <item quantity="one">%1$d foto niet gesynchroniseerd. Cloudopslag is vol.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">"%1$d foto's niet gesynchroniseerd. Cloudsynchronisatie wordt onderbroken als accuniveau lager is dan %2$s."</item>
+        <item quantity="one">%1$d foto niet gesynchroniseerd. Cloudsynchronisatie wordt onderbroken als accuniveau lager is dan %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">"%1$d foto's niet gesynchroniseerd. Cloud-synchronisatie wordt onderbroken in energiebesparingsmodus."</item>
+        <item quantity="one">%1$d foto niet gesynchroniseerd. Cloud-synchronisatie wordt onderbroken in energiebesparingsmodus.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Cloudopslag vol. %1$d items niet geüpload.</item>
+        <item quantity="one">Cloudopslag vol. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Accuniveau lager dan %1$s. %2$d items niet geüpload.</item>
+        <item quantity="one">Accuniveau lager dan %1$s. %2$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Accuniveau lager dan %1$s. %2$d items niet geüpload. Laad uw telefoon op.</item>
+        <item quantity="one">Accuniveau lager dan %1$s. %2$d item niet geüpload. Laad uw telefoon op.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batterijniveau lager dan %1$s. %2$d items niet geüpload. Laad uw apparaat op.</item>
+        <item quantity="one">Batterijniveau lager dan %1$s. %2$d item niet geüpload. Laad uw apparaat op.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Accuniveau lager dan %1$s. %2$d items niet geüpload.</item>
+        <item quantity="one">Accuniveau lager dan %1$s. %2$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Energiebesparingsmodus is ingeschakeld. %1$d items niet geüpload.</item>
+        <item quantity="one">Energiebesparingsmodus is ingeschakeld. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Energiebesparingsmodus is ingeschakeld. %1$d item niet geüpload.</item>
+        <item quantity="one">Energiebesparingsmodus is ingeschakeld. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Cloudopslag vol. %1$d items niet geüpload.</item>
+        <item quantity="one">Cloudopslag vol. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">"%1$d video's niet gesynchroniseerd. Cloudopslag is vol."</item>
+        <item quantity="one">%1$d video niet gesynchroniseerd. Cloudopslag is vol.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">"%1$d video's niet gesynchroniseerd. Cloudsynchronisatie wordt onderbroken als accuniveau lager is dan %2$s."</item>
+        <item quantity="one">%1$d video niet gesynchroniseerd. Cloudsynchronisatie wordt onderbroken als accuniveau lager is dan %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">"%1$d video's niet gesynchroniseerd. Cloud-synchronisatie wordt onderbroken in energiebesparingsmodus."</item>
+        <item quantity="one">%1$d video niet gesynchroniseerd. Cloud-synchronisatie wordt onderbroken in energiebesparingsmodus.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d foto niet gesynchroniseerd.</item>
+        <item quantity="one">"%1$d foto's niet gesynchroniseerd."</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet geüpload. %2$s.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet geüpload.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet geüpload. %2$s of %3$s.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet geüpload. %2$s of %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet geüpload.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Geen netwerkverbinding. %1$d items niet geüpload.</item>
+        <item quantity="one">Geen netwerkverbinding. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">"%1$d video's niet gesynchroniseerd"</item>
+        <item quantity="one">%1$d video niet gesynchroniseerd</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Netwerkfout. %1$d items niet geüpload.</item>
+        <item quantity="one">Netwerkfout. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Netwerkfout. %1$d items niet geüpload.</item>
+        <item quantity="one">Netwerkfout. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Servicefout. %1$d items niet geüpload.</item>
+        <item quantity="one">Servicefout. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Servicefout. %1$d items niet geüpload.</item>
+        <item quantity="one">Servicefout. %1$d item niet geüpload.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Toevoegen van %d items is mislukt</item>
+        <item quantity="one">Toevoegen van %d item is mislukt</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d foto’s worden geladen en kunnen niet als privé worden ingesteld.</item>
+        <item quantity="one">%d foto wordt geladen en kan niet als privé worden ingesteld.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d dagen</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d foto’s</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">"%1$d video's"</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">"Er worden %d foto's geladen"</item>
+        <item quantity="one">Er wordt %d foto geladen</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Moet groter zijn dan %1$d mm</item>
+        <item quantity="one">Moet groter zijn dan %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Moet groter zijn dan %1$d px</item>
+        <item quantity="one">Moet groter zijn dan %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Moet kleiner zijn dan %1$d mm</item>
+        <item quantity="one">Moet kleiner zijn dan %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Moet kleiner zijn dan %1$d px</item>
+        <item quantity="one">Moet kleiner zijn dan %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Moet groter zijn dan %1$d KB</item>
+        <item quantity="one">Moet groter zijn dan %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Moet kleiner zijn dan %1$d KB</item>
+        <item quantity="one">Moet kleiner zijn dan %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Moet groter zijn dan %1$d mm</item>
+        <item quantity="one">Moet groter zijn dan %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Moet groter zijn dan %1$d px</item>
+        <item quantity="one">Moet groter zijn dan %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Moet kleiner zijn dan %1$d mm</item>
+        <item quantity="one">Moet kleiner zijn dan %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Moet kleiner zijn dan %1$d px</item>
+        <item quantity="one">Moet kleiner zijn dan %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">"Alleen de %d geselecteerde foto's bewaren"</item>
+        <item quantity="one">Alleen de %d geselecteerde foto bewaren</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d items verwijderen</item>
+        <item quantity="one">%d item verwijderen</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d items geselect.</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d geselect.</item>
+        <item quantity="one">%1$d album geselect.:</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d geselecteerd</item>
+        <item quantity="one">%1$d geselecteerd</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d stickers geselecteerd</item>
+        <item quantity="one">%1$d sticker geselecteerd</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d video’s geselecteerd</item>
+        <item quantity="one">%1$d video geselecteerd</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d foto’s worden geladen en kunnen niet worden verwijderd.</item>
+        <item quantity="one">%d foto wordt geladen en kan niet worden verwijderd.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Verwijderen van %1$d items is mislukt. Probeer opnieuw</item>
+        <item quantity="one">Verwijderen van %1$d item is mislukt. Probeer opnieuw</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d foto’s</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

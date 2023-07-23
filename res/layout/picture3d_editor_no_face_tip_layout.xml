@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/TD07" android:textColor="@color/common_C12" android:ellipsize="end" android:gravity="center" android:background="@drawable/picture3d_editor_no_face_tip_background" android:paddingTop="@dimen/picture3d_no_face_tip_padding_top_bottom" android:paddingBottom="@dimen/picture3d_no_face_tip_padding_top_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="@dimen/picture3d_no_face_tip_max_width" android:maxLines="2" app:textSizeLevel="G2"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

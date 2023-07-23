@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="rotate_90_degrees___90_" android:height="@dimen/video_editor_menu_icon_size" android:width="@dimen/video_editor_menu_icon_size" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M9.65229 21.5417L15.7128 15.4812L9.65229 9.42067L3.5918 15.4812L9.65229 21.5417ZM9.65229 19.4203L5.71312 15.4812L9.65229 11.542L13.5915 15.4812L9.65229 19.4203Z" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M20.4023 13.8138C20.4023 11.6258 19.5331 9.52734 17.9859 7.98016C16.4387 6.43299 14.3403 5.56379 12.1523 5.56379H11.4629L13.516 3.51065L12.4554 2.44999L8.5917 6.31365L12.4554 10.1773L13.516 9.11666L11.4632 7.06379H12.1523C13.9425 7.06379 15.6594 7.77495 16.9253 9.04082C18.1911 10.3067 18.9023 12.0236 18.9023 13.8138H20.4023Z" />
+</vector>

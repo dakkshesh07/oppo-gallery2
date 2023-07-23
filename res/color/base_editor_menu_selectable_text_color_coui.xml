@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="false" android:color="@android:color/black" android:alpha="@dimen/base_editor_menu_text_color_unselected_alpha" />
+    <item android:state_enabled="false" android:color="@android:color/black" android:alpha="@dimen/common_state_disable_alpha" />
+    <item android:color="?couiTintControlNormal" />
+</selector>

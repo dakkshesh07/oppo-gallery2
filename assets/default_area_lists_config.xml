@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <version>20220324</version>
+
+    <!--address_type对应类型如下
+       "country";
+       "province";
+       "sub_province";
+       "city";
+       "district";
+       "street";
+       !-->
+    <tagblock name="local_lists_config">
+        <item address_type="country" language="zh" local_show="" match_value="台湾" region="" />
+        <item address_type="country" language="zh" local_show="" match_value="台灣" region="" />
+        <item address_type="country" language="en" local_show="" match_value="Taiwan" region="" />
+    </tagblock>
+
+    <tagblock name="black_local_lists_config">
+        <local_filter>西沙群岛</local_filter>
+        <local_filter>西沙群島</local_filter>
+        <local_filter>Xisha Islands</local_filter>
+        <local_filter>Trường Sa Quần đảo</local_filter>
+        <local_filter>Paracel Islands</local_filter>
+        <local_filter>中沙群岛</local_filter>
+        <local_filter>中沙群島</local_filter>
+        <local_filter>the Zhongsha Islands</local_filter>
+        <local_filter>Macclesfield Bank</local_filter>
+        <local_filter>中业岛</local_filter>
+        <local_filter>中業島</local_filter>
+        <local_filter>Zhongye Island</local_filter>
+        <local_filter>Pag-Asa Island</local_filter>
+        <local_filter>东沙群岛</local_filter>
+        <local_filter>東沙群島</local_filter>
+        <local_filter>Dongsha Islands</local_filter>
+        <local_filter>钓鱼岛</local_filter>
+        <local_filter>Diaoyu Dao</local_filter>
+        <local_filter>せんかくしょとう</local_filter>
+        <local_filter>阿克赛钦</local_filter>
+        <local_filter>阿克賽欽</local_filter>
+        <local_filter>Aksai Chin</local_filter>
+        <local_filter>अक्साई चिन</local_filter>
+        <local_filter>藏南地区</local_filter>
+        <local_filter>藏南地區</local_filter>
+        <local_filter>south tibet</local_filter>
+        <local_filter>अरुणाचल प्रदेश</local_filter>
+        <local_filter>巴里加斯</local_filter>
+        <local_filter>Parigas</local_filter>
+        <local_filter>देमचोक</local_filter>
+        <local_filter>苏岩礁</local_filter>
+        <local_filter>蘇岩礁</local_filter>
+        <local_filter>Suyan Islet</local_filter>
+        <local_filter>Ieodo</local_filter>
+        <local_filter>日向礁</local_filter>
+        <local_filter>Gageo Reef</local_filter>
+        <local_filter>绒林</local_filter>
+        <local_filter>鲁林争议区</local_filter>
+        <local_filter>魯林爭議區</local_filter>
+        <local_filter>洞郎争议区</local_filter>
+        <local_filter>洞郎爭議區</local_filter>
+        <local_filter>Doklam</local_filter>
+        <local_filter>གདོང་ལམ</local_filter>
+        <local_filter>查玛浦争议区</local_filter>
+        <local_filter>查瑪浦爭議區</local_filter>
+        <local_filter>基伍争议区</local_filter>
+        <local_filter>基伍爭議區</local_filter>
+        <local_filter>白玉争议区</local_filter>
+        <local_filter>白玉爭議區</local_filter>
+        <local_filter>墨拉萨丁争议区</local_filter>
+        <local_filter>墨拉薩丁爭議區</local_filter>
+        <local_filter>Merag-Sagteng</local_filter>
+        <local_filter>南沙群岛</local_filter>
+        <local_filter>南沙群島</local_filter>
+        <local_filter>Spratly Islands</local_filter>
+        <local_filter>Quần đảo Trường Sa</local_filter>
+        <local_filter>Kepulauan Spratly</local_filter>
+        <local_filter>Gugusan Semarang Peninjau</local_filter>
+        <local_filter>Kapuluan ng Kalayaan</local_filter>
+        <local_filter>阿拉伯河</local_filter>
+        <local_filter>شط العرب</local_filter>
+        <local_filter>روندرود</local_filter>
+        <local_filter>Shatt al-Arab</local_filter>
+        <local_filter>舍巴农场</local_filter>
+        <local_filter>舍巴農場</local_filter>
+        <local_filter>مزارع شبعا</local_filter>
+        <local_filter>חוות שבעא</local_filter>
+        <local_filter>Shebaa farms</local_filter>
+        <local_filter>卡尔达克岛</local_filter>
+        <local_filter>伊米亚群岛</local_filter>
+        <local_filter>伊米亞群島</local_filter>
+        <local_filter>Imia Island</local_filter>
+        <local_filter>Kardak</local_filter>
+        <local_filter>利扬库尔岩</local_filter>
+        <local_filter>Rochers de Liancourt</local_filter>
+        <local_filter>독도</local_filter>
+        <local_filter>たけしま</local_filter>
+        <local_filter>里昂科礁</local_filter>
+        <local_filter>竹岛</local_filter>
+        <local_filter>竹島</local_filter>
+        <local_filter>独岛</local_filter>
+        <local_filter>獨島</local_filter>
+        <local_filter>南达尔帕蒂岛</local_filter>
+        <local_filter>南達爾帕蒂島</local_filter>
+        <local_filter>South Talpatti Island</local_filter>
+        <local_filter>新摩尔岛</local_filter>
+        <local_filter>新穆尔岛</local_filter>
+        <local_filter>普尔巴沙岛</local_filter>
+        <local_filter>দক্ষিণ তালপট্টি দ্বীপ</local_filter>
+        <local_filter>दक्षिण तालपटि द्वीप</local_filter>
+        <local_filter>北方四岛</local_filter>
+        <local_filter>Южный Курильские острова</local_filter>
+        <local_filter>ほっぽうりょうど</local_filter>
+        <local_filter>ほっぽうよんとう</local_filter>
+        <local_filter>南千岛群岛</local_filter>
+        <local_filter>南千島群島</local_filter>
+        <local_filter>Кунашир</local_filter>
+        <local_filter>国後島</local_filter>
+        <local_filter>くなしりとう</local_filter>
+        <local_filter>Итуруп</local_filter>
+        <local_filter>択捉島</local_filter>
+        <local_filter>えとろふとう</local_filter>
+        <local_filter>Хабомай</local_filter>
+        <local_filter>歯舞群島</local_filter>
+        <local_filter>はぼまいぐんとう</local_filter>
+        <local_filter>Шикотан</local_filter>
+        <local_filter>色丹島</local_filter>
+        <local_filter>しこたんとう</local_filter>
+        <local_filter>克什米尔</local_filter>
+        <local_filter>克什米爾</local_filter>
+        <local_filter>Kashmir Valley</local_filter>
+        <local_filter>कश्मीर</local_filter>
+        <local_filter>کشمیر</local_filter>
+        <local_filter>北塞浦路斯</local_filter>
+        <local_filter>费迪南德岛</local_filter>
+        <local_filter>費迪南德島</local_filter>
+        <local_filter>Ferdinandea</local_filter>
+        <local_filter>Julia Island</local_filter>
+        <local_filter>Ìsula Firdinandèa</local_filter>
+        <local_filter>Isla Ferdinand</local_filter>
+        <local_filter>刻赤海峡</local_filter>
+        <local_filter>Керченский пролив</local_filter>
+        <local_filter>Керченська протока</local_filter>
+        <local_filter>Keriç boğazı</local_filter>
+        <local_filter>克里米亚</local_filter>
+        <local_filter>克里米亞</local_filter>
+        <local_filter>respublika krym</local_filter>
+        <local_filter>Кры́мский полуо́стров</local_filter>
+        <local_filter>Кримський півострів</local_filter>
+        <local_filter>Къырым ярымадасы, Qırım yarımadası</local_filter>
+        <local_filter>伊万哥罗德</local_filter>
+        <local_filter>伊万哥羅德</local_filter>
+        <local_filter>Jaanilinn</local_filter>
+        <local_filter>Ивангород</local_filter>
+        <local_filter>皮兰湾</local_filter>
+        <local_filter>Piranski zaliv</local_filter>
+        <local_filter>Piranski zaljev</local_filter>
+        <local_filter>Baia di Pirano</local_filter>
+        <local_filter>Savudrijska vala</local_filter>
+        <local_filter>外喀尔巴阡州</local_filter>
+        <local_filter>Kárpátalja</local_filter>
+        <local_filter>Закарпатська область</local_filter>
+        <local_filter>Zakarpats'ka oblast'</local_filter>
+        <local_filter>科索沃</local_filter>
+        <local_filter>阿布哈兹</local_filter>
+        <local_filter>Abkhazia</local_filter>
+        <local_filter>Аҧсны</local_filter>
+        <local_filter>აფხაზეთი</local_filter>
+        <local_filter>Абхазия</local_filter>
+        <local_filter>南奥塞梯</local_filter>
+        <local_filter>Ossetia</local_filter>
+        <local_filter>Хуссар Ирыстон</local_filter>
+        <local_filter>სამხრეთ ოსეთი</local_filter>
+        <local_filter>Южная Осетия</local_filter>
+        <local_filter>罗科尔岛</local_filter>
+        <local_filter>福克兰群岛</local_filter>
+        <local_filter>福克蘭群島</local_filter>
+        <local_filter>马尔维纳斯群岛</local_filter>
+        <local_filter>馬爾維納斯群島</local_filter>
+        <local_filter>Falkland Islands</local_filter>
+        <local_filter>Islas Malvinas</local_filter>
+        <local_filter>南乔治亚</local_filter>
+        <local_filter>南喬治亞</local_filter>
+        <local_filter>South Georgia Islands</local_filter>
+        <local_filter>南桑威奇群岛</local_filter>
+        <local_filter>南桑威奇群島</local_filter>
+        <local_filter>South Georgia and The South Sandwich Islands</local_filter>
+        <local_filter>SGSSI</local_filter>
+        <local_filter>圣安德列斯-普罗维登西亚和圣卡塔利娜群</local_filter>
+        <local_filter>阿里卡港</local_filter>
+        <local_filter>皮克顿岛</local_filter>
+        <local_filter>努埃瓦岛</local_filter>
+        <local_filter>伦诺克斯岛</local_filter>
+        <local_filter>埃塞奎博地区</local_filter>
+        <local_filter>Essequibo</local_filter>
+        <local_filter>纽河三角洲</local_filter>
+        <local_filter>The New River Triangle</local_filter>
+        <local_filter>圭亚那海盆</local_filter>
+        <local_filter>海燕群岛</local_filter>
+        <local_filter>Bajo Nuevo Bank</local_filter>
+        <local_filter>Petrel Islands</local_filter>
+        <local_filter>新浅滩</local_filter>
+        <local_filter>南部伯利兹</local_filter>
+        <local_filter>伯德岛</local_filter>
+        <local_filter>Isla Aves</local_filter>
+        <local_filter>Bird Island</local_filter>
+        <local_filter>阿韦斯岛</local_filter>
+        <local_filter>巴西利亚岛</local_filter>
+        <local_filter>科内霍岛</local_filter>
+        <local_filter>Conejo Island</local_filter>
+        <local_filter>汉斯岛</local_filter>
+        <local_filter>Hans Island</local_filter>
+        <local_filter>克里奥尔</local_filter>
+        <local_filter>纳弗沙岛</local_filter>
+        <local_filter>Navassa Island</local_filter>
+        <local_filter>Lanavaz</local_filter>
+        <local_filter>萨博迪亚礁</local_filter>
+        <local_filter>波弗特海</local_filter>
+        <local_filter>迪克森海峡</local_filter>
+        <local_filter>马基亚斯海豹岛</local_filter>
+        <local_filter>北岩岛</local_filter>
+        <local_filter>胡安·德·富卡海峡</local_filter>
+        <local_filter>西北水道</local_filter>
+        <local_filter>西撒哈拉</local_filter>
+        <local_filter>The Sahrawi Arab Democratic Republic</local_filter>
+        <local_filter>الصحراء الغربية</local_filter>
+        <local_filter>Sáhara Occidental</local_filter>
+        <local_filter>Taneẓroft Tutrimt</local_filter>
+        <local_filter>休达</local_filter>
+        <local_filter>休達</local_filter>
+        <local_filter>Ceuta</local_filter>
+        <local_filter>Sebta</local_filter>
+        <local_filter>سبتة</local_filter>
+        <local_filter>Sabtah</local_filter>
+        <local_filter>Mahori</local_filter>
+        <local_filter>凯菲亚金吉</local_filter>
+        <local_filter>Kafia Kingi</local_filter>
+        <local_filter>阿卜耶伊</local_filter>
+        <local_filter>Abyei</local_filter>
+        <local_filter>أبيي</local_filter>
+        <local_filter>哈拉伊卜三角区</local_filter>
+        <local_filter>哈拉伊卜三角區</local_filter>
+        <local_filter>苏丹政府行政区</local_filter>
+        <local_filter>مثلث حلايب</local_filter>
+        <local_filter>Hala'ib Triangle</local_filter>
+        <local_filter>Sudan Government Administration Area</local_filter>
+        <local_filter>比尔泰维勒</local_filter>
+        <local_filter>Bir Tawil</local_filter>
+        <local_filter>瓦迪哈勒法尖角</local_filter>
+        <local_filter>尼亚萨湖</local_filter>
+        <local_filter>Lake Malawi</local_filter>
+        <local_filter>Lake Nyasa</local_filter>
+        <local_filter>马拉维湖</local_filter>
+        <local_filter>佩雷希尔岛</local_filter>
+        <local_filter>Perejil Island</local_filter>
+        <local_filter>雷拉岛</local_filter>
+        <local_filter>Isla de Perejil</local_filter>
+        <local_filter>جزيرة تورة</local_filter>
+        <local_filter>Tura</local_filter>
+        <local_filter>卡恩格瓦尼</local_filter>
+        <local_filter>姆巴涅岛</local_filter>
+        <local_filter>Mbane Island</local_filter>
+        <local_filter>欧加登</local_filter>
+        <local_filter>索科特拉岛</local_filter>
+        <local_filter>杜梅伊拉岛</local_filter>
+        <local_filter>错那县</local_filter>
+        <local_filter>山南市</local_filter>
+        <local_filter>米林县</local_filter>
+        <local_filter>朗县</local_filter>
+        <local_filter>墨脱县</local_filter>
+        <local_filter>哈阿宗</local_filter>
+        <local_filter>伦奇宗</local_filter>
+        <local_filter>日土县</local_filter>
+        <local_filter>察隅县</local_filter>
+        <local_filter>英属印度洋领地</local_filter>
+    </tagblock>
+
+</filter-conf>

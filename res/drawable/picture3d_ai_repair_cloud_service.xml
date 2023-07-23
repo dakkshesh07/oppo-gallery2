@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/cloud_service" android:tint="@color/picture3d_ai_repair_cloud_service_color" />
+    </item>
+</selector>

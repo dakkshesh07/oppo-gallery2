@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.ui.view.SlotView android:id="@id/base_album_item_img" android:background="@color/base_placeholder_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" app:markIconHeight="@dimen/base_album_item_cover_mark_icon_height" app:markIconMarginEnd="@dimen/base_album_item_cover_mark_icon_margin_end" app:markIconMarginTop="@dimen/base_album_item_cover_mark_icon_margin_top" app:markIconWidth="@dimen/base_album_item_cover_mark_icon_width"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

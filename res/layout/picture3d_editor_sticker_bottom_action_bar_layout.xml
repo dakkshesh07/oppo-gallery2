@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.picture_lib.photoeditor.widget.EditorBottomActionBar android:id="@id/editor_id_sticker_bar" android:layout_width="fill_parent" android:layout_height="@dimen/picture3d_bottom_action_bar_height" app:picture3d_actionUseText="false" app:picture3d_titleTintColor="@color/picture3d_editor_menu_text_color_normal"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/gradient_view_bottom" android:background="@color/picture3d_sticker_gradient_view_color" android:layout_width="fill_parent" android:layout_height="@dimen/picture3d_editor_divider_line_width" />
+    <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="@dimen/picture3d_sticker_category_list_height" android:layout_alignParentTop="true" android:layout_marginHorizontal="@dimen/picture3d_sticker_category_list_margin_start">
+        <com.oplus.gallery.business_lib.template.editor.widget.HorizontalLinearListView android:id="@id/sticker_category_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" app:picture3d_enable="true" />
+        <View android:id="@id/gradient_view_left" android:background="@drawable/picture3d_category_sticker_item_gird_bottom_gradient_left" android:visibility="visible" android:layout_width="@dimen/picture3d_sticker_category_item_gradient_width" android:layout_height="@dimen/picture3d_sticker_category_item_height" android:layout_alignParentStart="true" />
+        <View android:id="@id/gradient_view_right" android:background="@drawable/picture3d_category_sticker_item_gird_bottom_gradient_right" android:visibility="visible" android:layout_width="@dimen/picture3d_sticker_category_item_gradient_width" android:layout_height="@dimen/picture3d_sticker_category_item_height" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</com.oplus.gallery.picture_lib.photoeditor.widget.EditorBottomActionBar>

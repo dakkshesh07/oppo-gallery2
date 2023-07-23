@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d фото загружаются и не могут быть добавлены.</item>
+        <item quantity="one">%d фото загружается и не может быть добавлено.</item>
+        <item quantity="few">%d фото загружаются и не могут быть добавлены.</item>
+        <item quantity="many">%d фото загружаются и не могут быть добавлены.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d банковских карт</item>
+        <item quantity="one">%1$d банковская карта</item>
+        <item quantity="few">%1$d банковские карты</item>
+        <item quantity="many">%1$d банковских карт</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">Найдены фотографии: %s. Включите эту функцию, чтобы организовать нужные фотографии. Эту функцию можно включить и выключить в настройках в любое время.</item>
+        <item quantity="one">Найдены фотографии: %s. Включите эту функцию, чтобы организовать нужные фотографии. Эту функцию можно включить и выключить в настройках в любое время.</item>
+        <item quantity="few">Найдены фотографии: %s. Включите эту функцию, чтобы организовать нужные фотографии. Эту функцию можно включить и выключить в настройках в любое время.</item>
+        <item quantity="many">Найдены фотографии: %s. Включите эту функцию, чтобы организовать нужные фотографии. Эту функцию можно включить и выключить в настройках в любое время.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d удостоверений</item>
+        <item quantity="one">%1$d удостоверение</item>
+        <item quantity="few">%1$d удостоверения</item>
+        <item quantity="many">%1$d удостоверений</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Удалить %d элемента(-ов) без возможности восстановления</item>
+        <item quantity="one">Удалить %d элемент без возможности восстановления</item>
+        <item quantity="few">Удалить без возможности восстановления %d элемента</item>
+        <item quantity="many">Удалить без возможности восстановления %d элементов</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Удалить %d элементов</item>
+        <item quantity="one">Удалить %d элемент</item>
+        <item quantity="few">Удалить %d элемента</item>
+        <item quantity="many">Удалить %d элементов</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+        <item quantity="few">%1$d фото</item>
+        <item quantity="many">%1$d фото</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Обнаружены фотографии: %s. Их можно переместить в альбом \"Картотека\" для более удобного доступа к ним.</item>
+        <item quantity="one">Обнаружены фотографии: %s. Ее можно переместить в альбом \"Картотека\" для более удобного доступа к ней.</item>
+        <item quantity="few">Обнаружены фотографии: %s. Их можно переместить в альбом \"Картотека\" для более удобного доступа к ним.</item>
+        <item quantity="many">Обнаружены фотографии: %s. Их можно переместить в альбом \"Картотека\" для более удобного доступа к ним.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Фотографии %1$s перемещены в альбом \"Картотека\"</item>
+        <item quantity="one">Фотография %1$s перемещена в альбом \"Картотека\"</item>
+        <item quantity="few">Фотографии %1$s перемещены в альбом \"Картотека\"</item>
+        <item quantity="many">Фотографии %1$s перемещены в альбом \"Картотека\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d билетов/чеков</item>
+        <item quantity="one">%1$d билет/чек</item>
+        <item quantity="few">%1$d билета/чека</item>
+        <item quantity="many">%1$d билетов/чеков</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Выбранные элементы уже существуют в этом альбоме</item>
+        <item quantity="one">Выбранный элемент уже существуют в этом альбоме</item>
+        <item quantity="few">Выбранные элементы уже существуют в этом альбоме</item>
+        <item quantity="many">Выбранные элементы уже существуют в этом альбоме</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d элемента(-ов)</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемента</item>
+        <item quantity="many">%d элементов</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d фотографии загружаются, и их невозможно переместить</item>
+        <item quantity="one">%d фотография загружается, и ее невозможно переместить</item>
+        <item quantity="few">%d фотографии загружаются, и их невозможно переместить</item>
+        <item quantity="many">%d фотографии загружаются, и их невозможно переместить</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">Людей: %1$d</item>
+        <item quantity="one">Людей: %1$d</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Фотографии перемещены. Переместить видеозаписи в этот альбом невозможно.</item>
+        <item quantity="one">Фотография перемещена. Переместить видеозаписи в этот альбом невозможно.</item>
+        <item quantity="few">фотографии перемещены. Переместить видеозаписи в этот альбом невозможно.</item>
+        <item quantity="many">фотографии перемещены. Переместить видеозаписи в этот альбом невозможно.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Восстановить %d элементов</item>
+        <item quantity="one">Восстановить %d элемент</item>
+        <item quantity="few">Восстановить %d элемента</item>
+        <item quantity="many">Восстановить %d элементов</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+        <item quantity="few">%1$d фото</item>
+        <item quantity="many">%1$d фото</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="one">%1$d видео</item>
+        <item quantity="few">%1$d видеозаписи</item>
+        <item quantity="many">%1$d видеозаписей</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">Выбрано %1$d элемента(-ов)</item>
+        <item quantity="one">Выбран %1$d элемент</item>
+        <item quantity="few">Выбрано %1$d элемента</item>
+        <item quantity="many">Выбрано %1$d элементов</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано %1$d альбома</item>
+        <item quantity="many">Выбрано %1$d альбомов</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">Выбрано людей: %1$d</item>
+        <item quantity="one">Выбрано людей: %1$d</item>
+        <item quantity="few">Выбрано %1$d человека</item>
+        <item quantity="many">Выбрано %1$d человек</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано %1$d элемента</item>
+        <item quantity="many">Выбрано %1$d элементов</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Выбрано воспоминаний: %1$d</item>
+        <item quantity="one">Выбрано воспоминаний: %1$d</item>
+        <item quantity="few">Выбрано %1$d воспоминания</item>
+        <item quantity="many">Выбрано %1$d воспоминаний</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">Выбрано видео: %1$d</item>
+        <item quantity="one">Выбрано видео: %1$d</item>
+        <item quantity="few">Выбрано %1$d видеозаписи</item>
+        <item quantity="many">Выбрано %1$d видеозаписей</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="one">%1$d видео</item>
+        <item quantity="few">%1$d видеозаписи</item>
+        <item quantity="many">%1$d видеозаписей</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Заряд батареи ниже %1$s. Не загружено элементов: %2$d.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. Не загружен %2$d элемент.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не загружено %2$d элемента.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не загружено %2$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Заряд батареи ниже %1$s. Не загружено элементов: %2$d. Зарядите телефон.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. Не загружен %2$d элемент. Зарядите телефон.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не загружено %2$d элемента. Зарядите телефон.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не загружено %2$d элемента. Зарядите телефон.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Заряд батареи ниже %1$s. Не загружено %2$d элемента(-ов). Зарядите устройство.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. Не загружен %2$d элемент. Зарядите устройство.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не загружено %2$d элемента. Зарядите телефон.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не загружено %2$d элемента. Зарядите телефон.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Заряд батареи ниже %1$s. Не загружено элементов: %2$d.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. Не загружен %2$d элемент.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не загружено %2$d элемента.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не загружено %2$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Режим энергосбережения включен. Не загружено элементов: %1$d.</item>
+        <item quantity="one">Режим энергосбережения включен. Не загружен %1$d элемент.</item>
+        <item quantity="few">Включен режим энергосбережения. Не загружено %1$d элемента.</item>
+        <item quantity="many">Включен режим энергосбережения. Не загружено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Режим энергосбережения включен. Не загружено элементов: %1$d.</item>
+        <item quantity="one">Режим энергосбережения включен. Не загружен %1$d элемент.</item>
+        <item quantity="few">Включен режим энергосбережения. Не загружено %1$d элемента.</item>
+        <item quantity="many">Включен режим энергосбережения. Не загружено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Нет подключения к сети. Не загружено элементов: %1$d. %2$s.</item>
+        <item quantity="one">Нет подключения к сети. Не загружен %1$d элемент.%2$s.</item>
+        <item quantity="few">Нет подключения к сети. Не загружено %1$d элемента. %2$s.</item>
+        <item quantity="many">Нет подключения к сети. Не загружено %1$d элемента. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Нет подключения к сети. Не загружено элементов: %1$d. %2$s или %3$s.</item>
+        <item quantity="one">Нет подключения к сети. Не загружен %1$d элемент. %2$s или %3$s.</item>
+        <item quantity="few">Нет подключения к сети. Не загружено %1$d элемента. %2$s или %3$s.</item>
+        <item quantity="many">Нет подключения к сети. Не загружено %1$d элемента. %2$s или %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Нет подключения к сети. %1$d элемента(-ов) не загружено.</item>
+        <item quantity="one">Нет подключения к сети. %1$d элемент не загружен.</item>
+        <item quantity="few">Нет подключения к сети. Не загружено %1$d элемента.</item>
+        <item quantity="many">Нет подключения к сети. Не загружено %1$d элементов.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Нет подключения к сети. %1$d элемента(-ов) не загружено.</item>
+        <item quantity="one">Нет подключения к сети. %1$d элемент не загружен.</item>
+        <item quantity="few">Нет подключения к сети. Не загружено %1$d элемента.</item>
+        <item quantity="many">Нет подключения к сети. Не загружено %1$d элементов.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Недостаточно места в облачном хранилище. Не загружен %1$d элемент.</item>
+        <item quantity="one">Недостаточно места в облачном хранилище. Не загружено элементов: %1$d.</item>
+        <item quantity="few">Недостаточно места в облачном хранилище. Не загружено %1$d элемента.</item>
+        <item quantity="many">Недостаточно места в облачном хранилище. Не загружено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Недостаточно места в памяти устройства. Не загружено %1$d элемента.</item>
+        <item quantity="one">Недостаточно места в памяти устройства. Не загружен %1$d элемент.</item>
+        <item quantity="few">Недостаточно места в памяти телефона. Не загружено %1$d элемента.</item>
+        <item quantity="many">Недостаточно места в памяти телефона. Не загружено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Ошибка сети. %1$d элемента(-ов) не загружено.</item>
+        <item quantity="one">Ошибка сети. %1$d элемент не загружен.</item>
+        <item quantity="few">Ошибка сети. Не загружено %1$d элемента.</item>
+        <item quantity="many">Ошибка сети. Не загружено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Ошибка сети. %1$d элемента(-ов) не загружено.</item>
+        <item quantity="one">Ошибка сети. %1$d элемент не загружен.</item>
+        <item quantity="few">Ошибка сети. Не загружено %1$d элемента.</item>
+        <item quantity="many">Ошибка сети. Не загружено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Недостаточно места в облачном хранилище. Не загружено оригиналов фото: %1$d.</item>
+        <item quantity="one">Недостаточно места в облачном хранилище. Не загружен %1$d оригинал фото.</item>
+        <item quantity="few">Недостаточно места в облачном хранилище. Не загружено %1$d оригинальных фото.</item>
+        <item quantity="many">Недостаточно места в облачном хранилище. Не загружено %1$d оригинальных фото.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d фото не синхронизировано. В облаке больше нет места,</item>
+        <item quantity="one">%1$d фото не синхронизировано. В облаке больше нет места,</item>
+        <item quantity="few">%1$d фото не синхронизированы. Облачное хранилище заполнено.</item>
+        <item quantity="many">%1$d фото не синхронизированы. Облачное хранилище заполнено.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d фото не синхронизированы. Синхронизация с облаком приостанавливается, когда заряд батареи ниже %2$s.</item>
+        <item quantity="one">%1$d фото не синхронизировано. Синхронизация с облаком приостанавливается, когда заряд батареи ниже %2$s.</item>
+        <item quantity="few">%1$d фото не синхронизированы. Синхронизация приостанавливается при уровне заряда батареи ниже %2$s.</item>
+        <item quantity="many">%1$d фото не синхронизированы. Синхронизация приостанавливается при уровне заряда батареи ниже %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d фото не синхронизированы. В режиме энергосбережения синхронизация с облаком приостановлена.</item>
+        <item quantity="one">%1$d фото не синхронизировано. В режиме энергосбережения синхронизация с облаком приостановлена.</item>
+        <item quantity="few">%1$d фото не синхронизированы, так как в режиме энергосбережения синхронизация с облаком приостановлена.</item>
+        <item quantity="many">%1$d фото не синхронизированы, так как в режиме энергосбережения синхронизация с облаком приостановлена.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Облачное хранилище заполнено. Не отправлено элементов: %1$d.</item>
+        <item quantity="one">Облачное хранилище заполнено. Не отправлен %1$d элемент.</item>
+        <item quantity="few">Облачное хранилище заполнено. Не загружены %1$d элемента.</item>
+        <item quantity="many">Облачное хранилище заполнено. Не загружены %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Заряд батареи ниже %1$s. Не отправлено элементов: %2$d.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. Не отправлен %2$d элемент.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не отправлены %2$d элемента.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не отправлены %2$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Заряд батареи ниже %1$s. %2$d элемента(-ов) не добавлены в облако. Зарядите телефон.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. %2$d элемент не добавлен в облако. Зарядите телефон.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не отправлены %2$d элемента. Зарядите телефон.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не отправлены %2$d элемента. Зарядите телефон.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Заряд батареи ниже %1$s. Не отправлены %2$d элемента(-ов). Зарядите устройство.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. Не отправлен %2$d элемент. Зарядите устройство.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не отправлены %2$d элемента. Зарядите телефон.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не отправлены %2$d элемента. Зарядите телефон.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Заряд батареи ниже %1$s. Не отправлено элементов: %2$d.</item>
+        <item quantity="one">Заряд батареи ниже %1$s. Не отправлен %2$d элемент.</item>
+        <item quantity="few">Заряд батареи ниже %1$s. Не отправлены %2$d элемента.</item>
+        <item quantity="many">Заряд батареи ниже %1$s. Не отправлены %2$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Режим энергосбережения включен. Не отправлено элементов: %1$d.</item>
+        <item quantity="one">Режим энергосбережения включен. %1$d элемент не отправлен.</item>
+        <item quantity="few">Включен режим энергосбережения. Не отправлены %1$d элемента.</item>
+        <item quantity="many">Включен режим энергосбережения. Не отправлены %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Режим энергосбережения включен. %1$d элемент не отправлен.</item>
+        <item quantity="one">Режим энергосбережения включен. %1$d элемент не отправлен.</item>
+        <item quantity="few">Включен режим энергосбережения. Не отправлены %1$d элемента.</item>
+        <item quantity="many">Включен режим энергосбережения. Не отправлены %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Облачное хранилище заполнено. Не отправлено элементов: %1$d.</item>
+        <item quantity="one">Облачное хранилище заполнено. Не отправлен %1$d элемент.</item>
+        <item quantity="few">Облачное хранилище заполнено. Не загружено %1$d элемента.</item>
+        <item quantity="many">Облачное хранилище заполнено. Не загружено %1$d элементов.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d видео не синхронизировано. В облаке больше нет места,</item>
+        <item quantity="one">%1$d видео не синхронизировано. В облаке больше нет места,</item>
+        <item quantity="few">%1$d видеозаписи не синхронизированы. Облачное хранилище заполнено.</item>
+        <item quantity="many">%1$d видеозаписи не синхронизированы. Облачное хранилище заполнено.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d видео не синхронизированы. Синхронизация с облаком приостанавливается, когда заряд батареи ниже %2$s.</item>
+        <item quantity="one">%1$d видео не синхронизировано. Синхронизация с облаком приостанавливается, когда заряд батареи ниже %2$s.</item>
+        <item quantity="few">%1$d видеозаписи не синхронизированы. Синхронизация приостанавливается при уровне заряда батареи ниже %2$s.</item>
+        <item quantity="many">%1$d видеозаписи не синхронизированы. Синхронизация приостанавливается при уровне заряда батареи ниже %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d видео не синхронизированы. В режиме энергосбережения синхронизация с облаком приостановлена.</item>
+        <item quantity="one">%1$d видео не синхронизировано. В режиме энергосбережения синхронизация с облаком приостановлена.</item>
+        <item quantity="few">%1$d видеозаписи не синхронизированы, так как в режиме энергосбережения синхронизация с облаком приостановлена.</item>
+        <item quantity="many">%1$d видеозаписи не синхронизированы, так как в режиме энергосбережения синхронизация с облаком приостановлена.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d фото не синхронизировано.</item>
+        <item quantity="one">%1$d фото не синхронизированы.</item>
+        <item quantity="few">%1$d фото не синхронизированы.</item>
+        <item quantity="many">%1$d фото не синхронизированы.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Нет подключения к сети. Не отправлено элементов: %1$d. %2$s.</item>
+        <item quantity="one">Нет подключения к сети. Не отправлен %1$d элемент.%2$s.</item>
+        <item quantity="few">Нет подключения к сети. Не отправлено %1$d элемента. %2$s.</item>
+        <item quantity="many">Нет подключения к сети. Не отправлено %1$d элемента. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Нет подключения к сети. Не отправлено элементов: %1$d. %2$s или %3$s.</item>
+        <item quantity="one">Нет подключения к сети. Не отправлен %1$d элемент. %2$s или %3$s.</item>
+        <item quantity="few">Нет подключения к сети. Не отправлено %1$d элемента. %2$s или %3$s.</item>
+        <item quantity="many">Нет подключения к сети. Не отправлено %1$d элемента. %2$s или %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Нет подключения к сети. %1$d элемента(-ов) не отправлено.</item>
+        <item quantity="one">Нет подключения к сети. %1$d элемент не отправлен.</item>
+        <item quantity="few">Нет подключения к сети. Не отправлено %1$d элемента.</item>
+        <item quantity="many">Нет подключения к сети. Не отправлено %1$d элементов.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Нет подключения к сети. %1$d элемента(-ов) не отправлено.</item>
+        <item quantity="one">Нет подключения к сети. %1$d элемент не отправлен.</item>
+        <item quantity="few">Нет подключения к сети. Не отправлено %1$d элемента.</item>
+        <item quantity="many">Нет подключения к сети. Не отправлено %1$d элементов.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d видео не синхронизированы,</item>
+        <item quantity="one">%1$d видео не синхронизировано,</item>
+        <item quantity="few">%1$d видеозаписи не синхронизированы.</item>
+        <item quantity="many">%1$d видеозаписи не синхронизированы.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Ошибка сети. %1$d элемента(-ов) не отправлено.</item>
+        <item quantity="one">Ошибка сети. %1$d элемент не отправлен.</item>
+        <item quantity="few">Ошибка сети. Не отправлено %1$d элемента.</item>
+        <item quantity="many">Ошибка сети. Не отправлено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Ошибка сети. %1$d элемента(-ов) не отправлено.</item>
+        <item quantity="one">Ошибка сети. %1$d элемент не отправлен.</item>
+        <item quantity="few">Ошибка сети. Не отправлено %1$d элемента.</item>
+        <item quantity="many">Ошибка сети. Не отправлено %1$d элементов.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Ошибка сервиса. %1$d элемента(-ов) не отправлено.</item>
+        <item quantity="one">Ошибка сервиса. %1$d элемент не отправлен.</item>
+        <item quantity="few">Ошибка сервиса. Не отправлено %1$d элемента.</item>
+        <item quantity="many">Ошибка сервиса. Не отправлено %1$d элемента.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Ошибка сервиса. %1$d элемента(-ов) не отправлено.</item>
+        <item quantity="one">Ошибка сервиса. %1$d элемент не отправлен.</item>
+        <item quantity="few">Ошибка сервиса. Не отправлено %1$d элемента.</item>
+        <item quantity="many">Ошибка сервиса. Не отправлено %1$d элемента.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Не удалось добавить %d объекта(-ов)</item>
+        <item quantity="one">Не удалось добавить %d объект</item>
+        <item quantity="few">%d элемента не добавлено</item>
+        <item quantity="many">%d элемента не добавлено</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d фото загружаются и не могут быть отмечены как личные.</item>
+        <item quantity="one">%d фото загружается и не может быть отмечено как личное.</item>
+        <item quantity="few">%d фото загружаются и не могут быть отмечены как \"Личное\".</item>
+        <item quantity="many">%d фото загружаются и не могут быть отмечены как \"Личное\".</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d ч</item>
+        <item quantity="many">%d ч</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d элемента(-ов)</item>
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемента</item>
+        <item quantity="many">%d элементов</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d мин</item>
+        <item quantity="many">%d мин</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d с</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d с</item>
+        <item quantity="many">%d с</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дней</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+        <item quantity="few">%1$d фото</item>
+        <item quantity="many">%1$d фото</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="one">%1$d видео</item>
+        <item quantity="few">%1$d видеозаписи</item>
+        <item quantity="many">%1$d видеозаписей</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">Загружаются %d фото</item>
+        <item quantity="one">Загружается %d фото</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d нового уведомления</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Размер должен быть более %1$d мм</item>
+        <item quantity="one">Размер должен быть более %1$d мм</item>
+        <item quantity="few">Должна быть более %1$d мм</item>
+        <item quantity="many">Должна быть более %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Размер должен быть более %1$d пикс.</item>
+        <item quantity="one">Размер должен быть более %1$d пикс.</item>
+        <item quantity="few">Должна быть более %1$d пикселей</item>
+        <item quantity="many">Должна быть более %1$d пикселей</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Размер должен быть менее %1$d мм</item>
+        <item quantity="one">Размер должен быть менее %1$d мм</item>
+        <item quantity="few">Должна быть менее %1$d мм</item>
+        <item quantity="many">Должна быть менее %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Размер должен быть менее %1$d пикс.</item>
+        <item quantity="one">Размер должен быть менее %1$d пикс.</item>
+        <item quantity="few">Должна быть менее %1$d пикселей</item>
+        <item quantity="many">Должна быть менее %1$d пикселей</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Размер должен быть более %1$d Кб</item>
+        <item quantity="one">Размер должен быть более %1$d Кб</item>
+        <item quantity="few">Должен быть более %1$d Кб</item>
+        <item quantity="many">Должен быть более %1$d Кб</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Размер должен быть менее %1$d Кб</item>
+        <item quantity="one">Размер должен быть менее %1$d Кб</item>
+        <item quantity="few">Должен быть менее %1$d Кб</item>
+        <item quantity="many">Должен быть менее %1$d Кб</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Размер должен быть более %1$d мм</item>
+        <item quantity="one">Размер должен быть более %1$d мм</item>
+        <item quantity="few">Должна быть более %1$d мм</item>
+        <item quantity="many">Должна быть более %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Размер должен быть более %1$d пикс.</item>
+        <item quantity="one">Размер должен быть более %1$d пикс.</item>
+        <item quantity="few">Должна быть более %1$d пикселей</item>
+        <item quantity="many">Должна быть более %1$d пикселей</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Размер должен быть менее %1$d мм</item>
+        <item quantity="one">Размер должен быть менее %1$d мм</item>
+        <item quantity="few">Должна быть менее %1$d мм</item>
+        <item quantity="many">Должна быть менее %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Размер должен быть менее %1$d пикс.</item>
+        <item quantity="one">Размер должен быть менее %1$d пикс.</item>
+        <item quantity="few">Должна быть менее %1$d пикселей</item>
+        <item quantity="many">Должна быть менее %1$d пикселей</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Сохранить только %d выбранных фото</item>
+        <item quantity="one">Сохранить только %d выбранное фото</item>
+        <item quantity="few">Сохранить только %d выбранных фото</item>
+        <item quantity="many">Сохранить только %d выбранных фото</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Удалить %d элемента(-ов)</item>
+        <item quantity="one">Удалить %d элемент</item>
+        <item quantity="few">Удалить %d элемента</item>
+        <item quantity="many">Удалить %d элементов</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано %1$d элемента</item>
+        <item quantity="many">Выбрано %1$d элементов</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано %1$d альбома</item>
+        <item quantity="many">Выбрано %1$d альбомов</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано %1$d элемента</item>
+        <item quantity="many">Выбрано %1$d элементов</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">Выбрано стикеров: %1$d</item>
+        <item quantity="one">Выбран %1$d стикер</item>
+        <item quantity="few">Выбрано %1$d стикера</item>
+        <item quantity="many">Выбрано %1$d стикеров</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">Выбрано видео: %1$d</item>
+        <item quantity="one">Выбрано видео: %1$d</item>
+        <item quantity="few">Выбрано %1$d видеозаписи</item>
+        <item quantity="many">Выбрано %1$d видеозаписей</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d фото загружаются и не могут быть удалены.</item>
+        <item quantity="one">%d фото загружается и не может быть удалено.</item>
+        <item quantity="few">%d фото загружаются и не могут быть удалены.</item>
+        <item quantity="many">%d фото загружаются и не могут быть удалены.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Не удалось удалить %1$d объектов. Повторите попытку</item>
+        <item quantity="one">Не удалось удалить %1$d объект. Повторите попытку</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">Новых уведомлений: %d</item>
+        <item quantity="one">%d новое уведомление</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d фото</item>
+        <item quantity="one">%1$d фото</item>
+        <item quantity="few">%1$d фото</item>
+        <item quantity="many">%1$d фото</item>
+    </plurals>
+</resources>

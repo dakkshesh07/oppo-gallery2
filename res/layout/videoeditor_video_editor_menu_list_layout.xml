@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.template.editor.widget.HorizontalLinearListView android:id="@id/horizontal_list" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/video_editor_menu_margin_bottom" android:layout_centerHorizontal="true" android:paddingStart="@dimen/video_editor_menu_list_padding" android:paddingEnd="@dimen/video_editor_menu_list_padding" app:base_itemSpacing="@dimen/video_editor_menu_item_spacing"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

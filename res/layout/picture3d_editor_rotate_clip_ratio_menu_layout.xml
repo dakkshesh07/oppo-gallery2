@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.template.editor.widget.HorizontalLinearListView android:id="@id/rotate_clip_ratio_horizontal_list" android:background="@drawable/picture3d_edit_brush_stroke_width_background" android:fadingEdgeLength="@dimen/picture3d_rotate_clip_radio_menu_horizontal_linear_list_view_fading_edge_length" android:layout_width="wrap_content" android:layout_height="wrap_content" android:requiresFadingEdge="horizontal" app:base_itemSpacing="@dimen/picture3d_rotate_clip_ratio_menu_item_spacing"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

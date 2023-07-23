@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filter-conf>
+    <version>2020070900</version>
+
+    <face_component_version>1</face_component_version>
+    <label_component_version>1</label_component_version>
+    <label_list_version>1</label_list_version>
+
+    <!-- default festival white list start-->
+    <festival>春节</festival>
+    <festival>元旦</festival>
+    <festival>中秋节</festival>
+    <festival>国庆节</festival>
+    <festival>圣诞节</festival>
+    <!-- default festival  white list end-->
+
+    <!-- Add by Dajian@Rom.Apps.Gallery in 20171129 for user 1164840 -->
+    <mem_low_threshold>8</mem_low_threshold>
+    <mem_very_low_threshold>1</mem_very_low_threshold>
+    <image_space_high_threshold>1.5</image_space_high_threshold>
+    <image_space_very_high_threshold>4</image_space_very_high_threshold>
+    <remind_time_space>7</remind_time_space>
+    <!-- Add end -->
+    <!-- add for sync delete-->
+    <cloud_sync_remind_dialog_batch_delete_num>50</cloud_sync_remind_dialog_batch_delete_num>
+    <!-- Add by Dajian@Rom.Apps.Gallery in 20171214 for user 1133906 -->
+    <last_week_pic_count_min>30</last_week_pic_count_min>
+    <last_two_week_pic_count_min>30</last_two_week_pic_count_min>
+    <last_three_week_pic_count_min>30</last_three_week_pic_count_min>
+    <last_month_pic_count_min>30</last_month_pic_count_min>
+    <last_three_month_pic_count_min>30</last_three_month_pic_count_min>
+    <last_year_pic_count_min>30</last_year_pic_count_min>
+
+    <one_week_optimal_interval>1</one_week_optimal_interval>
+    <two_week_optimal_interval>2</two_week_optimal_interval>
+    <three_week_optimal_interval>3</three_week_optimal_interval>
+    <month_optimal_interval>1</month_optimal_interval>
+    <three_month_optimal_interval>3</three_month_optimal_interval>
+
+    <date_in_video_pic_count_min>15</date_in_video_pic_count_min>
+    <date_in_video_pic_count_max>40</date_in_video_pic_count_max>
+
+    <!-- Travel optimal -->
+    <travel_pic_count_min>30</travel_pic_count_min>
+    <travel_in_video_pic_count_min>15</travel_in_video_pic_count_min>
+    <travel_in_video_pic_count_max>40</travel_in_video_pic_count_max>
+
+    <!-- Face optimal -->
+    <new_pic_count_min>30</new_pic_count_min>
+    <single_person_pic_count_min>30</single_person_pic_count_min>
+    <two_person_pic_count_min>30</two_person_pic_count_min>
+    <three_person_pic_count_min>30</three_person_pic_count_min>
+    <group_person_pic_count_min>30</group_person_pic_count_min>
+
+    <new_pic_optimal_interval>7</new_pic_optimal_interval>
+    <single_person_optimal_interval>4</single_person_optimal_interval>
+    <two_person_optimal_interval>4</two_person_optimal_interval>
+    <three_person_optimal_interval>4</three_person_optimal_interval>
+    <group_person_optimal_interval>3</group_person_optimal_interval>
+
+    <new_pic_optimal_days_offset>7</new_pic_optimal_days_offset>
+    <same_single_person_interval>3</same_single_person_interval>
+    <same_two_person_interval>3</same_two_person_interval>
+    <same_three_person_interval>3</same_three_person_interval>
+
+    <single_person_optimal_top_count>5</single_person_optimal_top_count>
+    <single_face_pic_count_min>5</single_face_pic_count_min>
+    <two_person_id_list_size>2</two_person_id_list_size>
+    <three_person_id_list_size>3</three_person_id_list_size>
+    <group_person_size_min>4</group_person_size_min>
+    <group_person_size_max>10</group_person_size_max>
+
+    <face_in_video_pic_count_min>15</face_in_video_pic_count_min>
+    <face_in_video_pic_count_max>40</face_in_video_pic_count_max>
+
+    <!-- Photo in video -->
+    <memories_video_photo_min>5</memories_video_photo_min>
+    <memories_video_photo_max>40</memories_video_photo_max>
+
+    <!-- All memories -->
+    <memories_album_item_max>500</memories_album_item_max>
+    <!-- Add end -->
+
+    <memories_label_filter>文档</memories_label_filter>
+    <memories_label_filter>手机</memories_label_filter>
+
+    <!-- Add by caowei@Rom.Apps.Gallery in 20180509 for user 1298290 -->
+    <!-- common config -->
+    <memories_pic_count_min>30</memories_pic_count_min><!--生成回忆最少照片数-->
+    <memories_pic_count_max>500</memories_pic_count_max><!--生成回忆最多照片数-->
+    <memories_count_max>100</memories_count_max><!--相册最多回忆个数-->
+
+    <!-- face memories -->
+    <face_memories_interval>4</face_memories_interval><!--人物类回忆生成间隔天数-->
+    <same_face_memories_interval>30</same_face_memories_interval><!--同一个人物回忆生成间隔天数-->
+    <single_person_memories_top_count>5</single_person_memories_top_count><!--单人回忆生成时取人物图集top数-->
+    <memories_with_single_face_pic_count_min>5</memories_with_single_face_pic_count_min><!--单人回忆包含的单人脸最少照片数-->
+
+    <!--pet memories-->
+    <pet_memories_interval>30</pet_memories_interval><!--宠物回忆生成间隔天数-->
+    <!-- Add end -->
+
+    <!-- loading delay-->
+    <white_screen_loading_delay_time>2000</white_screen_loading_delay_time><!--白屏loading dialog延时显示时间-->
+    <!-- Add end -->
+
+    <!-- Add by caowei@Rom.Apps.Gallery in 20190523 for gallery slim-->
+    <aspect_ratio>2.233</aspect_ratio><!-- 云相册图片长宽比阈值 -->
+    <target_size>1440</target_size><!-- 云相册缩图目标尺寸 -->
+    <threshold_long_side>1440</threshold_long_side><!-- 云相册图片压缩长边阈值 -->
+    <threshold_short_side>720</threshold_short_side><!-- 云相册图片压缩短边阈值 -->
+    <threshold_big_image>5760</threshold_big_image><!-- 云相册图片压缩大图阈值 -->
+    <ratio_middle>2</ratio_middle><!-- 云相册中图（小于等于5760）压缩倍数 -->
+    <ratio_big>2</ratio_big><!-- 云相册大图（大于5760）压缩倍数 -->
+    <slim_time_frame_1>7</slim_time_frame_1><!-- 云相册原图瘦身周期 -->
+    <!-- Add end -->
+
+
+</filter-conf>

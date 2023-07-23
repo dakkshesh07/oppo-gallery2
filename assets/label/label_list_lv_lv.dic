@@ -1,0 +1,304 @@
+zvērs	-1	-1	-1	1	0	-1
+radījums	-1	-1	-1	1	0	-1
+plēsējs	-1	-1	-1	1	0	-1
+kustonis	-1	-1	-1	1	0	-1
+mājlops	-1	-1	-1	2	0	-1
+kucēns	-1	-1	-1	3	0	-1
+mājdzīvnieks	-1	-1	-1	3	0	-1
+kaķēns	-1	-1	-1	4	0	-1
+mājas kaķis	-1	-1	-1	4	0	-1
+minka	-1	-1	-1	4	0	-1
+mincis	-1	-1	-1	4	0	-1
+Veģetācija	-1	-1	-1	5	0	-1
+augšana	-1	-1	-1	5	0	-1
+apstādījumi	-1	-1	-1	5,10	0	-1
+Ziedi	-1	-1	-1	6	0	-1
+puķes	-1	-1	-1	6	0	-1
+aromāts	-1	-1	-1	6	0	-1
+smarža	-1	-1	-1	6	0	-1
+svaigi ziedi	-1	-1	-1	6	0	-1
+buķete	-1	-1	-1	6	0	-1
+pušķis	-1	-1	-1	6	0	-1
+puķu dobe	-1	-1	-1	6	0	-1
+ziedlapiņas	-1	-1	-1	6	0	-1
+Salmi	-1	-1	-1	7	0	-1
+zaļa zāle	-1	-1	-1	7	0	-1
+zāliens	-1	-1	-1	7	0	-1
+zālājs	-1	-1	-1	7	0	-1
+zaļa pļava	-1	-1	-1	7	0	-1
+pļava	-1	-1	-1	7	0	-1
+stiebrs	-1	-1	-1	7	0	-1
+Kokmateriāli	-1	-1	-1	8	0	-1
+lieli koki	-1	-1	-1	8	0	-1
+mežs	-1	-1	-1	8	0	-1
+mežmateriāls	-1	-1	-1	8	0	-1
+koksne	-1	-1	-1	8	0	-1
+ainavisks	-1	-1	-1	9	0	-1
+skata vieta	-1	-1	-1	9	0	-1
+skatu punkts	-1	-1	-1	9	0	-1
+dabasskats	-1	-1	-1	9,9	0	-1
+aina	-1	-1	-1	9	0	-1
+Kore	-1	-1	-1	10	0	-1
+kalna kore	-1	-1	-1	10	0	-1
+smaile	-1	-1	-1	10	0	-1
+kalni	-1	-1	-1	10	0	-1
+attāls kalns	-1	-1	-1	10	0	-1
+paugurs	-1	-1	-1	10	0	-1
+augsts kalns	-1	-1	-1	10	0	-1
+kalna virsotne	-1	-1	-1	10	0	-1
+klints	-1	-1	-1	10	0	-1
+ainava	-1	-1	-1	10	0	-1
+kalnu grēda	-1	-1	-1	10	0	-1
+pakalns	-1	-1	-1	10	0	-1
+uzkalns	-1	-1	-1	10	0	-1
+dziļa jūra	-1	-1	-1	11	0	-1
+jūras teritorija	-1	-1	-1	11	0	-1
+liels okeāns	-1	-1	-1	11	0	-1
+jūras ūdens	-1	-1	-1	11	0	-1
+dzidra jūra	-1	-1	-1	11	0	-1
+jūras skats	-1	-1	-1	11	0	-1
+Ēkas	-1	-1	-1	12	0	-1
+konstrukcijas	-1	-1	-1	12	0	-1
+būves	-1	-1	-1	12	0	-1
+celtnes	-1	-1	-1	12	0	-1
+mājas	-1	-1	-1	12	0	-1
+Ēdamistaba	-1	-1	-1	13	0	-1
+ēdnīca	-1	-1	-1	13	0	-1
+ēdamzāle	-1	-1	-1	13	0	-1
+kafejnīca	-1	-1	-1	13	0	-1
+bistro	-1	-1	-1	13	0	-1
+ātrās ēdināšanas restorāns	-1	-1	-1	13	0	-1
+Naktsklubs	-1	-1	-1	14	0	-1
+pabs	-1	-1	-1	14	0	-1
+klubs	-1	-1	-1	14	0	-1
+krogs	-1	-1	-1	14	0	-1
+Sports	-1	-1	-1	15,45	0	-1
+stadions	-1	-1	-1	15	0	-1
+fitnesa centrs	-1	-1	-1	16	0	-1
+vingrošanas zāle	-1	-1	-1	16	0	-1
+vingruma zāle	-1	-1	-1	16	0	-1
+izstāžu zāle	-1	-1	-1	17	0	-1
+izstādes telpa	-1	-1	-1	17	0	-1
+izstāde	-1	-1	-1	17	0	-1
+preču tirdzniecības vieta	-1	-1	-1	18	0	-1
+uzņēmējdarbība	-1	-1	-1	18	0	-1
+firma	-1	-1	-1	18	0	-1
+veikali	-1	-1	-1	18	0	-1
+tirgus	-1	-1	-1	18	0	-1
+iepirkšanās centrs	-1	-1	-1	18	0	-1
+iepirkšanās	-1	-1	-1	18	0	-1
+terminālis	-1	-1	-1	19	0	-1
+galastacija	-1	-1	-1	19	0	-1
+galapunkts	-1	-1	-1	19	0	-1
+depo	-1	-1	-1	19	0	-1
+drēbes	-1	-1	-1	20	0	-1
+tērps	-1	-1	-1	20	0	-1
+mode	-1	-1	-1	20	0	-1
+stils	-1	-1	-1	20	0	-1
+bagāža	-1	-1	-1	20	0	-1
+soma	-1	-1	-1	20	0	-1
+kostīmi	-1	-1	-1	20	0	-1
+garderobe	-1	-1	-1	20	0	-1
+Iepirkumu soma	-1	-1	-1	21	0	-1
+rokassomiņa	-1	-1	-1	21	0	-1
+maks	-1	-1	-1	21	0	-1
+rokassoma	-1	-1	-1	21	0	-1
+ādas kopšanas līdzekļi	-1	-1	-1	22	0	-1
+higiēnas preces	-1	-1	-1	22	0	-1
+dekoratīvā kosmētika	-1	-1	-1	22	0	-1
+saulesbrilles	-1	-1	-1	23	0	-1
+Aksesuārs	-1	-1	-1	24	0	-1
+ornamenti	-1	-1	-1	24	0	-1
+zelta un sudraba dārglietas	-1	-1	-1	24	0	-1
+rotaslietas	-1	-1	-1	24	0	-1
+juvelieru izstrādājumi	-1	-1	-1	24	0	-1
+Transportēšana	-1	-1	-1	25	0	-1
+pārvešana	-1	-1	-1	25	0	-1
+pārvadāšana	-1	-1	-1	25	0	-1
+satiksme	-1	-1	-1	25	0	-1
+transports	-1	-1	-1	25	0	-1
+piegāde	-1	-1	-1	25	0	-1
+transportlīdzeklis	-1	-1	-1	25	0	-1
+Transportlīdzeklis	-1	-1	-1	26	0	-1
+automašīna	-1	-1	-1	26	0	-1
+Kuģis	-1	-1	-1	27	0	-1
+laiva	-1	-1	-1	27	0	-1
+plosts	-1	-1	-1	27	0	-1
+Pārtikas preces	-1	-1	-1	28	0	-1
+pārtika	-1	-1	-1	28	0	-1
+produkti	-1	-1	-1	28	0	-1
+gardēdis	-1	-1	-1	28	0	-1
+garšīgs	-1	-1	-1	28	0	-1
+gards	-1	-1	-1	28	0	-1
+maltīte	-1	-1	-1	28	0	-1
+delikatese	-1	-1	-1	28	0	-1
+lielisks ēdiens	-1	-1	-1	28	0	-1
+virtuve	-1	-1	-1	28	0	-1
+ēdināšana	-1	-1	-1	28	0	-1
+ēst gatavošana	-1	-1	-1	28	0	-1
+Rietumu virtuve	-1	-1	-1	29	0	-1
+Eiropas virtuve	-1	-1	-1	29	0	-1
+Eiropas ēdiens	-1	-1	-1	29	0	-1
+jūras produkti	-1	-1	-1	30,50	0	-1
+svaigi augļi	-1	-1	-1	31	0	-1
+Brūvējums	-1	-1	-1	32	0	-1
+labs vīns	-1	-1	-1	32	0	-1
+stiprie alkoholiskie dzērieni	-1	-1	-1	32	0	-1
+stiprs alkohols	-1	-1	-1	32	0	-1
+lielisks vīns	-1	-1	-1	32	0	-1
+izsmalcināts vīns	-1	-1	-1	32	0	-1
+degvīns	-1	-1	-1	32	0	-1
+viskijs	-1	-1	-1	32	0	-1
+konjaks	-1	-1	-1	32	0	-1
+rums	-1	-1	-1	32	0	-1
+alus	-1	-1	-1	32	0	-1
+šampanietis	-1	-1	-1	32	0	-1
+sidrs	-1	-1	-1	32	0	-1
+kokteilis	-1	-1	-1	32	0	-1
+Vīns	-1	-1	-1	33	0	-1
+sauss	-1	-1	-1	33	0	-1
+sarkans	-1	-1	-1	33	0	-1
+sauss sarkanvīns	-1	-1	-1	33	0	-1
+Elektroniska ierīce	-1	-1	-1	36	0	-1
+elektroierīce	-1	-1	-1	36,39	0	-1
+aparatūra	-1	-1	-1	36	0	-1
+elektroiekārta	-1	-1	-1	36	0	-1
+Elektroniskie produkti	-1	-1	-1	37	0	-1
+digitāls	-1	-1	-1	37	0	-1
+digitālas ierīces	-1	-1	-1	37	0	-1
+Mobilais telefons	-1	-1	-1	38	0	-1
+mobilais tālrunis	-1	-1	-1	38	0	-1
+ierīce	-1	-1	-1	39	0	-1
+skaitļotājs	-1	-1	-1	39	0	-1
+videokamera	-1	-1	-1	40	0	-1
+fotokamera	-1	-1	-1	40	0	-1
+Vārds	-1	-1	-1	41	0	-1
+teikums	-1	-1	-1	41	0	-1
+PPT	-1	-1	-1	42	0	-1
+Power Point programmas prezentācija	-1	-1	-1	42	0	-1
+slaidrāde	-1	-1	-1	42	0	-1
+prezentācija	-1	-1	-1	42	0	-1
+Ekrāna uzņemšana	-1	-1	-1	43	0	-1
+ekrānuzņēmumi	-1	-1	-1	43	0	-1
+Ballīte	-1	-1	-1	44	0	-1
+balle	-1	-1	-1	44	0	-1
+svinības	-1	-1	-1	44,46	0	-1
+viesības	-1	-1	-1	44,46	0	-1
+vingrinājumi	-1	-1	-1	45	0	-1
+sacensības	-1	-1	-1	45	0	-1
+turnīrs	-1	-1	-1	45	0	-1
+sacīkstes	-1	-1	-1	45	0	-1
+nodarbības	-1	-1	-1	45	0	-1
+fiziskas nodarbības	-1	-1	-1	45	0	-1
+Maltīte	-1	-1	-1	46	0	-1
+svētki	-1	-1	-1	46	0	-1
+bankets	-1	-1	-1	46	0	-1
+atpūta	-1	-1	-1	46	0	-1
+viesi	-1	-1	-1	46	0	-1
+ballīte	-1	-1	-1	46	0	-1
+banketi	-1	-1	-1	46	0	-1
+Kāzu svinības	-1	-1	-1	47	0	-1
+kāzu vakariņas	-1	-1	-1	47	0	-1
+kāzu bankets	-1	-1	-1	47	0	-1
+kāzu balle	-1	-1	-1	47	0	-1
+kāzu viesības	-1	-1	-1	47	0	-1
+Izpildījums	-1	-1	-1	48	0	-1
+skatuves māksla	-1	-1	-1	48	0	-1
+priekšnesums	-1	-1	-1	48	0	-1
+Mazs putns	-1	-1	-1	49	0	-1
+mājputni	-1	-1	-1	49	0	-1
+putni	-1	-1	-1	49	0	-1
+Zivis	-1	-1	-1	50	0	-1
+salūts	-1	-1	-1	53	0	-1
+Nakts krēsla	-1	-1	-1	54	0	-1
+Lieli ūdenskritumi	-1	-1	-1	55	0	-1
+vareni ūdenskritumi	-1	-1	-1	55	0	-1
+zilas debesis	-1	-1	-1	56	0	-1
+skaidras debesis	-1	-1	-1	56	0	-1
+mākoņi	-1	-1	-1	56	0	-1
+Sniegs	-1	-1	-1	57	0	-1
+sniega sega	-1	-1	-1	57	0	-1
+saule	-1	-1	-1	58	0	-1
+rīts	-1	-1	-1	58	0	-1
+agrs rīts	-1	-1	-1	58	0	-1
+Katedrāle	-1	-1	-1	59	0	-1
+svētvieta	-1	-1	-1	59	0	-1
+svētnīca	-1	-1	-1	60	0	-1
+dievnams	-1	-1	-1	60	0	-1
+klosteris	-1	-1	-1	60	0	-1
+Tornis	-1	-1	-1	61	0	-1
+augstceltne	-1	-1	-1	61	0	-1
+lapene	-1	-1	-1	62	0	-1
+nojume	-1	-1	-1	62	0	-1
+Karaliskais laukums	-1	-1	-1	63	0	-1
+dārzi	-1	-1	-1	63	0	-1
+atpūtas parks	-1	-1	-1	65	0	-1
+karuseļi	-1	-1	-1	65	0	-1
+piedzīvojumu parks	-1	-1	-1	65	0	-1
+izklaides parks	-1	-1	-1	65	0	-1
+Akvārijs	-1	-1	-1	66	0	-1
+zemūdens pasaule	-1	-1	-1	66	0	-1
+ūdens tvertne	-1	-1	-1	66	0	-1
+ūdenstilpne	-1	-1	-1	66	0	-1
+Safari	-1	-1	-1	67	0	-1
+medību ekspedīcija	-1	-1	-1	67	0	-1
+apģērbs	-1	-1	-1	68	0	-1
+automobilis	-1	-1	-1	70	0	-1
+auto	-1	-1	-1	70	0	-1
+mašīna	-1	-1	-1	70	0	-1
+transporta līdzeklis	-1	-1	-1	70	0	-1
+pārvietošanās līdzeklis	-1	-1	-1	70	0	-1
+Dzelzceļš	-1	-1	-1	71	0	-1
+sliedes	-1	-1	-1	71	0	-1
+dzelzceļa līnija	-1	-1	-1	71	0	-1
+Deserti	-1	-1	-1	73	0	-1
+saldie ēdieni	-1	-1	-1	73	0	-1
+japāņu ēdiens	-1	-1	-1	74	0	-1
+“Shabu-shabu”	-1	-1	-1	75	0	-1
+Austrumu ēdiens	-1	-1	-1	75	0	-1
+ķīniešu ēdiens	-1	-1	-1	75	0	-1
+ķīniešu virtuve	-1	-1	-1	75	0	-1
+Āzijas ēdiens	-1	-1	-1	75	0	-1
+Āzijas virtuve	-1	-1	-1	75	0	-1
+grils	-1	-1	-1	76	0	-1
+Teksta dokuments	-1	-1	-1	77	0	-1
+dokuments	-1	-1	-1	77	0	-1
+Ilustrācija	-1	-1	-1	79	0	-1
+attēls	-1	-1	-1	79	0	-1
+bilde	-1	-1	-1	79	0	-1
+animācija	-1	-1	-1	80	0	-1
+multfilma	-1	-1	-1	80	0	-1
+Dejošana	-1	-1	-1	81	0	-1
+dejas	-1	-1	-1	81	0	-1
+Dziedāšana	-1	-1	-1	82	0	-1
+Dzimšanas dienas svinības	-1	-1	-1	83	0	-1
+dzimšanas dienas vakariņas	-1	-1	-1	83	0	-1
+dzimšanas dienas balle	-1	-1	-1	83	0	-1
+dzimšanas dienas ballīte	-1	-1	-1	83	0	-1
+Persona	-1	-1	-1	85	0	-1
+tēls	-1	-1	-1	85	0	-1
+indivīds	-1	-1	-1	85	0	-1
+zīdaiņi	-1	-1	-1	86	0	-1
+mazi bērni	-1	-1	-1	86	0	-1
+mazuļi	-1	-1	-1	86	0	-1
+kurpes	-1	-1	-1	87	0	-1
+zābaki	-1	-1	-1	87	0	-1
+sandales	-1	-1	-1	87	0	-1
+sporta apavi	-1	-1	-1	87	0	-1
+Vāks	-1	-1	-1	88	0	-1
+vāciņš	-1	-1	-1	88	0	-1
+apliecība	-1	-1	-1	89	0	-1
+diploms	-1	-1	-1	89	0	-1
+atestāts	-1	-1	-1	89	0	-1
+liecība	-1	-1	-1	89	0	-1
+akts	-1	-1	-1	89	0	-1
+identifikācijas karte	-1	-1	-1	90	0	-1
+personu apliecinošs dokuments	-1	-1	-1	90	0	-1
+Kredītkarte	-1	-1	-1	91	0	-1
+uzkrājumu karte	-1	-1	-1	91	0	-1
+krājkonts	-1	-1	-1	91	0	-1
+debetkarte	-1	-1	-1	91	0	-1
+norēķinu karte	-1	-1	-1	91	0	-1
+maksājumu karte	-1	-1	-1	91	0	-1
+Kvīts	-1	-1	-1	92	0	-1
+čeks	-1	-1	-1	92	0	-1

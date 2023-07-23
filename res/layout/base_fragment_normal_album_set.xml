@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout android:id="@id/base_fragment_normal_album_set_root" android:background="@color/base_gallery_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.recyclerview.widget.COUIRecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" />
+    <include layout="@layout/base_appbar_with_hideable_title_divider_layout" />
+</com.oplus.gallery.business_lib.widget.empty.ViewContainerLayout>

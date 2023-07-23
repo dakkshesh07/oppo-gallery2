@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="false">
+        <bitmap android:src="@drawable/picture3d_editor_ic_doodle_brush_rectangle_normal" android:alpha="@dimen/common_state_unselected_alpha" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/picture3d_editor_ic_doodle_brush_rectangle_normal" />
+    </item>
+</selector>

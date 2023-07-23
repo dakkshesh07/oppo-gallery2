@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/top_tips" android:background="@drawable/common_shape_top_tips" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/layout_top_tip_main" layout="@layout/common_top_tips_main" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/layout_top_tip_addition" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true">
+        <TextView android:id="@id/tv_top_tip_sub_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/common_top_tip_sub_content_margin_vertical" android:layout_marginBottom="@dimen/common_top_tip_sub_content_margin_vertical" android:translationY="-0.6600001dip" android:layout_marginEnd="@dimen/common_top_tip_content_margin_end" style="@style/CommonTopTipText" />
+    </LinearLayout>
+</RelativeLayout>

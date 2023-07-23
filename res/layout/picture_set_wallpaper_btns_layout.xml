@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/set_wallpaper_large_btn" android:paddingBottom="@dimen/picture_wallpaper_large_btn_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <com.oplus.gallery.picture_lib.picture.ui.WallpaperSetterLargeButton android:textSize="@dimen/picture_set_wallpaper_largebtn_text_size" android:textColor="@color/common_white" android:gravity="center" android:id="@id/btn_ok" android:background="@null" android:layout_width="@dimen/picture_set_wallpaper_largebtn_width" android:layout_height="@dimen/picture_set_wallpaper_largebtn_height" android:text="@string/picture_button_apply" android:fontFamily="sans-serif-medium" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/select_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/picture_set_wallpaper_select_padding" android:layout_above="@id/set_wallpaper_large_btn" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/iv_select" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/picture_select_btn_white_selector" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/picture_set_wallpaper_btn_text_size" android:textColor="@color/common_white" android:id="@id/tv_scroll" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/picture_roll" android:layout_centerVertical="true" android:layout_toEndOf="@id/iv_select" />
+    </RelativeLayout>
+</RelativeLayout>

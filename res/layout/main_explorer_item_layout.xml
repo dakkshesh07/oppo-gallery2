@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/explorer_item_image" android:background="@drawable/base_round_background_shape" android:layout_width="@dimen/base_label_album_set_fragment_item_width" android:layout_height="@dimen/base_label_album_set_fragment_item_width" android:scaleType="centerInside" android:importantForAccessibility="no" android:forceDarkAllowed="false" />
+    <TextView android:textSize="@dimen/main_explorer_fragment_album_item_text_size" android:textStyle="bold" android:textColor="@color/base_black_85_percent" android:id="@id/explorer_item_title_text" android:layout_width="wrap_content" android:layout_height="@dimen/main_explorer_fragment_album_item_text_height" android:layout_marginTop="@dimen/main_explorer_fragment_album_item_text_margin_top" />
+    <TextView android:textSize="@dimen/main_explorer_fragment_album_item_sub_text_size" android:textColor="@color/base_black_50_percent" android:id="@id/explorer_item_sub_title_text" android:layout_width="wrap_content" android:layout_height="@dimen/main_explorer_fragment_album_item_sub_text_height" />
+</LinearLayout>

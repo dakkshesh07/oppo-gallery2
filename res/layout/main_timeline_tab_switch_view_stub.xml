@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.main_lib.tab.timeline.TabSwitchView android:background="@drawable/main_timeline_tab_button_background" android:paddingTop="@dimen/main_timeline_tab_button_top_padding" android:paddingBottom="@dimen/main_timeline_tab_button_bottom_padding" android:layout_width="fill_parent" android:layout_height="@dimen/main_timeline_tab_button_height" android:splitMotionEvents="false" android:paddingHorizontal="@dimen/main_timeline_tab_button_horizontal_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--OS 8.0 EXP-->
+<filter-conf>
+    <version>2022032300</version>
+    <isOpen>1</isOpen>
+    <filter-name>default_timer_shaft_album_list_config</filter-name>
+    <string-array name="timer_shaft_album_list">
+        <item
+            album="DCIM/Camera"
+            mediatype="3"/>
+        <item
+            album="DCIM/*"
+            mediatype="3"/>
+        <item
+            album="Tencent/MobileQQ/Photo"
+            mediatype="3"/>
+        <item
+            album="Pictures/QQ"
+            mediatype="3"/>
+        <item
+            album="Tencent/QQ_Images"
+            mediatype="3"/>
+        <item
+            album="Tencent/QQfile_recv"
+            mediatype="3"/>
+        <item
+            album="Tencent/QQ_Collection/pic"
+            mediatype="3"/>
+        <item
+            album="Tencent/MicroMsg/WeiXin"
+            mediatype="3"/>
+        <item
+            album="Tencent/MicroMsg/WeChat"
+            mediatype="3"/>
+        <item
+            album="Pictures/WeiXin"
+            mediatype="3"/>
+        <item
+            album="Pictures/WeChat"
+            mediatype="3"/>
+        <item
+            album="sina/weibo/weibo"
+            mediatype="3"/>
+        <item
+            album="sina/weibo/storage/photoalbum_save/weibo"
+            mediatype="3"/>
+        <item
+            album="Pictures/weibo"
+            mediatype="3"/>
+        <item
+            album="DCIM/Screenshots"
+            mediatype="3"/>
+        <item
+            album="Pictures/Screenshots"
+            mediatype="3"/>
+        <item
+            album="Bluetooth"
+            mediatype="3"/>
+        <item
+            album="Download/Bluetooth"
+            mediatype="3"/>
+        <item
+            album="Pictures/realme Share"
+            mediatype="3"/>
+        <item
+            album="realme Share/pictures"
+            mediatype="3"/>
+        <item
+            album="Movies/realme Share"
+            mediatype="3"/>
+        <item
+            album="realme Share/videos"
+            mediatype="3"/>
+        <item
+            album="DCIM/Collage"
+            mediatype="3"/>
+        <item
+            album="QQ_Screenshot"
+            mediatype="3"/>
+        <item
+            album="Pictures/Messenger"
+            mediatype="3"/>
+        <item
+            album="Movies/Messenger"
+            mediatype="3"/>
+        <item
+            album="WhatsApp/Media/WhatsApp Images"
+            mediatype="3"/>
+        <item
+            album="WhatsApp/Media/WhatsApp Video"
+            mediatype="3"/>
+        <item
+            album="Pictures/BBM"
+            mediatype="3"/>
+        <item
+            album="Pictures/LINE"
+            mediatype="3"/>
+        <item
+            album="Pictures/LINE_MOVIE"
+            mediatype="3"/>
+        <item
+            album="Telegram/Telegram Images"
+            mediatype="3"/>
+        <item
+            album="Telegram/Telegram video"
+            mediatype="3"/>
+        <item
+            album="Download/Mms"
+            mediatype="3"/>
+        <item
+            album="Snapseed"
+            mediatype="3"/>
+        <item
+            album="Pictures/TeamTalk"
+            mediatype="3"/>
+        <item
+            album="Download/PC Connect"
+            mediatype="3"/>
+        <item
+            album="Download/Multi-Screen Connect"
+            mediatype="3"/>
+    </string-array>
+</filter-conf>

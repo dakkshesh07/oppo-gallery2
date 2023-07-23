@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="13.0dip" />
+    <stroke android:width="@dimen/M1" android:color="@color/picture3d_navigation_delete_tip_background" />
+    <solid android:color="@color/picture3d_navigation_delete_tip_background" />
+</shape>

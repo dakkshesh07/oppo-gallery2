@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dip" android:width="36.0dip" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/widget_recommend_icon_bg_color" android:pathData="M18 0a18 18 0 1 0 0 36a18 18 0 1 0 0-36z" />
+    <path android:fillColor="#ffffffff" android:pathData="M18 10.13l2.36 4.77c0.06 0.12 0.15 0.23 0.27 0.32c0.11 0.08 0.24 0.13 0.39 0.15l5.26 0.77l-3.81 3.71c-0.1 0.1-0.18 0.23-0.22 0.36c-0.05 0.14-0.06 0.28-0.03 0.42l0.9 5.25l-4.71-2.48c-0.13-0.07-0.27-0.1-0.4-0.1c-0.15 0-0.3 0.03-0.42 0.1l-4.7 2.48l0.9-5.25c0.02-0.14 0-0.28-0.04-0.42c-0.04-0.13-0.12-0.26-0.22-0.35l-3.8-3.72l5.26-0.77c0.14-0.02 0.27-0.07 0.38-0.15c0.12-0.09 0.21-0.2 0.28-0.32L18 10.12z" />
+</vector>

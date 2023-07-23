@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="bottom|center" android:orientation="vertical" android:paddingTop="@dimen/base_album_count_string_margin_top" android:paddingBottom="@dimen/base_album_count_string_margin_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/base_album_slot_count_font_size" android:textColor="@color/base_album_bottom_count_font_color" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/base_album_count_string_margin_start" android:layout_marginEnd="@dimen/base_album_count_string_margin_end" />
+    <TextView android:textSize="@dimen/base_recycle_text_size" android:textColor="@color/base_recycle_hint_text_color" android:id="@id/recycle_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/base_recycle_text_top" android:text="@string/base_recycle_hint" android:layout_marginStart="@dimen/base_recycle_text_start" android:layout_marginEnd="@dimen/base_recycle_text_end" />
+</LinearLayout>

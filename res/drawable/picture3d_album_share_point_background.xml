@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/picture3d_grid_albumset_share_point_radius" />
+    <solid android:color="#ffea3447" />
+    <size android:height="@dimen/picture3d_grid_albumset_share_point_height" android:width="@dimen/picture3d_grid_albumset_share_point_width" />
+</shape>

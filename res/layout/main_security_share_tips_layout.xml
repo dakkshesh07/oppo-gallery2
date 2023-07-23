@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/main_resolver_share_tips_max_width"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/main_resover_security_share_tip_arrow" android:forceDarkAllowed="false" />
+    <RelativeLayout android:gravity="center_vertical" android:background="@drawable/main_resover_security_share_tip_bg" android:paddingTop="@dimen/main_resolver_security_share_padding_12" android:paddingBottom="@dimen/main_resolver_security_share_padding_12" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/main_resolver_share_tips_max_width" android:paddingStart="@dimen/main_resolver_security_share_padding_16" android:paddingEnd="@dimen/main_resolver_security_share_padding_16" android:forceDarkAllowed="false">
+        <TextView android:textSize="@dimen/main_resolver_security_share_tips" android:textColor="@color/base_white" android:gravity="center_vertical" android:id="@id/tv_tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/main_resolver_share_tips_tv_max_width" android:text="@string/base_security_share_pop_title_msg" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/iv_tips_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/main_resover_security_share_tips_cancel_icon" android:layout_centerVertical="true" android:layout_marginStart="@dimen/main_resolver_security_share_margin_6" android:layout_toEndOf="@id/tv_tips" />
+    </RelativeLayout>
+</LinearLayout>

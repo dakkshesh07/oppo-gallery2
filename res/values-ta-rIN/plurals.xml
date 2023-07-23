@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d படங்கள் ஏற்றப்படுகின்றன, சேர்க்க முடியாது.</item>
+        <item quantity="one">%d படம் ஏற்றப்படுகிறது, சேர்க்க முடியாது.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d வங்கி அட்டைகள்</item>
+        <item quantity="one">%1$d வங்கி அட்டை</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d IDகள்</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d உருப்படிகளை நிரந்தரமாக நீக்கு</item>
+        <item quantity="one">%d உருப்படியை நிரந்தரமாக நீக்கு</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d உருப்படிகளை நீக்கு</item>
+        <item quantity="one">%d உருப்படியை நீக்கு</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d படங்கள்</item>
+        <item quantity="one">%1$d படம்</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">புகைப்படங்கள் உள்ளன: %s. எளிதான அணுகலுக்காகக் \"கார்டு கேஸிற்கு\" இவற்றை நகர்த்தவும்.</item>
+        <item quantity="one">புகைப்படங்கள் உள்ளன: %s. எளிதான அணுகலுக்காகக் \"கார்டு கேஸிற்கு\" இதை நகர்த்தவும்.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s புகைப்படங்கள் \"கார்டு கேஸிற்கு\" நகர்த்தப்பட்டன</item>
+        <item quantity="one">%1$s புகைப்படம் \"கார்டு கேஸிற்கு\" நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d டிக்கெட்கள்/ரசீதுகள்</item>
+        <item quantity="one">%1$d டிக்கெட்/ரசீது</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">தேர்ந்தெடுக்கப்பட்ட உருப்படிகள் ஏற்கனவே ஆல்பத்தில் உள்ளன</item>
+        <item quantity="one">தேர்ந்தெடுக்கப்பட்ட உருப்படி ஏற்கனவே ஆல்பத்தில் உள்ளது</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d உருப்படிகள்</item>
+        <item quantity="one">%d உருப்படி</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d புகைப்படங்கள் ஏற்றப்படுகின்றன மற்றும் நகர்த்த முடியாது</item>
+        <item quantity="one">%d புகைப்படம் ஏற்றப்படுகிறது மற்றும் நகர்த்த முடியாது</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d பேர்</item>
+        <item quantity="one">%1$d பேர்</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">புகைப்படங்கள் நகர்த்தப்பட்டன. இந்த ஆல்பத்திற்கு வீடியோக்களை நகர்த்த முடியாது.</item>
+        <item quantity="one">புகைப்படம் நகர்த்தப்பட்டது. இந்த ஆல்பத்திற்கு வீடியோக்களை நகர்த்த முடியாது.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d உருப்படிகளை மீட்டமை</item>
+        <item quantity="one">%d உருப்படியை மீட்டமை</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$dபடங்கள்</item>
+        <item quantity="one">%1$dபடம்</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$dவீடியோக்கள்</item>
+        <item quantity="one">%1$d வீடியோ</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d உருப்படி தேர்வு</item>
+        <item quantity="one">%1$d தேர்வில்</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d ஆல்பம் தேர்வு</item>
+        <item quantity="one">%1$d ஆல்பம் தேர்வு</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d நபர் தேர்வு</item>
+        <item quantity="one">%1$d நபர் தேர்வு</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d தேர்வில்</item>
+        <item quantity="one">%1$d தேர்வில்</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d நினைவுகள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d நினைவு தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d வீடியோ தேர்வு</item>
+        <item quantity="one">%1$d வீடியோ தேர்வு</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$dவீடியோக்கள்</item>
+        <item quantity="one">%1$d வீடியோ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படிகள் பதிவிறக்கப்படவில்லை. உங்கள் மொபைலை சார்ஜ் செய்யவும்.</item>
+        <item quantity="one">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படி பதிவிறக்கப்படவில்லை. உங்கள் மொபைலை சார்ஜ் செய்யவும்.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">பேட்டரி அளவு %1$s-க்கும் குறைவாக உள்ளது. %2$d உருப்படிகள் பதிவிறக்கப்பட்டுள்ளன. உங்கள் சாதனத்தைச் சார்ஜ் செய்யவும்.</item>
+        <item quantity="one">பேட்டரி அளவு %1$s-க்கும் குறைவாக உள்ளது. %2$d உருப்படி பதிவிறக்கப்பட்டுள்ளது. உங்கள் சாதனத்தைச் சார்ஜ் செய்யவும்.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை. %2$s.</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவிறக்கப்படவில்லை.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை. %2$s அல்லது %3$s.</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவிறக்கப்படவில்லை. %2$s அல்லது %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவிறக்கப்படவில்லை</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவிறக்கப்படவில்லை</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">பற்றாக்குறை கிளவுட் சேமிப்பகம். %1$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">பற்றாக்குறை கிளவுட் சேமிப்பகம். %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">போதுமான சாதனச் சேமிப்பகம் இல்லை. %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">போதுமான சாதனச் சேமிப்பகம் இல்லை. %1$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">நெட்வொர்க் பிழை. %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">நெட்வொர்க் பிழை. %1$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">நெட்வொர்க் பிழை. %1$d உருப்படிகள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">நெட்வொர்க் பிழை. %1$d உருப்படி பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">பற்றாக்குறை கிளவுட் சேமிப்பகம். %1$d அசல் படங்கள் பதிவிறக்கப்படவில்லை.</item>
+        <item quantity="one">பற்றாக்குறை கிளவுட் சேமிப்பகம். %1$d அசல் படம் பதிவிறக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d படங்கள் ஒத்திசைக்கப்படவில்லை. கிளவுட் சேமிப்பகம் நிரம்பியது.</item>
+        <item quantity="one">%1$d படம் ஒத்திசைக்கப்படவில்லை. கிளவுட் சேமிப்பகம் நிரம்பியது.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d படங்கள் ஒத்திசைக்கப்படவில்லை. பேட்டரி %2$s-க்கு குறைவாக இருக்கும்போது கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+        <item quantity="one">%1$d படம் ஒத்திசைக்கப்படவில்லை. பேட்டரி %2$s-க்கு குறைவாக இருக்கும்போது கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d படங்கள் ஒத்திசைக்கப்படவில்லை. பவர் சேவிங் முறையில் கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+        <item quantity="one">%1$d படம் ஒத்திசைக்கப்படவில்லை. பவர் சேவிங் முறையில் கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">கிளவுட் சேமிப்பகம் நிரம்பிவிட்டது. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">கிளவுட் சேமிப்பகம் நிரம்பிவிட்டது. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படிகள் பதிவேற்றப்படவில்லை. உங்கள் மொபைலை சார்ஜ் செய்யவும்.</item>
+        <item quantity="one">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படி பதிவேற்றப்படவில்லை. உங்கள் மொபைலை சார்ஜ் செய்யவும்.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">பேட்டரி அளவு %1$s-க்கும் குறைவாக உள்ளது. %2$d உருப்படிகள் பதிவேற்றப்படவில்லை. உங்கள் சாதனத்தைச் சார்ஜ் செய்யவும்.</item>
+        <item quantity="one">பேட்டரி அளவு %1$s-க்கும் குறைவாக உள்ளது. %2$d உருப்படி பதிவேற்றப்படவில்லை. உங்கள் சாதனத்தைச் சார்ஜ் செய்யவும்.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">பேட்டரி %1$s-க்கும் குறைவு. %2$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">பவர் சேமிப்பு முறை ஆன். %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">கிளவுட் சேமிப்பகம் நிரம்பிவிட்டது. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">கிளவுட் சேமிப்பகம் நிரம்பிவிட்டது. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d வீடியோக்கள் ஒத்திசைக்கப்படவில்லை. கிளவுட் சேமிப்பகம் நிரம்பியது.</item>
+        <item quantity="one">%1$d வீடியோ ஒத்திசைக்கப்படவில்லை. கிளவுட் சேமிப்பகம் நிரம்பியது.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d வீடியோக்கள் ஒத்திசைக்கப்படவில்லை. பேட்டரி %2$s-க்கு குறைவாக இருக்கும்போது கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+        <item quantity="one">%1$d வீடியோ ஒத்திசைக்கப்படவில்லை. பேட்டரி %2$s-க்கு குறைவாக இருக்கும்போது கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d வீடியோக்கள் ஒத்திசைக்கப்படவில்லை. பவர் சேவிங் முறையில் கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+        <item quantity="one">%1$d வீடியோ ஒத்திசைக்கப்படவில்லை. பவர் சேவிங் முறையில் கிளவுட் ஒத்திசைவு இடைநிறுத்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d படம் ஒத்திசைக்கப்படவில்லை.</item>
+        <item quantity="one">%1$d படங்கள் ஒத்திசைக்கப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை. %2$s.</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவேற்றப்படவில்லை.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை. %2$s அல்லது %3$s.</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவேற்றப்படவில்லை. %2$s அல்லது %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">நெட்வொர்க் இணைப்பு இல்லை. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d வீடியோக்கள் ஒத்திசைக்கப்படவில்லை</item>
+        <item quantity="one">%1$d வீடியோ ஒத்திசைக்கப்படவில்லை</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">நெட்வொர்க் பிழை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">நெட்வொர்க் பிழை. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">நெட்வொர்க் பிழை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">நெட்வொர்க் பிழை. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">சேவை பிழை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">சேவை பிழை. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">சேவை பிழை. %1$d உருப்படிகள் பதிவேற்றப்படவில்லை.</item>
+        <item quantity="one">சேவை பிழை. %1$d உருப்படி பதிவேற்றப்படவில்லை.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d உருப்படிகளைச் சேர்ப்பது தோல்வி</item>
+        <item quantity="one">%d உருப்படியைச் சேர்ப்பது தோல்வி</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d படங்கள் ஏற்றப்படுகின்றன, தனிப்பட்டதாக சேமிக்க முடியாது.</item>
+        <item quantity="one">%d படம் ஏற்றப்படுகிறது, தனிப்பட்டதாக சேமிக்க முடியாது.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d மணிநேரம்</item>
+        <item quantity="one">%d மணிநேரம்</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d உருப்படிகள்</item>
+        <item quantity="one">%d உருப்படி</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d நிமிடங்கள்</item>
+        <item quantity="one">%d நிமிடம்</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d வினாடிகள்</item>
+        <item quantity="one">%d வினாடி</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d நாட்கள்</item>
+        <item quantity="one">%1$d நாள்</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$dபடங்கள்</item>
+        <item quantity="one">%1$dபடம்</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$dவீடியோக்கள்</item>
+        <item quantity="one">%1$d வீடியோ</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d படங்கள் ஏற்றப்படுகின்றன</item>
+        <item quantity="one">%d படம் ஏற்றப்படுகிறது</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d mm-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d mm-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d px-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d px-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d mm-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d mm-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d px-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d px-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d KB-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d KB-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d mm-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d mm-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d px-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d px-ஐ விட அதிகமாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d mm-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d mm-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d px-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+        <item quantity="one">%1$d px-ஐ விடக் குறைவாக இருக்க வேண்டும்</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">%d தேர்ந்தெடுத்த படங்கள் மட்டும் வைத்திரு</item>
+        <item quantity="one">%d தேர்ந்தெடுத்த படம் மட்டும் வைத்திரு</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d உருப்படிகளை நீக்கு</item>
+        <item quantity="one">%d உருப்படியை நீக்கு</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d தேர்வில்</item>
+        <item quantity="one">%1$d உருப்படி தேர்வு</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d ஆல்பம் தேர்வு</item>
+        <item quantity="one">%1$d ஆல்பம் தேர்வு</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d தேர்வில்</item>
+        <item quantity="one">%1$d தேர்வில்</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d ஸ்டிக்கர் தேர்வு</item>
+        <item quantity="one">%1$d ஸ்டிக்கர் தேர்வு</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d வீடியோ தேர்வு</item>
+        <item quantity="one">%1$d வீடியோ தேர்வு</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d படங்கள் ஏற்றப்படுகின்றன, நீக்க முடியாது.</item>
+        <item quantity="one">%d படம் ஏற்றப்படுகிறது, நீக்க முடியாது.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d உருப்படிகளை நீக்குவது தோல்வியுற்றது. மறுமுயற்சி செய்யுங்கள்</item>
+        <item quantity="one">%1$d உருப்படியை நீக்குவது தோல்வியுற்றது. மறுமுயற்சி செய்யுங்கள்</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">புதிய அறிவிப்புகள்: %d</item>
+        <item quantity="one">புதிய அறிவிப்பு: %d</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$dபடங்கள்</item>
+        <item quantity="one">%1$d படம்</item>
+    </plurals>
+</resources>

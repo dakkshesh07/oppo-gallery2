@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="bottom_sheet_layout_percent">0.691</item>
+    <dimen name="common_bottom_navigation_menu_height">44.0dip</dimen>
+    <dimen name="coui_bottom_sheet_bg_bottom_corner_radius">20.0dip</dimen>
+    <dimen name="coui_full_page_statement_button_width">280.0dip</dimen>
+    <dimen name="coui_install_download_progress_width_large">280.0dip</dimen>
+    <dimen name="coui_tool_navigation_edge_item_padding">48.0dip</dimen>
+    <dimen name="coui_tool_navigation_item_height">44.0dip</dimen>
+    <item type="dimen" name="grid_guide_coulmn_1_percent">0.105</item>
+    <item type="dimen" name="grid_guide_coulmn_2_percent">0.222</item>
+    <item type="dimen" name="grid_guide_coulmn_3_percent">0.339</item>
+    <item type="dimen" name="grid_guide_coulmn_4_percent">0.456</item>
+    <item type="dimen" name="grid_guide_coulmn_5_percent">0.573</item>
+    <item type="dimen" name="grid_guide_coulmn_6_percent">0.691</item>
+    <item type="dimen" name="grid_guide_coulmn_7_percent">0.808</item>
+    <item type="dimen" name="grid_guide_coulmn_preference_percent">0.764</item>
+    <dimen name="main_timeline_empty_view_function_container_bottom_margin">56.0dip</dimen>
+    <dimen name="main_timeline_tab_button_margin_bottom">48.0dip</dimen>
+    <dimen name="picture3d_gl_split_menu_container_height">44.0dip</dimen>
+    <dimen name="picture3d_gl_split_menu_container_lr_padding">48.0dip</dimen>
+    <dimen name="picture3d_gl_split_menu_item_bottom_padding">10.0dip</dimen>
+    <dimen name="picture3d_gl_split_menu_item_max_width">120.399994dip</dimen>
+    <dimen name="picture3d_gl_split_menu_item_top_padding">10.0dip</dimen>
+    <dimen name="picture3d_gl_split_menu_photo_page_height">44.0dip</dimen>
+    <dimen name="picture3d_gl_split_menu_photo_page_land_height">60.0dip</dimen>
+    <dimen name="picture3d_more_poupwindow_margin_bottom">50.0dip</dimen>
+    <dimen name="picture3d_photo_editor_clip_ratio_menu_pop_window_width">-2.0px</dimen>
+    <dimen name="picture3d_video_player_btn_margin_bar">10.0dip</dimen>
+    <dimen name="picture3d_video_player_btn_margin_screen">19.0dip</dimen>
+    <dimen name="picture3d_video_player_seekbar_height">60.0dip</dimen>
+    <dimen name="picture_video_mute_btn_margin_end">19.0dip</dimen>
+    <dimen name="picture_video_mute_btn_padding_end">0.0dip</dimen>
+    <dimen name="picture_video_player_btn_height">40.0dip</dimen>
+    <dimen name="picture_video_player_btn_margin_bar">10.0dip</dimen>
+    <dimen name="picture_video_player_btn_margin_screen">19.0dip</dimen>
+    <dimen name="picture_video_player_btn_padding">0.0dip</dimen>
+    <dimen name="picture_video_player_btn_width">40.0dip</dimen>
+</resources>

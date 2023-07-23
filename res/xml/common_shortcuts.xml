@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/common_search_recommend_shortcut" android:enabled="true" android:shortcutId="search" android:shortcutShortLabel="@string/common_search_title" android:shortcutLongLabel="@string/common_search_title" android:shortcutDisabledMessage="@string/common_search_title">
+        <intent android:targetPackage="com.coloros.gallery3d" android:action="android.intent.action.VIEW" android:targetClass="com.oplus.gallery.searchpage.SearchActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

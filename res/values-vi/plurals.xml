@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d ảnh đang được tải và không thể thêm vào.</item>
+        <item quantity="one">%d ảnh đang được tải và không thể thêm vào.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d thẻ ngân hàng</item>
+        <item quantity="one">%1$d thẻ ngân hàng</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">Ảnh được tìm thấy: %s. Bật tính năng này để sắp xếp các ảnh liên quan. Bạn có thể bật hoặc tắt tính năng này bất kỳ lúc nào trong Cài đặt.</item>
+        <item quantity="one">Ảnh được tìm thấy: %s. Bật tính năng này để sắp xếp các ảnh liên quan. Bạn có thể bật hoặc tắt tính năng này bất kỳ lúc nào trong Cài đặt.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d căn cước</item>
+        <item quantity="one">%1$d căn cước</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Xóa vĩnh viễn %d mục</item>
+        <item quantity="one">Xóa vĩnh viễn %d mục</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Xóa %d mục</item>
+        <item quantity="one">Xóa %d mục</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Ảnh được tìm thấy: %s. Bạn có thể di chuyển các ảnh này vào \"Hộp thẻ\" để truy cập dễ dàng hơn.</item>
+        <item quantity="one">Ảnh được tìm thấy: %s. Bạn có thể di chuyển ảnh này vào \"Hộp thẻ\" để truy cập dễ dàng hơn.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Ảnh chụp %1$s đã di chuyển vào \"Hộp thẻ\"</item>
+        <item quantity="one">Ảnh chụp %1$s đã di chuyển vào \"Hộp thẻ\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d vé/biên nhận</item>
+        <item quantity="one">%1$d vé/biên nhận</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Các mục bạn chọn đã tồn tại trong album</item>
+        <item quantity="one">Mục bạn chọn đã tồn tại trong album</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d mục</item>
+        <item quantity="one">%d mục</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d ảnh đang tải và không thể di chuyển được</item>
+        <item quantity="one">%d ảnh đang tải và không thể di chuyển được</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d người</item>
+        <item quantity="one">%1$d người</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Đã di chuyển các ảnh. Không thể di chuyển video vào album này.</item>
+        <item quantity="one">Đã di chuyển ảnh. Không thể di chuyển video vào album này.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Khôi phục %d mục</item>
+        <item quantity="one">Khôi phục %d mục</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">Đã chọn %1$d mục</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">Đã chọn %1$d album</item>
+        <item quantity="one">Đã chọn %1$d album</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">Đã chọn %1$d người</item>
+        <item quantity="one">Đã chọn %1$d người</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Đã chọn %1$d kỷ niệm</item>
+        <item quantity="one">Đã chọn %1$d kỷ niệm</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">Đã chọn %1$d video</item>
+        <item quantity="one">Đã chọn %1$d video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải xuống.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải xuống. Vui lòng sạc điện thoại.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải xuống. Vui lòng sạc điện thoại.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải xuống. Vui lòng sạc thiết bị.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải xuống. Vui lòng sạc thiết bị.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải xuống.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Chế độ tiết kiệm pin bật. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Chế độ tiết kiệm pin bật. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Chế độ tiết kiệm pin bật. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Chế độ tiết kiệm pin bật. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải xuống. %2$s.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải xuống. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải xuống. %2$s hoặc %3$s.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải xuống. %2$s hoặc %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Không đủ dung lượng lưu trữ trên đám mây. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Không đủ dung lượng lưu trữ trên đám mây. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Không đủ bộ nhớ thiết bị. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Không đủ bộ nhớ thiết bị. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Lỗi mạng. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Lỗi mạng. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Lỗi mạng. %1$d mục chưa tải xuống.</item>
+        <item quantity="one">Lỗi mạng. %1$d mục chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Không đủ dung lượng lưu trữ trên đám mây. %1$d ảnh gốc chưa tải xuống.</item>
+        <item quantity="one">Không đủ dung lượng lưu trữ trên đám mây. %1$d ảnh gốc chưa tải xuống.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d ảnh không được đồng bộ. Lưu trữ đám mây đã đầy.</item>
+        <item quantity="one">%1$d ảnh không được đồng bộ. Lưu trữ đám mây đã đầy.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d ảnh không được đồng bộ. Đồng bộ đám mây tạm dừng khi pin thấp hơn %2$s.</item>
+        <item quantity="one">%1$d ảnh không được đồng bộ. Đồng bộ đám mây tạm dừng khi pin thấp hơn %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d ảnh không được đồng bộ. Đồng bộ đám mây tạm dừng trong chế độ tiết kiệm pin.</item>
+        <item quantity="one">%1$d ảnh không được đồng bộ. Đồng bộ đám mây tạm dừng trong chế độ tiết kiệm pin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Bộ lưu trữ trên đám mây đã đầy. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Bộ lưu trữ trên đám mây đã đầy. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải lên.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải lên. Vui lòng sạc điện thoại.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải lên. Vui lòng sạc điện thoại.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải lên. Vui lòng sạc thiết bị.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải lên. Vui lòng sạc thiết bị.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Pin còn dưới %1$s. %2$d mục chưa tải lên.</item>
+        <item quantity="one">Pin còn dưới %1$s. %2$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Chế độ tiết kiệm pin bật. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Chế độ tiết kiệm pin bật. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Chế độ tiết kiệm pin bật. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Chế độ tiết kiệm pin bật. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Bộ lưu trữ trên đám mây đã đầy. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Bộ lưu trữ trên đám mây đã đầy. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d video không được đồng bộ. Lưu trữ đám mây đã đầy.</item>
+        <item quantity="one">%1$d video không được đồng bộ. Lưu trữ đám mây đã đầy.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d video không được đồng bộ. Đồng bộ đám mây tạm dừng khi pin thấp hơn %2$s.</item>
+        <item quantity="one">%1$d video không được đồng bộ. Đồng bộ đám mây tạm dừng khi pin thấp hơn %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d video không được đồng bộ. Đồng bộ đám mây tạm dừng trong chế độ tiết kiệm pin.</item>
+        <item quantity="one">%1$d video không được đồng bộ. Đồng bộ đám mây tạm dừng trong chế độ tiết kiệm pin.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d ảnh không được đồng bộ.</item>
+        <item quantity="one">%1$d ảnh không được đồng bộ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải lên. %2$s.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải lên.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải lên. %2$s hoặc %3$s.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải lên. %2$s hoặc %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Không có kết nối mạng. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Không có kết nối mạng. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d video không được đồng bộ</item>
+        <item quantity="one">%1$d video không được đồng bộ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Lỗi mạng. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Lỗi mạng. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Lỗi mạng. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Lỗi mạng. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Lỗi dịch vụ. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Lỗi dịch vụ. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Lỗi dịch vụ. %1$d mục chưa tải lên.</item>
+        <item quantity="one">Lỗi dịch vụ. %1$d mục chưa tải lên.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Không thể thêm %d video</item>
+        <item quantity="one">Không thể thêm %d mục</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d ảnh đang được tải và không thể đặt thành riêng tư.</item>
+        <item quantity="one">%d ảnh đang được tải và không thể đặt thành riêng tư.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d mục</item>
+        <item quantity="one">%d mục</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">%d giây</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d ngày</item>
+        <item quantity="one">%1$d ngày</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d ảnh đang được tải</item>
+        <item quantity="one">%d ảnh đang được tải</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Phải lớn hơn %1$d mm</item>
+        <item quantity="one">Phải lớn hơn %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Phải lớn hơn %1$d px</item>
+        <item quantity="one">Phải lớn hơn %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Phải nhỏ hơn %1$d mm</item>
+        <item quantity="one">Phải nhỏ hơn %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Phải nhỏ hơn %1$d px</item>
+        <item quantity="one">Phải nhỏ hơn %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Phải lớn hơn %1$d KB</item>
+        <item quantity="one">Phải lớn hơn %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Phải nhỏ hơn %1$d KB</item>
+        <item quantity="one">Phải nhỏ hơn %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Phải lớn hơn %1$d mm</item>
+        <item quantity="one">Phải lớn hơn %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Phải lớn hơn %1$d px</item>
+        <item quantity="one">Phải lớn hơn %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Phải nhỏ hơn %1$d mm</item>
+        <item quantity="one">Phải nhỏ hơn %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Phải nhỏ hơn %1$d px</item>
+        <item quantity="one">Phải nhỏ hơn %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Chỉ giữ lại %d ảnh đã chọn</item>
+        <item quantity="one">Chỉ giữ lại %d ảnh đã chọn</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Xóa %d mục</item>
+        <item quantity="one">Xóa %d mục</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">Đã chọn %1$d album</item>
+        <item quantity="one">Đã chọn %1$d album</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">Đã chọn %1$d nhãn dán</item>
+        <item quantity="one">Đã chọn %1$d nhãn dán</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">Đã chọn %1$d video</item>
+        <item quantity="one">Đã chọn %1$d video</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d ảnh đang được tải và không thể xóa.</item>
+        <item quantity="one">%d ảnh đang được tải và không thể xóa.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Không thể xóa %1$d mục. Vui lòng thử lại</item>
+        <item quantity="one">Không thể xóa %1$d mục. Vui lòng thử lại</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d ảnh</item>
+        <item quantity="one">%1$d ảnh</item>
+    </plurals>
+</resources>

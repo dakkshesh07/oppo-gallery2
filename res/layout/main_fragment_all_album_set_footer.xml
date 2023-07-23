@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oplus.gallery.standard_lib.baselist.view.albumSet.MediaAlbumSetView android:id="@id/main_fragment_all_album_set_footer_view" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

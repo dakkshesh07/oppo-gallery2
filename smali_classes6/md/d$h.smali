@@ -1,0 +1,35 @@
+.class public Lmd/d$h;
+.super Ljava/lang/Object;
+.source "EditorPhotoDataAdapter.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lmd/d;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "h"
+.end annotation
+
+
+# instance fields
+.field public a:Lud/b;
+
+.field public b:Lcom/oplus/gallery/picture_lib/photoeditor/gl/PreviewScreenNail;
+
+.field public c:Lqe/q;
+
+.field public d:Lqe/q;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method

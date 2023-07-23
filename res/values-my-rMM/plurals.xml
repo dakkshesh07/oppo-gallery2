@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို ဒေါင်းလုဒ်လုပ်နေဆဲဖြစ်၍ ပေါင်းထည့်၍မရပါ။</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">ဘဏ်ကတ် %1$d ခု</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">တွေ့ရှိသော ဓာတ်ပုံများ- %s။ သက်ဆိုင်ရာ ဓာတ်ပုံများကို စုစုစည်းစည်းထားရှိရန် ဤလုပ်ဆောင်ချက်ကို ဖွင့်ပါ။ ၎င်းကို ဆက်တင်များထဲတွင် အချိန်မရွေး ဖွင့်/ပိတ် နိုင်သည်။</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">ID %1$d ခု</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d ခု အပြီးဖျက်မည်</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d ခု ဖျက်ရန်</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">ရှာတွေ့ထားသော ဓာတ်ပုံများ- %s။ ၎င်းတို့ကို ပိုမို လွယ်ကူစွာ ဝင်သုံးနိုင်ရန်အတွက် \"ကတ်အိတ်\" ထဲသို့ ရွှေ့နိုင်သည်။</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s ၏ ဓာတ်ပုံများကို \"ကတ်အိတ်\" သို့ ရွှေ့ထားသည်</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">လက်မှတ်/လက်ခံပြေစာ %1$d ခု</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">ရွေးချယ်ထားသောအရာများသည် အယ်လ်ဘမ်ထဲတွင် ရှိပြီးဖြစ်သည်။</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d ခု</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို လုပ်ဆောင်နေသဖြင့် ရွှေ့၍ မရနိုင်ပါ</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">လူ %1$d ဦး</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">ဓာတ်ပုံများ ရွှေ့ထားသည်။ ဗီဒီယိုများကို ဤအယ်လ်ဘမ်ထဲ ရွှေ့၍မရပါ။</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d ခုကို ပြန်ထားရန်</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">ဗီဒီယို %1$d ကား</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d အယ်လ်ဘမ် ရွေးထား</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d ဦး ရွေးထား</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d ပုံ ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">အမှတ်တရ %1$d ခုကို ရွေးချယ်ထားသည်</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">ဗီဒီယို %1$d ခု ရွေးထား</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">ဗီဒီယို %1$d ကား</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">ဘက်ထရီမှာ %1$s အောက် လျော့နည်းနေသည်။ အိုင်တမ် %2$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ဘက်ထရီသည် %1$s ထက် လျော့နည်းနေပါပြီ။ %2$d ခု ဒေါင်းလုဒ်မလုပ်ဖြစ်ခဲ့ပါ။ သင့်ဖုန်းကို အားသွင်းပေးပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ဘက်ထရီ %1$s အောက် လျော့နည်းနေသည်။ %2$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။ သင့်စက်ကို အားသွင်းပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">ဘက်ထရီမှာ %1$s အောက် လျော့နည်းနေသည်။ အိုင်တမ် %2$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">ပါဝါချွေတာမုဒ်ကို ဖွင့်ထားသည်။ အိုင်တမ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">ပါဝါချွေတာမုဒ်ကို ဖွင့်ထားသည်။ အိုင်တမ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ %1$d ခုကို ဒေါင်းလုဒ် မလုပ်ဖြစ်ခဲ့ပါ။ %2$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">ကွန်ရက် ချိတ်ဆက်မှု မရှိပါ။ အိုင်တမ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။ %2$s သို့မဟုတ် %3$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ %1$d ခုကို ဒေါင်းလုဒ် မလုပ်ဖြစ်ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ %1$d ခုကို ဒေါင်းလုဒ် မလုပ်ဖြစ်ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">ကလောက်ဒ် သိုလှောင်ခန်း မလုံလောက်ပါ။ အိုင်တမ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">စက်သိုလှောင်ခန်း မလုံလောက်ပါ။ %1$d ခုကို ဒေါင်းလုဒ်မလုပ်ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">ကွန်ရက် ချို့ယွင်းချက်။ အိုင်တမ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">ကွန်ရက် ချို့ယွင်းချက်။ အိုင်တမ် %1$d ခုကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">ကလောက်ဒ် သိုလှောင်ခန်း မလုံလောက်ပါ။ မူရင်း ဓာတ်ပုံ %1$d ပုံကို ဒေါင်းလုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ စင့်ခ်လုပ်မထားပါ။ ကလောက်ဒ် သိုလှောင်ခန်း ပြည့်နေသည်။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ စင့်ခ်လုပ်မထားပါ။ ဘက်ထရီမှာ %2$s အောက် လျော့နည်းချိန်တွင် ကလောက်ဒ်စင့်ခ်ကို ရပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ စင့်ခ်လုပ်မထားပါ။ ပါဝါချွေတာရေးမုဒ်တွင် ကလောက်ဒ်စင့်ခ်လုပ်ခြင်းကို ခဏရပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">ကလောက်ဒ် သိုလှောင်ခန်း ပြည့်နေသည်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">ဘက်ထရီမှာ %1$s အောက် လျော့နည်းနေသည်။ အိုင်တမ် %2$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">ဘက်ထရီသည် %1$s ထက် လျော့နည်းနေပါပြီ။ %2$d ခု အပ်လုဒ်မတင်ဖြစ်ခဲ့ပါ။ သင့်ဖုန်းကို အားသွင်းပေးပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">ဘက်ထရီ %1$s အောက် လျော့နည်းနေသည်။ %2$d ခုကို အပ်လုဒ်လုပ်မထားပါ။ သင့်စက်ကို အားသွင်းပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">ဘက်ထရီမှာ %1$s အောက် လျော့နည်းနေသည်။ အိုင်တမ် %2$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">ပါဝါချွေတာမုဒ်ကို ဖွင့်ထားသည်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">ပါဝါချွေတာမုဒ်ကို ဖွင့်ထားသည်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">ကလောက်ဒ် သိုလှောင်ခန်း ပြည့်နေသည်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">ဗီဒီယို %1$d ဖိုင်ကို စင့်ခ်လုပ်မထားပါ။ ကလောက်ဒ် သိုလှောင်ခန်း ပြည့်နေသည်။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">ဗီဒီယို %1$d ခု စင့်ခ်လုပ်မထားပါ။ ဘက်ထရီမှာ %2$s အောက် လျော့နည်းချိန်တွင် ကလောက်ဒ်စင့်ခ်ကို ရပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">ဗီဒီယို %1$d ခု စင့်ခ်လုပ်မထားပါ။ ပါဝါချွေတာရေးမုဒ်တွင် ကလောက်ဒ်စင့်ခ်လုပ်ခြင်းကို ခဏရပ်ထားသည်။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ စင့်ခ်လုပ်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">ကွန်ရက် ချိတ်ဆက်မှု မရှိပါ။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။ %2$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">ကွန်ရက် ချိတ်ဆက်မှု မရှိပါ။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။ %2$s သို့မဟုတ် %3$s။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ %1$d ခုကို အပ်လုဒ် မလုပ်ဖြစ်ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ %1$d ခုကို အပ်လုဒ် မလုပ်ဖြစ်ခဲ့ပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">ဗီဒီယို %1$d ခု စင့်ခ်လုပ်မထားပါ</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">ကွန်ရက် ချို့ယွင်းချက်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">ကွန်ရက် ချို့ယွင်းချက်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">ဝန်ဆောင်မှု ချို့ယွင်းချက်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">ဝန်ဆောင်မှု ချို့ယွင်းချက်။ အိုင်တမ် %1$d ခုကို အပ်လုဒ်တင်မထားပါ။</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d ခု ထည့်ရန် မအောင်မြင်ပါ</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို ဒေါင်းလုဒ်လုပ်နေဆဲဖြစ်၍ မိမိသီးသန့်အဖြစ် သတ်မှတ်၍မရပါ။</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d နာရီ</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d ခု</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d ရက်</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">ဗီဒီယို %1$d ကား</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို လုပ်ဆောင်နေသည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d mm ထက် ပိုများရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d px ထက် ပိုများရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d mm ထက် ပိုသေးရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d px ထက် ပိုသေးရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d KB ထက် ပိုများရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d KB ထက် ပိုသေးရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d mm ထက် ပိုများရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d px ထက် ပိုများရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d mm ထက် ပိုသေးရမည်</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d px ထက် ပိုသေးရမည်</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">ရွေးချယ်ထားသော ဓာတ်ပုံ %d ပုံကိုသာ သိမ်းပါ</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d ခု ဖျက်ပါ</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d ခု ရွေးထား</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d အယ်လ်ဘမ် ရွေးထား</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d ပုံ ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">စတစ်ကာ %1$d ခု ရွေးထား</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">ဗီဒီယို %1$d ခု ရွေးထား</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို ဒေါင်းလုဒ်လုပ်နေဆဲဖြစ်၍ ဖျက်၍မရပါ။</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d ခု ဖျက်ရန် မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ ထပ်ကြိုးစားပါ</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">အသိပေးချက်အသစ်များ %d ခု</item>
+        <item quantity="one">အသိပေးချက်အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ</item>
+    </plurals>
+</resources>

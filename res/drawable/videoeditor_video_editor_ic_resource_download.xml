@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/editor_resource_download_icon_size" android:width="@dimen/editor_resource_download_icon_size" android:viewportWidth="46.0" android:viewportHeight="46.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#b3000000" android:pathData="M0 23c0-12.7 10.3-23 23-23h0c12.7 0 23 10.3 23 23v0c0 12.7-10.3 23-23 23h0c-12.7 0-23-10.3-23-23z" />
+    <path android:fillColor="#ffffffff" android:pathData="M23.79 25.52l3.9-3.9l1.12 1.1l-5.25 5.26c-0.31 0.3-0.8 0.3-1.12 0l-5.25-5.25l1.12-1.12l3.9 3.9v-12.1h1.58v12.1zm-9.54 7.06v-1.57h17.5v1.57h-17.5z" android:fillType="evenOdd" />
+</vector>

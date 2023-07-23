@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d фотосурет жүктеліп жатыр, оларды қосу мүмкін емес.</item>
+        <item quantity="one">%d фотосурет жүктеліп жатыр, оны қосу мүмкін емес.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d банк картасы</item>
+        <item quantity="one">%1$d банк картасы</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d куәлік</item>
+        <item quantity="one">%1$d куәлік</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">%d элементті біржолата жою</item>
+        <item quantity="one">%d элементті біржолата жою</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">%d элементті жою</item>
+        <item quantity="one">%d элементті жою</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d фотосурет</item>
+        <item quantity="one">%1$d фотосурет</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Табылған фотосуреттер: %s. Оңай қол жеткізу үшін оны «Карталар қалтасы» ішіне көшіруге болады.</item>
+        <item quantity="one">Табылған фотосуреттер: %s. Оңай қол жеткізу үшін оны «Карталар қалтасы» ішіне көшіруге болады.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">%1$s фотосуреттері «Карталар қалтасы» ішіне көшірілді</item>
+        <item quantity="one">%1$s фотосуреті «Карталар қалтасы» ішіне көшірілді</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d билет/түбіртек</item>
+        <item quantity="one">%1$d билет/түбіртек</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Таңдалған элементтер альбомда бұрыннан бар</item>
+        <item quantity="one">Таңдалған элемент альбомда бұрыннан бар</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d элемент</item>
+        <item quantity="one">%d элемент</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d фотосурет жүктеліп жатыр және оларды көшіру мүмкін емес</item>
+        <item quantity="one">%d фотосурет жүктеліп жатыр және оны көшіру мүмкін емес</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d адам</item>
+        <item quantity="one">%1$d адам</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Фотосуреттер көшірілді. Бейнелерді бұл альбомға көшіру мүмкін емес.</item>
+        <item quantity="one">Фотосурет көшірілді. Бейнелерді бұл альбомға көшіру мүмкін емес.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">%d элементті қалпына келтіру</item>
+        <item quantity="one">%d элементті қалпына келтіру</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d Фотосурет</item>
+        <item quantity="one">%1$d Фотосурет</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d Бейне</item>
+        <item quantity="one">%1$d Бейне</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d элемент таңдалды</item>
+        <item quantity="one">%1$d элемент таңдалды</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d альбом таңдалды</item>
+        <item quantity="one">%1$d альбом таңдалды</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d адам таңдалды</item>
+        <item quantity="one">%1$d адам таңдалды</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d таңдалды</item>
+        <item quantity="one">%1$d таңдалды</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d естелік таңдалды</item>
+        <item quantity="one">%1$d естелік таңдалды</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d бейне таңдалды</item>
+        <item quantity="one">%1$d бейне таңдалды</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d Бейне</item>
+        <item quantity="one">%1$d Бейне</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынбады.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынған жоқ. Телефоныңызды зарядтаңыз.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынған жоқ. Телефоныңызды зарядтаңыз.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынған жоқ. Құрылғыңызды қуаттауыңызды өтінеміз.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынған жоқ. Құрылғыңызды қуаттауыңызды өтінеміз.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынбады.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп алынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп алынбады.</item>
+        <item quantity="one">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп алынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп алынбады.</item>
+        <item quantity="one">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп алынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ. %2$s.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ. %2$s немесе %3$s.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ. %2$s немесе %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп алынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Бұлт жадында орын жеткіліксіз. %1$d элемент жүктеп алынған жоқ.</item>
+        <item quantity="one">Бұлт жадында орын жеткіліксіз. %1$d элемент жүктеп алынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Құрылғы жадында орын жеткіліксіз. %1$d элемент жүктеліп алған жоқ.</item>
+        <item quantity="one">Құрылғы жадында орын жеткіліксіз. %1$d элемент жүктеліп алған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Желілік қателік. %1$d элемент жүктеп алынған жоқ.</item>
+        <item quantity="one">Желілік қателік. %1$d элемент жүктеп алынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Желілік қателік. %1$d элемент жүктеп алынған жоқ.</item>
+        <item quantity="one">Желілік қателік. %1$d элемент жүктеп алынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Бұлт жадында орын жеткіліксіз. %1$d бастапқы фотосурет жүктеп алынған жоқ.</item>
+        <item quantity="one">Бұлт жадында орын жеткіліксіз. %1$d бастапқы фотосурет жүктеп алынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d фотосурет синхрондалмады. Бұлт жады толы.</item>
+        <item quantity="one">%1$d фотосурет синхрондалмады. Бұлт жады толы.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d фотосурет синхрондалмады. Бұлттық синхрондау батарея қуаты %2$s-дан аз болған кезде кідіртілді.</item>
+        <item quantity="one">%1$d фотосурет синхрондалмады. Бұлттық синхрондау батарея қуаты %2$s-дан аз болған кезде кідіртілді.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d фотосурет синхрондалмады. Қуат үнемдеу режимінде бұлт синхронизациясы кідіртіледі.</item>
+        <item quantity="one">%1$d фотосурет синхрондалмады. Қуат үнемдеу режимінде бұлт синхронизациясы кідіртіледі.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Бұлт жады толы. %1$d элемент жүктеп салынбады.</item>
+        <item quantity="one">Бұлт жады толы. %1$d элемент жүктеп салынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынбады.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынған жоқ. Телефоныңызды зарядтаңыз.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынған жоқ. Телефоныңызды зарядтаңыз.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынған жоқ. Құрылғыңызды қуаттауыңызды өтінеміз.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынған жоқ. Құрылғыңызды қуаттауыңызды өтінеміз.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынбады.</item>
+        <item quantity="one">Батарея қуаты %1$s шамасынан кем. %2$d элемент жүктеп салынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп салынбады.</item>
+        <item quantity="one">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп салынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп салынбады.</item>
+        <item quantity="one">Қуатты үнемдеу режимі қосылып тұр. %1$d элемент жүктеп салынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Бұлт жады толы. %1$d элемент жүктеп салынбады.</item>
+        <item quantity="one">Бұлт жады толы. %1$d элемент жүктеп салынбады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d бейне синхрондалмады. Бұлт жады толы.</item>
+        <item quantity="one">%1$d бейне синхрондалмады. Бұлт жады толы.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d бейне синхрондалмады. Бұлттық синхрондау батарея қуаты %2$s-дан аз болған кезде кідіртілді.</item>
+        <item quantity="one">%1$d бейне синхрондалмады. Бұлттық синхрондау батарея қуаты %2$s-дан аз болған кезде кідіртілді.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d бейне синхрондалмады. Қуат үнемдеу режимінде бұлт синхронизациясы кідіртіледі.</item>
+        <item quantity="one">%1$d бейне синхрондалмады. Қуат үнемдеу режимінде бұлт синхронизациясы кідіртіледі.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d фотосурет синхрондалмады.</item>
+        <item quantity="one">%1$d фотосурет синхрондалмады.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ. %2$s.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ. %2$s немесе %3$s.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ. %2$s немесе %3$s</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ.</item>
+        <item quantity="one">Желі байланысы жоқ. %1$d элемент жүктеп салынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d бейне синхрондалмады</item>
+        <item quantity="one">%1$d бейне синхрондалмады</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Желілік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+        <item quantity="one">Желілік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Желілік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+        <item quantity="one">Желілік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Қызметтік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+        <item quantity="one">Қызметтік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Қызметтік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+        <item quantity="one">Қызметтік қателік. %1$d элемент жүктеп салынған жоқ.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">%d элемент қосылған жоқ.</item>
+        <item quantity="one">%d элемент қосылған жоқ.</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d фотосурет жүктеліп жатыр, оларды жеке ретінде орнату мүмкін емес.</item>
+        <item quantity="one">%d фотосурет жүктеліп жатыр, оны жеке ретінде орнату мүмкін емес.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d сағат</item>
+        <item quantity="one">%d сағат</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d элемент</item>
+        <item quantity="one">%d элемент</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минут</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунд</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d күн</item>
+        <item quantity="one">%1$d күн</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d Фотосурет</item>
+        <item quantity="one">%1$d Фотосурет</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d Бейне</item>
+        <item quantity="one">%1$d Бейне</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d фотосурет жүктеліп жатыр</item>
+        <item quantity="one">%d фотосурет жүктеліп жатыр</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">%1$d мм-ден үлкен болуы тиіс</item>
+        <item quantity="one">%1$d мм-ден үлкен болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">%1$d пиксельден үлкен болуы тиіс</item>
+        <item quantity="one">%1$d пиксельден үлкен болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">%1$d мм-ден кіші болуы тиіс</item>
+        <item quantity="one">%1$d мм-ден кіші болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">%1$d пиксельден кіші болуы тиіс</item>
+        <item quantity="one">%1$d пиксельден кіші болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">%1$d КБ-тан үлкен болуы тиіс</item>
+        <item quantity="one">%1$d КБ-тан үлкен болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">%1$d КБ-тан кіші болуы тиіс</item>
+        <item quantity="one">%1$d КБ-тан кіші болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">%1$d мм-ден үлкен болуы тиіс</item>
+        <item quantity="one">%1$d мм-ден үлкен болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">%1$d пиксельден үлкен болуы тиіс</item>
+        <item quantity="one">%1$d пиксельден үлкен болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">%1$d мм-ден кіші болуы тиіс</item>
+        <item quantity="one">%1$d мм-ден кіші болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">%1$d пиксельден кіші болуы тиіс</item>
+        <item quantity="one">%1$d пиксельден кіші болуы тиіс</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Тек %d таңдалған фотосуретті қалдыру</item>
+        <item quantity="one">Тек %d таңдалған фотосуретті қалдыру</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">%d элементті жойыңыз</item>
+        <item quantity="one">%d элементті жойыңыз</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d таңдалды</item>
+        <item quantity="one">%1$d элем. таңд-ды</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d альбом таңдалды</item>
+        <item quantity="one">%1$d альбом таңдалды</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d таңдалды</item>
+        <item quantity="one">%1$d таңдалды</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d стикер таңдалды</item>
+        <item quantity="one">%1$d стикер таңдалды</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d бейне таңдалды</item>
+        <item quantity="one">%1$d бейне таңдалды</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d фотосурет жүктеліп жатыр, оларды жою мүмкін емес.</item>
+        <item quantity="one">%d фотосурет жүктеліп жатыр, оны жою мүмкін емес.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">%1$d элемент жойылмады. Қайта көріңіз</item>
+        <item quantity="one">%1$d элемент жойылмады. Қайта көріңіз</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d жаңа хабарландырулар</item>
+        <item quantity="one">%d жаңа хабарландыру</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d Фотосурет</item>
+        <item quantity="one">%1$d фотосурет</item>
+    </plurals>
+</resources>

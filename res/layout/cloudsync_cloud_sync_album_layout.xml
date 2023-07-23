@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:id="@id/cloudAppBarLayout" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" app:elevation="0.0dip">
+        <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/toolbar" android:background="@android:color/transparent" android:paddingTop="@dimen/toolbar_top_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/toolbar_min_height" app:supportTitleTextAppearance="@style/textAppearanceSecondTitle" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/album_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/TD05" android:textColor="@color/cloudsync_black_55_percent" android:id="@id/sync_tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/M11" android:text="@string/cloudsync_sync_select_album_except_sdcard" android:textAlignment="viewStart" android:layout_marginStart="@dimen/M10" android:layout_marginEnd="@dimen/M10" />
+        <View android:background="@color/common_divider_line_color" android:layout_width="fill_parent" android:layout_height="@dimen/cloudsync_cloud_sync_all_sync_view_height" android:layout_marginTop="@dimen/M6" android:layout_marginStart="@dimen/cloudsync_TF29" android:layout_marginEnd="@dimen/cloudsync_TF29" android:forceDarkAllowed="false" />
+        <com.coui.appcompat.widget.COUIListView android:id="@id/album_list" android:paddingTop="@dimen/M6" android:scrollbars="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+    </LinearLayout>
+    <include android:id="@id/empty_layout" android:visibility="gone" layout="@layout/cloudsync_album_empty_layout" />
+</LinearLayout>

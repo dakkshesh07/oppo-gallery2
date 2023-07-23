@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oplus.gallery.videoeditor_lib.base.ui.ControlBarView android:layout_width="fill_parent" android:layout_height="@dimen/video_editor_bottom_container_bar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_gravity="bottom|center" android:id="@id/time_seek_bar" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/memories_editor_time_seek_bar_layout_height" android:layout_marginBottom="@dimen/memories_editor_time_seek_bar_layout_margin_bottom" layout="@layout/videoeditor_memories_editor_time_seek_bar" />
+</com.oplus.gallery.videoeditor_lib.base.ui.ControlBarView>

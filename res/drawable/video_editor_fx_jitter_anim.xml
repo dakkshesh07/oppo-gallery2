@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_0" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_1" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_2" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_3" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_4" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_5" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_6" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_7" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_8" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_9" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_10" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_11" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_12" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_13" />
+    <item android:duration="@integer/video_editor_fx_animation_duration" android:drawable="@drawable/video_editor_fx_jitter_14" />
+</animation-list>

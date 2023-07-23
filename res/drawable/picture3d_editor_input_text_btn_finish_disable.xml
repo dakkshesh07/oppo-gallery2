@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/picture3d_edit_control_bar_edit_text_button_height" android:width="@dimen/picture3d_edit_control_bar_edit_text_button_width" android:viewportWidth="68.0" android:viewportHeight="28.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/picture3d_input_text_btn_disable_color" android:pathData="M0 14c0-7.73 6.27-14 14-14h40c7.73 0 14 6.27 14 14v0c0 7.73-6.27 14-14 14h-40c-7.73 0-14-6.27-14-14z" />
+    <path android:pathData="M26.13 14l5.25 5.25l10.5-10.5" android:strokeColor="#ffffffff" android:strokeWidth="1.6" android:strokeLineJoin="round" />
+</vector>

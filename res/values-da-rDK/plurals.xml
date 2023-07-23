@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">Kunne ikke tilføje %d fotos, fordi de bliver indlæst.</item>
+        <item quantity="one">Kunne ikke tilføje %d foto, fordi det bliver indlæst.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d betalingskort</item>
+        <item quantity="one">%1$d betalingskort</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">"%1$d ID'er"</item>
+        <item quantity="one">%1$d ID</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Slet permanent %d elementer</item>
+        <item quantity="one">Slet permanent %d element</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Slet %d elementer</item>
+        <item quantity="one">Slet %d element</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Fotos fundet: %s. Du kan flytte dem til \"Kortetui\" for at få nemmere adgang.</item>
+        <item quantity="one">Fotos fundet: %s. Du kan flytte det til \"Kortetui\" for at få nemmere adgang.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Fotos af %1$s er flyttet til \"Kortetui\"</item>
+        <item quantity="one">Foto af %1$s er flyttet til \"Kortetui\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d billetter/kvitteringer</item>
+        <item quantity="one">%1$d billet/kvittering</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">De valgte elementer findes allerede i albummet</item>
+        <item quantity="one">Det valgte element findes allerede i albummet</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d elementer</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d fotos indlæses og kan ikke flyttes</item>
+        <item quantity="one">%d foto indlæses og kan ikke flyttes</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d folk</item>
+        <item quantity="one">%1$d folk</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Fotos er flyttet. Videoer kan ikke flyttes til dette album.</item>
+        <item quantity="one">Foto er flyttet. Videoer kan ikke flyttes til dette album.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Gendan %d elementer</item>
+        <item quantity="one">Gendan %d element</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videoer</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d elementer valgt</item>
+        <item quantity="one">%1$d element er valgt</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">%1$d albums valgt</item>
+        <item quantity="one">%1$d album valgt</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">%1$d folk valgt</item>
+        <item quantity="one">%1$d folk valgt</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d minder valgt</item>
+        <item quantity="one">%1$d minde valgt</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">%1$d videoer valgt</item>
+        <item quantity="one">%1$d video valgt</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d videoer</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke hentet.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke hentet. Lad din telefon op.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke hentet. Lad din telefon op.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke downloadet. Oplad din enhed.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke downloadet. Oplad din enhed.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke hentet.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Strømsparetilstand er slået til. %1$d elementer blev ikke hentet.</item>
+        <item quantity="one">Strømsparetilstand er slået til. %1$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Strømsparetilstand er slået til. %1$d elementer blev ikke hentet.</item>
+        <item quantity="one">Strømsparetilstand er slået til. %1$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke hentet. %2$s.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke hentet. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke hentet. %2$s eller %3$s.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke hentet. %2$s eller %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke hentet.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke hentet.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Utilstrækkeligt skylager. %1$d element blev ikke hentet.</item>
+        <item quantity="one">Utilstrækkeligt skylager. %1$d elementer blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Utilstrækkeligt enhedslager. %1$d elementer blev ikke downloadet.</item>
+        <item quantity="one">Utilstrækkeligt enhedslager. %1$d element blev ikke downloadet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Netværksfejl. %1$d elementer blev ikke hentet.</item>
+        <item quantity="one">Netværksfejl. %1$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Netværksfejl. %1$d elementer blev ikke hentet.</item>
+        <item quantity="one">Netværksfejl. %1$d element blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Utilstrækkeligt skylager. %1$d originale fotos blev ikke hentet.</item>
+        <item quantity="one">Utilstrækkeligt skylager. %1$d originalt foto blev ikke hentet.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d fotos ikke synkroniseret. Skylager er fuldt.</item>
+        <item quantity="one">%1$d foto ikke synkroniseret. Skylager er fuldt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d fotos ikke synkroniseret. Skysynkronisering bliver midlertidigt afbrudt, når batteriniveauet bliver mindre end %2$s.</item>
+        <item quantity="one">%1$d foto ikke synkroniseret. Skysynkronisering bliver midlertidigt afbrudt, når batteriniveauet bliver mindre end %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d fotos ikke synkroniseret. Skysynkronisering er midlertidigt afbrudt i strømsparetilstand.</item>
+        <item quantity="one">%1$d foto ikke synkroniseret. Skysynkronisering er midlertidigt afbrudt i strømsparetilstand.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Skylager er fuldt. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Skylager er fuldt. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke overført.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke overført. Lad din telefon op.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke overført. Lad din telefon op.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke uploadet. Oplad din enhed.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke uploadet. Oplad din enhed.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Batteriniveau er lavere end %1$s. %2$d elementer blev ikke overført.</item>
+        <item quantity="one">Batteriniveau er lavere end %1$s. %2$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Strømsparetilstand er slået til. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Strømsparetilstand er slået til. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Strømsparetilstand er slået til. %1$d element blev ikke overført.</item>
+        <item quantity="one">Strømsparetilstand er slået til. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Skylager er fuldt. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Skylager er fuldt. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d videoer er ikke synkroniseret. Skylager er fuldt.</item>
+        <item quantity="one">%1$d video er ikke synkroniseret. Skylager er fuldt.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d videoer ikke synkroniseret. Skysynkronisering bliver midlertidigt afbrudt, når batteriniveauet bliver mindre end %2$s.</item>
+        <item quantity="one">%1$d video ikke synkroniseret. Skysynkronisering bliver midlertidigt afbrudt, når batteriniveauet bliver mindre end %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d videoer ikke synkroniseret. Skysynkronisering er midlertidigt afbrudt i strømsparetilstand.</item>
+        <item quantity="one">%1$d video ikke synkroniseret. Skysynkronisering er midlertidigt afbrudt i strømsparetilstand.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d foto ikke synkroniseret.</item>
+        <item quantity="one">%1$d fotos ikke synkroniseret.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke overført. %2$s.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke overført.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke overført. %2$s eller %3$s.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke overført. %2$s eller %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Ingen netværksforbindelse. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Ingen netværksforbindelse. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d videoer ikke synkroniseret</item>
+        <item quantity="one">%1$d video ikke synkroniseret</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Netværksfejl. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Netværksfejl. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Netværksfejl. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Netværksfejl. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Tjenestefejl. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Tjenestefejl. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Tjenestefejl. %1$d elementer blev ikke overført.</item>
+        <item quantity="one">Tjenestefejl. %1$d element blev ikke overført.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Mislykkedes at tilføje %d genstande</item>
+        <item quantity="one">Mislykkedes at tilføje %d genstand</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">Kunne ikke indstille %d fotos som private, fordi de bliver indlæst.</item>
+        <item quantity="one">Kunne ikke indstille %d foto som privat, fordi det bliver indlæst.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d elementer</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d minutter</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d dage</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d videoer</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d fotos bliver indlæst</item>
+        <item quantity="one">%d foto bliver indlæst</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Skal være større end %1$d mm</item>
+        <item quantity="one">Skal være større end %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Skal være større end %1$d px</item>
+        <item quantity="one">Skal være større end %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Skal være mindre end %1$d mm</item>
+        <item quantity="one">Skal være mindre end %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Skal være mindre end %1$d px</item>
+        <item quantity="one">Skal være mindre end %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Skal være større end %1$d KB</item>
+        <item quantity="one">Skal være større end %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Skal være mindre end %1$d KB</item>
+        <item quantity="one">Skal være mindre end %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Skal være større end %1$d mm</item>
+        <item quantity="one">Skal være større end %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Skal være større end %1$d px</item>
+        <item quantity="one">Skal være større end %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Skal være mindre end %1$d mm</item>
+        <item quantity="one">Skal være mindre end %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Skal være mindre end %1$d px</item>
+        <item quantity="one">Skal være mindre end %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Behold kun de %d valgte fotos</item>
+        <item quantity="one">Behold kun det %d valgte foto</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">slet %d elementer</item>
+        <item quantity="one">Slet %d element</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="one">%1$d elementer valgt</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">%1$d albums valgt</item>
+        <item quantity="one">%1$d album valgt</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d valgt</item>
+        <item quantity="one">%1$d valgt</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d mærkater valgt</item>
+        <item quantity="one">%1$d mærkat valgt</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">%1$d videoer valgt</item>
+        <item quantity="one">%1$d video valgt</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">Kunne ikke slette %d fotos, fordi de bliver indlæst.</item>
+        <item quantity="one">Kunne ikke slette %d foto, fordi det bliver indlæst.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Kunne ikke slette %1$d elementer. Prøv igen</item>
+        <item quantity="one">Kunne ikke slette %1$d element. Prøv igen</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d nye meddelelser</item>
+        <item quantity="one">%d ny meddelelse</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d fotos</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+</resources>

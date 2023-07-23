@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">Nije uspjelo dodavanje fotografija %d jer se učitavaju.</item>
+        <item quantity="one">Nije uspjelo dodavanje %d fotografije jer se učitava.</item>
+        <item quantity="few">Broj fotografija koje se učitavaju i ne mogu dodati: %d.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">Bankovnih kartica: %1$d</item>
+        <item quantity="one">Bankovnih kartica: %1$d</item>
+        <item quantity="few">Bankovnih kartica: %1$d</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">Broj osobnih iskaznica: %1$d</item>
+        <item quantity="one">Broj osobnih iskaznica: %1$d</item>
+        <item quantity="few">Broj osobnih iskaznica: %1$d</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Trajno izbriši stavke: %d</item>
+        <item quantity="one">Trajno izbriši %d stavku</item>
+        <item quantity="few">Trajno izbriši stavki: %d</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Izbriši stavke: %d</item>
+        <item quantity="one">Izbriši %d stavku</item>
+        <item quantity="few">Izbriši stavke: %d</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">Broj fotografija: %1$d</item>
+        <item quantity="one">Broj fotografija: %1$d</item>
+        <item quantity="few">Fotografija: %1$d</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Pronađenih fotografija: %s. Premjestite ih u „Futrolu za kartice“ kako biste olakšali pristup.</item>
+        <item quantity="one">Pronađenih fotografija: %s. Premjestite je u „Futrolu za kartice“ kako biste olakšali pristup.</item>
+        <item quantity="few">Pronađenih fotografija: %s. Premjestite ih u „Futrolu za kartice“ kako biste olakšali pristup.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Fotografije %1$s premještene su u „Futrolu za kartice“</item>
+        <item quantity="one">Fotografija %1$s premještene je u „Futrolu za kartice“</item>
+        <item quantity="few">Fotografije %1$s premještene su u „Futrolu za kartice“</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">Broj ulaznica/potvrda: %1$d</item>
+        <item quantity="one">Broj ulaznica/potvrda: %1$d</item>
+        <item quantity="few">Broj ulaznica/potvrda: %1$d</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Odabrane stavke već postoje u albumu</item>
+        <item quantity="one">Odabrana stavka već postoji u albumu</item>
+        <item quantity="few">Odabrane stavke već postoje u albumu</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">Stavke: %d</item>
+        <item quantity="one">%d stavka</item>
+        <item quantity="few">Stavki: %d</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">Broj fotografija koje se učitavaju i ne mogu premjestiti: %d</item>
+        <item quantity="one">Broj fotografija koje se učitavaju i ne mogu premjestiti: %d</item>
+        <item quantity="few">Broj fotografija koje se učitavaju i ne mogu premjestiti: %d</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">Broj osoba: %1$d</item>
+        <item quantity="one">Broj osoba: %1$d</item>
+        <item quantity="few"></item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Fotografije su premještene. Videozapisi se ne mogu premjestiti u ovaj album.</item>
+        <item quantity="one">Fotografija je premještena. Videozapisi se ne mogu premjestiti u ovaj album.</item>
+        <item quantity="few">Fotografije su premještene. Videozapisi se ne mogu premjestiti u ovaj album.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Vrati stavke: %d</item>
+        <item quantity="one">Vrati %d stavku</item>
+        <item quantity="few">Vrati stavke: %d</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">Broj fotografija: %1$d</item>
+        <item quantity="one">Broj fotografija: %1$d</item>
+        <item quantity="few">Fotografija: %1$d</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">Broj videozapisa: %1$d</item>
+        <item quantity="one">Broj videozapisa: %1$d</item>
+        <item quantity="few">%1$d videozapisa</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">Broj odabranih stavki: %1$d</item>
+        <item quantity="one">Broj odabranih stavki: %1$d</item>
+        <item quantity="few">Broj odabranih stavki: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">Odabrano albuma: %1$d</item>
+        <item quantity="one">%1$d album odabran</item>
+        <item quantity="few">Broj odabranih albuma: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">Br. odab. osoba: %1$d</item>
+        <item quantity="one">Br. odab. osoba: %1$d</item>
+        <item quantity="few">Odabranih osoba: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d odabrano</item>
+        <item quantity="one">%1$d odabrano</item>
+        <item quantity="few">Odabrano: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Odabranih uspomena: %1$d</item>
+        <item quantity="one">%1$d odabrana uspomena</item>
+        <item quantity="few">Odabrano uspomena: %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">Odabrani video: %1$d</item>
+        <item quantity="one">Broj odabranih videozapisa: %1$d</item>
+        <item quantity="few">Broj odabranih videozapisa: %1$d</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">Broj videozapisa: %1$d</item>
+        <item quantity="one">Broj videozapisa: %1$d</item>
+        <item quantity="few">%1$d videozapisa</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Baterija je ispod %1$s. Nije preuzeto stavki: %2$d.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije preuzeta.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preuzeto: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Baterija je ispod %1$s. Stavki nije preuzeto: %2$d. Molimo napunite telefon.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije preuzeta. Molimo napunite telefon.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preuzeto: %2$d. Napunite telefon.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Baterija je ispod %1$s. Stavki nije preuzeto: %2$d. Molimo napunite uređaj.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije preuzete. Molimo napunite uređaj.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preuzeto: %2$d. Napunite telefon.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Baterija je ispod %1$s. Nije preuzeto stavki: %2$d.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije preuzeta.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preuzeto: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Način za uštedu energije je uključen. Nije preuzeto stavki: %1$d.</item>
+        <item quantity="one">Način za uštedu energije je uključen. %1$d stavka nije preuzeta.</item>
+        <item quantity="few">Način za uštedu energije je uključen. Stavki nije preuzeto: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Način za uštedu energije je uključen. Nije preuzeto stavki: %1$d.</item>
+        <item quantity="one">Način za uštedu energije je uključen. %1$d stavka nije preuzeta.</item>
+        <item quantity="few">Način za uštedu energije je uključen. Stavki nije preuzeto: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Nema mrežne veze. Stavki nije preuzeto: %1$d. %2$s.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije preuzeta. %2$s.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preuzeto: %1$d. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Nema mrežne veze. Nije preuzeto stavki: %1$d. %2$s ili %3$s.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije preuzeta. %2$s ili %3$s.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preuzeto: %1$d. %2$s ili %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Nema mrežne veze. Stavki nije preuzeto: %1$d.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije preuzeta.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preuzeto: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Nema mrežne veze. Stavki nije preuzeto: %1$d.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije preuzeta.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preuzeto: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Nema dovoljno mjesta u pohrani u oblaku. %1$d stavka nije preuzeta.</item>
+        <item quantity="one">Nema dovoljno mjesta u pohrani u oblaku. Nije preuzeto stavki: %1$d.</item>
+        <item quantity="few">Nema dovoljno mjesta u pohrani u oblaku. %1$d stavka nije preuzete.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Nema dovoljno mjesta u pohrani na uređaju. Stavki nije preuzeto: %1$d.</item>
+        <item quantity="one">Nema dovoljno mjesta u pohrani na uređaju. %1$d stavka nije preuzeta.</item>
+        <item quantity="few">Nema dovoljno mjesta za pohranu na telefonu. %1$d stavka nije preuzeta.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Pogreška mreže. Stavki nije preuzeto: %1$d.</item>
+        <item quantity="one">Pogreška mreže. %1$d stavka nije preuzeta.</item>
+        <item quantity="few">Pogreška mreže. Stavki nije preuzeto: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Pogreška mreže. Stavki nije preuzeto: %1$d.</item>
+        <item quantity="one">Pogreška mreže. %1$d stavka nije preuzeta.</item>
+        <item quantity="few">Pogreška mreže. Stavki nije preuzeto: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Nema dovoljno mjesta u pohrani u oblaku. Nije preuzeto izvornih fotografija: %1$d.</item>
+        <item quantity="one">Nema dovoljno mjesta u pohrani u oblaku. %1$d izvorna fotografija nije preuzeta.</item>
+        <item quantity="few">Nema dovoljno mjesta u pohrani u oblaku. Nije preuzeto izvornih fotografija: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d fotografije nisu sinkronizirane. Prostor za pohranu u oblaku je pun.</item>
+        <item quantity="one">%1$d fotografija nije sinkronizirana. Prostor za pohranu u oblaku je pun.</item>
+        <item quantity="few">Nesinkroniziranih fotografija: %1$d. Prostor za pohranu u oblaku je pun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d fotografije nisu sinkronizirane. Sinkronizacija Oblaka se pauzira kada je baterija manje od %2$s.</item>
+        <item quantity="one">%1$d fotografija nije sinkronizirana. Sinkronizacija Oblaka je pauzirana kada je baterija manje od %2$s.</item>
+        <item quantity="few">Nesinkroniziranih fotografija: %1$d. Sinkronizacija Oblaka se pauzira kada je baterija slabija od %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">Nesinkroniziranih fotografija: %1$d. Sinkronizacija Oblaka je pauzirana u načinu rada za uštedu energije.</item>
+        <item quantity="one">%1$d fotografija nije sinkronizirana. Sinkronizacija Oblaka je pauzirana u načinu rada za uštedu energije.</item>
+        <item quantity="few">Nesinkroniziranih fotografija: %1$d. Sinkronizacija s oblakom je pauzirana u načinu rada za uštedu energije.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Pohrana u oblaku je puna. Nije preneseno stavki: %1$d.</item>
+        <item quantity="one">Pohrana u oblaku je puna. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Pohrana u oblaku je puna. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Baterija je ispod %1$s. Nije preneseno stavki: %2$d.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije prenesena.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preneseno: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Baterija je ispod %1$s. Stavki nije preneseno: %2$d. Molimo napunite telefon.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije prenesena. Molimo napunite telefon.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preneseno: %2$d. Napunite telefon.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Baterija je ispod %1$s. Stavki nije preneseno: %2$d. Molimo napunite uređaj.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije prenesena. Molimo napunite uređaj.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preneseno: %2$d. Napunite telefon.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Baterija je ispod %1$s. Nije preneseno stavki: %2$d.</item>
+        <item quantity="one">Baterija je ispod %1$s. %2$d stavka nije prenesena.</item>
+        <item quantity="few">Baterija je ispod %1$s. Stavki nije preneseno: %2$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Način za uštedu energije je uključen. Nije preneseno stavki: %1$d.</item>
+        <item quantity="one">Način za uštedu energije je uključen. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Način za uštedu energije je uključen. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Način za uštedu energije je uključen. %1$d stavka nije prenesena.</item>
+        <item quantity="one">Način za uštedu energije je uključen. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Način za uštedu energije je uključen. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Pohrana u oblaku je puna. Nije preneseno stavki: %1$d.</item>
+        <item quantity="one">Pohrana u oblaku je puna. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Pohrana u oblaku je puna. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d videozapisi nisu sinkronizirani. Prostor za pohranu u oblaku je pun.</item>
+        <item quantity="one">%1$d videozapis nije sinkroniziran. Prostor za pohranu u oblaku je pun.</item>
+        <item quantity="few">%1$d videozapisa nisu sinkroniziran. Prostor za pohranu u oblaku je pun.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d videa nisu sinkronizirana. Sink. Oblaka se pauzira kada je baterija manje od %2$s.</item>
+        <item quantity="one">%1$d videozapis nije sinkroniziran. Sink. Oblaka se pauzira kada je baterija manje od %2$s.</item>
+        <item quantity="few">%1$d videozapisa nisu sinkroniziran. Sinkronizacija Oblaka se pauzira kada je baterija slabija od %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">Nesinkroniziranih videozapisa: %1$d. Sinkronizacija Oblaka je pauzirana u načinu rada za uštedu energije.</item>
+        <item quantity="one">%1$d videozapis nije sinkroniziran. Sinkronizacija Oblaka je pauzirana u načinu rada za uštedu energije.</item>
+        <item quantity="few">%1$d videozapisa nisu sinkroniziran. Sinkronizacija s oblakom je pauzirana u načinu rada za uštedu energije.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d fotografija nije sinkronizirana.</item>
+        <item quantity="one">%1$d fotografije nisu sinkronizirane.</item>
+        <item quantity="few">Nesinkroniziranih fotografija: %1$d</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Nema mrežne veze. Nije preneseno stavki: %1$d. %2$s.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije prenesena.%2$s.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preneseno: %1$d. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Nema mrežne veze. Nije preneseno stavki: %1$d. %2$s ili %3$s.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije prenesena. %2$s ili %3$s.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preneseno: %1$d. %2$s ili %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Nema mrežne veze. Stavki nije preneseno: %1$d.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Nema mrežne veze. Stavki nije preneseno: %1$d.</item>
+        <item quantity="one">Nema mrežne veze. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Nema mrežne veze. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">Nesinkroniziranih videozapisa: %1$d</item>
+        <item quantity="one">%1$d videozapis nije sinkroniziran</item>
+        <item quantity="few">%1$d videozapisa nisu sinkroniziran.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Pogreška mreže. Stavki nije preneseno: %1$d.</item>
+        <item quantity="one">Pogreška mreže. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Pogreška mreže. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Pogreška mreže. Stavki nije preneseno: %1$d.</item>
+        <item quantity="one">Pogreška mreže. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Pogreška mreže. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Pogreška usluge. Stavki nije preneseno: %1$d.</item>
+        <item quantity="one">Pogreška usluge. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Pogreška usluge. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Pogreška usluge. Stavki nije preneseno: %1$d.</item>
+        <item quantity="one">Pogreška usluge. %1$d stavka nije prenesena.</item>
+        <item quantity="few">Pogreška usluge. Stavki nije preneseno: %1$d.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Nije uspjelo dodavanje stavki (%d)</item>
+        <item quantity="one">Nije uspjelo dodavanje %d stavke</item>
+        <item quantity="few">Broj neuspjelo dodanih stavki: %d</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">Nije uspjelo postavljanje fotografija %d kao privatnih jer se učitavaju.</item>
+        <item quantity="one">Nije uspjelo postavljanje %d fotografije kao privatne jer se učitava.</item>
+        <item quantity="few">Broj fotografija koje se učitavaju i ne mogu postaviti kao osobne: %d.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">Stavke: %d</item>
+        <item quantity="one">%d stavka</item>
+        <item quantity="few">Stavki: %d</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d dana</item>
+        <item quantity="one">%1$d dan</item>
+        <item quantity="few">%1$d dana</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">Broj fotografija: %1$d</item>
+        <item quantity="one">Broj fotografija: %1$d</item>
+        <item quantity="few">Fotografija: %1$d</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">Broj videozapisa: %1$d</item>
+        <item quantity="one">Broj videozapisa: %1$d</item>
+        <item quantity="few">%1$d videozapisa</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">Fotografija se učitava: %d</item>
+        <item quantity="one">%d fotografija se učitava</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Mora biti veće od %1$d mm</item>
+        <item quantity="one">Mora biti veće od %1$d mm</item>
+        <item quantity="few">Mora biti veće od %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Mora biti veće od %1$d px</item>
+        <item quantity="one">Mora biti veće od %1$d px</item>
+        <item quantity="few">Mora biti veće od %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Mora biti manje od %1$d mm</item>
+        <item quantity="one">Mora biti manje od %1$d mm</item>
+        <item quantity="few">Mora biti manje od %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Mora biti manje od %1$d px</item>
+        <item quantity="one">Mora biti manje od %1$d px</item>
+        <item quantity="few">Mora biti manje od %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Mora biti veće od %1$d KB</item>
+        <item quantity="one">Mora biti veće od %1$d KB</item>
+        <item quantity="few">Mora biti veće od %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Mora biti manje od %1$d KB</item>
+        <item quantity="one">Mora biti manje od %1$d KB</item>
+        <item quantity="few">Mora biti manje od %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Mora biti veće od %1$d mm</item>
+        <item quantity="one">Mora biti veće od %1$d mm</item>
+        <item quantity="few">Mora biti veće od %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Mora biti veće od %1$d px</item>
+        <item quantity="one">Mora biti veće od %1$d px</item>
+        <item quantity="few">Mora biti veće od %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Mora biti manje od %1$d mm</item>
+        <item quantity="one">Mora biti manje od %1$d mm</item>
+        <item quantity="few">Mora biti manje od %1$d mm</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Mora biti manje od %1$d px</item>
+        <item quantity="one">Mora biti manje od %1$d px</item>
+        <item quantity="few">Mora biti manje od %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Zadrži samo odabrane fotografije: %d</item>
+        <item quantity="one">Zadrži samo %d odabranu fotografiju</item>
+        <item quantity="few">Zadrži samo %d odabrane fotografije</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Izbriši stavki %d</item>
+        <item quantity="one">Izbriši %d stavku</item>
+        <item quantity="few">Izbriši stavke: %d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d odabrano</item>
+        <item quantity="one">Broj odab. stavki: %1$d</item>
+        <item quantity="few">Odabrano: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">Odabrano albuma: %1$d</item>
+        <item quantity="one">%1$d album odabran</item>
+        <item quantity="few">Broj odabranih albuma: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d odabrano</item>
+        <item quantity="one">%1$d odabrano</item>
+        <item quantity="few">Odabrano: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">Broj odabranih naljepnica: %1$d</item>
+        <item quantity="one">Broj odabranih naljepnica: %1$d</item>
+        <item quantity="few">Broj odabranih naljepnica: %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">Odabrani video: %1$d</item>
+        <item quantity="one">Broj odabranih videozapisa: %1$d</item>
+        <item quantity="few">Broj odabranih videozapisa: %1$d</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">Nije uspjelo brisanje fotografija %d jer se učitavaju.</item>
+        <item quantity="one">Nije uspjelo brisanje %d fotografije jer se učitava.</item>
+        <item quantity="few">Broj fotografija koje se učitavaju i ne mogu izbrisati: %d.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Nije uspjelo brisanje stavki: %1$d. Pokušajte ponovno</item>
+        <item quantity="one">Nije uspjelo brisanje %1$d stavke. Pokušajte ponovno</item>
+        <item quantity="few"></item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">Novih obavijesti: %d</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">Broj fotografija: %1$d</item>
+        <item quantity="one">Broj fotografija: %1$d</item>
+        <item quantity="few">Fotografija: %1$d</item>
+    </plurals>
+</resources>

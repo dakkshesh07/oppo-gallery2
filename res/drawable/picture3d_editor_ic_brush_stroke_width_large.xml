@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/picture3d_brush_stroke_color_selected" />
+            <size android:height="@dimen/picture3d_brush_stroke_icon_width_large" android:width="@dimen/picture3d_brush_stroke_icon_width_large" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/picture3d_brush_stroke_color_selected" />
+            <size android:height="@dimen/picture3d_brush_stroke_icon_width_large" android:width="@dimen/picture3d_brush_stroke_icon_width_large" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/picture3d_brush_stroke_color_normal" />
+            <size android:height="@dimen/picture3d_brush_stroke_icon_width_large" android:width="@dimen/picture3d_brush_stroke_icon_width_large" />
+        </shape>
+    </item>
+</selector>

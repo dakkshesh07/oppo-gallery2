@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/search_all_view" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/search_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:orientation="vertical" android:id="@id/rl_search_top_bar" android:layout_width="fill_parent" android:layout_height="@dimen/common_toolbar_height">
+            <com.coui.appcompat.widget.toolbar.COUIToolbar android:id="@id/toolbar" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" app:supportContentInsetEnd="0.0dip" app:supportContentInsetStart="0.0dip" />
+            <View android:id="@id/divider_line" android:background="@color/search_under_diver_line_color" android:layout_width="fill_parent" android:layout_height="@dimen/common_gl_action_bar_bottom_divider_height" android:layout_alignParentBottom="true" android:alpha="100.0" android:layout_marginStart="0.0dip" android:layout_marginEnd="0.0dip" android:forceDarkAllowed="false" />
+        </RelativeLayout>
+        <FrameLayout android:id="@id/search_content_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/fragment_search_results" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <FrameLayout android:id="@id/fragment_search_recommend" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/base_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

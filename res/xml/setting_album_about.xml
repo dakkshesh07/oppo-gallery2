@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/common_app_name"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/setting_pref_privacy_policy_title" android:key="pref_privacy_policy_key" app:couiShowDivider="false" />
+    <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/setting_pref_open_source_code_licenses_key" android:key="pref_open_source_licenses_key" app:couiShowDivider="false" />
+</androidx.preference.PreferenceScreen>

@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">يتم تحميل %d من الصور ولا يمكن إضافتها.</item>
+        <item quantity="zero">يتم تحميل %d صورة ولا يمكن إضافتها.</item>
+        <item quantity="one">يتم تحميل %d من الصور ولا يمكن إضافتها.</item>
+        <item quantity="two">يتم تحميل صورتين ولا يمكن إضافتهما.</item>
+        <item quantity="few">يتم تحميل %d صور ولا يمكن إضافتها.</item>
+        <item quantity="many">يتم تحميل %d صورة ولا يمكن إضافتها.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d بطاقة مصرفية</item>
+        <item quantity="zero">%1$d بطاقة مصرفية</item>
+        <item quantity="one">بطاقة مصرفية واحدة</item>
+        <item quantity="two">بطاقتان مصرفيتان</item>
+        <item quantity="few">%1$d بطاقات مصرفية</item>
+        <item quantity="many">%1$d بطاقة مصرفية</item>
+    </plurals>
+    <plurals name="base_card_case_banner_one_type_tips">
+        <item quantity="other">الصور التي تم العثور عليها: %s. قم بتشغيل هذه الميزة لتنظيم الصور ذات الصلة. يمكنك تشغيلها أو إيقاف تشغيلها في أي وقت في الإعدادات.</item>
+        <item quantity="zero">الصور التي تم العثور عليها: %s. قم بتشغيل هذه الميزة لتنظيم الصور ذات الصلة. يمكنك تشغيلها أو إيقاف تشغيلها في أي وقت في الإعدادات.</item>
+        <item quantity="one">الصور التي تم العثور عليها: %s. قم بتشغيل هذه الميزة لتنظيم الصور ذات الصلة. يمكنك تشغيلها أو إيقاف تشغيلها في أي وقت في الإعدادات.</item>
+        <item quantity="two">الصور التي تم العثور عليها: %s. قم بتشغيل هذه الميزة لتنظيم الصور ذات الصلة. يمكنك تشغيلها أو إيقاف تشغيلها في أي وقت في الإعدادات.</item>
+        <item quantity="few">الصور التي تم العثور عليها: %s. قم بتشغيل هذه الميزة لتنظيم الصور ذات الصلة. يمكنك تشغيلها أو إيقاف تشغيلها في أي وقت في الإعدادات.</item>
+        <item quantity="many">الصور التي تم العثور عليها: %s. قم بتشغيل هذه الميزة لتنظيم الصور ذات الصلة. يمكنك تشغيلها أو إيقاف تشغيلها في أي وقت في الإعدادات.</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d بطاقة هوية</item>
+        <item quantity="zero">%1$d بطاقة هوية</item>
+        <item quantity="one">بطاقة هوية واحدة</item>
+        <item quantity="two">بطاقتا هوية</item>
+        <item quantity="few">%1$d بطاقات هوية</item>
+        <item quantity="many">%1$d بطاقة هوية</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">حذف %d من العناصر بشكل دائم</item>
+        <item quantity="zero">حذف %d عنصر بشكل دائم</item>
+        <item quantity="one">حذف %d من العناصر بشكل دائم</item>
+        <item quantity="two">حذف عنصرين بشكل دائم</item>
+        <item quantity="few">حذف %d عناصر بشكل دائم</item>
+        <item quantity="many">حذف %d عنصرًا بشكل دائم</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">حذف %d عنصر</item>
+        <item quantity="zero">حذف %d عنصر</item>
+        <item quantity="one">حذف عنصر واحد</item>
+        <item quantity="two">حذف عنصرين</item>
+        <item quantity="few">حذف %d عناصر</item>
+        <item quantity="many">حذف %d عنصرًا</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d من الصور</item>
+        <item quantity="zero">%1$d صورة</item>
+        <item quantity="one">%1$d من الصور</item>
+        <item quantity="two">صورتان</item>
+        <item quantity="few">%1$d صور</item>
+        <item quantity="many">%1$d صورة</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">الصور التي تم العثور عليها: %s. يمكنك نقلها إلى \"حافظة البطاقات\" للوصول إليها بسهولة.</item>
+        <item quantity="zero">الصور التي تم العثور عليها: %s. يمكنك نقلها إلى \"حافظة البطاقات\" للوصول إليها بسهولة.</item>
+        <item quantity="one">الصور التي تم العثور عليها: %s. يمكنك نقلها إلى \"حافظة البطاقات\" للوصول إليها بسهولة.</item>
+        <item quantity="two">الصور التي تم العثور عليها: %s. يمكنك نقلها إلى \"حافظة البطاقات\" للوصول إليها بسهولة.</item>
+        <item quantity="few">الصور التي تم العثور عليها: %s. يمكنك نقلها إلى \"حافظة البطاقات\" للوصول إليها بسهولة.</item>
+        <item quantity="many">الصور التي تم العثور عليها: %s. يمكنك نقلها إلى \"حافظة البطاقات\" للوصول إليها بسهولة.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">تم نقل صور %1$s إلى \"حافظة البطاقات\"</item>
+        <item quantity="zero">تم نقل صور %1$s إلى \"حافظة البطاقات\"</item>
+        <item quantity="one">تم نقل صورة %1$s إلى \"حافظة البطاقات\"</item>
+        <item quantity="two">تم نقل صور %1$s إلى \"حافظة البطاقات\"</item>
+        <item quantity="few">تم نقل صور %1$s إلى \"حافظة البطاقات\"</item>
+        <item quantity="many">تم نقل صور %1$s إلى \"حافظة البطاقات\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d تذكرة/إيصال</item>
+        <item quantity="zero">%1$d تذكرة/إيصال</item>
+        <item quantity="one">تذكرة واحدة/إيصال واحد</item>
+        <item quantity="two">تذكرتان/إيصالان</item>
+        <item quantity="few">%1$d تذاكر/إيصالات</item>
+        <item quantity="many">%1$d تذكرة/إيصالاً</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">العناصر المحددة موجودة بالفعل في الألبوم</item>
+        <item quantity="zero">العنصر المحدد موجود بالفعل في الألبوم</item>
+        <item quantity="one">العنصر المحدد موجود بالفعل في الألبوم</item>
+        <item quantity="two">العنصران المحددان موجودان بالفعل في الألبوم</item>
+        <item quantity="few">العناصر المحددة موجودة بالفعل في الألبوم</item>
+        <item quantity="many">العناصر المحددة موجودة بالفعل في الألبوم</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d من العناصر</item>
+        <item quantity="zero">%d عنصر</item>
+        <item quantity="one">%d من العناصر</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">%d عناصر</item>
+        <item quantity="many">%d عنصر</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">جارٍ تحميل %d صورة ولا يمكن نقلها</item>
+        <item quantity="zero">جارٍ تحميل %d صورة ولا يمكن نقلها</item>
+        <item quantity="one">جارٍ تحميل صورة واحدة ولا يمكن نقلها</item>
+        <item quantity="two">جارٍ تحميل صورتين ولا يمكن نقلهما</item>
+        <item quantity="few">جارٍ تحميل %d صور ولا يمكن نقلها</item>
+        <item quantity="many">جارٍ تحميل %d صورة ولا يمكن نقلها</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d الأشخاص</item>
+        <item quantity="zero"></item>
+        <item quantity="one">%1$d الأشخاص</item>
+        <item quantity="two"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">تم نقل صورة. لا يمكن نقل مقطع فيديو إلى هذا الألبوم.</item>
+        <item quantity="zero">تم نقل صورة. لا يمكن نقل مقطع فيديو إلى هذا الألبوم.</item>
+        <item quantity="one">تم نقل صورة واحدة. لا يمكن نقل مقطع فيديو واحد إلى هذا الألبوم.</item>
+        <item quantity="two">تم نقل صورتين. لا يمكن نقل مقطعي فيديو إلى هذا الألبوم.</item>
+        <item quantity="few">تم نقل صور. لا يمكن نقل مقاطع فيديو إلى هذا الألبوم.</item>
+        <item quantity="many">تم نقل صورة. لا يمكن نقل مقطع فيديو إلى هذا الألبوم.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">استعادة %d عنصر</item>
+        <item quantity="zero">استعادة %d عنصر</item>
+        <item quantity="one">استعادة عنصر واحد</item>
+        <item quantity="two">استعادة عنصرين</item>
+        <item quantity="few">استعادة %d عناصر</item>
+        <item quantity="many">استعادة %d عنصرًا</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d من الصور</item>
+        <item quantity="zero">%1$d صورة</item>
+        <item quantity="one">%1$d صورة</item>
+        <item quantity="two">صورتان</item>
+        <item quantity="few">%1$d صور</item>
+        <item quantity="many">%1$d صورة</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d مقاطع فيديو</item>
+        <item quantity="zero">%1$d مقطع فيديو</item>
+        <item quantity="one">%1$d فيديو</item>
+        <item quantity="two">مقطعا فيديو</item>
+        <item quantity="few">%1$d مقاطع فيديو</item>
+        <item quantity="many">%1$d مقطع فيديو</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">تم تحديد %1$d من العناصر</item>
+        <item quantity="zero">تم تحديد %1$d عنصر</item>
+        <item quantity="one">تم تحديد %1$d</item>
+        <item quantity="two">تم تحديد عنصرين</item>
+        <item quantity="few">تم تحديد %1$d عناصر</item>
+        <item quantity="many">تم تحديد %1$d عنصرًا</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">تم تحديد %1$d من الألبومات</item>
+        <item quantity="zero">تم تحديد %1$d ألبوم</item>
+        <item quantity="one">تم تحديد %1$d من الألبومات</item>
+        <item quantity="two">تم تحديد ألبومين</item>
+        <item quantity="few">تم تحديد %1$d ألبومات</item>
+        <item quantity="many">تم تحديد %1$d ألبومًا</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">تم تحديد %1$d من الأشخاص</item>
+        <item quantity="zero">تم تحديد %1$d شخص</item>
+        <item quantity="one">تم تحديد %1$d من الأشخاص</item>
+        <item quantity="two">تم تحديد شخصين</item>
+        <item quantity="few">تم تحديد %1$d أشخاص</item>
+        <item quantity="many">تم تحديد %1$d شخصًا</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">تم تحديد %1$d</item>
+        <item quantity="zero">تم تحديد %1$d</item>
+        <item quantity="one">تم تحديد %1$d</item>
+        <item quantity="two">تم تحديد %1$d</item>
+        <item quantity="few">تم تحديد %1$d</item>
+        <item quantity="many">تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">تم تحديد %1$d من الذكريات</item>
+        <item quantity="zero">تم تحديد %1$d ذكرى</item>
+        <item quantity="one">تم تحديد %1$d من الذكريات</item>
+        <item quantity="two">تم تحديد اثنين من الذكريات</item>
+        <item quantity="few">تم تحديد %1$d ذكريات</item>
+        <item quantity="many">تم تحديد %1$d ذكرى</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">تم تحديد %1$d من مقاطع الفيديو</item>
+        <item quantity="zero">تم تحديد %1$d مقطع فيديو</item>
+        <item quantity="one">تم تحديد %1$d من مقاطع الفيديو</item>
+        <item quantity="two">تم تحديد مقطعَي فيديو</item>
+        <item quantity="few">تم تحديد %1$d مقاطع فيديو</item>
+        <item quantity="many">تم تحديد %1$d مقطع فيديو</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d مقاطع فيديو</item>
+        <item quantity="zero">%1$d مقطع فيديو</item>
+        <item quantity="one">%1$d فيديو</item>
+        <item quantity="two">مقطعا فيديو</item>
+        <item quantity="few">%1$d مقاطع فيديو</item>
+        <item quantity="many">%1$d مقطع فيديو</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">مستوى شحن البطارية أقل من %1$s. لم يتم تنزيل %2$d من العناصر.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصر.</item>
+        <item quantity="one">مستوى شحن البطارية أقل من %1$s. لم يتم تنزيل %2$d من العناصر.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تنزيل %2$d عناصر.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">البطارية أقل من %1$s. لم يتم تنزيل %2$d من العناصر. يرجى شحن هاتفك.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصر. يُرجى شحن هاتفك.</item>
+        <item quantity="one">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصر. يرجى شحن هاتفك.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تنزيل عنصرين. يُرجى شحن هاتفك.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تنزيل %2$d عناصر. يُرجى شحن هاتفك.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصرًا. يُرجى شحن هاتفك.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">مستوى شحن البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصر. يُرجى شحن جهازك.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصر. يُرجى شحن هاتفك.</item>
+        <item quantity="one">مستوى شحن البطارية أقل من %1$s. لم يتم تنزيل عنصر واحد. يُرجى شحن جهازك.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تنزيل عنصرين. يُرجى شحن هاتفك.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تنزيل %2$d عناصر. يُرجى شحن هاتفك.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصرًا. يُرجى شحن هاتفك.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">مستوى شحن البطارية أقل من %1$s. لم يتم تنزيل %2$d من العناصر.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصر.</item>
+        <item quantity="one">مستوى شحن البطارية أقل من %1$s. لم يتم تنزيل %2$d من العناصر.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تنزيل %2$d عناصر.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تنزيل %2$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="zero">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="two">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="zero">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="two">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">تم تشغيل وضع توفير الطاقة. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر. %2$s.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصر. %2$s.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر. %2$s.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تنزيل عنصرين. %2$s.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عناصر. %2$s.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصرًا. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر. %2$s أو %3$s.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصر. %2$s أو %3$s.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر. %2$s أو %3$s.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تنزيل عنصرين. %2$s أو %3$s.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عناصر. %2$s أو %3$s.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصرًا. %2$s أو %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="zero">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="two">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">مساحة تخزين الجهاز غير كافية. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="zero">لا توجد مساحة تخزين كافية على الهاتف. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">مساحة تخزين الجهاز غير كافية. لم يتم تنزيل عنصر واحد.</item>
+        <item quantity="two">لا توجد مساحة تخزين كافية على الهاتف. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">لا توجد مساحة تخزين كافية على الهاتف. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">لا توجد مساحة تخزين كافية على الهاتف. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">خطأ في الشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="zero">خطأ في الشبكة. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">خطأ في الشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="two">خطأ في الشبكة. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">خطأ في الشبكة. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">خطأ في الشبكة. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">خطأ في الشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="zero">خطأ في الشبكة. لم يتم تنزيل %1$d عنصر.</item>
+        <item quantity="one">خطأ في الشبكة. لم يتم تنزيل %1$d من العناصر.</item>
+        <item quantity="two">خطأ في الشبكة. لم يتم تنزيل عنصرين.</item>
+        <item quantity="few">خطأ في الشبكة. لم يتم تنزيل %1$d عناصر.</item>
+        <item quantity="many">خطأ في الشبكة. لم يتم تنزيل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d من الصور الأصلية.</item>
+        <item quantity="zero">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d صورة أصلية.</item>
+        <item quantity="one">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d من الصور الأصلية.</item>
+        <item quantity="two">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل صورتين أصليتين.</item>
+        <item quantity="few">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d صور أصلية.</item>
+        <item quantity="many">لا توجد مساحة تخزين كافية على السحابة. لم يتم تنزيل %1$d صورة أصلية.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">لم تتم مزامنة %1$d من الصور. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="zero">لم تتم مزامنة %1$d صورة. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من الصور. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="two">لم تتم مزامنة صورتين. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="few">لم تتم مزامنة %1$d صور. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="many">لم تتم مزامنة %1$d صورة. مساحة التخزين على السحابة ممتلئة.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">لم تتم مزامنة %1$d من الصور. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="zero">لم تتم مزامنة %1$d صورة. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من الصور. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="two">لم تتم مزامنة صورتين. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="few">لم تتم مزامنة %1$d صور. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="many">لم تتم مزامنة %1$d صورة. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">لم تتم مزامنة %1$d من الصور. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="zero">لم تتم مزامنة %1$d صورة. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من الصور. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="two">لم تتم مزامنة صورتين. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="few">لم تتم مزامنة %1$d صور. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="many">لم تتم مزامنة %1$d صورة. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">مستوى شحن البطارية أقل من %1$s. لم يتم تحميل %2$d من العناصر.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصر.</item>
+        <item quantity="one">مستوى شحن البطارية أقل من %1$s. لم يتم تحميل %2$d من العناصر.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تحميل %2$d عناصر.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">البطارية أقل من %1$s. لم يتم تحميل %2$d من العناصر. يرجى شحن هاتفك.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصر. يُرجى شحن هاتفك.</item>
+        <item quantity="one">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصر. يرجى شحن هاتفك.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تحميل عنصرين. يُرجى شحن هاتفك.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تحميل %2$d عناصر. يُرجى شحن هاتفك.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصرًا. يُرجى شحن هاتفك.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">مستوى شحن البطارية أقل من %1$s. لم يتم تحميل %2$d عنصر. يُرجى شحن جهازك.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصر. يُرجى شحن هاتفك.</item>
+        <item quantity="one">مستوى شحن البطارية أقل من %1$s. لم يتم تحميل عنصر واحد. يُرجى شحن جهازك.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تحميل عنصرين. يُرجى شحن هاتفك.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تحميل %2$d عناصر. يُرجى شحن هاتفك.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصرًا. يُرجى شحن هاتفك.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">مستوى شحن البطارية أقل من %1$s. لم يتم تحميل %2$d من العناصر.</item>
+        <item quantity="zero">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصر.</item>
+        <item quantity="one">مستوى شحن البطارية أقل من %1$s. لم يتم تحميل %2$d من العناصر.</item>
+        <item quantity="two">البطارية أقل من %1$s. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">البطارية أقل من %1$s. لم يتم تحميل %2$d عناصر.</item>
+        <item quantity="many">البطارية أقل من %1$s. لم يتم تحميل %2$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">تم تشغيل وضع توفير الطاقة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">تم تشغيل وضع توفير الطاقة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">تم تشغيل وضع توفير الطاقة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">مساحة التخزين على السحابة ممتلئة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">لم تتم مزامنة %1$d من مقاطع الفيديو. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="zero">لم تتم مزامنة %1$d مقطع فيديو. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من مقاطع الفيديو. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="two">لم تتم مزامنة مقطعَي فيديو. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="few">لم تتم مزامنة %1$d مقاطع فيديو. مساحة التخزين على السحابة ممتلئة.</item>
+        <item quantity="many">لم تتم مزامنة %1$d مقطع فيديو. مساحة التخزين على السحابة ممتلئة.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">لم تتم مزامنة %1$d من مقاطع الفيديو. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="zero">لم تتم مزامنة %1$d مقطع فيديو. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من مقاطع الفيديو. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="two">لم تتم مزامنة مقطعَي فيديو. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="few">لم تتم مزامنة %1$d مقاطع فيديو. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+        <item quantity="many">لم تتم مزامنة %1$d مقطع فيديو. يتم إيقاف مزامنة السحابة مؤقتًا عندما يكون مستوى البطارية أقل من %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">لم تتم مزامنة %1$d من مقاطع الفيديو. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="zero">لم تتم مزامنة %1$d مقطع فيديو. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من مقاطع الفيديو. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="two">لم تتم مزامنة مقطعَي فيديو. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="few">لم تتم مزامنة %1$d مقاطع فيديو. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+        <item quantity="many">لم تتم مزامنة %1$d مقطع فيديو. تم إيقاف مزامنة السحابة مؤقتًا في وضع توفير الطاقة.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">لم تتم مزامنة %1$d من الصور.</item>
+        <item quantity="zero">لم تتم مزامنة %1$d صورة.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من الصور.</item>
+        <item quantity="two">لم تتم مزامنة صورتين.</item>
+        <item quantity="few">لم تتم مزامنة %1$d صور.</item>
+        <item quantity="many">لم تتم مزامنة %1$d صورة.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d من العناصر. %2$s.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر. %2$s.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d من العناصر.%2$s.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تحميل عنصرين. %2$s.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عناصر. %2$s.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصرًا. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d من العناصر. %2$s أو %3$s.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر. %2$s أو %3$s.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d من العناصر. %2$s أو %3$s.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تحميل عنصرين. %2$s أو %3$s.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عناصر. %2$s أو %3$s.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصرًا. %2$s أو %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="zero">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="two">لا يوجد اتصال بالشبكة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">لا يوجد اتصال بالشبكة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">لم تتم مزامنة %1$d من مقاطع الفيديو</item>
+        <item quantity="zero">لم تتم مزامنة %1$d مقطع فيديو.</item>
+        <item quantity="one">لم تتم مزامنة %1$d من مقاطع الفيديو</item>
+        <item quantity="two">لم تتم مزامنة مقطعَي فيديو.</item>
+        <item quantity="few">لم تتم مزامنة %1$d مقاطع فيديو.</item>
+        <item quantity="many">لم تتم مزامنة %1$d مقطع فيديو.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">خطأ في الشبكة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">خطأ في الشبكة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">خطأ في الشبكة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">خطأ في الشبكة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">خطأ في الشبكة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">خطأ في الشبكة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">خطأ في الشبكة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">خطأ في الخدمة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">خطأ في الشبكة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">خطأ في الشبكة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">خطأ في الشبكة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">خطأ في الشبكة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">خطأ في الخدمة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">خطأ في الخدمة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">خطأ في الخدمة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">خطأ في الخدمة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">خطأ في الخدمة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">خطأ في الخدمة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">خطأ في الخدمة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="zero">خطأ في الخدمة. لم يتم تحميل %1$d عنصر.</item>
+        <item quantity="one">خطأ في الخدمة. لم يتم تحميل %1$d من العناصر.</item>
+        <item quantity="two">خطأ في الخدمة. لم يتم تحميل عنصرين.</item>
+        <item quantity="few">خطأ في الخدمة. لم يتم تحميل %1$d عناصر.</item>
+        <item quantity="many">خطأ في الخدمة. لم يتم تحميل %1$d عنصرًا.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">فشلت إضافة %d عناصر</item>
+        <item quantity="zero">فشل في إضافة %d عنصر</item>
+        <item quantity="one">فشلت إضافة %d عنصر</item>
+        <item quantity="two">فشل في إضافة عنصرين</item>
+        <item quantity="few">فشل في إضافة %d عناصر</item>
+        <item quantity="many">فشل في إضافة %d عنصرًا</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">يتم تحميل %d من الصور ولا يمكن تعيينها كصور خاصة.</item>
+        <item quantity="zero">يتم تحميل %d صورة ولا يمكن تعيينها كصور خاصة.</item>
+        <item quantity="one">يتم تحميل %d من الصور ولا يمكن تعيينها كصور خاصة.</item>
+        <item quantity="two">يتم تحميل صورتين ولا يمكن تعيينهما كصور خاصة.</item>
+        <item quantity="few">يتم تحميل %d صور ولا يمكن تعيينها كصور خاصة.</item>
+        <item quantity="many">يتم تحميل %d صورة ولا يمكن تعيينها كصور خاصة.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d من الساعات</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d من العناصر</item>
+        <item quantity="zero">%d عنصر</item>
+        <item quantity="one">%d من العناصر</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">%d عناصر</item>
+        <item quantity="many">%d عنصر</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d من الثواني</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">%d ثوانٍ</item>
+        <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يومًا</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d من الصور</item>
+        <item quantity="zero">%1$d صورة</item>
+        <item quantity="one">%1$d صورة</item>
+        <item quantity="two">صورتان</item>
+        <item quantity="few">%1$d صور</item>
+        <item quantity="many">%1$d صورة</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d مقاطع فيديو</item>
+        <item quantity="zero">%1$d مقطع فيديو</item>
+        <item quantity="one">%1$d فيديو</item>
+        <item quantity="two">مقطعا فيديو</item>
+        <item quantity="few">%1$d مقاطع فيديو</item>
+        <item quantity="many">%1$d مقطع فيديو</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">يتم تحميل %d من الصور</item>
+        <item quantity="one">يتم تحميل %d من الصور</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="zero">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="one">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="two">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="few">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="many">يجب أن يكون أكبر من %1$d مم</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="zero">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="one">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="two">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="few">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="many">يجب أن يكون أكبر من %1$d بكسل</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="zero">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="one">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="two">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="few">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="many">يجب أن يكون أصغر من %1$d مم</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="zero">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="one">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="two">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="few">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="many">يجب أن يكون أصغر من %1$d بكسل</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">يجب أن يكون أكبر من %1$d ك.ب</item>
+        <item quantity="zero">يجب أن يكون أكبر من %1$d ك.ب</item>
+        <item quantity="one">يجب أن يكون أكبر من %1$d ك.ب</item>
+        <item quantity="two">يجب أن يكون أكبر من %1$d ك.ب</item>
+        <item quantity="few">يجب أن يكون أكبر من %1$d ك.ب</item>
+        <item quantity="many">يجب أن يكون أكبر من %1$d ك.ب</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">يجب أن يكون أصغر من %1$d ك.ب</item>
+        <item quantity="zero">يجب أن يكون أصغر من %1$d ك.ب</item>
+        <item quantity="one">يجب أن يكون أصغر من %1$d ك.ب</item>
+        <item quantity="two">يجب أن يكون أصغر من %1$d ك.ب</item>
+        <item quantity="few">يجب أن يكون أصغر من %1$d ك.ب</item>
+        <item quantity="many">يجب أن يكون أصغر من %1$d ك.ب</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="zero">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="one">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="two">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="few">يجب أن يكون أكبر من %1$d مم</item>
+        <item quantity="many">يجب أن يكون أكبر من %1$d مم</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="zero">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="one">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="two">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="few">يجب أن يكون أكبر من %1$d بكسل</item>
+        <item quantity="many">يجب أن يكون أكبر من %1$d بكسل</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="zero">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="one">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="two">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="few">يجب أن يكون أصغر من %1$d مم</item>
+        <item quantity="many">يجب أن يكون أصغر من %1$d مم</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="zero">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="one">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="two">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="few">يجب أن يكون أصغر من %1$d بكسل</item>
+        <item quantity="many">يجب أن يكون أصغر من %1$d بكسل</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">الاحتفاظ بـ %d من الصور المحددة فقط</item>
+        <item quantity="zero">احتفاظ بالـ %d صورة المحددة فقط</item>
+        <item quantity="one">الاحتفاظ بـ %d من الصورة المحددة فقط</item>
+        <item quantity="two">احتفاظ بالصورتين المحددتين فقط</item>
+        <item quantity="few">احتفاظ بالـ %d صور المحددة فقط</item>
+        <item quantity="many">احتفاظ بالـ %d صورة المحددة فقط</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">حذف %d من العناصر</item>
+        <item quantity="zero">حذف %d عنصر</item>
+        <item quantity="one">حذف %d من العناصر</item>
+        <item quantity="two">حذف عنصرين</item>
+        <item quantity="few">حذف %d عناصر</item>
+        <item quantity="many">حذف %d عنصرًا</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">تم تحديد %1$d</item>
+        <item quantity="zero">تم تحديد %1$d</item>
+        <item quantity="one">تم تحديد %1$d من العناصر</item>
+        <item quantity="two">تم تحديد %1$d</item>
+        <item quantity="few">تم تحديد %1$d</item>
+        <item quantity="many">تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">تم تحديد %1$d من الألبومات</item>
+        <item quantity="zero">تم تحديد %1$d ألبوم</item>
+        <item quantity="one">تم تحديد %1$d من الألبومات</item>
+        <item quantity="two">تم تحديد ألبومين</item>
+        <item quantity="few">تم تحديد %1$d ألبومات</item>
+        <item quantity="many">تم تحديد %1$d ألبومًا</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">تم تحديد %1$d</item>
+        <item quantity="zero">تم تحديد %1$d</item>
+        <item quantity="one">تم تحديد %1$d</item>
+        <item quantity="two">تم تحديد %1$d</item>
+        <item quantity="few">تم تحديد %1$d</item>
+        <item quantity="many">تم تحديد %1$d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">تم اختيار %1$d من الملصقات</item>
+        <item quantity="zero">تم تحديد %1$d ملصق</item>
+        <item quantity="one">تم اختيار %1$d ملصق</item>
+        <item quantity="two">تم تحديد ملصقين</item>
+        <item quantity="few">تم تحديد %1$d ملصقات</item>
+        <item quantity="many">تم تحديد %1$d ملصقًا</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">تم تحديد %1$d من مقاطع الفيديو</item>
+        <item quantity="zero">تم تحديد %1$d مقطع فيديو</item>
+        <item quantity="one">تم تحديد %1$d من مقاطع الفيديو</item>
+        <item quantity="two">تم تحديد مقطعَي فيديو</item>
+        <item quantity="few">تم تحديد %1$d مقاطع فيديو</item>
+        <item quantity="many">تم تحديد %1$d مقطع فيديو</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">يتم تحميل %d من الصور ولا يمكن حذفها.</item>
+        <item quantity="zero">يتم تحميل %d صورة ولا يمكن حذفها.</item>
+        <item quantity="one">يتم تحميل %d من الصور ولا يمكن حذفها.</item>
+        <item quantity="two">يتم تحميل صورتين ولا يمكن حذفهما.</item>
+        <item quantity="few">يتم تحميل %d صور ولا يمكن حذفها.</item>
+        <item quantity="many">يتم تحميل %d صورة ولا يمكن حذفها.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">فشل حذف %1$d من العناصر. يرجى إعادة المحاولة</item>
+        <item quantity="zero"></item>
+        <item quantity="one">فشل حذف %1$d من العناصر. يرجى إعادة المحاولة</item>
+        <item quantity="two"></item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d من الإشعارات الجديدة</item>
+        <item quantity="one">%d من الإشعارات الجديدة</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d من الصور</item>
+        <item quantity="zero">%1$d صورة</item>
+        <item quantity="one">%1$d من الصور</item>
+        <item quantity="two">صورتان</item>
+        <item quantity="few">%1$d صور</item>
+        <item quantity="many">%1$d صورة</item>
+    </plurals>
+</resources>

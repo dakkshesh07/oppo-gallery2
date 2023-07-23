@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="@dimen/coui_popup_list_window_item_padding_top_and_bottom" android:paddingBottom="@dimen/coui_popup_list_window_item_padding_top_and_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/coui_popup_list_window_item_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/coui_popup_list_window_text_color_selector" android:layout_gravity="center_vertical" android:id="@id/popup_list_window_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingMultiplier="1.2" android:layout_marginStart="@dimen/common_popup_list_window_item_title_margin_start" android:layout_marginEnd="@dimen/common_popup_list_window_item_title_margin_end" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/popup_list_window_item_red_dot" android:visibility="gone" android:layout_width="@dimen/common_menu_item_red_dot_wh" android:layout_height="@dimen/common_menu_item_red_dot_wh" android:src="@drawable/common_popup_list_window_item_red_dot" />
+</LinearLayout>

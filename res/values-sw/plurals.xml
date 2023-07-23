@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">Picha %d zinapakiwa na haziwezi kuongezwa.</item>
+        <item quantity="one">Picha %d inapakiwa na haiwezi kuongezwa.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">Kadi %1$d za benki</item>
+        <item quantity="one">Kadi %1$d ya benki</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">Vitambulisho %1$d</item>
+        <item quantity="one">Kitambulisho %1$d</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Futa kabisa vipengee %d</item>
+        <item quantity="one">Futa kabisa kipengee %d</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Futa vipengee %d</item>
+        <item quantity="one">Futa Kipengee %d</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">Picha %1$d</item>
+        <item quantity="one">Picha %1$d</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Picha zilizopatikana: %s. Unaweza kuzihamisha kwenye \"Card case\" kwa ufikiaji rahisi.</item>
+        <item quantity="one">Picha zilizopatikana: %s. Unaweza kuihamisha kwenye \"Card case\" kwa ufikiaji rahisi.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Picha za %1$s zimehamishwa kwenye \"Card case\"</item>
+        <item quantity="one">Picha ya %1$s imehamishwa kwenye \"Card case\"</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">Tikiti/risiti %1$d</item>
+        <item quantity="one">Tikiti/risiti %1$d</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Vipengee vilivyochaguliwa viko tayari kwenye albamu</item>
+        <item quantity="one">Kipengee kilichochaguliwa kiko tayari kwenye albamu</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">Vipengee %d</item>
+        <item quantity="one">Kipengee %d</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">Picha %d zinapakia na haziwezi kuhamishwa</item>
+        <item quantity="one">Picha %d inapakia na haiwezi kuhamishwa</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">watu %1$d</item>
+        <item quantity="one">watu %1$d</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">picha zimehamishwa. Video haziwezi kuhamishwa kwenye albamu hii.</item>
+        <item quantity="one">picha imehamishwa. Video haiwezi kuhamishwa kwenye albamu hii.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Rejesha vipengee %d</item>
+        <item quantity="one">Rejesha kipengee %d</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">Picha %1$d</item>
+        <item quantity="one">Picha %1$d</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$dVideo</item>
+        <item quantity="one">%1$dVideo</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">Vipengee %1$d vimechaguliwa</item>
+        <item quantity="one">Kipengee %1$d kimechaguliwa</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">Albamu %1$d zimechaguliwa</item>
+        <item quantity="one">Albamu %1$d imechaguliwa</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">Watu %1$d Wamechaguliwa</item>
+        <item quantity="one">Watu %1$d Wamechaguliwa</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d imechaguliwa</item>
+        <item quantity="one">%1$d imechaguliwa</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">Kumbukumbu%1$d zimechaguliwa</item>
+        <item quantity="one">Kumbukumbu%1$d imechaguliwa</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">Video %1$d Zimechaguliwa</item>
+        <item quantity="one">Video %1$d Imechaguliwa</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$dVideo</item>
+        <item quantity="one">%1$dVideo</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Betri iko chini ya %1$s. Vipengee %2$d havijapakuliwa.</item>
+        <item quantity="one">Betri iko chini ya %1$s. Kipengee %2$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Betri iko chini kuliko %1$s. Vipengee %2$d havijapakuliwa. Tafadhali chaji simu yako.</item>
+        <item quantity="one">Betri iko chini kuliko %1$s. Kipengee %2$d hakijapakuliwa. Tafadhali chaji simu yako.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Betri iko chini ya %1$s. Vipengee %2$d havijapakuliwa. Tafadhali chaji kifaa chako.</item>
+        <item quantity="one">Betri iko chini ya %1$s. Kipengee %2$d hakijapakuliwa. Tafadhali chaji kifaa chako.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Betri iko chini ya %1$s. Vipengee %2$d havijapakuliwa.</item>
+        <item quantity="one">Betri iko chini ya %1$s. Kipengee %2$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Modi ya kuokoa nishati imewashwa. Vipengee %1$d havijapakuliwa.</item>
+        <item quantity="one">Modi ya kuokoa nishati imewashwa. Kipengee %1$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Modi ya kuokoa nishati imewashwa. Vipengee %1$d havijapakuliwa.</item>
+        <item quantity="one">Modi ya kuokoa nishati imewashwa. Kipengee %1$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakuliwa. %2$s.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d hakijapakuliwa. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakuliwa. %2$s au %3$s.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d hakijapakuliwa.%2$s au %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakuliwa.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakuliwa.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Hifadhi ya wingu haitoshi. %1$d kipengee hakijapakuliwa.</item>
+        <item quantity="one">Hifadhi ya wingu haitoshi. %1$d vipengee havijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Hakuna hifadhi ya kutosha ya kifaa. Vipengee %1$d havijapakuliwa.</item>
+        <item quantity="one">Hakuna hifadhi ya kutosha ya kifaa. Kipengee %1$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Hitilafu ya mtandao. Vipengee %1$d havijapakuliwa.</item>
+        <item quantity="one">Hitilafu ya mtandao. Kipengee %1$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Hitilafu ya mtandao. Vipengee %1$d havijapakuliwa.</item>
+        <item quantity="one">Hitilafu ya mtandao. Kipengee %1$d hakijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Hifadhi ya wingu haitoshi. %1$d picha asili hazijapakuliwa.</item>
+        <item quantity="one">Hifadhi ya wingu haitoshi. %1$d picha asili haijapakuliwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">Picha %1$d hazijalandanishwa. Hifadhi ya wingu imejaa.</item>
+        <item quantity="one">Picha %1$d haijalandanishwa. Hifadhi ya wingu imejaa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">Picha %1$d hazijalandanishwa. Ulandanishaji wa wingu husitishwa betri inapokuwa chini ya %2$s.</item>
+        <item quantity="one">Picha %1$d haijalandanishwa. Ulandanishaji wa Wingu husitishwa betri inapokuwa chini ya %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">Picha %1$d hazijalandanishwa. Ulandanishaji wa wingu unasimamishwa katika modi ya kuhifadhi nishati.</item>
+        <item quantity="one">Picha %1$d haijalandanishwa. Ulandanishaji wa wingu unasimamishwa katika modi ya kuhifadhi nishati.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Hifadhi ya wingu imejaa. Vipengee %1$d havijapakiwa.</item>
+        <item quantity="one">Hifadhi ya Wingu imejaa. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Betri iko chini ya %1$s. Vipengee %2$d havijapakiwa.</item>
+        <item quantity="one">Betri iko chini ya %1$s. Kipengee %2$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Betri iko chini kuliko %1$s. Vipengee %2$d havijapakiwa. Tafadhali chaji simu yako.</item>
+        <item quantity="one">Betri iko chini kuliko %1$s. Kipengee %2$d hakijapakiwa. Tafadhali chaji simu yako.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Betri iko chini ya %1$s. Vipengee %2$d havijapakiwa. Tafadhali chaji kifaa chako.</item>
+        <item quantity="one">Betri iko chini ya %1$s. Kipengee %2$d hakijapakiwa. Tafadhali chaji kifaa chako.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Betri iko chini ya %1$s. Vipengee %2$d havijapakiwa.</item>
+        <item quantity="one">Betri iko chini ya %1$s. Kipengee %2$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Modi ya kuokoa nishati imewashwa. Vipengee %1$d havijapakiwa.</item>
+        <item quantity="one">Modi ya kuokoa nishati imewashwa. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Modi ya kuokoa nishati imewashwa. Kipengee %1$d hakijapakiwa.</item>
+        <item quantity="one">Modi ya kuokoa nishati imewashwa. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Hifadhi ya wingu imejaa. Vipengee %1$d havijapakiwa.</item>
+        <item quantity="one">Hifadhi ya Wingu imejaa. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">Video %1$d hazijalandanishwa. Hifadhi ya wingu imejaa.</item>
+        <item quantity="one">Video %1$d haijalandanishwa. Hifadhi ya wingu imejaa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">Video %1$d hazijalandanishwa. Ulandanishaji wa wingu husitishwa betri inapokuwa chini ya %2$s.</item>
+        <item quantity="one">Video %1$d haijalandanishwa. Ulandanishaji wa Wingu husitishwa betri inapokuwa chini ya %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">Video %1$d hazijalandanishwa. Ulandanishaji wa wingu unasimamishwa katika modi ya kuhifadhi nishati.</item>
+        <item quantity="one">Video %1$d haijalandanishwa. Ulandanishaji wa wingu unasimamishwa katika modi ya kuhifadhi nishati.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">Picha %1$d haijalandanishwa.</item>
+        <item quantity="one">Picha %1$d hazijalandanishwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakiwa. %2$s.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d hakijapakiwa.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakiwa. %2$s au %3$s.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d kipengee.%2$s au %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakiwa.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Hakuna muunganisho wa mtandao. Vipengee %1$d havijapakiwa.</item>
+        <item quantity="one">Hakuna muunganisho wa mtandao. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">Video %1$d hazijalandanishwa</item>
+        <item quantity="one">Video %1$d haijalandanishwa</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Hitilafu ya mtandao. Vipengee %1$d hakijapakiwa.</item>
+        <item quantity="one">Hitilafu ya mtandao. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Hitilafu ya mtandao. Vipengee %1$d hakijapakiwa.</item>
+        <item quantity="one">Hitilafu ya mtandao. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Hitillafu ya huduma. Vipengee %1$d havijapakiwa.</item>
+        <item quantity="one">Hitilafu ya huduma. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Hitillafu ya huduma. Vipengee %1$d havijapakiwa.</item>
+        <item quantity="one">Hitilafu ya huduma. Kipengee %1$d hakijapakiwa.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Imeshindwa kuongeza vipengee %d</item>
+        <item quantity="one">Imeshindwa kuongeza kipengee %d</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">Picha %d inapakiwa na haziwezi kuwekwa kama za kibinafsi.</item>
+        <item quantity="one">Picha %d inapakiwa na haiwezi kuwekwa kama ya kibinafsi.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">Saa%d</item>
+        <item quantity="one">Saa%d</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">Vipengee %d</item>
+        <item quantity="one">Kipengee %d</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika%d</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">Sekunde %d</item>
+        <item quantity="one">Sekunde%d</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">Siku %1$d</item>
+        <item quantity="one">Siku %1$d</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">Picha %1$d</item>
+        <item quantity="one">Picha %1$d</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">Video %1$d</item>
+        <item quantity="one">Video %1$d</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">Picha%d zinapakiwa tena</item>
+        <item quantity="one">Picha%d inapakiwa</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Lazima iwe kubwa zaidi ya mm %1$d</item>
+        <item quantity="one">Lazima iwe kubwa zaidi ya mm %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Lazima iwe kubwa zaidi ya px %1$d</item>
+        <item quantity="one">Lazima iwe kubwa zaidi ya px %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Lazima iwe ndogo zaidi ya mm %1$d</item>
+        <item quantity="one">Lazima iwe ndogo zaidi ya mm %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Lazima iwe ndogo zaidi ya px %1$d</item>
+        <item quantity="one">Lazima iwe ndogo zaidi ya px %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Lazima iwe kubwa zaidi ya KB %1$d</item>
+        <item quantity="one">Lazima iwe kubwa zaidi ya KB %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Lazima iwe ndogo zaidi ya KB %1$d</item>
+        <item quantity="one">Lazima iwe ndogo zaidi ya KB %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Lazima iwe kubwa zaidi ya mm %1$d</item>
+        <item quantity="one">Lazima iwe kubwa zaidi ya mm %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Lazima iwe kubwa zaidi ya px %1$d</item>
+        <item quantity="one">Lazima iwe kubwa zaidi ya px %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Lazima iwe ndogo zaidi ya mm %1$d</item>
+        <item quantity="one">Lazima iwe ndogo zaidi ya mm %1$d</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Lazima iwe ndogo zaidi ya px %1$d</item>
+        <item quantity="one">Lazima iwe ndogo zaidi ya px %1$d</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Hifadhi picha %d zilizochaguliwa pekee</item>
+        <item quantity="one">Hifadhi picha %d iliyochaguliwa pekee</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Futa Vipengele %d</item>
+        <item quantity="one">Futa Kipengele %d</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d imechaguliwa</item>
+        <item quantity="one">Vipengele %1$d Vimechaguliwa</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">Albamu %1$d zimechaguliwa</item>
+        <item quantity="one">Albamu %1$d imechaguliwa</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d imechaguliwa</item>
+        <item quantity="one">%1$d imechaguliwa</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">Vibandiko%1$d vimechaguliwa</item>
+        <item quantity="one">Kibandiko%1$d kimechaguliwa</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">Video %1$d Zimechaguliwa</item>
+        <item quantity="one">Video %1$d Imechaguliwa</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">Picha %d zinapakiwa na haziwezi kufutwa.</item>
+        <item quantity="one">Picha %d inapakiwa na haiwezi kufutwa.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Haijafaulu kufuta vipengele %1$d. Tafadhali jaribu tena</item>
+        <item quantity="one">Haijafaulu kufuta kipengele %1$d. Tafadhali jaribu tena</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d arifa mpya</item>
+        <item quantity="one">Arifu %d mpya</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">Picha %1$d</item>
+        <item quantity="one">Picha %1$d</item>
+    </plurals>
+</resources>

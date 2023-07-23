@@ -1,0 +1,11 @@
+[
+  // type值与CropType.typeName定义相同
+  // labels不配置表示允许所有标签
+  {
+    "type": "1x1"
+  },
+  {
+    "type": "2x1",
+    "labels": [85, 1] // 人像、动物
+  }
+]

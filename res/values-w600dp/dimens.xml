@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_album_set_list_min_item_width">105.0dip</dimen>
+    <dimen name="base_timeline_location_title_width_max">200.0dip</dimen>
+    <dimen name="main_person_detail_header_margin_horizontal">99.0dip</dimen>
+</resources>

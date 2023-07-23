@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen android:title="@string/common_app_name"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:title="@string/setting_category_cloud_sync_title" android:key="pref_category_cloud_sync_key" app:isFirstCategory="true">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/setting_sync_pref_auto_upload_title" android:key="pref_auto_sync_key_2" android:summary="@string/setting_sync_pref_auto_upload_closed" app:couiShowDivider="false" />
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/setting_pref_share_album_title" android:key="pref_share_album_key" android:summary="@string/setting_pref_share_album_summary" android:defaultValue="false" app:couiShowDivider="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:title="@string/setting_pref_browser_category" android:key="pref_category_browser_key">
+        <com.oplus.gallery.standard_lib.ui.preference.GalleryRedDotListPreference android:persistent="true" android:entries="@array/setting_sort_dialog_item_title" android:title="@string/setting_photos_sort_title" android:key="pref_photos_sort_key" android:entryValues="@array/setting_sort_dialog_item_title" app:common_hasRedDot="false" app:common_redDotMode="ponitOnly" app:couiAssignment="@string/settings_photos_sort_asc" app:widgetLayout="@layout/common_red_dot_list_preference" />
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/setting_pref_video_auto_play_title" android:key="pref_video_auto_play_key" android:defaultValue="true" app:couiShowDivider="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:title="@string/setting_category_sending_title" android:key="pref_category_sending_key">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/base_security_share_private_info_protection" android:key="pref_security_share_send" app:couiShowDivider="false" />
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/settings_pref_convert_heif_title" android:key="pref_heif_convert_key" android:summary="@string/setting_pref_heif_convert_summary" android:defaultValue="false" app:couiShowDivider="false" />
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/settings_pref_convert_HDR_title" android:key="pref_hdr_convert_key" android:summary="@string/settings_pref_convert_HDR_summary" android:defaultValue="false" app:couiShowDivider="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:title="@string/setting_category_more_title">
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/setting_category_network_permission_title" android:key="pref_open_network_key" android:summary="@string/setting_pref_open_network_summary" android:defaultValue="false" app:couiShowDivider="false" />
+        <com.oplus.gallery.settingpage.widget.preference.TipsSwitchPreference android:layout="@layout/setting_card_case_layout" android:title="@string/settings_pref_card_case_title" android:key="pref_card_case_key" android:defaultValue="false" app:couiShowDivider="false" app:isPreferenceVisible="false" />
+        <com.coui.appcompat.preference.COUISwitchPreference android:title="@string/setting_pref_fasttrack_title" android:key="pref_show_fast_track_key" android:summary="@string/setting_pref_fasttrack_summary" android:defaultValue="true" app:couiShowDivider="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+    <com.coui.appcompat.preference.COUIPreferenceCategory android:key="pref_category_feedback_key">
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/setting_pref_about_gallery_title" android:key="pref_about_key" app:couiShowDivider="false" />
+        <com.coui.appcompat.preference.COUIJumpPreference android:title="@string/setting_pref_feedback_title" android:key="pref_feedback_key" app:couiShowDivider="false" />
+    </com.coui.appcompat.preference.COUIPreferenceCategory>
+</androidx.preference.PreferenceScreen>

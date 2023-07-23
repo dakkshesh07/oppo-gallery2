@@ -1,0 +1,332 @@
+{
+    "music name": "Morning Sunrise",
+    "version": 1,
+    "music duration": 90000,
+    "clip max duration": 5000,
+    "points": [
+		{
+            "cutPoint": 4680,
+            "transName":
+            [
+				{"id": "Fade"}
+            ],
+            "transLen": 600
+        },
+        {
+            "cutPoint": 6840,
+            "transName":
+            [
+                {"id": ""}   
+            ],
+            "transLen": 1000
+        },
+        {
+            "cutPoint": 10080,
+            "transName":
+            [
+                {"id": "Fade"}
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 12280,
+            "transName":
+            [
+                {"id": "Fade"}
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 15440,
+            "transName":
+            [
+                {"id": "70143079-F3C3-4259-AC53-C3B8CF7A7EAC"},
+				{"id": "Fade"}
+            ],
+            "transLen": 800
+        },
+		{
+            "cutPoint": 17640,
+            "transName":
+            [
+                {"id": "Fade"}  
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 19840,
+            "transName":
+            [
+                {"id": "Fade"}
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 22080,
+            "transName":
+            [
+                {"id": "Fade"}
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 24200,
+            "transName":
+            [
+                {"id": "Fade"}            
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 26320,
+            "transName":
+            [
+                {"id": ""}        
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 28000,
+            "transName":
+            [
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 29160,
+            "transName":
+            [
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 30240,
+            "transName":
+            [
+                {"id": ""}              
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 33040,
+            "transName":
+            [
+                {"id": "Fade"}            
+            ],
+            "transLen": 500
+        },   
+		{
+            "cutPoint": 34680,
+            "transName":
+            [
+                {"id": ""}            
+            ],
+            "transLen": 1000
+        },  
+		{
+            "cutPoint": 36440,
+            "transName":
+            [
+                {"id": ""}       
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 38600,
+            "transName":
+            [
+                {"id": "Fade"}       
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 40280,
+            "transName":
+            [
+                {"id": "Fade"}       
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 41920,
+            "transName":
+            [ 
+                {"id": ""}       
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 44160,
+            "transName":
+            [
+				{"id": ""},
+                {"id": "Fade"}       
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 46280,
+            "transName":
+            [
+                {"id": ""}		
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 48560,
+            "transName":
+            [
+                {"id": "Fade"}			
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 50800,
+            "transName":
+            [
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 52840,
+            "transName":
+            [
+                {"id": ""}
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 54600,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 57240,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 61280,
+            "transName":
+            [
+				{"id": "70143079-F3C3-4259-AC53-C3B8CF7A7EAC"},
+                {"id": "Fade"}	
+            ],
+            "transLen": 600
+        },
+		{
+            "cutPoint": 63920,
+            "transName":
+            [
+                {"id": "Fade"}	
+            ],
+            "transLen": 500
+        },
+		{ 
+            "cutPoint": 65920,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 67920,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 70320,
+            "transName":
+            [
+                {"id": "Fade"}	
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 72240,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 73880,
+            "transName":
+            [
+                {"id": "Fade"}	
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 75440,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 76560,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 77680,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 78920,
+            "transName":
+            [
+                {"id": "Fade"}	
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 81280,
+            "transName":
+            [
+                {"id": "Fade"}	
+            ],
+            "transLen": 500
+        },
+		{
+            "cutPoint": 83280,
+            "transName":
+            [
+                {"id": ""}	
+            ],
+            "transLen": 1000
+        },
+		{
+            "cutPoint": 84920,
+            "transName":
+            [
+                {"id": "Fade"}	
+            ],
+            "transLen": 920
+        }
+		
+    ]
+}

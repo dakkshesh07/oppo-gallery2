@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.coui.appcompat.widget.COUIChip android:ellipsize="end" android:id="@id/button_recommend_item" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/search_recommend_text_margin_end" app:chipAnimationEnable="true" style="@style/search_ChipWithChipIconStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

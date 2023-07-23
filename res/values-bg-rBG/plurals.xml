@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="base_append_image_filter_failed_tip">
+        <item quantity="other">%d снимки не могат да се добавят, защото се зареждат.</item>
+        <item quantity="one">%d снимка не може да се добави, защото се зарежда.</item>
+    </plurals>
+    <plurals name="base_bank_card_count">
+        <item quantity="other">%1$d банкови карти</item>
+        <item quantity="one">%1$d банкова карта</item>
+    </plurals>
+    <plurals name="base_certificate_count">
+        <item quantity="other">%1$d ИД</item>
+        <item quantity="one">%1$d ИД</item>
+    </plurals>
+    <plurals name="base_delete_selection_item_or_items_permanently">
+        <item quantity="other">Окончателно изтриване на %d елемента</item>
+        <item quantity="one">Окончателно изтриване на %d елемент</item>
+    </plurals>
+    <plurals name="base_delete_selection_plurals">
+        <item quantity="other">Изтриване на %d елемента</item>
+        <item quantity="one">Изтриване на %d елемент</item>
+    </plurals>
+    <plurals name="base_face_album_only_have_image">
+        <item quantity="other">%1$d снимки</item>
+        <item quantity="one">%1$d снимка</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_tips">
+        <item quantity="other">Намерени снимки: %s. Можете да ги преместите в „Калъф за карти“ за по-лесен достъп.</item>
+        <item quantity="one">Намерени снимки: %s. Можете да я преместите в „Калъф за карти“ за по-лесен достъп.</item>
+    </plurals>
+    <plurals name="base_have_one_type_card_toast">
+        <item quantity="other">Снимки от %1$s са преместени в „Калъф за карти“</item>
+        <item quantity="one">Снимка от %1$s е преместена в „Калъф за карти“</item>
+    </plurals>
+    <plurals name="base_invoice_count">
+        <item quantity="other">%1$d билети/разписки</item>
+        <item quantity="one">%1$d билет/разписка</item>
+    </plurals>
+    <plurals name="base_item_already_exist">
+        <item quantity="other">Избраните елементи вече съществуват в албума</item>
+        <item quantity="one">Избраният елемент вече съществува в албума</item>
+    </plurals>
+    <plurals name="base_item_count">
+        <item quantity="other">%d елемента</item>
+        <item quantity="one">%d елемент</item>
+    </plurals>
+    <plurals name="base_move_image_filter_failed_tip">
+        <item quantity="other">%d снимки се зареждат и не могат да бъдат преместени</item>
+        <item quantity="one">%d снимка се зарежда и не може да бъде преместена</item>
+    </plurals>
+    <plurals name="base_number_of_face_album_in_slot">
+        <item quantity="other">%1$d души</item>
+        <item quantity="one">%1$d души</item>
+    </plurals>
+    <plurals name="base_photo_move_success_video_cannot_move">
+        <item quantity="other">Преместени снимки. Видеоклиповете не могат да бъдат преместени в този албум.</item>
+        <item quantity="one">Преместена снимка. Видеоклиповете не могат да бъдат преместени в този албум.</item>
+    </plurals>
+    <plurals name="base_restore_selection_plurals">
+        <item quantity="other">Възстановяване на %d елемента</item>
+        <item quantity="one">Възстановяване на %d елемент</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_image">
+        <item quantity="other">%1$d снимки</item>
+        <item quantity="one">%1$d снимка</item>
+    </plurals>
+    <plurals name="base_timer_shaft_only_have_video">
+        <item quantity="other">%1$d видеоклипа</item>
+        <item quantity="one">%1$d видеоклип</item>
+    </plurals>
+    <plurals name="base_title_has_select">
+        <item quantity="other">%1$d избрани елемента</item>
+        <item quantity="one">%1$d избран елемент</item>
+    </plurals>
+    <plurals name="base_title_has_select_album">
+        <item quantity="other">Избрани са %1$d албума</item>
+        <item quantity="one">Избран е %1$d албум</item>
+    </plurals>
+    <plurals name="base_title_has_select_face_album">
+        <item quantity="other">Избрани са %1$d души</item>
+        <item quantity="one">Избрани са %1$d души</item>
+    </plurals>
+    <plurals name="base_title_has_select_image">
+        <item quantity="other">%1$d избрани</item>
+        <item quantity="one">%1$d избран</item>
+    </plurals>
+    <plurals name="base_title_has_select_memories_album">
+        <item quantity="other">%1$d избрани спомена</item>
+        <item quantity="one">%1$d избран спомен</item>
+    </plurals>
+    <plurals name="base_title_has_select_video">
+        <item quantity="other">Избрани са %1$d видеоклипа</item>
+        <item quantity="one">Избран е %1$d видеоклип</item>
+    </plurals>
+    <plurals name="cloudsync_sync_select_album_video_state">
+        <item quantity="other">%1$d видеоклипа</item>
+        <item quantity="one">%1$d видеоклип</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са изтеглени.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са изтеглени. Моля, заредете телефона си.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е изтеглен. Моля, заредете телефона си.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са изтеглени. Моля, заредете устройството.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е изтеглен. Моля, заредете устройството.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_low_power_v2">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са изтеглени.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power">
+        <item quantity="other">Включен икономичен режим. %1$d елемента не са изтеглени.</item>
+        <item quantity="one">Включен икономичен режим. %1$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_full_mix_save_power_v2">
+        <item quantity="other">Включен икономичен режим. %1$d елемента не са изтеглени.</item>
+        <item quantity="one">Включен икономичен режим. %1$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са изтеглени. %2$s.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е изтеглен. %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_gprs">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са изтеглени. %2$s или %3$s.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е изтеглен. %2$s или %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v2">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са изтеглени.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_hint_mix_go_wifi_v3">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са изтеглени.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full">
+        <item quantity="other">Недостатъчно място за съхранение в облака. %1$d елемент не е изтеглен.</item>
+        <item quantity="one">Недостатъчно място за съхранение в облака. %1$d елемента не са изтеглени.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_local_space_is_full_v2">
+        <item quantity="other">Недостатъчна памет на устройството. %1$d елемента не са изтеглени.</item>
+        <item quantity="one">Недостатъчна памет на устройството. %1$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception">
+        <item quantity="other">Грешка в мрежата. %1$d елемента не са изтеглени.</item>
+        <item quantity="one">Грешка в мрежата. %1$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_network_exception_v2">
+        <item quantity="other">Грешка в мрежата. %1$d елемента не са изтеглени.</item>
+        <item quantity="one">Грешка в мрежата. %1$d елемент не е изтеглен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_download_original_local_space_is_full">
+        <item quantity="other">Недостатъчно място за съхранение в облака. „%1$d оригинални снимки не са изтеглени.</item>
+        <item quantity="one">Недостатъчно място за съхранение в облака. „%1$d оригинална снимка не е изтеглена.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image">
+        <item quantity="other">%1$d снимки не са синхронизирани. Паметта в облака е пълна.</item>
+        <item quantity="one">%1$d снимка не е синхронизирана. Мястото за съхранение в облака е пълно.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_low_power">
+        <item quantity="other">%1$d снимки не са синхронизирани. Синхронизирането в облака е поставено на пауза, когато батерията е по-малко от %2$s.</item>
+        <item quantity="one">%1$d снимка не е синхронизирана. Синхронизирането в облака е поставено на пауза, когато батерията е по-малко от %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_image_save_power">
+        <item quantity="other">%1$d снимки не са синхронизирани. Синхронизирането в облака е поставено на пауза в режим на енергоспестяване.</item>
+        <item quantity="one">%1$d снимка не е синхронизирана. Синхронизирането в облака е поставено на пауза в режим на енергоспестяване.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix">
+        <item quantity="other">Паметта в облака е пълна. %1$d елемента не са качени.</item>
+        <item quantity="one">Паметта в облака е пълна. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са качени.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са качени. Моля, заредете телефона си.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е качен. Моля, заредете телефона си.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_no_connect_v2">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са качени. Моля, заредете устройството.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е качен. Моля, заредете устройството.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_low_power_v2">
+        <item quantity="other">Зарядът на батерията е по-малко от %1$s. %2$d елемента не са качени.</item>
+        <item quantity="one">Зарядът на батерията е по-малко от %1$s. %2$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power">
+        <item quantity="other">Включен икономичен режим. %1$d елемента не са качени.</item>
+        <item quantity="one">Включен икономичен режим. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_save_power_v2">
+        <item quantity="other">Включен икономичен режим. %1$d елемент не е качен.</item>
+        <item quantity="one">Включен икономичен режим. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_mix_v2">
+        <item quantity="other">Паметта в облака е пълна. %1$d елемента не са качени.</item>
+        <item quantity="one">Паметта в облака е пълна. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video">
+        <item quantity="other">%1$d видеоклипове не са синхронизирани. Паметта в облака е пълна.</item>
+        <item quantity="one">%1$d видеоклип не е синхронизиран. Паметта в облака е пълна.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_low_power">
+        <item quantity="other">%1$d видеоклипа не са синхронизирани. Синхронизирането в облака е поставено на пауза, когато батерията е по-малко от %2$s.</item>
+        <item quantity="one">%1$d видеоклип не е синхронизиран. Синхронизирането в облака е поставено на пауза, когато батерията е по-малко от %2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_full_video_save_power">
+        <item quantity="other">%1$d видеоклипа не са синхронизирани. Синхронизирането в облака е поставено на пауза в режим на енергоспестяване.</item>
+        <item quantity="one">%1$d видеоклип не е синхронизиран. Синхронизирането в облака е поставено на пауза в режим на енергоспестяване.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_image_go_wifi">
+        <item quantity="other">%1$d снимка не е синхронизирана.</item>
+        <item quantity="one">%1$d снимки не са синхронизирани.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са качени. %2$s.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е качен.%2$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_gprs">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са качени. %2$s или %3$s.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е качен. %2$s или %3$s.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v2">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са качени.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_mix_go_wifi_v3">
+        <item quantity="other">Няма връзка с мрежата. %1$d елемента не са качени.</item>
+        <item quantity="one">Няма връзка с мрежата. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_hint_video_go_wifi">
+        <item quantity="other">%1$d видеоклипа не са синхронизирани</item>
+        <item quantity="one">%1$d видеоклип не е синхронизиран</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception">
+        <item quantity="other">Грешка в мрежата. %1$d елемента не са качени.</item>
+        <item quantity="one">Грешка в мрежата. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_network_exception_v2">
+        <item quantity="other">Грешка в мрежата. %1$d елемента не са качени.</item>
+        <item quantity="one">Грешка в мрежата. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number">
+        <item quantity="other">Грешка в услугата. %1$d елемента не са качени.</item>
+        <item quantity="one">Грешка в услугата. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="cloudsync_sync_state_upload_service_exception_with_number_v2">
+        <item quantity="other">Грешка в услугата. %1$d елемента не са качени.</item>
+        <item quantity="one">Грешка в услугата. %1$d елемент не е качен.</item>
+    </plurals>
+    <plurals name="common_encrypt_failed_hint_mix">
+        <item quantity="other">Неуспешно добавяне %d на елементи</item>
+        <item quantity="one">Неуспешно добавяне %d на елемент</item>
+    </plurals>
+    <plurals name="common_encrypt_image_filter_failed_tip">
+        <item quantity="other">%d снимки не могат да бъдат зададени като лични, защото се зареждат.</item>
+        <item quantity="one">%d снимка не може да бъде зададена като лична, защото се зарежда.</item>
+    </plurals>
+    <plurals name="common_hour_count">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="common_item_count">
+        <item quantity="other">%d елемента</item>
+        <item quantity="one">%d елемент</item>
+    </plurals>
+    <plurals name="common_minute_count">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">%d минута</item>
+    </plurals>
+    <plurals name="common_second_count">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">%d секунда</item>
+    </plurals>
+    <plurals name="main_recycle_day_plurals">
+        <item quantity="other">%1$d дни</item>
+        <item quantity="one">%1$d ден</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_image">
+        <item quantity="other">%1$d снимки</item>
+        <item quantity="one">%1$d снимка</item>
+    </plurals>
+    <plurals name="main_timer_shaft_only_have_video">
+        <item quantity="other">%1$d видеоклипа</item>
+        <item quantity="one">%1$d видеоклип</item>
+    </plurals>
+    <plurals name="memories_image_filter_failed_tip">
+        <item quantity="other">%d снимки се зареждат</item>
+        <item quantity="one">%d снимка се зарежда</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_millimeter">
+        <item quantity="other">Трябва да надвишава %1$d мм</item>
+        <item quantity="one">Трябва да надвишава %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_larger_than_pixel">
+        <item quantity="other">Трябва да надвишава %1$d px</item>
+        <item quantity="one">Трябва да надвишава %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_millimeter">
+        <item quantity="other">Трябва да не надвишава %1$d мм</item>
+        <item quantity="one">Трябва да не надвишава %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_height_smaller_than_pixel">
+        <item quantity="other">Трябва да не надвишава %1$d px</item>
+        <item quantity="one">Трябва да не надвишава %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_larger_than_kb">
+        <item quantity="other">Трябва да надвишава %1$d KB</item>
+        <item quantity="one">Трябва да надвишава %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_size_smaller_than_kb">
+        <item quantity="other">Трябва да не надвишава %1$d KB</item>
+        <item quantity="one">Трябва да не надвишава %1$d KB</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_millimeter">
+        <item quantity="other">Трябва да надвишава %1$d мм</item>
+        <item quantity="one">Трябва да надвишава %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_larger_than_pixel">
+        <item quantity="other">Трябва да надвишава %1$d px</item>
+        <item quantity="one">Трябва да надвишава %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_millimeter">
+        <item quantity="other">Трябва да не надвишава %1$d мм</item>
+        <item quantity="one">Трябва да не надвишава %1$d мм</item>
+    </plurals>
+    <plurals name="picture3d_aiidphoto_hint_width_smaller_than_pixel">
+        <item quantity="other">Трябва да не надвишава %1$d px</item>
+        <item quantity="one">Трябва да не надвишава %1$d px</item>
+    </plurals>
+    <plurals name="picture3d_cshot_select_confirm">
+        <item quantity="other">Запазване само на %d избраните снимки</item>
+        <item quantity="one">Запазване само на %d избраната снимка</item>
+    </plurals>
+    <plurals name="picture3d_delete_selection_item_or_items">
+        <item quantity="other">Изтриване на %d елементи</item>
+        <item quantity="one">Изтриване на %d елемент</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select">
+        <item quantity="other">%1$d избран</item>
+        <item quantity="one">Избрани са %1$d елемента</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_album">
+        <item quantity="other">Избрани са %1$d албума</item>
+        <item quantity="one">Избран е %1$d албум</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_image">
+        <item quantity="other">%1$d избран</item>
+        <item quantity="one">%1$d избран</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_sticker">
+        <item quantity="other">%1$d избрани стикера</item>
+        <item quantity="one">Избран е %1$d стикер</item>
+    </plurals>
+    <plurals name="picture3d_title_has_select_video">
+        <item quantity="other">Избрани са %1$d видеоклипа</item>
+        <item quantity="one">Избран е %1$d видеоклип</item>
+    </plurals>
+    <plurals name="recyclebin_recycle_image_filter_failed_tip">
+        <item quantity="other">%d снимки не могат да се изтрият, защото се зареждат.</item>
+        <item quantity="one">%d снимка не може да се изтрие, защото се зарежда.</item>
+    </plurals>
+    <plurals name="recyclebin_toast_recycle_failed">
+        <item quantity="other">Неуспешно изтриване на %1$d елемента. Моля, опитайте отново</item>
+        <item quantity="one">Неуспешно изтриване на %1$d елемент. Моля, опитайте отново</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="other">%d нови известия</item>
+        <item quantity="one">%d ново известие</item>
+    </plurals>
+    <plurals name="search_result_image_count">
+        <item quantity="other">%1$d снимки</item>
+        <item quantity="one">%1$d снимка</item>
+    </plurals>
+</resources>

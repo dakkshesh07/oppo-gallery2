@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/picture3d_bottom_full_menu_bar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="@dimen/picture3d_ai_repair_support_height" android:layout_marginBottom="@dimen/picture3d_ai_repair_logo_margin_bottom" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/ai_repair_support_logo" android:layout_width="@dimen/picture3d_ai_repair_support_icon_size" android:layout_height="@dimen/picture3d_ai_repair_support_icon_size" android:src="@drawable/picture3d_ai_repair_cloud_service" android:layout_centerVertical="true" />
+        <com.oplus.gallery.business_lib.ui.view.SuitableSizeTextView android:textSize="@dimen/picture3d_preview_menu_item_text_size" android:textColor="@color/picture3d_photo_editor_ai_repair_page_tips_color" android:id="@id/ai_repair_page_tips" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/picture3d_photo_editor_repair_page_tips" android:fontFamily="sans-serif-regular" android:layout_marginStart="@dimen/picture3d_ai_repair_support_text_left_margin" android:layout_alignStart="@id/ai_repair_support_logo" />
+    </RelativeLayout>
+</RelativeLayout>
